@@ -1,0 +1,1 @@
+Store files that need to be used for all emails that get repeated on a regular basis. That way we aren't duplicating them 

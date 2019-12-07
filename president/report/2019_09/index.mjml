@@ -1,0 +1,308 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/29450503647_a1d4a3b59c_z.jpg" alt="" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          September<br>2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#F2F4EF" padding-bottom="0">
+      <mj-column width="30%">
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/evnt082419_0221.jpg" alt="President Jackson" css-class="headshot" border-radius="100px" />
+
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          <strong>It's great to have</strong> the Fall 2019 semester underway. During my first two months, I've gotten to meet a wide range of faculty and staff, students, alumni, and community members. Thank you for the warm welcome!
+        </mj-text>
+        <mj-text>
+          This is my first President's Report, and my goal is to send one monthly.
+        </mj-text>
+        <mj-text>
+          You'll keep hearing me say this: I'm motivated by student success. I want our students to have a positive, meaningful educational experience. That means mentoring, coaching, and connecting with students. It also means supporting them with the various resources we have on campus, and in the community, so they can enjoy success at Humboldt. Let's celebrate our students' accomplishments as well as those of the whole campus.<br><br>
+          <em>&mdash; President Jackson</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/48724073846_9f130f982d_z.jpg" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            President Joins K-12 Teachers to Explore Sustainable Forestry Practices at Scotia Mill </h2>
+          Reinforcing Humboldt State's commitment to the community and environmental sustainability, President Jackson joined K-12 teachers from across the state to tour a lumber mill in Scotia in July.
+
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-president-k-12-teachers-explore-sustainable-forestry-practices-at-scoti/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read more about the<br> Scotia Mill tour
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            HSU a Top College According to Forbes and U.S. News & World Report
+          </h2>
+          Humboldt State University is among the nation's top colleges, according to Forbes' 12th annual America's Top Colleges list. And U.S. News & World Report named HSU the 14th top public school in the west.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/forbes-names-hsu-a-top-college/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read about the Forbes ranking
+        </mj-button>
+        <mj-button href="http://now.humboldt.edu/news/us-news-world-report-names-hsu-a-top-western-public-university/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read about the<br> U.S. News & World Report ranking
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/2019-0821-AnnexWest_LARGE.jpg" alt="New Children's Center Rendering" />
+        <mj-text color=#fff>
+          <h2>
+            $8.6 Million Grant to Convert Trinity Annex to Children's Center
+          </h2>
+
+          Humboldt has a new and exciting plan to convert the Trinity Annex into a children's center. It will include space for childcare and instruction, and the exterior will include play yards as well as better pedestrian and traffic circulation.
+
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-receives-86-million-to-invest-in-childrens-center-child-development-lab/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read the Children's Center story
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/StudentsinOaxaca.jpg" alt="Students in Oaxaca" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            Students in Oaxaca
+          </h2>
+          Humboldt students from a variety of majors spent this summer in Oaxaca, Mexico, for a service-learning and Spanish immersion program. They also got to know local families and school children.
+        </mj-text>
+        <mj-button href="https://www.flickr.com/photos/hsuevents/sets/72157709881915642/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          See more photos from the trip
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Go Jacks!
+          </h2>
+          Humboldt's student-athletes had an impressive showing last year, and not just on the field. Their academics and commitment to serving the community are impressive.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/gpastats.jpg" alt="Athletes GPA Graphic" href="https://humboldt.edu/mailings/president/report/2019_09/gpastats-lg.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Thank You, Coach Meiggs!
+          </h2>
+          After 25 seasons as head coach of the Humboldt State women's rowing team, Robin Meiggs is retiring. Coach Meiggs has enjoyed a remarkable career at Humboldt State, and is recognized as one of the University's most successful coaches. She helped grow the Rowing program from a club sport into a Division II powerhouse. The team has won two national championships and its student-athletes have excelled academically.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/humboldt-crew-coach-robin-meiggs-to-retire/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read more about Coach Meiggs
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Immigration Services
+          </h2>
+          With the help of the CSU system, Humboldt is able to offer immigration legal services for students and employees. This will help students have the opportunity to pursue their higher education goals regardless of their country of origin.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/humboldt-state-to-roll-out-immigration-legal-services-for-students-and-empl/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read more about legal services
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Give to the Student Adversity Fund and Double Your Impact
+          </h2>
+          Many students face unexpected challenges that may derail their education. The Student Adversity Fund assists current Humboldt students who have an emergency need that could force them to drop out of school. This year all gifts to the Student Adversity Fund will be doubled up to $50,000 in donations.
+
+        </mj-text>
+        <mj-button href="https://loyalty.humboldt.edu/content/opportunities/student-adversity-fund/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Learn More about the Student Adversity Fund
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/48708539131_3df8a6af2d_k.jpg" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            HSU Downtown 2019
+          </h2>
+          The campus and community came together recently for a party on the Plaza! The Plaza was bustling with live music, lawn games, a 200-foot zip line, climbing wall, free tacos for students.
+
+        </mj-text>
+        <mj-button href="https://www.flickr.com/photos/hsuevents/albums/72157710776139896/with/48708189473/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Photos of HSU Downtown event
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            New Students Engage with Humbot
+          </h2>
+          HSU's new text-based chatbot, called HumBot, introduced itself via text message to first-time freshmen and new transfer students the first week of classes. The free service, available to answer questions at any time, is another resource to help students navigate HSU life and feel more connected to the University and, in turn, increase retention.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/new-students-stay-engaged-with-humbot/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Read more about Humbot
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Article -->
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Fall Welcome</h2>
+          The annual Fall Welcome highlighted some priorities and opportunities for the University. This included taking every opportunity to tell the HSU story and get our name out in the world, building an international presence, recognizing student athletes and faculty at their best, committing to a relationship with the community, and understanding the importance of history and new ways of learning.
+        </mj-text>
+        <mj-button href="https://youtu.be/5OFbxjjyt4U/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          Watch the full address
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-text>
+          <h2>
+            Humboldt Hosting Football Games for Local Teams</h2>
+          Humboldt State is hosting home football games for three local teams.
+          Arcata High School&mdash;which doesn't have a field&mdash;and McKinleyville High School and College of the Redwoods, whose fields are undergoing renovations, will be playing at Redwood Bowl this season.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/humboldt-hosting-football-games-for-local-teams/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">
+          View full game schedule
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF" padding="1px" border-top="solid 5px #5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/Girls-Basketball-Camp.jpg" alt="Girls Basketball Camp" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>
+            Chatting with players at basketball camp
+          </em>
+
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/Coffee-and-Conversation.jpg" alt="Coffee and conversation" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>A campus Coffee &amp; Conversation event</em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/48708524576_43a210667d_z.jpg" alt="HSU-Downtown-Block-Party" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Teacup ride at the HSU Downtown Block Party!</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF" padding="1px">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/hous081719_0168.jpg" alt="Move-in Day at the residence halls" padding="2px" fluid-on-mobile=true />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Move-in Day at the residence halls</em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/IMG_20190805_113104.jpg" alt="Partnering with College of the Redwoods. Thank you President Flamer!" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Partnering with College of the Redwoods. Thank you President Flamer!</em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_09/evnt082419_0054.jpg" alt="HSU Day at Humboldt County Fair" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>HSU Day at Humboldt County Fair</em>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+        <!-- </mj-column>
+      <mj-column> -->
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

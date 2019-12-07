@@ -1,0 +1,338 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 { line-height: 28px; } a { color: #fff; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/43622190441_b004626d56_c.jpg" alt="" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          November<br>2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#F2F4EF" padding-bottom="0">
+
+      <mj-column width="30%">
+<mj-image src="https://humboldt.edu/mailings/president/report/2019_11/pres052219_0072.jpg" alt="President Jackson" border-radius="100px"/>
+      </mj-column>
+			<mj-column width="70%">
+				<mj-text>
+					<strong>I learned quite a</strong> bit about the resiliency and readiness of the Humboldt community over the last month.
+				</mj-text>
+				<mj-text>It started on October 8 when we received short notice that, due to dangerous weather conditions in other areas of the state, PG&E would be shutting power off to all of Humboldt County. We lost power along with thousands of customers throughout California. Then it happened again, fortunately with more notice, a couple weeks later.</mj-text>
+				<mj-text>These unprecedented shutoffs tested the preparedness (and patience) of our students, faculty, and staff.</mj-text>
+				<mj-text>I couldn't be prouder of how we came together as a University community and made sure everyone was taken care of. Staff rallied to open the campus Emergency Operations Center to coordinate the response. The J, powered by generators, became the central gathering point with activities, movies, and charging stations. There were free meals for all students, faculty, staff, and their families. Students were able to get support including extra blankets, short term accomodations, and counseling. Messaging to the campus community, as well as families, continued throughout the shutdowns.</mj-text>
+				<mj-text>Ultimately, all the hard work ensured that students were offered a safe space, fed, and stayed warm. We heard from many families about how grateful they were, including this from a mother in Orange County:</mj-text>
+				<mj-text><em>"When [my student] decided to go to Humboldt and we went to the orientations, your representatives spoke often of community and how you are a family at HSU. I thought it was just a selling point--a college that would care that much. I really didn't buy it. Boy, was I wrong! These last weeks, you have protected our children and shown them (and me) you truly are a community that deeply cares. We are blessed to have you and your amazing staff. Thank you so much for reaching out and being there when we couldn't be there. It means the world."</em></mj-text>
+								<mj-text>These stories of the Humboldt spirit are no surprise to me, but they reinforce my pride in the University and our communities.</mj-text>
+			</mj-column>
+			</mj-section>
+			<mj-section  background-color="#F2F4EF" padding-top="0">
+				<mj-column width="30%">
+				</mj-column>
+			<mj-column width="70%">
+				<mj-text>
+          Meanwhile, Humboldt also had an impact off campus during the shutdown. The work of HSU's Schatz Energy Research Center in helping to establish Blue Lake Rancheria's solar+storage microgrid saved lives. People in need of electricity for their medical devices were able to stay connected at the Rancheria's hotel until the power was restored. <a href="http://now.humboldt.edu/news/blue-lake-rancheria-microgrid-provides-critical-services-during-outage/" style="color:#25551B;text-decoration:underline">Read more about the microgrid's impact during the outage</a>.
+        </mj-text>
+
+        <mj-text>
+          <em>&mdash; President Jackson</em>
+        </mj-text>
+				</mj-column>
+			</mj-section>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/2019-1101-Shutdown2_LARGE.jpg" />
+      </mj-column>
+
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Power Shutdown at HSU: Hard Work and Community Spirit</h2>
+          Efforts large and small saw Humboldt through the PG&E power shutdowns. The latest shutdown caused plenty of angst as classes were canceled for three days and regular work was put on hold.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/power-shutdown-at-hsu-hard-work-and-community-spirit/">
+          Read more about the response to the shutdown
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Encouraging Local Students
+          </h2>
+          The new Humboldt First Scholarship, will provide all new freshmen who graduate from a local high school an annual scholarship of $1,000 at Humboldt State University.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-creates-4000-scholarship-for-all-local-freshmen/">
+          Learn more about <br> the Humboldt First Scholarship
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+
+        <mj-text color=#fff>
+          <h2>
+            Three New Rankings
+          </h2>
+
+          Humboldt recently received new rankings by Washington Monthly, Sierra Club, and Princeton Review. The Washington Monthly named HSU #59 in rankings that highlight social mobility, research, and promoting public service. The Sierra Club named Humboldt a
+          top "cool school" for sustainability efforts, while Princeton Review named Humboldt to its list of "best in the west" colleges.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-a-top-masters-degree-granting-institution/">
+          More about recent rankings
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-text>
+          <h2>
+            The Path to Higher Enrollment
+          </h2>
+          Focusing on opportunities for local high school students to attend HSU is just one way the University is looking to boost enrollment. Humboldt is boosting recruiter training, improving the experience for visitors and making it more affordable, and utilizing
+          data and technology in new ways.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/the-path-to-higher-enrollment/">
+          Read more about <br>enrollment efforts
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Phillips Scholarship for Fortuna
+          </h2>
+          Dan and Cindy Phillips have made a gift of $250,000 to support Fortuna High School graduates who attend HSU. The Phillips Fortuna Scholarship is for Fortuna High School graduates who enroll at HSU either as transfer students from College of the Redwoods
+          or as first-time freshmen. The funds will support students enrolling over the next two years beginning in Fall 2020.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/donors-create-4000-hsu-scholarship-for-fortuna-high-school-grads/">
+          Read more about the Phillips Fortuna Scholarship
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/danphillips.jpg" alt="Dan Phillips with Fortna students" />
+        <mj-text color="#fff">
+          Graduates who enroll as freshmen at HSU will receive $1,000 per year, up to four years. Those who attend College of the Redwoods and transfer to HSU will receive $2,000 per year, up to two years.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Humboldt State's $567 Million Impact
+          </h2>
+          Humboldt State University has an annual economic impact of more than $567 million and supports 6,240 jobs in Humboldt County, according to a new economic impact report. Including alumni impact, every dollar invested in HSU by the state generates a remarkable
+          $6.86 in economic activity.
+
+        </mj-text>
+        <mj-button href="https://impact.humboldt.edu/">
+          Read the full economic impact report
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            New College of Redwoods Degrees <br>Prep Students for HSU
+
+          </h2>
+          Three new degree pathways will prepare College of the Redwoods students in Social Justice, Environmental Science, and Social Work and Human Services to attend Humboldt State University and other four-year schools.
+        </mj-text>
+        <mj-text color="#fff">
+          "These three new degrees help College of the Redwoods expand our curriculum into high-demand fields, support our local community and allow us to maintain the quality of our other academic programs," says Keith Flamer, CR President. "These new degrees
+          also represent our commitment to improve the institutional alignment between College of the Redwoods and Humboldt State University."
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/nursing.jpg" alt="Nursing photo" />
+        <mj-text>
+          <h2>
+            Humboldt Area Foundation Supports <br>Nursing Program
+          </h2>
+          Humboldt State University's RN-to-BSN Nursing program recently received a $300,000 grant from the Orvamae Emmerson Endowment Fund of the Humboldt Area Foundation.The program allows nurses graduating from CR and those working with associate's degrees to
+          continue their education without having to leave the community. With a Bachelor of Science in Nursing, nurses can meet new hiring requirements. They can also prepare for leadership or advanced clinical training such as nurse practitioner roles.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/humboldt-area-foundation-invests-300000-in-north-coast-nursing-program/">
+          Learn more about Humboldt Area Foundation's gift
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Celebrating Indigenous Peoples Week
+          </h2>
+          Indigenous Peoples Week was celebrated on campus the week of Oct. 13-19. Events included films, art, panel discussions, potluck, dance, games, and more - as well as the unveiling of the new Native Forum Lobby.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/nativeforum.jpg" alt="Native Forum Artwork" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            New Learning Communities
+          </h2>
+          Humboldt State freshmen were welcomed into two new learning communities this year - Among Giants and Creando Raíces (Creating Roots).
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/new-learning-communities-explore-culture-identity-and-north-coast-biology/">
+          Read more about the learning communities
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Article -->
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>2019 Trustees' Award Winner </h2>
+          Lauren Werner lived a "life marked by change" until she transferred to Humboldt State University and found a sense of belonging and new personal and academic achievements.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/2019-trustees-award-winner-finds-a-sense-of-belonging-in-college/">
+          Read more about Lauren Werner
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/werner.jpg" alt="Lauren Werner" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-text>
+          <h2>
+            HSU is the Outdoors Champion of the West</h2>
+          The Humboldt State community proved its outdoorsiness by winning first place in the Western Region of the 2019 AORE Campus Challenge.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-the-outdoors-champion-of-the-west/">
+          Read about the award
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Record-breaking Year for Grants</h2>
+          Humboldt faculty, staff, and student researchers were awarded a record-breaking $36 million in new grant funding during the last fiscal year. That's an increase of $13 million from the previous year.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/record-breaking-year-for-grants-at-hsu/">
+          Read more about the outstanding grant year
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-text>
+          <h2>
+            It's Time to Apply to Humboldt State!</h2>
+          Do you know any students who are a good fit for Humboldt State University? The priority application period is now open for students who want to attend Humboldt State University in Fall 2020.<br><br>
+
+          <a href="https://www2.humboldt.edu/explorehsu/" style="color:#25551B;">
+            Find out more about why students should consider HSU &raquo;
+          </a><br>
+          <a href="https://admissions.humboldt.edu" style="color:#25551B;">
+            For more information, visit the HSU Admissions website &raquo;
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF" padding="1px" border-top="solid 5px #5C8021">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/jay.jpg" alt="A dinner to mark the end of the first power shutdown" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>
+            A dinner to mark the end of the first power shutdown
+          </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/ollie.jpg" alt="A few members of HSU's Osher Lifelong Learning Institute.
+" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>A few members of HSU's Osher Lifelong Learning Institute
+          </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/ibac.jpg" alt="Local students on campus for an I Belong At College event" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Local students on campus for an "I Belong At College" event</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF" padding="1px">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/potluck.jpg" alt="Local students on campus for an I Belong At College event" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Students and community members at a "Home away from home" potluck.
+          </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/beachcleanup.jpg" alt="At the Forever Humboldt beach clean up!" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>At the Forever Humboldt beach clean up</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+        <!-- </mj-column>
+      <mj-column> -->
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

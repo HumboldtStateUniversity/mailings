@@ -1,0 +1,61 @@
+<?php
+
+if ($_GET['n']) {
+	$firstname = $_GET['n'];
+}
+else {
+	$firstname = 'Reader';
+}
+?>
+
+<html>
+
+<body>
+
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#e1e1e1" style="padding: 30px 0px 30px 0px; font-family: helvetica, arial, san-serif;">
+
+	<tr><td>
+		<table width="550px" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: 1px solid #546a38;" align="center">
+		
+			
+			<tr>
+				<td colspan="2"><a href="http://www.humboldt.edu" border="0"><img src="http://www.humboldt.edu/~humboldt/mailings/magazinesurvey/hsumark.gif" border="0" alt="Humboldt State University" /></a></td>
+			</tr>
+			<tr>
+				<td width="500px" style="padding: 20px 10px 0px 10px; font-size: 80%; color: #252525; line-height: 1.6em;">
+					<p style="padding: 4px 0px;">Dear <?php echo $firstname; ?>,</p>
+
+					<p style="padding: 4px 0px;"> If you have already responded, thank you for being part of future improvements to <em>Humboldt</em> magazine&#8212;the magazine for alumni and friends of HSU. If not, Humboldt State University would like your opinion. We've prepared a web-based survey that is easy to use and takes less than 10 minutes to complete. <a href="http://magazine.humboldt.edu/readersurvey/" style="color: #546a38;">Begin the survey now</a>.</p>
+
+					<p style="padding: 4px 0px;"> The survey is hosted by Qualtrics.com, a leading research firm, in cooperation with the Council for the Advancement and Support of Education (CASE), of which HSU is a member. The results will be reported to HSU in aggregate form only, and you will not be identified.</p>
+
+					<p style="padding: 4px 0px;">If you have questions about this survey, feel free to contact me.</p>
+
+					<p style="padding: 4px 0px;">Thank you in advance for helping make <em>Humboldt</em> magazine even better. Begin the survey now by following the link below. You may need to copy and paste the link into your browser: <a href="http://magazine.humboldt.edu/readersurvey/" style="color: #546a38;">http://magazine.humboldt.edu/readersurvey</a></p>
+
+					<p style="padding: 4px 0px;">Best regards,</p>
+
+					<p style="padding: 4px 0px;">Allison Monro<br>
+					Editor, Humboldt magazine<br>
+					Humboldt State University<br>
+					1 Harpst St. Arcata, CA 95521<br>
+					707.826.5112</p>
+			
+					
+					
+				
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td colspan="2" height="50px">&nbsp;</td>
+			</tr>
+	
+		</table>
+	</td></tr>
+
+</table>
+
+</body>
+
+</html>
