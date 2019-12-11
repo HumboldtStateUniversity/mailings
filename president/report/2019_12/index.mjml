@@ -14,6 +14,10 @@
         color: #fff;
       }
 
+      a.dark {
+        color: #5C8021;
+      }
+
       @media only screen and (max-width: 420px) {
         .caption div {
           text-align: center !important;
@@ -56,7 +60,8 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          Building community connections is crucial to the success of Humboldt State University. We are focused on this, and in the last several months we have done much to strengthen our ties with College of the Redwoods and its President, Keith Flamer. </mj-text>
+          Building community connections is crucial to the success of Humboldt State University. We are focused on this, and in the last several months we have done much to strengthen our ties with College of the Redwoods and its President, Keith Flamer.
+        </mj-text>
         <mj-text>
           There has always been a close relationship between CR and HSU, but until recently there was no formal agreement between the two. I was honored to sign a memorandum of understanding with President Flamer that will lead to collaboration on joint academic programs, admissions, intercollegiate athletics, university housing, campus safety, and more.
         </mj-text>
@@ -67,10 +72,10 @@
           It's all part of our commitment to prepare local high school students for college success. They, in turn, will improve our region's economy, culture, and quality of life.
         </mj-text>
         <mj-text>
-          In addition to CR, we are partnering with local tribes to ensure their young people have access to a four-year education and the resources to help them succeed.
+          In addition to CR, we are partnering with local tribes to ensure their young people have access to a four-year education and the resources to help them succeed. In November, we hosted representatives from many tribal nations on campus for a very meaningful day of discussions.
         </mj-text>
         <mj-text>
-          In December, more than 400 high school students representing 30 tribal affiliations visited campus to learn about education opportunities and the HSU experience. I’m eager to welcome many of them next year as new students at Humboldt State University.
+          And in December, more than 400 high school students representing 30 tribal affiliations visited campus to learn about education opportunities and the HSU experience. I'm eager to welcome many of them next year as new students at Humboldt State University.
         </mj-text>
         <mj-text>
           — President Jackson
@@ -106,8 +111,20 @@
     </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
-
+        <mj-image src="evnt111419_0234.jpg" alt="Tribal Nations Gathering" />
         <mj-text color=#fff>
+          <h2>
+            Campus Hosts Tribal Nations Reps
+          </h2>
+          In mid-November, Humboldt State hosted representatives from many tribal nations for a day of discussions and strengthening relationships. The representatives shared updates as well as information about ways they were engaging with HSU. It was all organized by the Council of American Indian Faculty &amp; Staff.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+
+        <mj-text>
           <h2>
             HSU Foundation Expands Social- and Eco-Conscious Investments
           </h2>
@@ -118,12 +135,12 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
         <mj-image src="presidents-signing.jpg" alt="President Jacks &amp; President Flamer" />
       </mj-column>
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             HSU and CR Presidents Sign Agreement to Strengthen Partnership
           </h2>
@@ -135,18 +152,18 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
         <mj-image src="meiggs.jpg" alt="Robin Meiggs with husband Scott Heller" />
-        <mj-text color="#fff">
+        <mj-text>
           <h2>
             Endowed Scholarship for Rowing Athletes
 
           </h2>
           Recently retired Humboldt Women's Rowing Coach Robin Meiggs and her husband Scott Heller recently gave $250,000 to create an endowed scholarship that will help support student-athletes for generations. It is the largest single gift ever to HSU Athletics.
         </mj-text>
-        <mj-text color="#fff">
-          Other alumni and supporters have joined in to give to the scholarship, and fundraising efforts continue for the <a href="https://alumni.humboldt.edu/robin-meiggs-rowing-scholarship-endowment">Robin A. Meiggs Scholarship</a>.
+        <mj-text>
+          Other alumni and supporters have joined in to give to the scholarship, and fundraising efforts continue for the <a href="https://alumni.humboldt.edu/robin-meiggs-rowing-scholarship-endowment" class="dark">Robin A. Meiggs Scholarship</a>.
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/endowed-scholarship-honors-rowing-coach-robin-meiggs/">
           Read more about the scholarship
@@ -154,9 +171,9 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             Recognition for Excellence in Fire Ecology
           </h2>
@@ -171,9 +188,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-text color="#fff">
+        <mj-text>
           <h2>
             Schools Partner with HSU Social Work on New Mental Health Grant
 
@@ -187,9 +204,9 @@
     </mj-section>
 
 
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             Debate Team Has Strong Start to Competitive Season
           </h2>
@@ -200,9 +217,9 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-text color="#fff">
+        <mj-text>
           <h2>
             Donors Gave $7 Million to Humboldt State University
           </h2>
@@ -216,12 +233,12 @@
         <mj-image src="evnt031619_0327_nursing.jpg" alt="St. Joseph Donation" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
         <mj-image src="first.jpg" alt="First Generation" />
       </mj-column>
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             Celebrating HSU's First-Generation Students
           </h2>
@@ -233,9 +250,9 @@
       </mj-column>
     </mj-section>
     <!-- Article -->
-    <mj-section background-color="#5C8021" padding-top="0">
+    <mj-section background-color="#F2F4EF" padding-top="0">
       <mj-column>
-        <mj-text color="#fff">
+        <mj-text>
           <h2>45th American Indian College Motivation Day Celebrates Heritage and Higher Ed </h2>
           More than 400 high school students from 30 different tribal affiliations visited HSU for the 45th annual event. It featured ​workshops, lectures, campus tours, and special presentations aimed at increasing the representation and success in higher education for Indigenous People.
         </mj-text>
@@ -247,11 +264,11 @@
         <mj-image src="49031310152_1017e3180f_c.jpg" alt="Attendees at American Indian College Motivation Day" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
 
       <mj-column>
         <mj-image src="30071829311_7b849e034e_c.jpg" alt="View from Cypress" />
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             HSU Creates $1,000 Scholarship for On-campus Living</h2>
           Starting in Fall 2020, students who attend Humboldt State University and live in on-campus housing will be awarded a $1,000 scholarship to help pay their housing costs.
