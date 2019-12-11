@@ -56,15 +56,15 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          Building community connections is crucial to the success of Humboldt State University.. We are focused on this,and in the last several months we have done much to strengthen our ties with College of the Redwoods and its President, Keith Flamer. </mj-text>
+          Building community connections is crucial to the success of Humboldt State University. We are focused on this, and in the last several months we have done much to strengthen our ties with College of the Redwoods and its President, Keith Flamer. </mj-text>
         <mj-text>
-          There has always been a close relationship between CR and HSU, but until recently there was no formal agreement between the two. I was honored to sign a memorandum of understanding with President Flamer that will lead us to collaborate on joint academic programs, admissions, intercollegiate athletics, university housing, campus safety, and more.
+          There has always been a close relationship between CR and HSU, but until recently there was no formal agreement between the two. I was honored to sign a memorandum of understanding with President Flamer that will lead to collaboration on joint academic programs, admissions, intercollegiate athletics, university housing, campus safety, and more.
         </mj-text>
         <mj-text>
           We are already making good headway, working closely to develop HSU's new RN-to-BSN nursing program, and creating a new agreement to share library resources. CR recently added three degree pathways that will prepare students in Social Justice, Environmental Science, and Social Work and Human Services to attend HSU and other four-year schools.
         </mj-text>
         <mj-text>
-          t's all part of our commitment to prepare local high school students for college success. They, in turn, will improve our region's economy, culture, and quality of life.
+          It's all part of our commitment to prepare local high school students for college success. They, in turn, will improve our region's economy, culture, and quality of life.
         </mj-text>
         <mj-text>
           In addition to CR, we are partnering with local tribes to ensure their young people have access to a four-year education and the resources to help them succeed.
@@ -120,7 +120,7 @@
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="cragreement.jpg" alt="President Jacks &amp; President Flamer" />
+        <mj-image src="presidents-signing.jpg" alt="President Jacks &amp; President Flamer" />
       </mj-column>
       <mj-column>
         <mj-text>
@@ -146,10 +146,7 @@
           Recently retired Humboldt Women's Rowing Coach Robin Meiggs and her husband Scott Heller recently gave $250,000 to create an endowed scholarship that will help support student-athletes for generations. It is the largest single gift ever to HSU Athletics.
         </mj-text>
         <mj-text color="#fff">
-          Other alumni and supporters have joined in to give to the scholarship, and fundraising efforts continue. <a href="https://alumni.humboldt.edu/robin-meiggs-rowing-scholarship-endowment">Donate to the Robin A. Meiggs Scholarship</a>.
-        </mj-text>
-        <mj-text color="#fff">
-          Graduates who enroll as freshmen at HSU will receive $1,000 per year, up to four years. Those who attend College of the Redwoods and transfer to HSU will receive $2,000 per year, up to two years.
+          Other alumni and supporters have joined in to give to the scholarship, and fundraising efforts continue for the <a href="https://alumni.humboldt.edu/robin-meiggs-rowing-scholarship-endowment">Robin A. Meiggs Scholarship</a>.
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/endowed-scholarship-honors-rowing-coach-robin-meiggs/">
           Read more about the scholarship
@@ -228,7 +225,7 @@
           <h2>
             Celebrating HSU's First-Generation Students
           </h2>
-          he University joined thousands of college campuses across the nation in the First-Generation College Celebration, an annual event designed to empower, connect, and foster excitement.
+          The University joined thousands of college campuses across the nation in the First-Generation College Celebration, an annual event designed to empower, connect, and foster excitement.
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/celebrating-hsus-first-generation-students/">
           Read more about the celebration
