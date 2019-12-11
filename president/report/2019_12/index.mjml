@@ -1,0 +1,316 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="land112007_077.jpg" alt="Trinidad" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          December<br>2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#F2F4EF" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          Building community connections is crucial to the success of Humboldt State University.. We are focused on this,and in the last several months we have done much to strengthen our ties with College of the Redwoods and its President, Keith Flamer. </mj-text>
+        <mj-text>
+          There has always been a close relationship between CR and HSU, but until recently there was no formal agreement between the two. I was honored to sign a memorandum of understanding with President Flamer that will lead us to collaborate on joint academic programs, admissions, intercollegiate athletics, university housing, campus safety, and more.
+        </mj-text>
+        <mj-text>
+          We are already making good headway, working closely to develop HSU's new RN-to-BSN nursing program, and creating a new agreement to share library resources. CR recently added three degree pathways that will prepare students in Social Justice, Environmental Science, and Social Work and Human Services to attend HSU and other four-year schools.
+        </mj-text>
+        <mj-text>
+          t's all part of our commitment to prepare local high school students for college success. They, in turn, will improve our region's economy, culture, and quality of life.
+        </mj-text>
+        <mj-text>
+          In addition to CR, we are partnering with local tribes to ensure their young people have access to a four-year education and the resources to help them succeed.
+        </mj-text>
+        <mj-text>
+          In December, more than 400 high school students representing 30 tribal affiliations visited campus to learn about education opportunities and the HSU experience. I’m eager to welcome many of them next year as new students at Humboldt State University.
+        </mj-text>
+        <mj-text>
+          — President Jackson
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Dean Named Interim Provost</h2>
+          College of Arts, Humanities & Social Sciences Dean Lisa Bond-Maupin was named Interim Provost and will take over the position on January 2.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/dean-lisa-bond-maupin-named-interim-provost/">
+          Read more about the appointment
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="bondmaupin.jpg" alt="Lisa Bond-Maupin" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            HSU Continues to Support DACA Community
+          </h2>
+          There is a great deal of uncertainty about the future of the Deferred Action for Childhood Arrivals program. HSU has reaffirmed its commitment to undocumented students and their families.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-continues-to-support-daca-community/">
+          Learn about DACA resources
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+
+        <mj-text color=#fff>
+          <h2>
+            HSU Foundation Expands Social- and Eco-Conscious Investments
+          </h2>
+          The Humboldt State University Foundation has increased its investments in socially and environmentally responsible mutual funds to 26 percent, which is well beyond the initial goal. And the commitment could soon expand even further.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-foundation-expands-social-and-eco-conscious-investments/">
+          Learn more about sustainable investing
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="cragreement.jpg" alt="President Jacks &amp; President Flamer" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            HSU and CR Presidents Sign Agreement to Strengthen Partnership
+          </h2>
+          The College of the Redwoods and Humboldt State University have formalized a longstanding partnership, with the overall goal of making the path to a four-year degree seamless for students who transfer. The new memorandum of understanding establishes a formal collaboration on joint academic programs, admissions, intercollegiate athletics, university housing, and campus safety, and a commitment to discuss additional partnership and collaboration opportunities.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-and-cr-presidents-sign-agreement-that-strengthens-partnership-advances-/">
+          Read more about the partnership
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="meiggs.jpg" alt="Robin Meiggs with husband Scott Heller" />
+        <mj-text color="#fff">
+          <h2>
+            Endowed Scholarship for Rowing Athletes
+
+          </h2>
+          Recently retired Humboldt Women's Rowing Coach Robin Meiggs and her husband Scott Heller recently gave $250,000 to create an endowed scholarship that will help support student-athletes for generations. It is the largest single gift ever to HSU Athletics.
+        </mj-text>
+        <mj-text color="#fff">
+          Other alumni and supporters have joined in to give to the scholarship, and fundraising efforts continue. <a href="https://alumni.humboldt.edu/robin-meiggs-rowing-scholarship-endowment">Donate to the Robin A. Meiggs Scholarship</a>.
+        </mj-text>
+        <mj-text color="#fff">
+          Graduates who enroll as freshmen at HSU will receive $1,000 per year, up to four years. Those who attend College of the Redwoods and transfer to HSU will receive $2,000 per year, up to two years.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/endowed-scholarship-honors-rowing-coach-robin-meiggs/">
+          Read more about the scholarship
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Recognition for Excellence in Fire Ecology
+          </h2>
+          Humboldt State University joins only eight other universities in the country in receiving the certification for contributing to the field of fire ecology.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/wildland-fire-management-program-earns-recognition-for-excellence-in-fire-e/">
+          Learn more about the recognition
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="firelab.jpg" alt="Firelab" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Schools Partner with HSU Social Work on New Mental Health Grant
+
+          </h2>
+          A pair of new grants from the U.S. Department of Education will bring nearly $5 million to Humboldt and Del Norte county schools to educate and place Social Work students as interns to support youth mental health.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/eureka-city-and-del-norte-county-schools-partner-with-hsu-social-work-on-ne/">
+          Read more about the program
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Debate Team Has Strong Start to Competitive Season
+          </h2>
+          The HSU debate team left their mark this fall by facing off with the most competitive debate teams in the country in a trio of key tournaments. The result was one of the best beginnings to a competitive season in recent memory.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/debate-team-kicks-off-competitive-season-with-a-persuasive-start/">
+          Read more about the debate team
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Donors Gave $7 Million to Humboldt State University
+          </h2>
+          Over the most recent year, thousands of donors gave $7 million in charitable support through the Humboldt State University Foundation and charitable grants to support students and programs.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/donors-gave-7-million-to-humboldt-state-university/">
+          Learn more about the year in giving
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="evnt031619_0327_nursing.jpg" alt="St. Joseph Donation" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="first.jpg" alt="First Generation" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            Celebrating HSU's First-Generation Students
+          </h2>
+          he University joined thousands of college campuses across the nation in the First-Generation College Celebration, an annual event designed to empower, connect, and foster excitement.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/celebrating-hsus-first-generation-students/">
+          Read more about the celebration
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Article -->
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>45th American Indian College Motivation Day Celebrates Heritage and Higher Ed </h2>
+          More than 400 high school students from 30 different tribal affiliations visited HSU for the 45th annual event. It featured ​workshops, lectures, campus tours, and special presentations aimed at increasing the representation and success in higher education for Indigenous People.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/45th-american-indian-college-motivation-day-celebrates-heritage-and-higher-/">
+          Read more about American Indian<br> College Motivation Day
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="49031310152_1017e3180f_c.jpg" alt="Attendees at American Indian College Motivation Day" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-image src="30071829311_7b849e034e_c.jpg" alt="View from Cypress" />
+        <mj-text>
+          <h2>
+            HSU Creates $1,000 Scholarship for On-campus Living</h2>
+          Starting in Fall 2020, students who attend Humboldt State University and live in on-campus housing will be awarded a $1,000 scholarship to help pay their housing costs.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-creates-1000-scholarship-for-on-campus-living/">
+          Read more about the housing scholarship
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF" padding="1px" border-top="solid 5px #5C8021">
+
+      <mj-column>
+        <mj-image src="49066261298_bb6b6e1ce1_k.jpg" alt="Tribal Welcome" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Tribal Welcome in the Kate Buchanan Room
+          </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="49173973682_490374f5d7_c.jpg" alt="Fall Preview for prospective students" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Fall Preview for prospective students
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF" padding="1px">
+      <mj-column>
+        <mj-image src="MilitaryRecognitionNightHSU.11.2319.ML-0559.jpg" alt="ilitary Appreciation Night at basketball" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Military Appreciation Night at basketball</em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="49070110263_3d6907398d_c.jpg" alt="Club Fair" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Clubs Fair on the Quad
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+        <!-- </mj-column>
+      <mj-column> -->
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
