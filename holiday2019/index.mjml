@@ -2,7 +2,7 @@
   <mj-head>
     <mj-style inline="inline">
       .link-no {
-        color: #EA1847;
+        color: #fff;
         font-weight: normal;
         text-decoration: underline;
       }
@@ -29,7 +29,7 @@
 
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#444">
+  <mj-body background-color="#fff">
     <!-- HSU Mark -->
     <!-- <mj-section background-color="#5f8639">
       <mj-column>
@@ -39,22 +39,20 @@
 
     <!-- Header -->
 
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
         <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2019/greeting.jpg" alt="Happy Holidays from our Humboldt Family" />
         <mj-image src="https://mailings.humboldt.edu/holiday2019/founders.jpg" alt="Image of Canned Food Snow People" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff">
+    <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
       <mj-column>
-        <mj-text align="center" font-size="35px" padding-top="40px" padding-bottom="20px">
-          Happy Holidays!
-        </mj-text>
-        <mj-text align="center">
-          Gifts come in all shapes and sizes as our three special guests proved for this year’s holiday greeting. They loped around campus, giving the gift of adorableness while receiving (what else?) affection.
-        </mj-text>
+				<mj-image src="bestwishes.png" width="500px" padding-top="30px;" alt="Sending best wishes from Humboldt!"/>
+
+				<mj-text align="center" font-size="18px" line-height="24px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
+
         <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/ObN2YBTWNYc">
-          Unleash the Cheer! &#9654;
+          Unleash the cheer! &#9654;
         </mj-button>
       </mj-column>
     </mj-section>
@@ -93,6 +91,9 @@
       <mj-column>
         <mj-text align="center" color="#fff">
           Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
+        </mj-text>
+				<mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
         </mj-text>
       </mj-column>
     </mj-section>
