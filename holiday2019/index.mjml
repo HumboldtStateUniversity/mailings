@@ -36,7 +36,7 @@
 
     <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
-        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2019/greeting.jpg" alt="Happy Holidays from our Humboldt Family" />
+        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2019/greeting.jpg" alt="Happy Holidays from your Humboldt Family" />
         <mj-image src="https://mailings.humboldt.edu/holiday2019/founders.jpg" alt="Goldens at Founders Hall" />
       </mj-column>
     </mj-section>
@@ -87,7 +87,6 @@
         <mj-text align="center" color="#fff">
           Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
         </mj-text>
-					
       </mj-column>
     </mj-section>
 
