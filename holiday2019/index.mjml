@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-no {
+        color: #EA1847;
+        font-weight: normal;
+        text-decoration: underline;
+      }
+
+      body {
+        padding: 20px;
+      }
+
+      a {
+        color: #444;
+      }
+
+      .btn-push {
+        margin: 15px 0;
+      }
+    </mj-style>
+    <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text padding-left="20px" padding-right="20px" padding-top="10px" padding-bottom="10px" font-size="16px" line-height="22px" color="#444444" />
+      <mj-all padding="0" font-family="Arial, san-serif;" />
+      <mj-button padding="0" background-color="#3F611E" border-radius="2px" font-size="16px" line-height="22px" />
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#444">
+    <!-- HSU Mark -->
+    <!-- <mj-section background-color="#5f8639">
+      <mj-column>
+        <mj-image width="425px" src="hsu-mark.svg" alt="Humboldt State University">
+      </mj-column>
+    </mj-section>-->
+
+    <!-- Header -->
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2019/greeting.jpg" alt="Happy Holidays from our Humboldt Family" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2019/founders.jpg" alt="Image of Canned Food Snow People" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="35px" padding-top="40px" padding-bottom="20px">
+          Happy Holidays!
+        </mj-text>
+        <mj-text align="center">
+          Gifts come in all shapes and sizes as our three special guests proved for this year’s holiday greeting. They loped around campus, giving the gift of adorableness while receiving (what else?) affection.
+        </mj-text>
+        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/ObN2YBTWNYc">
+          Unleash the Cheer! &#9654;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-section background-color="#3F611E">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="20px">
+          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/facebook.png" background-color="none" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/twitter.png" background-color="none" padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/flickr.png" background-color="none" padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2019/youtube.png" background-color="none" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2019/linkedin.png" background-color="none" padding="5px">
+          </mj-social-element>
+
+          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/instagram.png" background-color="none" padding="5px">
+
+          </mj-social-element>
+
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3F611E">
+      <mj-column>
+        <mj-text align="center" color="#fff">
+          Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+  <mjml>
