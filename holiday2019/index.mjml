@@ -42,12 +42,12 @@
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
       <mj-column>
-			<mj-image src="https://mailings.humboldt.edu/holiday2019/bestwishes.png" width="266px" padding-top="20px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
+			<mj-image src="https://mailings.humboldt.edu/holiday2019/bestwishes.png" width="266px" padding-top="30px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
 
 				<mj-text align="center" font-size="18px" line-height="24px" padding-top="20px" padding-left="25px" padding-right="25px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
 
-        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/I0fGC2P6iXo">
-          Unleash the cheer! &#9654;
+        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/I0fGC2P6iXo?utm_source=email&utm_medium=email&utm_campaign=holiday2019">
+          Unleash the cheer!&nbsp;&nbsp;&#9654;
         </mj-button>
       </mj-column>
     </mj-section>
@@ -87,6 +87,7 @@
         <mj-text align="center" color="#fff">
           Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
         </mj-text>
+					
       </mj-column>
     </mj-section>
 
