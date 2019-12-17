@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
       <mj-column>
-				<mj-image src="bestwishes.png" width="500px" padding-top="30px;" alt="Sending best wishes from Humboldt!"/>
+				<mj-image src="https://mailings.humboldt.edu/holiday2019/bestwishes.png" width="500px" padding-top="30px;" alt="Sending best wishes from Humboldt!"/>
 
 				<mj-text align="center" font-size="18px" line-height="24px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
 
