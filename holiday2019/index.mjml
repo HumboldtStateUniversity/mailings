@@ -37,7 +37,7 @@
     <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
         <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2019/greeting.jpg" alt="Happy Holidays from our Humboldt Family" />
-        <mj-image src="https://mailings.humboldt.edu/holiday2019/founders.jpg" alt="Image of Canned Food Snow People" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2019/founders.jpg" alt="Goldens at Founders Hall" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
@@ -46,7 +46,7 @@
 
 				<mj-text align="center" font-size="18px" line-height="24px" padding-top="20px" padding-left="25px" padding-right="25px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
 
-        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/ObN2YBTWNYc">
+        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/I0fGC2P6iXo">
           Unleash the cheer! &#9654;
         </mj-button>
       </mj-column>
@@ -87,7 +87,7 @@
         <mj-text align="center" color="#fff">
           Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
         </mj-text>
-
+					
       </mj-column>
     </mj-section>
 
