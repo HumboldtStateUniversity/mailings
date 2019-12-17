@@ -30,12 +30,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff">
-    <!-- HSU Mark -->
-    <!-- <mj-section background-color="#5f8639">
-      <mj-column>
-        <mj-image width="425px" src="hsu-mark.svg" alt="Humboldt State University">
-      </mj-column>
-    </mj-section>-->
+
 
     <!-- Header -->
 
@@ -47,9 +42,9 @@
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
       <mj-column>
-				<mj-image src="https://mailings.humboldt.edu/holiday2019/bestwishes.png" width="500px" padding-top="30px;" alt="Sending best wishes from Humboldt!"/>
+			<mj-image src="https://mailings.humboldt.edu/holiday2019/bestwishes.png" width="266px" padding-top="20px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
 
-				<mj-text align="center" font-size="18px" line-height="24px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
+				<mj-text align="center" font-size="18px" line-height="24px" padding-top="20px" padding-left="25px" padding-right="25px">Wherever you find yourself this holiday season, we hope you enjoy wonderful times with family and friends. And may your new year be filled with laughter and happiness.</mj-text>
 
         <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/ObN2YBTWNYc">
           Unleash the cheer! &#9654;
