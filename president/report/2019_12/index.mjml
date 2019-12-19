@@ -28,14 +28,14 @@
   <mj-body background-color="#8D9495">
     <mj-section>
       <mj-column>
-        <mj-image src="https://humboldt.edu/mailings/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
       </mj-column>
     </mj-section>
 
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="land112007_077.jpg" alt="Trinidad" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/land112007_077.jpg" alt="Trinidad" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
@@ -56,7 +56,7 @@
     <mj-section background-color="#F2F4EF" padding-bottom="0">
 
       <mj-column width="30%">
-        <mj-image src="https://humboldt.edu/mailings/president/report/2019_11/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text>
@@ -93,7 +93,7 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="bondmaupin.jpg" alt="Lisa Bond-Maupin" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/bondmaupin.jpg" alt="Lisa Bond-Maupin" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#F2F4EF">
@@ -111,7 +111,7 @@
     </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-image src="evnt111419_0234.jpg" alt="Tribal Nations Gathering" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/evnt111419_0234.jpg" alt="Tribal Nations Gathering" />
         <mj-text color=#fff>
           <h2>
             Campus Hosts Tribal Nations Reps
@@ -137,7 +137,7 @@
     </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-image src="presidents-signing.jpg" alt="President Jacks &amp; President Flamer" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/presidents-signing.jpg" alt="President Jacks &amp; President Flamer" />
       </mj-column>
       <mj-column>
         <mj-text color=#fff>
@@ -154,7 +154,7 @@
 
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="meiggs.jpg" alt="Robin Meiggs with husband Scott Heller" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/meiggs.jpg" alt="Robin Meiggs with husband Scott Heller" />
         <mj-text>
           <h2>
             Endowed Scholarship for Rowing Athletes
@@ -184,7 +184,7 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="firelab.jpg" alt="Firelab" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/firelab.jpg" alt="Firelab" />
       </mj-column>
     </mj-section>
 
@@ -230,12 +230,12 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="evnt031619_0327_nursing.jpg" alt="St. Joseph Donation" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/evnt031619_0327_nursing.jpg" alt="St. Joseph Donation" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-image src="first.jpg" alt="First Generation" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/first.jpg" alt="First Generation" />
       </mj-column>
       <mj-column>
         <mj-text color=#fff>
@@ -254,20 +254,20 @@
       <mj-column>
         <mj-text>
           <h2>45th American Indian College Motivation Day Celebrates Heritage and Higher Ed </h2>
-          More than 400 high school students from 30 different tribal affiliations visited HSU for the 45th annual event. It featured ​workshops, lectures, campus tours, and special presentations aimed at increasing the representation and success in higher education for Indigenous People.
+          More than 400 high school students from 30 different tribal affiliations visited HSU for the 45th annual event. It featured workshops, lectures, campus tours, and special presentations aimed at increasing the representation and success in higher education for Indigenous People.
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/45th-american-indian-college-motivation-day-celebrates-heritage-and-higher-/">
           Read more about American Indian<br> College Motivation Day
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="49031310152_1017e3180f_c.jpg" alt="Attendees at American Indian College Motivation Day" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/49031310152_1017e3180f_c.jpg" alt="Attendees at American Indian College Motivation Day" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#5C8021">
 
       <mj-column>
-        <mj-image src="30071829311_7b849e034e_c.jpg" alt="View from Cypress" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/30071829311_7b849e034e_c.jpg" alt="View from Cypress" />
         <mj-text color=#fff>
           <h2>
             HSU Creates $1,000 Scholarship for On-campus Living</h2>
@@ -282,14 +282,14 @@
     <mj-section background-color="#F2F4EF" padding="1px" border-top="solid 5px #5C8021">
 
       <mj-column>
-        <mj-image src="49066261298_bb6b6e1ce1_k.jpg" alt="Tribal Welcome" padding="2px" fluid-on-mobile="true" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/49066261298_bb6b6e1ce1_k.jpg" alt="Tribal Welcome" padding="2px" fluid-on-mobile="true" />
         <mj-text color="#000" font-size="14px" css-class="caption">
           <em>Tribal Welcome in the Kate Buchanan Room
           </em>
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="49173973682_490374f5d7_c.jpg" alt="Fall Preview for prospective students" padding="2px" fluid-on-mobile="true" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/49173973682_490374f5d7_c.jpg" alt="Fall Preview for prospective students" padding="2px" fluid-on-mobile="true" />
         <mj-text color="#000" font-size="14px" css-class="caption">
           <em>Fall Preview for prospective students
           </em>
@@ -298,13 +298,13 @@
     </mj-section>
     <mj-section background-color="#F2F4EF" padding="1px">
       <mj-column>
-        <mj-image src="MilitaryRecognitionNightHSU.11.2319.ML-0559.jpg" alt="ilitary Appreciation Night at basketball" padding="2px" fluid-on-mobile="true" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/MilitaryRecognitionNightHSU.11.2319.ML-0559.jpg" alt="Military Appreciation Night at basketball" padding="2px" fluid-on-mobile="true" />
         <mj-text color="#000" font-size="14px" css-class="caption">
           <em>Military Appreciation Night at basketball</em>
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="49070110263_3d6907398d_c.jpg" alt="Club Fair" padding="2px" fluid-on-mobile="true" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2019_12/49070110263_3d6907398d_c.jpg" alt="Club Fair" padding="2px" fluid-on-mobile="true" />
         <mj-text color="#000" font-size="14px" css-class="caption">
           <em>Clubs Fair on the Quad
           </em>
