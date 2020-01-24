@@ -320,11 +320,14 @@
           </h2>
           <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
         </mj-text>
-        <!-- </mj-column>
-      <mj-column> -->
 
       </mj-column>
     </mj-section>
-
+<mj-section>
+			<mj-text align="center" color="#fff" font-size="12px">
+    <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a
+        href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+</mj-text>
+			</mj-section>
   </mj-body>
 </mjml>
