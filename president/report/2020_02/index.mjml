@@ -1,0 +1,370 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/land061610_099.jpg" alt="Trinidad" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          February<br>2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#F2F4EF" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          When we were planning last year for the <a href="https://president.humboldt.edu/investiture" class="dark">Investiture Ceremony and Activities</a>, we wanted it to be a celebration of the University, our community, and our future together. That
+          certainly was what it turned out to be.
+        </mj-text>
+        <mj-text>
+          The sense of community spirit and fun continued all day - from a ceremony featuring local leaders along with Presidents and delegates from across the CSU system, to good-natured city boosterism that continued all day, to a lively dinner dedicated to raising
+          funds for scholarships.
+        </mj-text>
+        <mj-text>
+          I was so inspired and grateful for the outpouring of <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/donors-give-more-160000-humboldt-state-scholarships-fundraiser" class="dark">support at the Investiture dinner</a>, where
+          donors gave more than $160,000 for scholarships that will directly benefit students. Most of the scholarship donations from the dinner support local students through the Humboldt First scholarships. Donors also gave to scholarships supporting
+          student-athletes, veterans, and those who are the first in their generation to attend college.
+        </mj-text>
+        <mj-text>
+          Also at the dinner, a few students and alumni shared inspirational stories about how scholarships had helped them. History major Jesse Bowling said scholarships are helping him achieve his dream to return to his alma mater, Eureka High School, as a history
+          teacher. "I want to give back to the high school that gave to me."
+        </mj-text>
+        <mj-text>
+          Humboldt State and the local community are deeply intertwined and interdependent. The University is an important economic and cultural asset, but it is also dependent in so many ways on the community, including for the care and support of students. Thank
+          you to everyone in our community who understands that each successful HSU student gives back to this community, one way or another.
+        </mj-text>
+
+        <mj-text>
+          — President Jackson
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Students and Their Dreams</h2>
+          Humboldt students have all kinds of dreams about what their college educations will help them achieve. Hear from some of them <a href="https://www.youtube.com/watch?v=-JKyPLVKtRg&feature=emb_title" class="dark">in this video</a>, which debuted
+          at the recent Investiture ceremony.
+        </mj-text>
+        <mj-button href="https://www.youtube.com/watch?v=-JKyPLVKtRg&feature=emb_title">
+          Watch <em> A Place to Learn and Dream</em>
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/dream.jpg" alt="Maria Ortega" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/2020-0131-Retention_LARGE.jpg" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            More Freshmen Staying in School
+          </h2>
+          Humboldt State is seeing strong success in efforts to keep students in school following their freshmen year. Over the last three years, retention of first-time undergraduates has steadily increased from 69 percent to 75 percent, just shy of a University-high
+          of 78 percent that was seen in 2012. Spring retention improved this year, with 95 percent of freshmen returning this semester compared to 91.8 percent last spring semester.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-sees-more-freshmen-staying-in-school/">
+          More about HSU freshmen
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/wild060917_0245.jpg" alt="Wildlife Students in the field" />
+        <mj-text color=#fff>
+          <h2>
+            More Rankings for HSU Programs
+          </h2>
+          Numerous Humboldt State programs recently received strong rankings by Plexuss, an online resource for prospective college students. The programs ranked were Wildlife, Forestry, Botany, and Criminology.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-academic-programs-ranked-among-the-top-in-california/">
+          Read about HSU rankings
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            New Eureka Home for Small Business Development Center
+          </h2>
+          HSU’s Northern California Small Business Development Center helped companies secure more than $314 million in capital in 2019, the most of 62 SBDC networks in the nation. The Center officially opened its new headquarters on 3rd Street in Eureka on Feb.
+          5.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/small-business-development-center-re-opens-in-new-eureka-space-after-a-succ/">
+          Learn more about SDRC's new home
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49498823842_ea2331c77e_c.jpg" alt="SBDC interior" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color=#fff>
+          <h2>
+            Student Effort Highlights Black Heritage
+          </h2>
+          Blending her cultural heritage, love of music, and call to serve the community, HSU graduate student Valetta Molofsky organized the first Harvest Event at the Arcata Interfaith Gospel Choir last fall.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/graduate-student-celebrates-black-heritage-and-community-through-gospel/">
+          See video of the choir
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/2_evnt091914_034.jpg" alt="Student-led march about climate change" />
+        <mj-text>
+          <h2>
+            Alternative Spring Break - Climate Resilience and Local Activism
+
+          </h2>
+          A new Alternative Spring Break is designed for HSU students interested in community resilience and climate justice. During spring break, students will engage in exercises like mapping their spheres of influence, developing their own vision of leadership,
+          and examining case studies of regenerative economies.
+        </mj-text>
+
+        <mj-button href="http://now.humboldt.edu/news/new-alternative-spring-break-empowers-students-in-climate-resilience-and-lo/">
+          Read more about the program
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color=#fff>
+          <h2>
+            HSU Joins Sweeping Anti-Bias Training Program
+          </h2>
+          Humboldt State students, staff, and faculty are joining with colleagues from across the California State University and University of California systems to learn strategies for addressing bias. They will learn to raise awareness, apply key concepts for
+          organizational change, learn tools and strategies, and practice interventions.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-joins-campuses-across-california-for-sweeping-anti-bias-training-progra/">
+          Learn more about the training program
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/2019-1212-PreMed_SMALL.jpg" alt="Zhong & Reyes" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            Student-Led Pre-Med Internship
+
+          </h2>
+          Brooke Reyes, a Cellular/Molecular Biology major in her senior year, has launched a program to connect pre-med students to opportunities with local medical providers.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/student-led-pre-med-internship-launches/">
+          Read more about the internship
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#5C8021">
+
+      <mj-column>
+        <mj-text color=#fff>
+          <h2>
+            Professor's Legacy Supports a New Generation
+          </h2>
+          Stanley Harris, who passed at the age of 91 in December, helped build the HSU Department of Wildlife into one of the best in the country. He also played a big part in creating the Arcata Marsh & Wildlife Sanctuary. Now, the scholarships he and his wife
+          Lorene created are helping wildlife students fulfill their academic dreams.
+        </mj-text>
+        <mj-button href="https://giving.humboldt.edu/content/giving-feature-me-mini/professor%E2%80%99s-legacy-supports-new-generation-wildlife-researchers">
+          Read more about the scholarhip
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/6239036940_2f81fce9ce_o.jpg" alt="Stanely Harris" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/ctill.jpg" alt="Claire Till " />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            Prestigious Recognition for Professor Till
+          </h2>
+          Chemistry Professor Claire Till was recently named a Cottrell Scholar by the Research Corporation for Science Advancement. The award recognizes early-career scholars and each awardee receives $100,000. Learn about other <a href="http://now.humboldt.edu/achievements" class="dark">recent achievements</a> by HSU students, faculty, and staff.
+        </mj-text>
+        <mj-button href="https://rescorp.org/news/2020/02/rcsa-names-25-new-cottrell-scholars-for-2020">
+          Read about Professor Till's award
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/44701154102_5a953e243b_c.jpg" alt="Farmers Market" />
+        <mj-text color=#fff>
+          <h2>
+            Big Grant for Basic Needs Services
+          </h2>
+          Funding of $640,000 from the CSU Chancellor’s Office will support Oh SNAP!, emergency housing funds, and research in the Department of Social Work.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-receives-640000-for-basic-needs-services/">
+          Read more about the grant
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Article -->
+    <mj-section background-color="#F2F4EF" padding-top="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/prescott.jpg" alt="Attendees at American Indian College Motivation Day" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>Lizzy Prescott Selected to 2020 CCAA Hall of Fame</h2>
+          NCAA champion pitcher Lizzie Prescott made a prolific impact in her four-year career at Humboldt State, and was named conference Most Valuable Pitcher three times. She was recently named to the CCAA Hall of Fame.
+        </mj-text>
+        <mj-button href="https://hsujacks.com/news/2020/2/6/softball-hsus-lizzy-prescott-selected-to-ccaa-hall-of-fame.aspx">
+          Read more about Lizzy Prescott
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#ffffff">
+          <h2>Jane Teixeira has been appointed HSU’s next Director of Intercollegiate Athletics and Recreational Sports</h2>
+          Teixeira has 25 years of experience in higher education as an administrator, coach, student-athlete, and leader. Her focus is on supporting student-athletes, mentoring coaches and athletic staff, and maintaining a sustainable, successful program. She
+          is expected to begin in early April.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-hires-jane-teixeira-as-next-athletic-director/">
+          Read more about Jane Teixeira
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/janeteixeira.jpg" alt="Jane Teixeira" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/gra_certseal_core_rgb.png" alt="View from Cypress" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <h2>
+            HSU Dining Working to be Even Greener</h2>
+          The Green Restaurant Association recently named HSU eateries certified green restaurants, and HSU is working to do even more. The University is collaborating with local partners on an ambitious food waste reduction program.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/with-a-green-stamp-of-approval-hsu-dining-working-to-be-even-greener/">
+          Read more about HSU dining
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF" padding="1px" border-top="solid 5px #5C8021">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49396283233_adcac555ab_k.jpg" alt="CSU Chancellor White shows off his Humboldt socks." padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>CSU Chancellor White shows off his Humboldt socks.
+          </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49430580808_915463d533_c.jpg" alt="Students and alumni shared their experiences at the Investiture Dinner, helping raise more than $160,000 for scholarships." padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Students and alumni shared their experiences at the Investiture Dinner, helping raise more than $160,000 for scholarships.
+          </em>
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49498595666_4db389485b_c.jpg" alt="Fall Preview for prospective students" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Ribbon cutting at the opening of the Norcal Small Business Development Center in Eureka.
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF" padding="1px">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49498194088_2756f64371_c.jpg" alt="Military Appreciation Night at basketball" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>CSU Trustee Wenda Fong visits HSU’s Oh SNAP! food pantry. </em>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49499174172_3265b0c7d1_c.jpg" alt="Club Fair" padding="2px" fluid-on-mobile="true" />
+        <mj-text color="#000" font-size="14px" css-class="caption">
+          <em>Local 8th graders visiting campus.
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-text align="center" color="#fff" font-size="12px">
+        <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+      </mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>
