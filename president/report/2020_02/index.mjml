@@ -60,27 +60,21 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          When we were planning last year for the <a href="https://president.humboldt.edu/investiture" class="dark">Investiture Ceremony and Activities</a>, we wanted it to be a celebration of the University, our community, and our future together. That
-          certainly was what it turned out to be.
+          It is a great time to be a Lumberjack!
         </mj-text>
         <mj-text>
-          The sense of community spirit and fun continued all day - from a ceremony featuring local leaders along with Presidents and delegates from across the CSU system, to good-natured city boosterism that continued all day, to a lively dinner dedicated to raising
-          funds for scholarships.
+          While attending a meeting hosted by EAB and San Jose State University at LinkedIn, I learned about the “network gap.” Researchers are finding out that much of our success is determined by where we went to kindergarten and who we got to know as we grew up. The “network” strongly influences the strength of our first jobs after college and our progression into the second job.  Look for more information on this in a coming story. LinkedIn is doing some new and interesting things to help people expand their networks. I encourage you to establish a profile and be sure to <a href="link with HSU" class="dark">link with HSU</a>.
         </mj-text>
         <mj-text>
-          I was so inspired and grateful for the outpouring of <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/donors-give-more-160000-humboldt-state-scholarships-fundraiser" class="dark">support at the Investiture dinner</a>, where
-          donors gave more than $160,000 for scholarships that will directly benefit students. Most of the scholarship donations from the dinner support local students through the Humboldt First scholarships. Donors also gave to scholarships supporting
-          student-athletes, veterans, and those who are the first in their generation to attend college.
+          Last summer, HSU hired Double LL Consulting and Jill Willson to serve as Interim Athletic Director and to lead the search for the permanent Athletic Director. Coach Willson’s presence helped HSU raise over $400,000 for student scholarships, and led to the successful hiring of Jane Teixeira as the new Athletic Director. In this report read all about Jane and what she brings to the Lumberjack family.
         </mj-text>
         <mj-text>
-          Also at the dinner, a few students and alumni shared inspirational stories about how scholarships had helped them. History major Jesse Bowling said scholarships are helping him achieve his dream to return to his alma mater, Eureka High School, as a history
-          teacher. "I want to give back to the high school that gave to me."
+          There is much to share about the new Nursing program at HSU. Scheduled to open in Fall 2020, the partnerships making it possible have grown to include many, including St. Joseph Health, Sutter Coast Hospital in Crescent City, and the ever-important College of the Redwoods. Without the collaboration with CR and President Keith Flamer, we would not have been able to create the important link between the CR program and HSU’s. And looking ahead, Nursing is only a small part of what both CR and HSU have in mind.
         </mj-text>
         <mj-text>
-          Humboldt State and the local community are deeply intertwined and interdependent. The University is an important economic and cultural asset, but it is also dependent in so many ways on the community, including for the care and support of students. Thank
-          you to everyone in our community who understands that each successful HSU student gives back to this community, one way or another.
+         There is an amazing sense of community and positive spirit on campus. Maybe it’s the sunshine or maybe it’s the great people. The recent Presidential Investiture activities brought out the very best in all of us. This was a chance for HSU to celebrate itself and to potentially raise scholarship funds for students. It did exactly that. The Chancellor along with 27 CSU Trustees and Presidents were in attendance, all donned in colorful academic regalia. The faculty shined brightly in their pride for HSU. And the donors rose to the occasion by giving $161,000 to support students at the scholarship dinner. A few students and alumni shared inspirational stories about how scholarships had helped them. History major Jesse Bowling said scholarships are helping him achieve his dream to return to his alma mater, Eureka High School, as a history teacher. “I want to give back to the high school that gave to me,” says Bowling.
         </mj-text>
-
+				<mj-text>Thank you to everyone in the community and throughout campus. It is a great time to be a Lumberjack!</mj-text>
         <mj-text>
           — President Jackson
         </mj-text>
@@ -90,7 +84,7 @@
       <mj-column>
         <mj-text color="#fff">
           <h2>Students and Their Dreams</h2>
-          Humboldt students have all kinds of dreams about what their college educations will help them achieve. Hear from some of them <a href="https://www.youtube.com/watch?v=-JKyPLVKtRg&feature=emb_title" class="dark">in this video</a>, which debuted
+          Humboldt students have all kinds of dreams about what their college educations will help them achieve. Hear from some of them <a href="https://www.youtube.com/watch?v=-JKyPLVKtRg&feature=emb_title">in this video</a>, which debuted
           at the recent Investiture ceremony.
         </mj-text>
         <mj-button href="https://www.youtube.com/watch?v=-JKyPLVKtRg&feature=emb_title">
@@ -118,10 +112,25 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+			<mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#ffffff">
+          <h2>Jane Teixeira has been appointed HSU’s next Director of Intercollegiate Athletics and Recreational Sports</h2>
+          Teixeira has 25 years of experience in higher education as an administrator, coach, student-athlete, and leader. Her focus is on supporting student-athletes, mentoring coaches and athletic staff, and maintaining a sustainable, successful program. She
+          is expected to begin in early April.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-hires-jane-teixeira-as-next-athletic-director/">
+          Read more about Jane Teixeira
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/janeteixeira.jpg" alt="Jane Teixeira" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/wild060917_0245.jpg" alt="Wildlife Students in the field" />
-        <mj-text color=#fff>
+        <mj-text>
           <h2>
             More Rankings for HSU Programs
           </h2>
@@ -132,9 +141,9 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-text>
+        <mj-text color="#fff">
           <h2>
             New Eureka Home for Small Business Development Center
           </h2>
@@ -149,9 +158,9 @@
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/49498823842_ea2331c77e_c.jpg" alt="SBDC interior" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-text color=#fff>
+        <mj-text>
           <h2>
             Student Effort Highlights Black Heritage
           </h2>
@@ -163,10 +172,10 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/2_evnt091914_034.jpg" alt="Student-led march about climate change" />
-        <mj-text>
+        <mj-text color="#fff">
           <h2>
             Alternative Spring Break - Climate Resilience and Local Activism
 
@@ -181,9 +190,9 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-text color=#fff>
+        <mj-text>
           <h2>
             HSU Joins Sweeping Anti-Bias Training Program
           </h2>
@@ -197,12 +206,12 @@
 
     </mj-section>
 
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/2019-1212-PreMed_SMALL.jpg" alt="Zhong & Reyes" />
       </mj-column>
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             Student-Led Pre-Med Internship
 
@@ -216,10 +225,10 @@
     </mj-section>
 
 
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
 
       <mj-column>
-        <mj-text color=#fff>
+        <mj-text>
           <h2>
             Professor's Legacy Supports a New Generation
           </h2>
@@ -234,16 +243,16 @@
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/6239036940_2f81fce9ce_o.jpg" alt="Stanely Harris" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section background-color="#5C8021">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/ctill.jpg" alt="Claire Till " />
       </mj-column>
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>
             Prestigious Recognition for Professor Till
           </h2>
-          Chemistry Professor Claire Till was recently named a Cottrell Scholar by the Research Corporation for Science Advancement. The award recognizes early-career scholars and each awardee receives $100,000. Learn about other <a href="http://now.humboldt.edu/achievements" class="dark">recent achievements</a> by HSU students, faculty, and staff.
+          Chemistry Professor Claire Till was recently named a Cottrell Scholar by the Research Corporation for Science Advancement. The award recognizes early-career scholars and each awardee receives $100,000. Learn about other <a href="http://now.humboldt.edu/achievements">recent achievements</a> by HSU students, faculty, and staff.
         </mj-text>
         <mj-button href="https://rescorp.org/news/2020/02/rcsa-names-25-new-cottrell-scholars-for-2020">
           Read about Professor Till's award
@@ -251,10 +260,10 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section background-color="#F2F4EF">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/44701154102_5a953e243b_c.jpg" alt="Farmers Market" />
-        <mj-text color=#fff>
+        <mj-text>
           <h2>
             Big Grant for Basic Needs Services
           </h2>
@@ -266,33 +275,18 @@
       </mj-column>
     </mj-section>
     <!-- Article -->
-    <mj-section background-color="#F2F4EF" padding-top="0">
+    <mj-section background-color="#5C8021" padding-top="0">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/prescott.jpg" alt="Attendees at American Indian College Motivation Day" />
       </mj-column>
       <mj-column>
-        <mj-text>
+        <mj-text color=#fff>
           <h2>Lizzy Prescott Selected to 2020 CCAA Hall of Fame</h2>
           NCAA champion pitcher Lizzie Prescott made a prolific impact in her four-year career at Humboldt State, and was named conference Most Valuable Pitcher three times. She was recently named to the CCAA Hall of Fame.
         </mj-text>
         <mj-button href="https://hsujacks.com/news/2020/2/6/softball-hsus-lizzy-prescott-selected-to-ccaa-hall-of-fame.aspx">
           Read more about Lizzy Prescott
         </mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#5C8021" padding-top="0">
-      <mj-column>
-        <mj-text color="#ffffff">
-          <h2>Jane Teixeira has been appointed HSU’s next Director of Intercollegiate Athletics and Recreational Sports</h2>
-          Teixeira has 25 years of experience in higher education as an administrator, coach, student-athlete, and leader. Her focus is on supporting student-athletes, mentoring coaches and athletic staff, and maintaining a sustainable, successful program. She
-          is expected to begin in early April.
-        </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsu-hires-jane-teixeira-as-next-athletic-director/">
-          Read more about Jane Teixeira
-        </mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/report/2020_02/janeteixeira.jpg" alt="Jane Teixeira" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
