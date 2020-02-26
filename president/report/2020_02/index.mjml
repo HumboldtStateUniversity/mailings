@@ -68,7 +68,14 @@
         <mj-text>
           Last summer, HSU hired Double LL Consulting and Jill Willson to serve as Interim Athletic Director and to lead the search for the permanent Athletic Director. Coach Willson’s presence helped HSU raise more than $400,000 for student scholarships, and led to the successful hiring of Jane Teixeira as the new Athletic Director. In this report, read all about Jane and what she brings to the Lumberjack family.
         </mj-text>
-        <mj-text>
+      </mj-column>
+    </mj-section>
+			<mj-section background-color="#F2F4EF" padding-bottom="0" padding-top="0">
+				<mj-column width="30%">
+					
+				</mj-column>
+				<mj-column width="70%">
+					<mj-text>
           There is much to share about the new Nursing program at HSU. Scheduled to open in Fall 2020, the partnerships making it possible have grown to include many, including St. Joseph Health, Sutter Coast Hospital in Crescent City, Humboldt Area Foundation, and the ever-important College of the Redwoods. Without the collaboration with CR and President Keith Flamer, we would not have been able to create the important link between the CR program and HSU’s. And looking ahead, Nursing is only a small part of what both CR and HSU have in mind.
         </mj-text>
         <mj-text>
@@ -78,8 +85,8 @@
         <mj-text>
           — President Jackson
         </mj-text>
-      </mj-column>
-    </mj-section>
+				</mj-column>
+			</mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
         <mj-text color="#fff">
