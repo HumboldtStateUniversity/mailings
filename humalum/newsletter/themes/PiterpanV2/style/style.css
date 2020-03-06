@@ -1,0 +1,149 @@
+body  {
+	background: #FEFEFE;
+	font-family: Tahoma, Verdana, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #505050;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* hard rule */
+hr {  
+	color: #505050; 
+	height: 1px; 
+	width: 118px
+}
+
+/* table styles */
+td {
+	font-size: 10px;
+	text-align: left;
+}
+
+/* linked image styles */
+a img {
+	border: 0px;
+}
+
+/* form  control styles */
+textarea, input {
+	font-size: 10px;
+	background-color : transparent;
+}
+select {
+	font-size: 10px;
+	font-weight : bold;
+	background-color : transparent;
+}
+
+/* anchor styles */
+a {
+	color: #505050;
+	font-size: 10px;
+	text-decoration: none;
+	background-color : transparent;
+}
+a:hover, a:active {
+	color: #FF9900;
+}
+
+/* pn- normal styles */
+.pn-normal {
+	font-size: 10px;
+	font-weight: normal;
+	color: #505050;
+	text-decoration: none;
+	background-color : transparent;
+}
+
+/* title classes */
+.pn-title, h2 {
+	font-size: 10px;
+	font-weight: bold;
+	color: #505050;
+	text-decoration: none;
+	background-color : transparent;
+	text-align: center;
+}
+.pn-title a:hover, a:active {
+	color: #FF9900;
+}
+
+.pn-pagetitle, h1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #505050;
+	text-decoration: none;
+	text-align: center;
+	background-color : transparent;
+}
+
+h3, h4, h5, h6 {
+	font-size: 10px;
+	font-weight: bold;
+	color: #505050;
+	text-decoration: none;
+}
+
+/* pn-sub classes */
+.pn-sub {
+	font-size: 10px;
+	font-weight: normal;
+	color: #505050;
+	text-decoration: none;
+	background-color : transparent;
+}
+.pn-sub A:hover, A:active {
+	color: #FF9900;
+}
+
+/* pn-logo styles */
+.pn-logo {
+	color: #505050;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-decoration: none;
+	background-color : transparent;
+}
+A.pn-logo:hover, A.pn-logo:active	{
+	color: #FF9900;
+}
+
+/* other pn classes */
+.pn-logo-small  {
+	color: #505050;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color : transparent;
+}
+
+/* menu classes */
+.menu {
+	font-weight: bold;
+	font-size: 10px
+}
+.menu a:link, a:visited {
+	color: #505050;
+}
+.menu a:hover, a:active {
+	color: #FF9900;
+}
+.menuitems{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.skin0{
+	position: absolute;
+	width: 120px;
+	border: 1px solid black;
+	background-color:#53618A;
+	line-height: 18px;
+	font-size: 10px;
+	z-index: 100;
+	visibility: hidden;
+}

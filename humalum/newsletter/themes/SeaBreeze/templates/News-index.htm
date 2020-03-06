@@ -1,0 +1,21 @@
+
+<!-- Begin article -->
+<div class="ArticleBlock">
+  <div class="ArticleHead"><h4 class="storytitle"><!--[$preformat.catandtitle]--></h4>
+	<!--[articleadminlinks sid=$info.sid]-->
+  </div>
+  <div class="Article">
+	<!--[* <a href="<!--[$links.searchtopic]-->"><img class="TopicImage<!--[ImageAlign]-->" src="images/topics/<!--[$info.topicimage]-->" alt="<!--[$info.topictext]-->"  title="<!--[$info.topictext]-->" /></a> *]-->
+	<div class="TopicImage<!--[ImageAlign]--> clear"><!--[$preformat.searchtopic]--></div>
+	<!--[* You may use [ImageAlign align="Right"] to start with the Topic image on the right *]-->
+	<!--[* To fix picture on the left or right, use "TopicImageLeft" or "TopicImageRight" *]-->
+    <!--[$info.hometext]--><br /><br />
+    <div class="note"><!--[$preformat.notes]--><br /><br /></div>
+	<div class="pn-sub clear" align="right"><SPAN class="pnleft"><!--[pnml name=_POSTEDBY]-->: <!--[$info.informant]--> <!--[pnml name=_ON]--> <!--[$info.briefdatetime]--></SPAN><!--[* $info.longdatetime *]-->
+	&nbsp;<!--[$preformat.readmore]--> <!--[if $info.bodytext|count_words gt 0]--> (<!--[$info.bodytext|count_words]--> <!--[pnml name=_WORDSMORE]-->) <!--[/if]-->
+	</div>
+	<!--[* $preformat.more *]--><!--[* $info.fulltext|count_words *]--> <!--[* pnml name="_WORDSMORE" *]-->
+  </div>
+</div>
+<hr class="clear" size="1" width="100%" style="color:<!--[$color2]-->" />
+<!-- End article -->

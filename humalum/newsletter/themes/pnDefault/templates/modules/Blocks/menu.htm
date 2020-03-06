@@ -1,0 +1,15 @@
+<table>
+  <tbody>
+  <!--[foreach from=$menuitems item=item ]-->
+        <tr class="xanNavRow">
+          <td class="swath">&nbsp;</td>
+          <!--[if $item.MENUITEMTITLE != '' && $item.MENUITEMURL != '' ]-->
+           <td class="xanNav" onmouseover="xan_navBar(this,1,1)"
+            onclick="xan_navBarClick(this,1,'<!--[$item.MENUITEMURL|pnvarprepfordisplay]-->')"
+            onmouseout="xan_navBar(this,0,1)"><div class="xanNavText"><a href="<!--[$item.MENUITEMURL|pnvarprepfordisplay]-->" class="xanNavText" title="<!--[$item.MENUITEMCOMMENT|pnvarprepfordisplay]-->"><!--[$item.MENUITEMTITLE]--></a></div></td>
+          <!--[else]-->
+            <td class="xanNav"><div class="xanNavText"><!--[$item.MENUITEMTITLE]--></div></td>
+          <!--[/if]-->
+        </tr>
+  <!--[/foreach]-->  
+</tbody></table>

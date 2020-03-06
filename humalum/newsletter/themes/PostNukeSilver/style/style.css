@@ -1,0 +1,296 @@
+/* WARNING: THIS VERSION OF NN4 STYLES IS STILL IN DEVELOPMENT */
+/* PLEASE CONSIDER IT AS IN ALPHA PHASE */
+/* Remember! FREAKING NN4xx take images url relative to the document - NOT to the css file */
+/* So, if you wish to rename the theme, please take care of the paths manually */
+
+/* These styles are responsible for the body of page */
+/* they can be inherited by all other nested styles, divisions and spans */
+
+body
+{
+	margin: 4px 12px 4px 22px;
+	padding: 0;
+	font: 11px/1.1 Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../images/bkground.gif);
+	background-repeat: repeat;
+}
+
+a img { 
+	border: 0; 
+}
+
+div, p, th, td, form, select, textarea, input { 
+	font: 11px/1.1 Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+}
+
+a {
+	font-weight: bold;
+	color: #C00;
+	text-decoration: none;
+}
+	
+/* postnuke custom and header styles */
+.pn-title, h2 {
+	font-size: 12px;
+	font-weight: bold;
+	text-align:center;
+}
+
+.pn-sub {
+	font-size: 10px;
+}
+
+.pn-logo {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.pn-logo-small {
+	font-weight: bold;
+}
+
+.pn-pagetitle, h1 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align:center;
+}
+
+h3, h4, h5, h6 {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+/*news styles */
+.article-table {
+	background-color: white;
+	font: 10px Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	padding: 3px;
+}
+
+a.article-table { 
+	font-weight: bold; 
+	color: #C00; 
+	text-decoration: none; 
+}
+
+.article-table a { 
+	text-decoration: none; color: #c00;
+}
+
+.article-table table {
+	font-size: 10px;
+	background-color: #f1f1f1;
+	width: 100%;
+}
+
+.article-table .pn-title { 
+	color: black; 
+}
+
+/* Below are utility classes, we can use them to control appearance of individual elements */
+.logo {
+	background-color: #f1f1f1;
+	border: 0;
+}
+
+.banner {
+}
+
+.border1 {
+}
+
+.border2 {
+	border-width: 1px;
+	border-color: silver;
+	border-style: solid;
+}
+
+.bar-top-left {
+	background-image: url(../images/bar_top_left.gif);
+	color: #5a5a5a;
+	height: 40px;
+	width: 168px;
+	/* 	background-position: 0px 0px; */
+	/* 	background-attachment: fixed; */
+	/* 	margin: 0; */
+	
+}
+
+.bar-top-text {
+	color: #5a5a5a;
+}
+
+.bar-top-middle {
+	/* 	height: 40px; */
+	/* 	background-color: #f1f1f1; */
+	background-image: url(../images/bar_top_middle.gif);
+	background-repeat: repeat;
+	color: black;
+	
+}
+
+.bar-top-middle a {
+	color: silver;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.bar-top-middle a:hover
+{
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.bar-top-form {
+	color: silver;
+}
+
+.bar-top-form input {
+	font: 9px monaco, courier, monospace;
+	color: black;
+}
+
+.menu-title {
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	width: 145px;
+}
+
+.spacer-top-middle {
+	background-image: url(../images/spacer_top_middle.gif);
+	background-repeat: repeat-x;
+}
+
+/* Controlling appearance of the left menus */
+
+.menu-middle-left {
+	width: 168px;
+	background-image: url(../images/menu_middle_left.gif);
+	background-repeat: repeat-y;
+	border: 0;
+	color: #fff;
+	text-decoration: none;
+	font-size: 10px;
+}
+
+menu-middle-left a{
+	color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	text-decoration: none;
+	line-height: 11px;
+
+}
+.menu-middle-left a:hover {
+	color: #fc6;
+	text-decoration: underline;
+}
+
+.menu-middle-left .menu-title {
+	color: #fc6;
+	text-decoration: none;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	letter-spacing: 0.05em;
+	word-spacing: 0.15em;
+}
+
+.menu-middle-left strong {
+	color: #fc6;
+}
+
+/* Centre blocks and admin messages */
+.message-centre {
+	font-size: 10px;
+	border-style: solid;
+	border-color: silver;
+}
+
+.message-centre .border2 {
+	border: 0;
+}
+
+/* Right menus */
+.menu-middle-right {
+	width: 165px;
+}
+
+.menu-middle-right strong {
+	color: black;
+	font-weight: 900;
+}
+
+.menu-middle-right a {
+	color: #000;
+	text-decoration: none;
+}
+
+.menu-middle-right a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+.menu-middle-rightborder {
+	background-image: url(../images/menu_middle_right.gif);
+	background-repeat: repeat-y;
+	border: 0;
+}
+
+/* Bottom spacer and bar */
+.bar-bottom-middle-spacer {
+	background-image: url(../images/spacer_bottom_middle.gif);
+	background-repeat: repeat-x;
+	border: 0;
+}
+
+.bar-bottom-middle {
+	color: silver;
+	background-image: url(../images/bar_bottom_middle.gif);
+	background-repeat: repeat-x;
+	border: 0;
+}
+
+.bar-bottom-middle a {
+	color: silver;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.bar-bottom-middle a {
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.credits {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	text-align: center;
+}
+
+.credits a {
+	color: black;
+	font-weight: bold;
+	
+}
+
+.central-area {
+	width:100%;
+}
+/* legacy opentable styles */
+.opentable {
+	background-color: #f1f1f1;
+	width: 100%;
+	padding: 2px;
+}
+
+.opentable2 {
+	background-color: white;
+	width: 100%;
+	padding: 2px;
+}

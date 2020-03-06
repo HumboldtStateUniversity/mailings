@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="<!--[lang]-->">
+<head>
+<title><!--[title]--></title>
+<meta name="Description" content="<!--[slogan]-->">
+<meta name="Keywords" content="<!--[keywords]-->">
+<meta name="Author" content="<!--[sitename]-->">
+<meta name="Copyright" content="Copyright (c) 2005 by <!--[sitename]-->">
+<meta http-equiv="Content-Type" content="text/html; charset=<!--[charset]-->">
+<meta name="Robots" content="index,follow">
+<meta name="Resource-Type" content="document">
+<meta http-equiv="Expires" content="0">
+<meta name="Revisit-After" content="1 days">
+<meta name="Distribution" content="Global">
+<meta name="Generator" content="PostNuke - http://postnuke.com">
+<meta name="Rating" content="General">
+<link rel="alternate" href="backend.php" type="application/rss+xml" title="<!--[sitename]-->">
+<link rel="icon" href="<!--[$imagepath]-->/icon.png" type="image/png">
+<link rel="shortcut icon" href="<!--[$imagepath]-->/favicon.ico">
+<!--[modulestylesheet]-->
+<!--[modulestylesheet stylesheet=admin.css modname=admin]-->
+<link rel="StyleSheet" href="<!--[$themepath]-->/style/style.css" type="text/css">
+<!--[additional_header]-->
+<script type="text/javascript" src="javascript/showimages.js"></script>
+<script type="text/javascript" src="javascript/openwindow.js"></script>
+</head><!-- Admin template -->
+<body>
+<div id="header">
+  <a href="index.php"><img class="pnleft" src="<!--[$imagepath]-->/logoshort.png" width="230" height="91" border="0" align="top" alt="<!--[sitename]-->" /></a>
+  <div class="clear"></div>
+</div>
+<div id="topmenu" class="pn-sub" align="right">
+  <span class="pnleft"><!--[displaygreeting]--></span>
+  <span class="pnright nobreak"><strong><a href="index.php"><!--[pnml name=_HOME]--></a>
+    :&nbsp;<a href="admin.php?module=Settings"><!--[pnml name=_SETTINGS]--></a>
+    :&nbsp;<a href="index.php?module=Modules&amp;type=admin"><!--[pnml name=_MODULES]--></a>
+    :&nbsp;<a href="index.php?module=Blocks&amp;type=admin"><!--[pnml name=_BLOCKS]--></a>
+    :&nbsp;<a href="admin.php?module=User"><!--[pnml name=_USERADMIN]--></a>
+    :&nbsp;<a href="index.php?module=Groups&amp;type=admin"><!--[pnml name=_GROUPADMIN]--></a>
+    :&nbsp;<a href="index.php?module=Permissions&amp;type=admin"><!--[pnml name=_PERMISSIONS]--></a>
+    :&nbsp;<a href="index.php?module=Xanthia&amp;type=admin"><!--[pnml name=_XANTHIA]--></a>
+    :&nbsp;<a href="admin.php?module=Topics"><!--[pnml name=_TOPICS]--></a>
+    :&nbsp;<a href="admin.php?module=AddStory"><!--[pnml name=_ADDSTORY]--></a>
+    :&nbsp;<a href="admin.php?module=Downloads"><!--[pnml name=_DOWNLOAD]--></a>
+    :&nbsp;<a href="admin.php?module=PNphpBB2"><!--[pnml name=_FORUMS]--></a>
+    </strong></span>
+	&nbsp; <!-- You can put a center menu here-->
+	<div class="clear"></div>
+</div>
+<table id="main" width="<!--[$pagewidth]-->" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+<!--[* 
+    <td id="LeftCol" valign="top" style="background-color:<!--[$color3]-->; width:<!--[$lcolwidth]-->px;"><!--#f3f3f3-->
+<!-- Left column start -->
+<!--[$leftblocks]-->
+<!-- Left column end -->
+	</td>
+ *]-->
+    <td valign="top" style="background-color:#ffffff; width:17px;"><!--[* $bgcolor *]-->
+    <img align="left" height="17" width="17" src="<!--[$imagepath]-->/lefttop.gif" alt="" />
+    </td><!-- Rounded corner -->
+    <td id="CenterCol" valign="top" style="background-color:#ffffff;"><!--[* $bgcolor *]-->
+<!--[$maincontent]-->
+    </td>
+  </tr>
+</table>
+<!-- Footer -->
+<div id="bottomMenu" style="background-color:<!--[$color2]-->;"><!--#cccccc-->
+  <span class="pn-sub">&nbsp;</span>
+</div>
+<div id="footer" style="background-color:<!--[$color3]-->;"><!--#ffffff-->
+	<!--[footmsg]-->
+</div>
+<!--[nocache]--><!--[pagerendertime]--><!--[/nocache]-->
+<!--[typetoolv80]-->
+</body>
+</html>

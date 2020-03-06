@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container, #meta-wrap {
+	margin: 0 0 0 300px !important;
+}
+#maincontent {
+	background:white !important;
+	padding:0 0 0 10px !important;
+	}

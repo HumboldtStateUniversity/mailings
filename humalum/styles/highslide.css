@@ -1,0 +1,102 @@
+.gallery ul li {
+	list-style: none !important;
+	float: left;
+	
+}
+.gallery li a, .gallery li a:hover {
+	border: none;
+}
+.gallery ul li a img, img.feature {
+   border: solid 1px #ccc !important;
+   padding: 5px;
+	margin: 3px 3px 3px 0;
+}
+
+.highslide {
+	cursor: url(../highslide/graphics/zoomin.cur), pointer;
+    outline: none;
+}
+.highslide img {
+	border: 2px solid gray;
+}
+.highslide:hover img {
+	border: 2px solid white;
+}
+
+.highslide-image {
+    padding-top: 9px;
+}
+.highslide-image-blur {
+}
+.highslide-caption {
+    display: none;
+    
+    border: 2px solid white;
+    border-top: none;
+    font-family: Verdana, Helvetica;
+    font-size: 10pt;
+    padding: 5px;
+    background-color: white;
+    text-align: left;
+}
+.highslide-loading {
+    display: block;
+	color: white;
+	font-size: 9px;
+	font-weight: bold;
+	text-transform: uppercase;
+    text-decoration: none;
+	padding: 3px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+    background-color: black;
+    
+    padding-left: 22px;
+    background-image: url(../highslide/graphics/loader.gif);
+    background-repeat: no-repeat;
+    background-position: 3px 1px;
+   
+}
+a.highslide-credits,
+a.highslide-credits i {
+    padding: 2px;
+    color: silver;
+    text-decoration: none;
+	font-size: 10px;
+}
+a.highslide-credits:hover,
+a.highslide-credits:hover i {
+    color: white;
+    background-color: gray;
+}
+
+.highslide-move {
+    cursor: move;
+}
+
+.highslide-overlay {
+	display: none;
+}
+/* Controlbar example */
+.controlbar {	
+	background: url(../highslide/graphics/controlbar4.gif);
+	width: 167px;
+	height: 34px;
+	margin-top: 4px;
+}
+.controlbar a {	
+	display: block;
+	float: left;
+	margin: 0px 0 0 4px;
+	height: 29px;
+	width: 34px;
+	border: none;
+}
+
+/* Necessary for functionality */
+.highslide-display-block {
+    display: block;
+}
+.highslide-display-none {
+    display: none;
+}

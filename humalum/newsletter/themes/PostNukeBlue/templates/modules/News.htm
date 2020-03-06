@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html lang="<!--[lang]-->">
+<head>
+<title><!--[title]--></title>
+<meta name="Description" content="<!--[slogan]-->">
+<meta name="Keywords" content="<!--[keywords]-->">
+<meta name="Author" content="<!--[sitename]-->">
+<meta name="Copyright" content="Copyright (c) 2005 by <!--[sitename]-->">
+<meta http-equiv="Content-Type" content="text/html; charset=<!--[charset]-->">
+<meta name="Robots" content="index,follow">
+<meta name="Resource-Type" content="document">
+<meta http-equiv="Expires" content="0">
+<meta name="Revisit-After" content="1 days">
+<meta name="Distribution" content="Global">
+<meta name="Generator" content="PostNuke - http://postnuke.com">
+<meta name="Rating" content="General">
+<link rel="alternate" href="backend.php" type="application/rss+xml" title="<!--[sitename]-->">
+<link rel="icon" href="<!--[$imagepath]-->/icon.png" type="image/png">
+<link rel="shortcut icon" href="<!--[$imagepath]-->/favicon.ico">
+<!--[modulestylesheet]-->
+<link rel="StyleSheet" href="<!--[$themepath]-->/style/style.css" type="text/css">
+<!--[additional_header]-->
+<script type="text/javascript" src="javascript/showimages.js"></script>
+<script type="text/javascript" src="javascript/openwindow.js"></script>
+<script type="text/javascript">
+<!--
+function hideLoadingPage() {
+	document.getElementById ? document.getElementById('loading').style.display = 'none' // DOM
+	: document.all ? document.all.loading.style.display = 'none'  // IE 4
+	: null; // unsupported
+}
+//-->
+</script>
+</head><!-- News template -->
+<body onload="hideLoadingPage();">
+  <div id="loading" align="center" onclick="hideLoadingPage()">
+    <b><!--[pnml name=_Loading]--></b><br /><br />
+<!--  <img src="<!--[$themepath]-->/images/loading.gif"><br /> -->
+    <script type="text/javascript" src="<!--[$themepath]-->/javascript/loadtimerbar.js"></script><br />
+    <!--[pnml name="_LoadMsg1"]--><br /><!--[pnml name="_LoadMsg2"]-->
+  </div>
+<table border="0" cellpadding="0" cellspacing="0" width="<!--[$pagewidth]-->">
+  <tr> 
+    <td rowspan="5" style="width:39px; background-color:#006699;"><img src="<!--[$imagepath]-->/HeaderLeft.png" width="39" height="150" alt="" /></td>
+    <td colspan="3" style="height:14px; background-color:#006699;"><img src="<!--[$imagepath]-->/HeaderTop3.png" width="516" height="14" alt="" /></td>
+    <td style="width:100%; background-color:#006699;background-image:url(<!--[$imagepath]-->/BlueFillTop.gif);"></td>
+    <td rowspan="2" style="width:26px; background-color:#006699;"><img src="<!--[$imagepath]-->/HeaderTop2.png" width="26" height="39" alt="" /></td>
+    <td rowspan="2" align="right" style="width:199px; background-color:#000000;">
+      <div class="slogan" align="right"><!--[datetime]-->&nbsp;&nbsp;</div>
+    </td>
+  </tr>
+  <tr> 
+    <td style="width:21px;height:25px;"><img src="<!--[$imagepath]-->/HeaderTop1.png" width="21" height="25" alt="" /></td>
+    <td colspan="2" style="background-color:#000000;height:25px;"><img src="<!--[$imagepath]-->/spacer.gif" width="1" height="1" alt="" />
+	<span class="slogan"><!--[sitename]--></span></td>
+    <td bgcolor="#000000" valign="top" height="25">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="3" style="background-color:#006699; height:24px;"><img src="<!--[$imagepath]-->/BannerTop1.png" width="516" height="24" alt="" /></td>
+    <td rowspan="3" style="background-color:#006699; background-image:url('<!--[$imagepath]-->/BlueFill.gif');" valign="top">&nbsp;</td>
+    <td colspan="2" rowspan="3" style="background-color:#006699;width:225px;background-image:url(<!--[$imagepath]-->/BlueFill.gif);"><img src="<!--[$imagepath]-->/HeaderEye.png" width="225" height="111" alt="" /></td>
+  </tr>
+  <tr style="background-color:#006699;"> 
+    <td style="width:21px; height:63px;"><img src="<!--[$imagepath]-->/BannerLeft1.png" width="21" height="63" alt="" /></td>
+    <td style="width:474px;background-image:url('<!--[$imagepath]-->/BannerContentBG.png');" valign="top"><!--[pnbannerdisplay]--></td>
+    <td style="width:21px"><img src="<!--[$imagepath]-->/BannerRight1.png" width="21" height="63" alt="" /></td>
+  </tr>
+  <tr> 
+    <td colspan="3" style="height:24px; background-color:#006699;"><img src="<!--[$imagepath]-->/BannerBottom1.png" width="516" height="24" alt="" /></td>
+  </tr>
+  <tr> 
+    <td colspan="4" valign="top"><img src="<!--[$imagepath]-->/HeaderBottom.png" width="555" height="8" alt="" /></td>
+    <td colspan="3" valign="top"><img src="<!--[$imagepath]-->/BottomShadow.gif" width="100%" height="8" alt="" /></td>
+  </tr>
+</table>
+<!-- End Header -->
+
+<table width="<!--[$pagewidth]-->" border="0" cellpadding="0" cellspacing="0" style="background-image:url(<!--[$imagepath]-->/stripe_background.gif);" id="main">
+  <tr>
+    <td width="42" align="left" valign="top" bgcolor="#FFFFFF"><img src="<!--[$imagepath]-->/Left-News.png" width="42" alt="" /></td>
+    <td id="LeftCol" width="<!--[$lcolwidth]-->" valign="top" style="width:<!--[$lcolwidth]-->;background-image:url(<!--[$imagepath]-->/BlueStripeBgrnd.gif);">
+	<!-- Left column start -->
+	<!--[$leftblocks]--><!--[* blockposition name=left *]-->
+	<!-- Left column end -->
+	</td>
+    <td id="CenterCol" style="width:100%;" valign="top">
+	<!-- Center block start --> 
+	<!--[$maincontent]-->
+	<!-- Center block end -->
+	</td>
+  </tr>
+</table>
+<!-- Footer Slogan -->
+<table id="footer" width="<!--[$pagewidth]-->" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="42" align="right"><img src="<!--[$imagepath]-->/BottomLeft.png" width="42" height="25" alt="" /></td>
+    <td><img src="<!--[$imagepath]-->/Footerdot.png" width="167" height="25" alt="" /></td>
+    <td class="slogan" style="background-color:#000000; width:100%; text-align:right;"><!--[slogan]--></td>
+  </tr>
+</table>
+<div id="footermsg" style="width:<!--[$pagewidth]-->"><!--[footmsg]--></div>
+<!--[nocache]--><!--[pagerendertime]--><!--[/nocache]-->
+<!--[typetoolv80]-->
+</body>
+</html>

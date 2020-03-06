@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body {
+	background: white;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	}
+	
+#Masthead { display: none; }
+	
+#Content {margin: 0!important; }
+	#Content a:link:after, #Content a:visited:after {
+   		content: " (" attr(href) ") ";
+	   font-size: 90%;
+	   }
+	   .interior { width: 725px !important; }
+	
+#LeftNav, #Footer {display: none;}
+

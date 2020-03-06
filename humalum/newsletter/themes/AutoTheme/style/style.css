@@ -1,0 +1,8 @@
+body				{ font-family: Verdana; font-size: 11px; color: #000000; background-color: #99CC00 }
+table        		{ font-family: Verdana; font-size: 11px; color: #000000 }
+a:link       		{ color: #660066; text-decoration: none }
+a:active     		{ color: #660066; text-decoration: none }
+a:visited    		{ color: #660066; text-decoration: none }
+a:hover      		{ color: #660066; text-decoration: underline }
+.pn-logo, .pn-title, .pn-pagetitle	{ font-weight: bold; font-size: 14px; color: #660066 }
+input.pn-button     { color: #FFFFFF; background-color: #660066; font-weight: bold }

@@ -1,0 +1,387 @@
+/*
+  The 'Cascade' in Cascading Style Sheets mean elements inherit the styles of parent tags (eg TD is a 'child' of the BODY tag), 
+  but new style definitions will override or add to earlier ones. Also more specific definitions have precedence 
+  over more generic styles, eg "TD.style1 A:link" overrides "A:link" as it's more specific. 
+  Closer styles have precedence over more distant ones, eg in <TABLE class="style1"><TR><TD class="style2"> 
+  style2 has precedence, because it's closer, but the TD element (and its 'children') may still inherit styles 
+  from style1 not defined in style2.
+
+  NOTE: To switch on IE6's CSS1Compat mode (Standards mode), 
+  you must include a full !DOCTYPE in the document header complete with the URL to the DTD. 
+  See http://msdn.microsoft.com/workshop/author/dhtml/reference/properties/compatmode.asp 
+*/
+
+BODY, FONT, SPAN, TD, P, INPUT, TEXTAREA, SELECT {
+	font: normal 11px/120% Arial, Helvetica, sans-serif; 
+}
+BODY {
+	background: white;
+	margin: 0px;
+	/* IE styles */
+	scrollbar-face-color: #006699; 
+	scrollbar-track-color: White; 
+	scrollbar-arrow-color: #87CEFA; 
+	scrollbar-shadow-color: Navy; 
+	scrollbar-3dlight-color: #ADD8E6; 
+	scrollbar-darkshadow-color: Black;
+	buttonface: #FF0000;
+}
+INPUT, SELECT, TEXTAREA { 
+	border: 1px solid #004078;
+	background-color: #739FC4;
+}
+INPUT, TEXTAREA {
+	padding: 3px; 
+}
+INPUT:hover,
+SELECT:hover,
+TEXTAREA:hover {
+	border-color: #739FC4; /*#004078; */
+}
+INPUT:focus, 
+SELECT:focus, 
+TEXTAREA:focus {
+	background-color: #A8C4DB; 
+	border: 1px solid #004078;
+}
+
+/* Style the old module tables with BORDER attribute and no class. 
+   Deprecated when all old modules are updated with CSS or inline styles.
+   Only works in standards-compliant browsers, so no IE.
+*/
+TABLE[border="1"],
+TABLE[border="2"], 
+TABLE[border="3"] { 
+	border: 0px; 
+	border-spacing: 0px 3px;
+	margin-bottom: 15px;
+}
+TABLE[border="1"] TD, 
+TABLE[border="1"] TH,
+TABLE[border="2"] TD, 
+TABLE[border="2"] TH, 
+TABLE[border="3"] TD, 
+TABLE[border="3"] TH { 
+	text-align: left;
+	border: 1px solid #4C5EA8;
+	margin: 0px;
+	padding: 3px 0.6em;;
+}
+TABLE[border="1"] TH,
+TABLE[border="2"] TH, 
+TABLE[border="3"] TH {
+	font-size: 13px;
+	border-left: 0px;
+	border-right: 0px;
+	background-color: #A8C4DB; /* #EBF2FD #ACB2D4; */
+	text-align: center;
+}
+
+TH { font-size: 14px; }
+
+LI { margin: 0px; }
+A IMG, IMG { border: 0px; }
+
+A:link, A:visited {
+	color: #333333; 
+	text-decoration: none; 
+}
+A:hover, A:active {
+	color: #006699; /* #1E90FF; */ 
+	text-decoration: underline; 
+	font-variant : normal; 
+}
+
+/* Main column styles */
+#main {
+	background: #FFF url('../images/stripe_background.gif');
+}
+#LeftCol, 
+#RightCol {
+	width: 150px;
+	vertical-align: top;
+	text-align: left;
+	padding-top: 4px;
+}
+#LeftCol {
+	padding-left: 10px;
+	border-left: 1px solid #0B5578;
+	background: #D4E2ED url("../images/BlueStripeBgrnd.gif");
+}
+#RightCol {
+	padding-right: 10px;
+	border-right: 1px solid #0B5578; 
+} 
+/*  IE hacks, "* HTML" style only read by IE, as it selects nothing */
+/* 
+    IE6 only uses the standard W3C Boxmodel in CSS1Compat mode, which requires a full Doctype declaration with Label and URL to the DTD.
+    It defaults to BackCompat mode, which works like previous versions of IE. 
+*/
+* HTML #LeftCol, 
+* HTML #RightCol {
+	width: 160px; /* IE 5.x uses non-standard Box Model */
+	wid\th: 150px;  /* IE 6 can uses W3C Standard box model (in CSS1Compat mode), IE 5.x chokes on escape character */
+}
+#CenterCol { 
+	vertical-align: top;
+	padding: 0px 15px;
+	padding-top: 4px;
+}
+#CenterBlocks TD, 
+#CenterBlocks DIV {
+	margin-bottom: 15px;
+}
+#footer {
+	margin: 0px;
+	height: 25px;
+	background: #FFF;
+	border: 0px;
+}
+#topmenu { 
+	border-top: 2px solid #005177; 
+	background: #006699;
+	height: 26px;
+	text-align: center;
+}
+#topmenu, 
+#topmenu A {
+	color: #C5DFF0; 
+	font-weight: 700; 
+	text-decoration: none; 
+	padding: 2px 6px;
+}
+#topmenu A:hover {
+	color: #004078; /*#C5DFF0;*/ 
+	background-color: #739FC4;
+/*	font-weight: 700; */ 
+}
+DIV#footermsg {
+	width: 780px;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: auto;
+}
+#banner {
+	padding: 5px; 
+	text-align: center;
+}
+
+/* Main menu block, where UL has id pnMainMenu */
+#pnMainMenu {
+    padding-left: 1em;
+    margin-left: 0em;
+}
+
+/**** Titles ****/
+H1, 
+.pn-pagetitle { 
+	font-size: 18px;
+	font-weight: 700;
+	color: #006699; /* #003366; */ 
+	line-height: 130%;
+	text-align: center;
+	text-decoration: none; 
+	margin-top: 3px;
+	margin-bottom: 6px;
+	padding: 6px;
+}
+H2, 
+.pn-title {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	font-weight: bold; 
+	color: #003366; 
+	text-decoration: none;
+}
+H4, 
+.storytitle { 
+	font-size: 12px;
+	line-height: 130%;
+	font-weight: bold;
+	color: #363636; 
+	margin-top: 0px;
+	margin-bottom: 3px;
+	text-decoration: none; 
+}
+H4.storytitle img { /* align Article image */
+	margin-bottom: -5px;
+}
+H4.blocktitle, 
+H4.BlockTitleRight, 
+#CenterBlocks H4.pn-title {
+	color: #003366; 
+	font-size: 13px; 
+	font-weight: bold; 
+	text-decoration: none; 
+	margin-top: 0px;
+	margin-bottom: 3px; 
+}
+
+/* News title links */
+H4.storytitle a:link,
+H4.storytitle a:visited { 
+	font-size: 12px;
+	font-weight : bold;
+	color: #333333;
+	text-decoration: none;  
+}
+H4.storytitle a:hover,
+H4.storytitle a:active  { 
+	font-size: 12px;
+	font-weight : bold;
+	color: #1E90FF; 
+	text-decoration: none; 
+}
+/*
+DIV H4.BlockTitleRight,
+DIV H4.blocktitle {   Hand cursor for block titles 
+	cursor: pointer;  W3C standard 
+	cursor: hand;     IE only 
+}
+*/
+
+/* Loading message */
+DIV#loading {
+	font-size: 11px; 
+	color: #000;
+	position: fixed;
+	z-index: 100;
+	width: 300px;
+	left: 50%; top: 50%;
+	margin-left: -166px; 
+	margin-top: -56px;
+	text-align: center;
+	padding: 15px;
+	border: 1px solid #333;
+	background-color: #EFEFEF; /* #eee; */
+	cursor: pointer; cursor: hand;
+}
+* html DIV#loading { position: absolute; } /* IE hack */
+DIV#PBouter, DIV#PBdone { margin-left: auto; margin-right: auto; }
+
+
+.slogan {
+	color: #C5DFF0; 
+	font-size: 14px; 
+	font-weight: 700; 
+	text-decoration: none; 
+	padding-right: 15px;
+}
+
+/* News articles */
+.ArticleBlock {
+	border: 1px solid #5189B7; 
+	margin-bottom: 15px;
+}
+.ArticleHead {
+	color: black;
+	padding: 4px 10px;
+	background: #D4E2ED url('../images/BlueStripeBgrnd.gif');
+	border-bottom: 1px solid #5189B7; 
+	clear: both;
+}
+.Article {
+	padding: 6px;
+	background: white;
+}
+DIV.pn-sub img { /* Print this and Email this images */
+	margin-bottom: -3px;
+}
+
+.note {
+	font-family: "Times New Roman", Times, serif; 
+	color: #006699; 
+	font-size: 11px; 
+	font-weight: bold; 
+	text-decoration: none; 
+}
+.reads {
+	color: #000000; 
+	font-size: 10px; 
+	font-weight: normal; 
+	text-decoration: none; 
+	clear: both;
+}
+.more {
+	clear: both;
+	margin-top: -15px;
+}
+* html .more { /* IE hack */
+	margin-top: 0px; 
+}
+
+/* Side blocks */
+.BlockContent {
+	color: #000000; 
+	background: #D4E2ED url('../images/BlueStripeBgrnd.gif');
+	padding: 6px;
+	padding-left: 10px;
+	border-top: 2px solid #004D71;
+	border-right: 1px solid #EAF1F7; /*#D4E2ED; */
+	border-bottom: 1px solid #5189B7; /*#D4E2ED; */
+}
+.LeftBlock {
+	padding: 3px;
+	width: 144px; /* 150-6px */
+	margin-bottom: 15px;
+}
+* HTML .LeftBlock { /* IE hack to compensate for different box model */
+	width: 150px; 
+	wid\th: 144px; 
+}
+
+/* General */
+.clear { clear: both; }
+
+.content {
+	color: #003366; 
+	font-size: 11px; 
+}
+.pn-sub, DIV.pn-sub A, FONT.pn-sub A {
+	font-size: 11px;
+	color: #003366;
+}
+.pnleft {
+	float: left;
+	text-align: left;
+/*	vertical-align: middle; */
+/*	clear: left; */
+}
+.pnright {
+	float: right;
+	text-align: right;
+/*	clear: right; */
+}
+.TopicImgLeft {
+	float: left; 
+	vertical-align: top;
+	margin-left: -2px;
+	margin-right: 6px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+}
+.TopicImgRight {
+	float: right;
+	vertical-align: top;
+	margin-left: 6px;
+	margin-right: -2px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+}
+.pntable1,
+.container,
+.opentable1 {
+	border: 1px solid #739FC4; /* $bgcolor2 */
+	background: #D4E2ED url('../images/BlueStripeBgrnd.gif');  /* $bgcolor1 */
+	padding: 8px;	
+	margin: 0px 0px 15px 0px;
+/*	margin-left: auto; margin-right: auto; */
+}
+.opentable2 {
+	background: #D4E2ED; 
+	border: 2px solid #739FC4; /* $bgcolor2 */
+	padding: 6px 12px;
+	margin: 6px;
+	margin-left: auto; margin-right: auto;
+}

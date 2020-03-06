@@ -1,0 +1,590 @@
+/*
+  The 'Cascade' in Cascading Style Sheets mean elements inherit the styles of parent tags (eg td is a 'child' of the body tag), 
+  but new style definitions will override or add to earlier ones. Also more specific definitions have precedence 
+  over more generic styles, eg "td.style1 a:link" overrides "a:link" as it's more specific. 
+  Closer styles have precedence over more distant ones, eg in <table class="style1"><tr><td class="style2"> 
+  style2 has precedence, because it's closer, but the td element (and its 'children') may still inherit styles 
+  from style1 not defined in style2.
+
+  NOTE: To switch on IE6's CSS1Compat mode (Standards mode), 
+  you must include a full !DOCTYPE in the document header complete with the URL to the Dtd. 
+  See http://msdn.microsoft.com/workshop/author/dhtml/reference/properties/compatmode.asp 
+*/
+body {
+	font: 11px/140% Geneva, Verdana, Helvetica, Arial; 
+	color: #333333;
+	background: #FFFFFF;  
+	margin: 0px;
+	padding: 0px;
+	
+}
+table, div  { 
+	font: 11px/140% Geneva, Verdana, Helvetica, Arial; 
+}
+
+input,
+textarea,
+textarea.pn-normal,
+select.pn-normal,
+select.pn-text {
+	font-size: 10pt;
+	color: #000000;
+	max-width: 500px; 
+	background: #F3F3F3; /* #EBF2FD;  */
+	border: 1px solid #000000; 
+}
+input,
+input.pn-normal,
+input.pn-text,
+input.pn-button,
+textarea,
+textarea.pn-normal,
+textarea.pn-text {
+	padding: 1px 6px;
+}
+
+textarea.pn-normal { width: 100%; }
+* html textarea.pn-normal { padding: 1px 0px;} /* IE fix */
+
+input.pn-button {
+	border-collapse: collapse
+}
+input.r-button {
+	font-size: 10pt;
+	color: #000000; 
+	BACKGROUND : none; 
+}
+input:hover,
+input.pn-normal:hover, 
+select:hover,
+select.pn-normal:hover, 
+textarea:hover {
+	border-color: #FF6600;
+}
+input:focus, 
+input.pn-normal:focus,
+select:focus, 
+select.pn-normal:focus, 
+textarea:focus {
+	background-color: #EBF2FD; /* #DCE5ED; */
+	border-color: #FF6600;
+}
+.pnRightBlock input:focus { background-color: #FFF; }
+
+/* Temporary fix for old modules in standards browsers */
+table[border="1"],
+table[border="2"], 
+table[border="3"] { 
+	border: 0px; 
+	border-collapse: collapse;
+	margin-bottom: 15px;
+}
+table[border="1"] td, 
+table[border="1"] th,
+table[border="2"] td, 
+table[border="2"] th, 
+table[border="3"] td, 
+table[border="3"] th { 
+	text-align: left;
+	border: 2px solid #4C5EA8; 
+	margin: 0px;
+	padding: 3px 0.5em;
+} 
+table[border="1"] th,
+table[border="2"] th, 
+table[border="3"] th {
+	font-size: 11px;
+	background-color: #EBF2FD; /* #ACB2D4; */
+	text-align: center;
+}
+th { font-size: 14px; }
+
+#LeftCol, 
+#RightCol {
+	vertical-align: top;
+	text-align: left;
+	line-height: 1.2em;
+	padding-top: 10px;
+}
+#LeftCol {
+	width: 140px;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+#RightCol {
+	width: 150px;
+}
+/*  IE hacks, "* html" style only read by IE, as it selects nothing */
+/* 
+    IE6 only uses the standard W3C Boxmodel in CSS1Compat mode, which requires a full Doctype declaration with Label and URL to the Dtd.
+    It defaults to BackCompat mode, which works like previous versions of IE. 
+*/
+* html #LeftCol {
+	width: 155px; /* IE 5.x uses non-standard Box Model */
+	wid\th: 140px;  /* IE 6 can uses W3C Standard box model (in CSS1Compat mode), IE 5.x chokes on escape character */
+} 
+/* 
+* html #RightCol {
+	width: 160px;
+	wid\th: 150px;
+}
+*/
+#CenterCol {
+	padding: 15px 15px 15px 0px;
+	vertical-align: top;
+	text-align: left;
+}
+
+#header {
+/*	width: 100%; */
+	height: 91px;
+	clear: both;
+	background-color: #f3f3f3;
+	background-image: url("../images/hbkg.png"); 
+	margin-bottom: 0px;
+}
+#topmenu {
+	margin: 0px;
+	padding: 8px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-align: center;
+	vertical-align: middle; 
+	clear: both;
+	background-color: #f3f3f3; 
+}
+#topmenu a {
+	text-decoration: none;
+}
+#bottomMenu {
+	font-size: 10px;
+	text-align: center;
+	background-color: #DFE5FF; 
+	border: 1px solid #7C82A4;
+	border-width: 1px 0px;
+	height: 15px
+	margin: 0px;
+	padding: 3px 0;
+	clear: both;
+}
+#footer{
+	font-size: 10px;
+	color: #666;
+	background-color: #F3F3F3; 
+	text-align: center;
+	margin: 0px;
+	padding: 15px;
+	clear: both;
+}
+
+/* Main menu in PN 0.76+ */
+#pnMainMenu {
+    padding-left: 1em;
+    margin-left: 0em;
+}
+/* Stories block menu */
+.storiesmenu {
+    padding-left: 1em;
+    margin-left: 0em;
+}
+
+
+/* Center blocks and admin messages */
+div#CenterBlocks {
+	font: normal 10pt Verdana, Helvetica, Arial, sans-serif;
+}
+#CenterBlocks .pn-title {
+	font: bold 14px Verdana, Helvetica, Arial, sans-serif;
+	color: #CC6600; /*#4C5EA8; #006699 #003366;*/
+}
+#CenterBlocks td, 
+#CenterBlocks div {
+	margin-bottom: 15px;  
+/*	font: normal 11px/120% Helvetica, Arial, sans-serif;  */
+}
+
+.pn-normal,
+td.pn-normal {
+	font: 8pt Verdana, Helvetica, Arial, sans-serif;/* 8pt */
+	line-height: 1.3em;
+	text-align: left;
+	color: #666666; /* #191919 */
+	background: none; 
+	text-decoration: none; 
+}
+a img, img {	border: 0px; }
+
+/* Anchor styles */
+a:link, a:visited {
+	color: #4C5EA8;
+	text-decoration: underline;
+	background: none;
+}
+a:hover, 
+a:active {
+	color: #CC6600;
+}
+a.pn-normal:link,
+a.pn-normal:visited {
+	color: #4C5EA8; 
+	text-decoration: underline;
+	background: none; 
+}/*#191919;*/
+a.pn-normal:hover {
+	color: #CC6600;
+	text-decoration: underline;
+	background: none; 
+}
+a.pn-normal:active {
+	color: #FF9900; /*#F3F3F3;*/
+	text-decoration: underline;
+	background: none; 
+}
+
+/* Titles */
+.pn-title {
+	font: bold 14px/150% Verdana, Helvetica, Arial, sans-serif;  /* 12px/26px */
+	color: #CC6600; /* orange */ /* #990000; #4C5EA8; #006699 #003366;*/
+	text-align: center;
+	text-decoration: none;
+	background: none; 
+	margin-top: 0.5em;
+	margin-bottom: 6px;
+}
+h1,
+h1.pn-pagetitle {
+	font: bold 18px/150% Verdana, Helvetica, Arial, sans-serif;
+	color: #4C5EA8; /* dark purple */
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 1pt;
+	background: none; 
+	margin-top: 0.3em;
+	margin-bottom: 5px;
+}
+h2,
+h2.pn-title {
+	font: bold 16px Verdana, Helvetica, Arial, sans-serif;
+	color: #4C5EA8;
+	text-align: center;
+}
+h3, 
+h3.pn-title {
+	font: bold 14px Verdana, Helvetica, Arial, sans-serif;
+	color: #4C5EA8;
+	text-decoration: none;
+	text-align: center;
+	background: none;
+	margin-top: 3px;
+	margin-bottom: 6px;
+	padding: 6px;
+}
+h4, 
+h4.pn-title { 
+	font-size: 12px;
+	line-height: 130%;
+	font-weight: bold;
+	color: #4C5EA8; 
+	margin-top: 1em;
+	margin-bottom: 3px;
+	text-decoration: none; 
+}
+td.pn-title { 
+	font: bold 14px/150% Verdana,Helvetica,sans-serif; 
+	color: #4C5EA8;
+	text-decoration: none;
+	background: none; 
+}
+a.pn-title {
+	font-weight: bold;
+	color: #CC6600;
+	text-decoration: underline;
+	background: none;
+}
+span.pn-title,
+a.pn-title:link,
+a.pn-title:visited {
+	color: #4C5EA8;
+	text-decoration: underline;
+}
+a.pn-title:hover {
+	color: #CC6600;
+	text-decoration: underline;
+}
+a.pn-title:active { 
+	color: #FF9900;
+	text-decoration: underline;
+}
+
+/* used in /templates/modules/News/newsuserdisplay.htm */
+.pn-art {
+	font: 10pt/1.5em Verdana, Helvetica, Arial, sans-serif;
+	color: #191919;
+	background: none;
+	text-decoration: none;
+}
+
+/* "More" and "Posted by" text */
+.pn-sub {
+	font: 10px Verdana, Helvetica, Arial, sans-serif;
+	color: #666666;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+a.pn-sub:link {
+	color: #666666;
+	text-decoration: underline;
+	background: none;
+}
+a.pn-sub:visited {
+	color: #4C5EA8; }
+a.pn-sub:hover {
+	color: #CC6600; }
+a.pn-sub:active {
+	color: #FF9900; }
+
+div.pn-sub a.pn-normal {
+	font: 8pt Verdana, Helvetica, Arial, sans-serif; 
+	color: #666666;
+} 
+div.pn-sub a.pn-normal:visited {
+	color: #4C5EA8;
+}
+div.pn-sub a.pn-normal:hover {
+	color: #CC6600;
+}
+div.pn-sub a.pn-normal:active {
+	color: #FF9900;
+}
+
+/* News articles */
+.ArticleBlock {
+	margin-bottom: 0.8em;
+}
+.ArticleHead {
+	margin-bottom: 6px;
+}
+.Article {
+	background: white;
+	line-height: 1.3em;
+}
+.storytitle, pn-storytitle { 
+	font-size: 12px;
+	line-height: 130%;
+	font-weight: bold;
+	color: #4C5EA8; 
+	margin-top: 1em;
+	margin-bottom: 3px;
+	text-decoration: none; 
+}
+h4.storytitle img { /* align Article image */
+	margin-bottom: -5px;
+}
+
+div.pn-sub img { /* Print this and Email this images */
+	margin-bottom: -3px;
+}
+.note { margin-bottom: 1.2em; }
+
+/* News title links */
+h4.storytitle {
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: underline; 
+}
+h4.storytitle a:link,
+h4.storytitle a:visited { 
+	color: #4C5EA8; 
+}
+h4.storytitle a:hover,
+h4.storytitle a:active  { 
+	color: #CC6600; 
+} 
+
+/* Block titles */
+h4.blocktitle, 
+h4.BlockTitleRight, 
+#CenterBlocks h4.pn-title {
+	color: #CC6600; /* #4C5EA8 */
+	font-size: 13px; 
+	font-weight: bold; 
+	text-decoration: none; 
+	margin-top: 0px;
+	margin-bottom: 3px; 
+}
+
+/* Block styles */
+.pnLeftBlock {
+	width: 144px; /* 150-6px */
+	padding: 3px;
+	margin-bottom: 15px;
+}
+.pnRightBlock {
+	width: 145px; /* 165-20*/
+	background-image: url('../images/right_bkg.png');
+	padding: 13px 10px 15px 10px;
+	margin-bottom: 15px;
+	margin-right: 6px;
+	border-right: 2px solid #CC6600;
+}
+/* IE hack to compensate for different box model */
+* html .pnLeftBlock { 
+	width: 150px; 
+	wid\th: 144px; 
+}
+* html .pnRightBlock { 
+	width: 165px; 
+	wid\th: 145px; 
+}
+
+/* menu styles */
+.pn-menu {
+	text-align: center;
+}
+.pn-menuitem-title {
+	text-align: center;
+}
+
+
+/* Loading message */
+div#loading {
+	font-size: 11px; 
+	color: #000;
+	position: fixed;
+	z-index: 100;
+	width: 300px;
+	left: 50%; top: 50%;
+	margin-left: -166px; 
+	margin-top: -56px;
+	text-align: center;
+	padding: 15px;
+	border: 1px solid #333;
+	background-color: #EFEFEF; /* #eee; */
+	cursor: pointer; cursor: hand;
+}
+* html div#loading { position: absolute; } /* IE hack */
+div#PBouter, div#PBdone { margin-left: auto; margin-right: auto;}
+
+/* **********
+** Corners **
+*********** */
+.CornerSpacer {
+	margin: 0px; 
+	padding: 0px; 
+	border: 0px;
+	font-size: 1px; 
+	line-height: 1px;
+	clear: both;
+}
+.borderTL, .borderTR, .borderBL, .borderBR {
+	padding: 0px; border: 0px;
+}
+/* Corner dimensions: top: 15w x 13h  bottom: 11w x 11h */
+/* Padding: Top 13px  Right 10px  Bott 15px  Left 10px; */
+/* Top: -padding -border */
+.borderTL { 	float:  left; clear: both;	margin: -13px  0px  0px -10px; z-index: 99; top: 30; }
+.borderTR {	float: right; clear: right;	margin: -13px -10px  0px  0px; z-index: 99; top: 30; }
+/* Bottom: -(image heigh) -padding -border */
+.borderBL {	float:  left; clear: both;	margin: -26px  0px  0px  0px; z-index: 99 } 
+.borderBR {	float: right; clear: right;	margin: -26px  0px  0px  0px; z-index: 99 }
+/* IE 5.x hack to fix 3px bug, exploiting other IE bugs 
+   * html selects nothing, only IE acts on it      
+   If IE6 isn't in CSS1Compat mode (full !DOCTYPE with URL), comment out 2nd line with escape character 
+*/
+* html .borderTL { 
+	margin-left: -13px; /* Fix IE 5.x 3px bug */
+	ma\rgin-left: -10px; /* Reset IE6, IE5.x chokes on escape character */
+}
+* html .borderTR  {
+	margin-right: -13px; /* content padding + 3px */
+	ma\rgin-right: -10px;
+}
+* html .borderBL {
+	margin-left: -3px;
+	ma\rgin-left: 0px;
+}
+* html .borderBR {
+	margin-right: -3px;
+	ma\rgin-right: 0px;
+}
+/**************************/
+
+/* General*/
+.clear  { clear: both; }
+.nobreak   { white-space: nowrap; }
+.pnleft {
+	vertical-align: middle; 
+	float: left;
+/*	clear: left; */
+	text-align: left;
+}
+.pnright {
+	float: right;
+/*	clear: right; */
+	text-align: right;
+}
+
+/* News topic image styles */ 
+.TopicImage,
+.TopicImageLeft {
+	float: left; 
+	vertical-align: top;
+	margin-left: -2px;
+	margin-right: 6px;
+	margin-top: 3px;
+	margin-bottom: 4px;
+}
+.TopicImageRight {
+	float: right;
+	vertical-align: top;
+	margin-left: 6px;
+	margin-right: -2px;
+	margin-top: 3px;
+	margin-bottom: 4px;
+}
+.pntable1,
+.container,
+.opentable, 
+.opentable1 {
+	border: 1px solid #CCCCCC; /* $bgcolor2 */
+	background: #F3F3F3;  /* $bgcolor1 */
+	padding: 8px;	
+	margin: 0px 0px 15px 0px;
+/*	margin-left: auto; margin-right: auto; */
+}
+.pntable2,
+.opentable2 {
+	background: #E6E6E6; 
+	border: 2px solid #739FC4; /* $bgcolor2 */
+	padding: 6px 12px;
+	margin: 6px;
+	margin-left: auto; margin-right: auto;
+}
+
+/* 
+.pn-logo {
+	font: medium Verdana, Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-decoration: none;
+	background: none;
+}
+a.pn-logo {		color: #CC6600; }	
+a.pn-logo:link,
+a.pn-logo:visited {	color: #FFFFFF; }
+a.pn-logo:hover {	color: #CC6600; }
+a.pn-logo:active {	color: #FFFFFF; }
+.pn-logo-small {
+	font: 8pt Verdana, Helvetica, sans-serif;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+	background: none;
+}
+.Toplinks {
+	color: #000000; 
+	font: 7pt Verdana, Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	padding: 0em 2em 0em 0em; 
+}  */

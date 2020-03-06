@@ -1,0 +1,57 @@
+ ----------------------------------------------------------------------
+ Copyright (c) 2002-2004 "Predatorial-Tendencies.com"
+ http:PREDATORIAL-TENDENCIES.COM
+ ----------------------------------------------------------------------
+ LICENSE
+
+ PREDATORIAL-TENDENCIES grants to you a NON-EXCLUSIVE, NON-TRANSFERABLE right
+ to use the software which is supplied through our web site in accordance
+ with this license issued by our company.
+
+ (a) Copyright and Ownership - It is understood that the aquisition of software
+ from PREDATORIAL-TENDENCIES is ONLY a LICENSE TO USE OUR software and in no way
+ represents a transfer of ownership of the software itself. Copyright and ALL
+ other rights remain the sole property of PREDATORIAL-TENDENCIES.
+
+ (b) Backups/Public Servers - Downloaded software may be backed up or archived to
+ a server for internal or personal use only. Backups may only be used in the case
+ where the original software file has become defective. Other copying or storage
+ of the software for distribution to others is not permitted whether the intent may
+ be for sharing or for resale.
+
+ (d) Usage - The software may be utilized in whole or part, modified or altered as
+ necessary for your design without any further royalties due to PREDATORIAL-TENDENCIES,
+ except where utilization of the software violates prohibited usage described below.
+
+ Prohibited Use: It is understood that you are NOT permitted to:
+
+ (1) Use any software or derivative work for any pornographic, libelous or fraudulent
+ purpose.
+
+ (2) Resell or transfer the right to use, sub-license, or in any way distribute the
+ software, whether in whole or part, modified or altered, as part of a collection
+ or similar product where it is expressly stated or otherwise implied that the
+ purchaser or recipient is gaining the legal right to use the software in a new
+ product or design.
+
+ (3) Remove trademark, copyright or other file information that may be associated with
+ or embedded in the software.
+
+ (e) Credit - Giving credit to PREDATORIAL-TENDENCIES is not required but very much appreciated.
+ Where it does not interfere with your design or where other software is receiving credit
+ please credit "yourcompany.com".
+
+ (f) Termination - Should the user at any time fail to comply with the terms of this agreement
+ the license for use of the software shall be terminated. Should this occur, the user agrees
+ to cease using the software for any purpose and destroy all copies of the software purchased
+ from PREDATORIAL-TENDENCIES. The user must confirm in writing to PREDATORIAL-TENDENCIES that these
+ actions have indeed been taken.
+
+ (g) Warranties - Our products are provided "as is" without warranty of any kind, either expressed
+ or implied. In no event shall our juridical person be liable for any damages including, but not
+ limited to, direct, indirect, special, incidental or consequential damages or other losses arising
+ out of the use of or inability to use our products.
+
+ (h) Indemnification - You agree to indemnify PREDATORIAL-TENDENCIES against all claims or liability
+ asserted against PREDATORIAL-TENDENCIES in any disputes that may arise out of a breach of this agreement.
+ ----------------------------------------------------------------------

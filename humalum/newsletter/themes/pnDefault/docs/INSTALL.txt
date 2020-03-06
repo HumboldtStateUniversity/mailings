@@ -1,0 +1,70 @@
+// ----------------------------------------------------------------------------
+// LICENSE
+//
+// This program is free software; you can redistribute it and/or
+// modify it under the terms of the GNU General Public License (GPL)
+// as published by the Free Software Foundation; either version 2
+// of the License, or (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+// GNU General Public License for more details. 
+//
+// To read the license please visit http://www.gnu.org/copyleft/gpl.html
+// ----------------------------------------------------------------------------
+// Filename: pnDefault Beta v1.0
+// Original Author of file: Brook Humphrey
+// Website: http://www.webmedic.net, http://www.liquidthemes.com
+// Purpose of file: Xanthia Themes
+// ----------------------------------------------------------------------------
+// pnDefault is GPL and the Artwork and Layout are Public Domain.
+// http://www.centerpd.org/public_domain.htm
+// You may not claim Copyright ownership.
+//
+// This is the first edition of pnDefault. pnDefault can be used in a production environment now.
+// For any issues or questions please post them at the http://www.webmedic.net Forum.
+// Within a few weeks we will have up liquidthemes.com for support issues.
+// ----------------------------------------------------------------------------
+
+**Warning**
+
+The pnDefault themes will only work with the Xanthia Theme Engine properly installed. Xanthia themes are not compatible with Encompass themes and Encompass Themes are not compatible with Xanthia.
+
+1. Drop the folder pnDefault into your themes directory:
+
+2. Activate the Theme in your Administration Menu by clicking on the Xanthia admin icon > View Themes > Add Theme
+
+3. In Xanthia click "View this Theme" to make sure everything works.
+
+4. Set pnDefault as your default theme in your Administration Menu in Settings.
+
+5. For installing short URL's please read the read me text in the short URL's folder.
+
+DOCUMENTATION:
+
+We are in the process of creating a user manual for the next release of Xanthia.
+
+Please visit us at the www.webmedic.net Forum for further help and instructions.
+
+
+pnDefault ART LICENSING:
+
+You may use the art in pndefault for commercial and non commercial use.
+
+You may repackage, redistribute, or resell this theme any way you see fit, without direct written or signed confirmation from Gregory Remington. You may not claim copyright ownership of the theme or the artwork in it as they are registered as GPL and public domain.
+
+You may remove the bottom copyright on the theme.
+
+© Copyright 2003 www.webmedic.net pnDefault Series Beta I Theme created at www.webmedic.net
+
+
+DONATIONS:
+
+If you would like to send a donation to encourage Brook Humphrey to produce more Public Domain themes like Nexus please send them to PayPal to bah@webmedic.net. A suggested donation of $5.00 is appreciated but is not necessary.
+
+
+Enjoy!
+
+Brook Humphrey
+bah@webmedic.net

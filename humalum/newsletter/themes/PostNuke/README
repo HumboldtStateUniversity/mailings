@@ -1,0 +1,11 @@
+PostNuke Theme
+
+created by J. Cox (http://www.dinerminor.com)
+read the Theme Tutorial, it might answer a few questions.
+
+No php files were hurt during the creation of this theme.  No hardcoded colors are used in this theme.  If you would like to change the color scheme, please just change the variables at the very beginning of theme.php.  All font calls are CSS based.  If you would like to change the style of your site, please edit the styles/style.css file.
+
+Credits.
+
+Inspiration for design comes from http://www.php.net
+

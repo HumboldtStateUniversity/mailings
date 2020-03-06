@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="<!--[lang]-->">
+<head>
+<title><!--[title]--></title>
+<meta name="Description" content="<!--[slogan]-->">
+<meta name="Keywords" content="<!--[keywords]-->">
+<meta name="Author" content="<!--[sitename]-->">
+<meta name="Copyright" content="Copyright (c) 2005 by <!--[sitename]-->">
+<meta http-equiv="Content-Type" content="text/html; charset=<!--[charset]-->">
+<meta name="Robots" content="index,follow">
+<meta name="Resource-Type" content="document">
+<meta http-equiv="Expires" content="0">
+<meta name="Revisit-After" content="1 days">
+<meta name="Distribution" content="Global">
+<meta name="Generator" content="PostNuke - http://postnuke.com">
+<meta name="Rating" content="General">
+<link rel="alternate" href="backend.php" type="application/rss+xml" title="<!--[sitename]-->">
+<link rel="icon" href="<!--[$imagepath]-->/icon.png" type="image/png">
+<link rel="shortcut icon" href="<!--[$imagepath]-->/favicon.ico">
+<!--[modulestylesheet]-->
+<link rel="StyleSheet" href="<!--[$themepath]-->/style/style.css" type="text/css">
+<!--[additional_header]-->
+<script type="text/javascript" src="javascript/showimages.js"></script>
+<script type="text/javascript" src="javascript/openwindow.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function hideLoadingPage() {
+	document.getElementById ? document.getElementById('loading').style.display = 'none' // DOM
+	: document.all ? document.all.loading.style.display = 'none'  // IE 4
+	: null; // unsupported
+}
+//-->
+</script>
+</head><!-- NoColumns template -->
+<body onload="hideLoadingPage();">
+  <div id="loading" align="center" onclick="hideLoadingPage()">
+    <b><!--[pnml name=_LOADING]--></b><br /><br />
+<!--  <img src="<!--[$themepath]-->/images/loading.gif"><br /> -->
+    <script type="text/javascript" src="<!--[$themepath]-->/javascript/loadtimerbar.js"></script><br />
+    <!--[pnml name="_LOADMSG1"]--><br /><!--[pnml name="_LOADMSG2"]-->
+  </div>
+<div id="header">
+   	<a href="index.php"><img class="pnleft" src="<!--[$imagepath]-->/logoshort.png" width="230" height="91" border="0" align="top" alt="<!--[sitename]-->" /></A>
+	<div class="clear"></div>
+</div>
+<div id="topmenu" class="pn-sub" align="right">
+	<span class="pnleft"><!--[displaygreeting]--></span>
+	<span class="pnright">
+	<a href="index.php"><!--[pnml name="_HOME"]--></a>&nbsp;::
+	<a href="index.php?name=Downloads"><!--[pnml name="_DOWNLOAD"]--></a>&nbsp;::
+	<a href="index.php?name=Submit_News"><!--[pnml name="_SUBMITNEWS"]--></a>&nbsp;::
+	<a href="index.php?name=Reviews"><!--[pnml name="_REVIEWS"]--></a>&nbsp;::
+	<a href="index.php?name=FAQ"><!--[pnml name="_FAQ"]--></a>&nbsp;
+	</span>
+	&nbsp; <!-- You can put a center menu here-->
+	<div class="clear"></div>
+</div>
+<table id="main" width="<!--[$pagewidth]-->" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="background-color:#FFFFFF; width:17px;">
+    <img align="left" height="17" width="17" src="<!--[$imagepath]-->/lefttop.gif" alt="" />
+    </td><!-- Rounded corner -->
+    <td id="CenterCol" valign="top" style="background-color:#FFFFFF;">
+<!--[$maincontent]-->
+    </td>
+  </tr>
+</table>
+<!-- Footer -->
+<div id="bottomMenu" style="background-color:<!--[$color2]-->;"><!--#cccccc-->
+  <span class="pn-sub">&nbsp;</span>
+</div>
+<div id="footer" style="background-color:<!--[$color3]-->;"><!--#ffffff-->
+	<!--[footmsg]-->
+</div>
+<!--[nocache]--><!--[pagerendertime]--><!--[/nocache]-->
+<!--[typetoolv80]-->
+</body>
+</html>

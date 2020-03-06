@@ -1,0 +1,57 @@
+#global {
+margin-top:0;
+padding-top: 10px;
+}
+ #global li {
+	margin-bottom: 7px;
+	padding: 0;
+}
+p.intro {
+	font-size: 105%;
+}
+h1 a {
+border:none !important;
+}
+.supplemental li {
+	margin-bottom: 10px;
+	line-height: 1.3em !important;
+}
+
+#maincontent p {
+margin: 1.5em 0;
+}
+#maincontent h2 {
+	margin: 1em 0 5px;
+	font-size: 150%;
+	}
+#maincontent h3 {
+	margin: 0 0 .5em;
+	font-size: 125%;
+	font-weight:normal;
+	}
+#maincontent img{
+	float: right;
+	margin: 0 0 10px 10px;
+}
+#events h2 {
+	margin: 0;
+}
+#events h3 {
+	margin: 1em 0 0 0;
+}
+#events h4 {
+	margin: 1em 0 3px 1em;
+}
+#events p {
+	margin: 0 0 0 1em;
+}
+#maincontent .more {
+	text-align:right !important;
+	margin-top:-1.5em;
+	}
+#maincontent h2 {
+margin-bottom: 0 !important;
+}
+#maincontent p {
+margin-top: 0;
+}
