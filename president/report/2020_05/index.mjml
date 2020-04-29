@@ -193,6 +193,7 @@
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
+        <mj-image src="Research.jpg" alt="Zoom call for Student Research Comp" />
         <mj-text>
           <h2>
             HSU Students Excel at Student Research Competition
