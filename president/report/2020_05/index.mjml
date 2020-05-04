@@ -198,9 +198,7 @@
 
     </mj-section>
     <mj-section background-color="#F2F4EF">
-      <mj-column>
-        <mj-image src="Donors.jpg" alt="Donations" />
-      </mj-column>
+
       <mj-column>
         <mj-text>
           <h2>
@@ -209,7 +207,7 @@
           Donors are stepping up and supporting Humboldt State University students during this time, providing funds for technology, basic needs including food and housing, and healthcare. Donations also allowed the HSU Foundation to commit funds for four ventilators
           at St. Joseph Hospital as part of a community-wide effort to prepare. To find out how you can help, <a href="https://giving.humboldt.edu/humboldt-connected" class="dark">please visit the Humboldt Connected giving site</a>.
         </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsu-joins-with-public-health-to-produce-covid-19-test-kits/">
+        <mj-button href="http://now.humboldt.edu/news/donors-support-hsu-students-during-covid-19/">
           Donors Support HSU Students During COVID-19
         </mj-button>
       </mj-column>
