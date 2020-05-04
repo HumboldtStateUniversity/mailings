@@ -6,23 +6,7 @@
       <mj-all font-family="Arial" />
     </mj-attributes>
     <mj-style inline="inline">
-      h2 {
-        line-height: 28px;
-      }
-
-      a {
-        color: #fff;
-      }
-
-      a.dark {
-        color: #5C8021;
-      }
-
-      @media only screen and (max-width: 420px) {
-        .caption div {
-          text-align: center !important;
-        }
-      }
+      h2 { line-height: 28px; } a { color: #fff; } a.dark { color: #5C8021; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } }
     </mj-style>
   </mj-head>
   <mj-body background-color="#8D9495">
@@ -39,11 +23,14 @@
       </mj-column>
     </mj-section>
     <!-- Date -->
+
     <mj-section background-color="#25551B" padding="0">
       <mj-column width="70%">
+
         <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+
           <em>President's Report</em>
-        </mj-text>
+				</mj-text>
       </mj-column>
       <mj-column width="30%">
         <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
@@ -60,36 +47,78 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          Our communities have certainly been put to the test over the last two months.
-        </mj-text>
-        <mj-text>
-          During that time, I’ve been inspired by the resiliency of HSU students. They have stepped up to support their families, friends, and communities, all while adapting to unprecedented changes themselves.
+          Spring has arrived and the end of the academic year is here. When we spoke of a "new normal," did anyone have a year like this in mind?
 
         </mj-text>
         <mj-text>
-          I’m also proud of our faculty and staff, who succeeded in the massive undertaking of converting to virtual instruction, support, and operations. They continue to work hard to protect health and safety, and to ensure our students make progress toward their degree. Many have gone above and beyond their normal jobs. Campus community members have donated cloth face coverings for students. Donors have lent support to help with new technology needs of students as well as basic needs like food and housing. IT staff and librarians, custodians and food service workers, student athletes and vets, instructors and support staff, campus leaders and community members -- all of them and many others have pitched in to help us through this pandemic.
+          This has been an amazing year that has been filled with incredible stories of Humboldt success and adaptation. From July 2019 to today, here are just some of the incredibly positive stories about Humboldt.
+
         </mj-text>
-        <mj-text>Thank you to all of you!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+
+        <mj-text>
+          <ul>
+            <li><a href="http://now.humboldt.edu/news/hsu-professors-recognized-for-innovative-violence-prevention-leadership/" class="dark">Professors Recognized for Violence Prevention Work</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-researchers-join-state-wide-efforts-to-monitor-marine-protected-areas/" class="dark">
+                Millions in funding for HSU marine research
+              </a></li>
+            <li><a href="http://now.humboldt.edu/news/record-breaking-year-for-grants-at-hsu/" class="dark">Record Year for Grants at HSU - $36 million</a></li>
+            <li><a href="http://now.humboldt.edu/news/report-highlights-humboldt-states-567-million-impact/" class="dark">Report Highlights HSU's $567 Million Impact</a></li>
+            <li><a href="http://now.humboldt.edu/news/blue-lake-rancheria-microgrid-provides-critical-services-during-outage/" class="dark">Microgrid at Blue Lake - developed with HSU expertise - is vital during power outages</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-creates-4000-scholarship-for-all-local-freshmen/" class="dark">New $4,000 scholarships for local students</a></li>
+            <li><a href="http://now.humboldt.edu/news/endowed-scholarship-honors-rowing-coach-robin-meiggs/" class="dark">Endowed Scholarship Honors Rowing Coach Robin Meiggs</a></li>
+            <li><a href="http://now.humboldt.edu/news/wildland-fire-management-program-earns-recognition-for-excellence-in-fire-e/" class="dark">University Earn Recognition for Excellence in Fire Ecology</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-and-cr-presidents-sign-agreement-that-strengthens-partnership-advances-/" class="dark">Formal Partnership Agreement Between CR and HSU</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-foundation-expands-social-and-eco-conscious-investments/" class="dark">HSU Foundation Expands Eco-Conscious Investments</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-receives-640000-for-basic-needs-services/" class="dark">Big Grant for Basic Needs</a></li>
+            <li><a href="http://now.humboldt.edu/news/nursing-program-gets-go-ahead-for-fall-2020/" class="dark">Nursing Program Gets Go-Ahead for Fall 2020</a></li>
+            <li><a href="http://now.humboldt.edu/news/a-field-guide-to-climate-anxiety-how-to-keep-your-cool-on-a-warming-planet/" class="dark">Professor's Book Explores Climate Anxiety</a></li>
+          </ul>
+
+        </mj-text>
+        <mj-text>Each of these represent a portion of the success Humboldt State University has achieved throughout the year, despite power outages and a pandemic. As a campus, we said we would not be knocked down, and we have not. In fact, we have excelled to
+          a strong new level of greatness. Another example is the recent ranking of <a href="http://now.humboldt.edu/news/hsu-environmental-resources-engineering-among-the-best-in-the-nation/" class="dark">Humboldt's Environmental Engineering program as one of the top 20 in the nation</a>.
+          From that list of twenty, only two were from California.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#F2F4EF" padding-bottom="0" padding-top="0">
-      <mj-column width="30%">
-
-      </mj-column>
-      <mj-column width="70%">
-        <mj-text>
-          Students will continue to need support with basic needs, technology, and more, and we expect an increase in the need for scholarships in coming years. Donor support makes a real difference. If you are interested in helping, there are a number of funds to consider on the <a href="https://giving.humboldt.edu/humboldt-connected" class="dark">Humboldt Connected giving site</a>.
+      <mj-column>
+        <mj-text padding-top="0">
+          Humboldt State has been ranked by many other publications and organizations this year. These rankings include.
         </mj-text>
         <mj-text>
-          As we look ahead, one thing we’re focused on is the status of instruction this fall. I assure you that the faculty and staff at Humboldt State are working very hard on this - and that we will have a fall and spring semester. Intense planning for a number of possibilities is underway. We are not delaying, and we will be making important short-term changes while also re-imagining what HSU can be in a post-COVID world.
+          <ul>
+            <li><a href="http://now.humboldt.edu/news/us-news-world-report-names-hsu-a-top-western-public-university/" class="dark">Top Western University Ranking from US News</a></li>
+            <li><a href="http://now.humboldt.edu/news/humboldt-state-university-named-best-in-the-west/" class="dark">Best in West Ranking from Princeton Review</a></li>
+            <li> <a href="http://now.humboldt.edu/news/forbes-names-hsu-a-top-college/" class="dark">Top College Ranking from Forbes</a></li>
+            <li><a href="http://now.humboldt.edu/news/sierra-club-names-humboldt-state-a-cool-school/" class="dark">Top Sustainability Ranking from Sierra Club magazine</a></li>
+            <li><a href="http://now.humboldt.edu/news/humboldt-state-a-green-college/" class="dark">'Green College' Ranking from Princeton Review</a></li>
+            <li><a href="http://now.humboldt.edu/news/hsu-a-top-masters-degree-granting-institution/" class="dark">Top Masters Degree Institution from Washington Monthly</a></li>
+          </ul>
 
         </mj-text>
-        <mj-text>Humboldt State isn’t alone in this. The question of how to conduct the fall semester is the biggest topic in U.S. higher education right now. Governing boards are struggling with it. Universities are having long and often frustrating internal discussions about the options. Current and incoming students are definitely asking for more information.</mj-text>
-        <mj-text>None of us know what the “new normal” will look like or even when we will get there. What we do know is that no matter what happens during the next months and years, Humboldt State will remain focused on offering a positive, meaningful educational experience. We are clear-eyed and mission-focused, and we are committed to our students and this community. </mj-text>
-        <mj-text>Finally, please help our Class of 2020 celebrate on May 16 at the virtual commencement ceremony. Learn more about the celebration at the <a href="https://commencement.humboldt.edu" class="dark">commencement website</a>.</mj-text>
+        <mj-text padding-top="0">Early this spring, as the pandemic caused Humboldt to move to virtual instruction, the faculty, staff, and students excelled. We all adapted with a clear goal – to ensure the health and safety of our Lumberjack family and to ensure the progression
+          for our students toward a degree. We did that. We excelled. We found a way to do it and we found ways to do it very well.
+        </mj-text>
+        <mj-text>Our next challenge will be our continual efforts to align our resources. This will not be easy, but I can clearly see a positive place that Humboldt will emerge. We will be leaner, no doubt, and we will have fewer students, but only for a few
+          moments in time. We will have tighter controls on spending. But we will also have new options for degrees, a vibrant student body, and a faculty and staff who have already proven their nimbleness and strength. We will still be Humboldt and we
+          will still find many ways to excel. </mj-text>
+        <mj-text>As you may know, the federal government recently authorized funding to assist students in need. Known as the CARES Act, $5.1 million was available to Humboldt to disperse to students impacted by COVID-19. HSU has dispersed those funds, but students
+          are still in need. Humboldt has quietly continued to ask our friends to support our students through donations to the Student Adversity Fund and other funds. It is not a secret that our students will continue to need the generous support of
+          our alumni and community. If you are interested in helping, there are a number of funds to consider on the <a href="https://giving.humboldt.edu/humboldt-connected" class="dark">Humboldt Connected giving site</a>.</mj-text>
         <mj-text></mj-text>
+        <mj-text padding-top="0">
+          Humboldt will continue our instruction through the summer in a virtual mode. As we look further ahead, rest assured, we will be open and exceling somehow and some way in the fall. Whether it is virtual, face-to-face, or someplace in between, we will be
+          doing what Humboldt does, guiding our students toward a degree while staying focused on offering a positive, meaningful educational experience. We are clear-eyed and mission-focused, and we are committed to our students and this community.
+        </mj-text>
         <mj-text>
-          — President Jackson
+          It is spring. Yes, it has arrived. The grass is growing, flowers are blooming, and we are celebrating over 2,000 new Humboldt graduates. It has been an amazing year.
+        </mj-text>
+        <mj-text>
+          Go Lumberjacks!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -97,7 +126,7 @@
       <mj-column>
         <mj-text color="#fff">
           <h2>Virtual Commencement</h2>
-          On May 16, Humboldt State's Commencement ceremonies will be held virtually as a way to celebrate our graduates. We hope to have an in-person ceremony in the future, possibly next Spring, but for now, we intend this virtual Commencement to be the first step in recognizing the achievements of the Class of 2020.
+          On May 16, Humboldt State's Commencement will be celebrated virtually. We hope to have an in-person ceremony in the future, possibly next Spring. For now, this virtual Commencement to be the first step in recognizing the achievements of the Class of 2020.
         </mj-text>
         <mj-button href="https://commencement.humboldt.edu/">
           Learn about virtual commencement
@@ -108,60 +137,35 @@
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
+        <mj-image src="Research.jpg" alt="Zoom call for Student Research Comp" />
         <mj-text>
           <h2>
-            Something About Local Students
+            Students Participate in Virtual CSU Student Research Competition
           </h2>
-          With all of the uncertainty around the future of the nation’s COVID-19 response, local high schoolers may be rethinking plans to attend college in the fall. Ask them to consider HSU. We have the advantage of being a place where local students can stay close to home while pursuing a four-year degree at an amazing university.
+          Twelve outstanding student researchers from HSU were chosen to represent the University in the 34th annual CSU Student Research competition. It was an amazing accomplishment for all of them. On the day of competition, three of them won awards.
         </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-students-participating-in-virtual-csu-student-research-competition/">
+          Learn about student research competition
+        </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#5C8021" padding-top="0">
       <mj-column>
         <mj-text color="#ffffff">
-          <h2>Student Newspapers Mailed to Students</h2>
-          HSU’s journalism students recently mailed 6,400 Humboldt State students special editions of El Leñador and The Lumberjack student newspapers, along with the Associated Students sample ballot. The message? At HSU, the student press is alive and well.
+          <h2>HSU Research Confirms Redwoods' Role in Climate</h2>
+          Recent findings from research led by Professor Steve Sillett bolster more than 10 years of research. They show massive carbon storage in old-growth redwood forests and the potential of younger, previously logged forests. <a href="https://www.sfchronicle.com/environment/article/New-reason-to-conserve-California-s-redwoods-15238034.php">Story from the San Francisco Chronicle</a>.
         </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsu-student-newspapers-to-be-mailed-to-students/">
-          Read about student newspapers
+        <mj-button href="http://now.humboldt.edu/news/save-the-redwoods-league-and-hsu-research-confirms-redwoods-role-in-climate/">
+          Read the story about Redwoods' Role in Climate
         </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="Redwoods.jpg" alt="Professor Sillett working in Redwood" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="Coverings.jpg" alt="Donated Face coverings" />
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          <h2>
-            Homemade Help: Sewn Face Coverings Donated to Students
-          </h2>
-          The campus community is coming together to donate sewn face coverings for students, who have been encouraged to wear them in public while making essential trips.
-        </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsu-faculty-staff-donate-sewn-face-coverings-to-students/">
-          Homemade Help: Sewn Face Coverings<br> Donated to Students
-        </mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#5C8021">
-      <mj-column>
-        <mj-text color="#fff">
-          <h2>
-            Donors Support HSU Students During COVID-19
-          </h2>
-          Donors are stepping up and supporting Humboldt State University students during these difficult times, providing funds for technology, basic needs including food and housing, and healthcare. To find out how you can help, please visit the <a href="https://giving.humboldt.edu/humboldt-connected">Humboldt Connected giving site</a>.
-        </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/donors-support-hsu-students-during-covid-19/">
-          Learn more about student support during COVID-19
-        </mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="Donors.jpg" alt="Table of donations" />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#F2F4EF">
-      <mj-column>
-        <mj-image src="Test-Kits.jpg" alt="Test Kit Prep" />
+        <mj-image src="Test-Kits.jpg" alt="Test kit prep" />
       </mj-column>
       <mj-column>
         <mj-text>
@@ -174,34 +178,101 @@
           HSU Team Helps Produce COVID-19 Test Kits
         </mj-button>
       </mj-column>
-    </mj-section>
 
+
+    </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
+        <mj-image src="94191223_1524108331100186_2033107687109855183_n.jpg" alt="Staying Open for Business" />
         <mj-text color="#fff">
-          <h2>HSU Vets Band Together
+          <h2>
+            Helping Businesses Deal with the Pandemic
           </h2>
-          Veterans are used to sticking together and helping each other through hard times. That’s exactly what a group of HSU Veterans is doing during the Covid-19 pandemic.
+          HSU's Northern California Small Business Development Center has been a critical resource during challenging times for thousands of businesses and nonprofits. The center is the fifth largest SBDC network in the nation, serving a region stretching from
+          the San Francisco Bay Area to the Oregon border.
         </mj-text>
-
-        <mj-button href="http://now.humboldt.edu/news/hsu-vets-band-together/">
-          HSU Vets Band Together
+        <mj-button href="https://www.norcalsbdc.org/">
+          Learn about how HSU's SBDC has been helping local businesses
         </mj-button>
       </mj-column>
 
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="Research.jpg" alt="Zoom call for Student Research Comp" />
+        <mj-image src="Donors.jpg" alt="Donations" />
+      </mj-column>
+      <mj-column>
         <mj-text>
           <h2>
-            HSU Students Excel at Student Research Competition
+            Donors Support HSU Students During COVID-19
           </h2>
-          Humboldt State students took home two first-place awards and one second-place award at the 34th Annual California State University Student Research Competition held virtually at CSU East Bay this year.
+          Donors are stepping up and supporting Humboldt State University students during this time, providing funds for technology, basic needs including food and housing, and healthcare. Donations also allowed the HSU Foundation to commit funds for four ventilators
+          at St. Joseph Hospital as part of a community-wide effort to prepare. To find out how you can help, <a href="https://giving.humboldt.edu/humboldt-connected" class="dark">please visit the Humboldt Connected giving site</a>.
         </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsu-students-excel-at-student-research-competition/">
-          HSU Students Excel at Student Research Competition
+        <mj-button href="http://now.humboldt.edu/news/hsu-joins-with-public-health-to-produce-covid-19-test-kits/">
+          Donors Support HSU Students During COVID-19
         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="Coverings.jpg" alt="Donated Face coverings" />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Homemade Help: Sewn Face Coverings Donated to Students
+          </h2>
+          The campus community is coming together to donate sewn face coverings for students, who have been asked to wear them in public while making essential trips.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-faculty-staff-donate-sewn-face-coverings-to-students/">
+          Homemade Help: Sewn Face Coverings<br> Donated to Students
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Student Newspapers Mailed to Students
+          </h2>
+          HSU's journalism students recently mailed 6,400 Humboldt State students special editions of El Leñador and The Lumberjack student newspapers, along with the Associated Students sample ballot. The message? At HSU, the student press is alive and well.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-student-newspapers-to-be-mailed-to-students/">
+          Student Newspapers Mailed to Students
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            HSU Vets Band Together
+          </h2>
+          Veterans are used to sticking together and helping each other through hard times. That's exactly what a group of HSU Veterans is doing during the Covid-19 pandemic.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-vets-band-together/">
+          HSU Vets Band Together
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Local student - think about HSU!
+          </h2>
+          Students on the North Coast have an amazing local option for college. One of the best in the state. For students and their families, Humboldt State University is worth a look, or maybe a second look. While we've always been a great choice for many local
+          students, we're even better today in the midst of partial shutdowns or flare-ups of sickness around the country that may continue for many months.<br><br>
+          <a href="https://admissions.humboldt.edu" class="dark">Admissions Office</a><br>
+          <a href="https://www.humboldt.edu/visit/schedule-visit" class="dark">Online tours and presentations</a><br>
+          <a href="https://humboldt.edu/why" class="dark">Why Humboldt State</a>
+
+        </mj-text>
       </mj-column>
 
     </mj-section>
