@@ -19,7 +19,7 @@
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="49785906763_5be72420ac_k.jpg" alt="Camel Rock" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/49785906763_5be72420ac_k.jpg" alt="Camel Rock" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
