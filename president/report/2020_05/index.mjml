@@ -106,10 +106,13 @@
         <mj-text>Our next challenge will be our continual efforts to align our resources. This will not be easy, but I can clearly see a positive place that Humboldt will emerge. We will be leaner, no doubt, and we will have fewer students, but only for a few
           moments in time. We will have tighter controls on spending. But we will also have new options for degrees, a vibrant student body, and a faculty and staff who have already proven their nimbleness and strength. We will still be Humboldt and we
           will still find many ways to excel. </mj-text>
-        <mj-text>As you may know, the federal government recently authorized funding to assist students in need. Known as the CARES Act, $5.1 million was available to Humboldt to disperse to students impacted by COVID-19. HSU has dispersed those funds, but students
+      </mj-column>
+    </mj-section>
+			<mj-section background-color="#F2F4EF" padding-bottom="0" padding-top="0">>
+				<mj-column>
+				<mj-text>As you may know, the federal government recently authorized funding to assist students in need. Known as the CARES Act, $5.1 million was available to Humboldt to disperse to students impacted by COVID-19. HSU has dispersed those funds, but students
           are still in need. Humboldt has quietly continued to ask our friends to support our students through donations to the Student Adversity Fund and other funds. It is not a secret that our students will continue to need the generous support of
           our alumni and community. If you are interested in helping, there are a number of funds to consider on the <a href="https://giving.humboldt.edu/humboldt-connected" class="dark">Humboldt Connected giving site</a>.</mj-text>
-        <mj-text></mj-text>
         <mj-text padding-top="0">
           Humboldt will continue our instruction through the summer in a virtual mode. As we look further ahead, rest assured, we will be open and exceling somehow and some way in the fall. Whether it is virtual, face-to-face, or someplace in between, we will be
           doing what Humboldt does, guiding our students toward a degree while staying focused on offering a positive, meaningful educational experience. We are clear-eyed and mission-focused, and we are committed to our students and this community.
@@ -120,8 +123,8 @@
         <mj-text>
           Go Lumberjacks!
         </mj-text>
-      </mj-column>
-    </mj-section>
+				</mj-column>
+			</mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
         <mj-text color="#fff">
