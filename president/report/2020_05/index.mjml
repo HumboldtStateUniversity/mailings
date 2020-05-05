@@ -115,7 +115,7 @@
           doing what Humboldt does, guiding our students toward a degree while staying focused on offering a positive, meaningful educational experience. We are clear-eyed and mission-focused, and we are committed to our students and this community.
         </mj-text>
         <mj-text>
-          It is spring. Yes, it has arrived. The grass is growing, flowers are blooming, and we are celebrating over 2,000 new Humboldt graduates. It has been an amazing year.
+          It is spring. Yes, it has arrived. The grass is growing, flowers are blooming, and we are celebrating over 2,100 new Humboldt graduates. It has been an amazing year.
         </mj-text>
         <mj-text>
           Go Lumberjacks!
@@ -137,7 +137,7 @@
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="Research.jpg" alt="Zoom call for Student Research Comp" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/Research.jpg" alt="Zoom call for Student Research Comp" />
         <mj-text>
           <h2>
             Students Participate in Virtual CSU Student Research Competition
@@ -160,12 +160,12 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="Redwoods.jpg" alt="Professor Sillett working in Redwood" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/Redwoods.jpg" alt="Professor Sillett working in Redwood" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#F2F4EF">
       <mj-column>
-        <mj-image src="Test-Kits.jpg" alt="Test kit prep" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/Test-Kits.jpg" alt="Test kit prep" />
       </mj-column>
       <mj-column>
         <mj-text>
@@ -183,7 +183,7 @@
     </mj-section>
     <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-image src="94191223_1524108331100186_2033107687109855183_n.jpg" alt="Staying Open for Business" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/94191223_1524108331100186_2033107687109855183_n.jpg" alt="Staying Open for Business" />
         <mj-text color="#fff">
           <h2>
             Helping Businesses Deal with the Pandemic
@@ -215,7 +215,7 @@
 
     <mj-section background-color="#5C8021">
       <mj-column>
-        <mj-image src="Coverings.jpg" alt="Donated Face coverings" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_05/Coverings.jpg" alt="Donated Face coverings" />
       </mj-column>
       <mj-column>
         <mj-text color="#fff">
