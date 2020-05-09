@@ -99,7 +99,7 @@
         </mj-text>
 
         <mj-text>
-          To make a gift, please visit the <a href="#">All for One campaign giving page</a>.
+          To make a gift, please visit the <a href="#" class="dark">All for One campaign giving page</a>.
         </mj-text>
 
         <mj-text>
