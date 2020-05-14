@@ -32,7 +32,7 @@
     <!-- Introduction Text -->
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="foundation-logo.png" alt="Humboldt State University" width="300px" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/giving/2020_14/foundation-logo.png" href="https://giving.humboldt.edu" alt="Humboldt State University" width="300px" padding="0" />
         <mj-text align="center" padding-top="5px" padding-bottom="30px" font-size="14px" color="#555">
           May 14, 2020
         </mj-text>
@@ -94,19 +94,19 @@
 
         <mj-text>
           Sincerely, <br><br>
-          <img src="President-Jacksons-Official-Signature.png" alt="President Jackson's signature"><br>
+          <img src="https://mailings.humboldt.edu/giving/2020_14/President-Jacksons-Official-Signature.png" alt="President Jackson's signature"><br>
           Dr. Tom Jackson, Jr., President<br>
           Humboldt State University <br><br><br>
 
-          <img src="Stephanie-Signature.png" alt="Jessica Welch signature"><br>
+          <img src="https://mailings.humboldt.edu/giving/2020_14/Stephanie-Signature.png" alt="Jessica Welch signature"><br>
           Dr. Stephanie Burkhalter, Professor<br>
           University Senate Chair<br><br><br>
-          <img src="Signature-Jessica-Welch.png" alt="Jessica Welch signature"><br>
+          <img src="https://mailings.humboldt.edu/giving/2020_14/Signature-Jessica-Welch.png" alt="Jessica Welch signature"><br>
           Jessica Welch, President<br>
           HSU Staff Council
         </mj-text>
         <mj-text align="center" font-size="14px" color="#006838" padding-top="40px">
-          1 Harpist Street • NHW 202 • Arcata, CA 95521-8299
+          1 Harpst Street • NHW 202 • Arcata, CA 95521-8299
           <br>707.826.5200 • <a href="mailto:giving@humboldt.edu" class="dark">giving@humboldt.edu</a> • <a href="https://giving.humboldt.edu" class="dark">giving.humboldt.edu</a>
 
         </mj-text>
