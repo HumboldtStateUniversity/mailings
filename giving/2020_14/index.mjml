@@ -30,7 +30,7 @@
 
     </mj-section>
     <!-- Introduction Text -->
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/giving/2020_14/foundation-logo.png" href="https://giving.humboldt.edu" alt="Humboldt State University" width="300px" padding="0" />
         <mj-text align="center" padding-top="5px" padding-bottom="30px" font-size="14px" color="#555">
@@ -41,21 +41,29 @@
         </mj-text>
         <mj-text>
           We are writing today to ask for your participation in the <strong>“One for All”</strong> campaign to support HSU students. </mj-text>
-
+</mj-column>
+    </mj-section>
+		<mj-section background-color="#ffffff" padding="0">>
+      <mj-column>
         <mj-text>
           This is a challenging time for everyone. We have all been asked to step up to help students in countless ways, converting to virtual instruction, moving work off campus, supporting operations, and providing critical services that had to remain open on campus.
         </mj-text>
+			
         <mj-text>
           As part of this campus community, you give 100% to students. Today, we are asking you to consider joining with other faculty and staff and doing even more - giving a gift to support the students. With a gift of only 1 percent (1%) of your annual salary, you can help students meet current needs or provide scholarship support.
         </mj-text>
         <mj-text>
           If you make $50,000 annually, that is a $500 gift to assist students. You could make that gift in a one-time payment or in multiple payments. We are simply asking you to consider giving.
         </mj-text>
+				</mj-column>
+    </mj-section>
+		<mj-section background-color="#ffffff" padding="0">
+      <mj-column>
         <mj-text>
           Your generosity has a major impact at every level and could provide a student the following:
         </mj-text>
 
-        <mj-text padding-left="20px">
+        <mj-text padding-left="20px" padding-bottom="0">
           <ul>
             <li>
               wi-fi access to a student for virtual learning,
@@ -68,7 +76,10 @@
             </li>
           </ul>
         </mj-text>
-
+			</mj-column>
+    </mj-section>
+		<mj-section background-color="#ffffff" padding="0">
+      <mj-column>
         <mj-text>
           You will be directly supporting the value of an HSU education and sending an important message to students. We all know the life-changing experience we provide for students, and how an HSU degree can be the key to helping students do great things benefiting society and the planet. This is an opportunity to help students pursue their dreams, now and in the future—and for us as an HSU community to stand behind them as they do so.
         </mj-text>
@@ -80,6 +91,10 @@
           <strong>The Humboldt First Scholarship</strong><br>
           Given the uncertainty of these times, local students are more likely than ever to consider HSU, helping to ensure the long-term viability of HSU as an educational institution. And providing local students with a high-quality education is key to enhancing the quality of life on the North Coast. Your gift to the Humboldt First Scholarship will help provide a local student up to $4,000 in financial support. <a href="https://alumni.humboldt.edu/giving/staff-faculty-appeal" class="dark">Make your gift to the Humboldt First Scholarship here</a>.
         </mj-text>
+					</mj-column>
+    </mj-section>
+			<mj-section background-color="#ffffff" padding="0">
+      <mj-column>
         <mj-text>
           <strong>The Student Adversity Fund</strong><br>
           In the last month alone, more than 160 students have been helped by donor support of the Student Adversity Fund. It provides students (who may become future long-term Humboldt County residents) with emergency support when they are facing a crisis that could cause them to drop out of school. We are continuing to see a surge of students who need additional funds to make it through this crisis, and to stay on track to graduate. <a href="https://alumni.humboldt.edu/giving/staff-faculty-appeal" class="dark">Make your gift to the Student Adversity Fund here</a>.
