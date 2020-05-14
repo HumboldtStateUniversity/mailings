@@ -34,17 +34,13 @@
       <mj-column>
         <mj-image src="foundation-logo.png" alt="Humboldt State University" width="300px" padding="0" />
         <mj-text align="center" padding-top="5px" padding-bottom="30px" font-size="14px" color="#555">
-          May 13, 2020
+          May 14, 2020
         </mj-text>
         <mj-text>
           Dear colleagues,
         </mj-text>
         <mj-text>
-          We are writing today to ask for your participation in the “One for All” campaign to support HSU students. </mj-text>
-
-        <mj-text>
-          We are writing today to ask for your participation in the “One for All” campaign to support HSU students.
-        </mj-text>
+          We are writing today to ask for your participation in the <strong>“One for All”</strong> campaign to support HSU students. </mj-text>
 
         <mj-text>
           This is a challenging time for everyone. We have all been asked to step up to help students in countless ways, converting to virtual instruction, moving work off campus, supporting operations, and providing critical services that had to remain open on campus.
@@ -87,10 +83,6 @@
         <mj-text>
           <strong>The Student Adversity Fund</strong><br>
           In the last month alone, more than 160 students have been helped by donor support of the Student Adversity Fund. It provides students (who may become future long-term Humboldt County residents) with emergency support when they are facing a crisis that could cause them to drop out of school. We are continuing to see a surge of students who need additional funds to make it through this crisis, and to stay on track to graduate. <a href="https://alumni.humboldt.edu/giving/staff-faculty-appeal" class="dark">Make your gift to the Student Adversity Fund here</a>.
-        </mj-text>
-        <mj-text>
-          <strong>Other Options</strong><br>
-          You could also choose to support other funds that support HSU students. <a href="#" class="dark">Review all the funds here</a>.
         </mj-text>
         <mj-text>
           Will you join us today in supporting HSU students with a gift of at least 1% of your salary?
