@@ -34,39 +34,41 @@
       <mj-column>
         <mj-image src="foundation-logo.png" alt="Humboldt State University" width="300px" padding="0" />
         <mj-text align="center" padding-top="5px" padding-bottom="30px" font-size="14px" color="#555">
-          May 11, 2020
+          May 13, 2020
         </mj-text>
         <mj-text>
           Dear colleagues,
         </mj-text>
         <mj-text>
-          We are writing today to ask for your participation in the One for All campaign to support HSU students. </mj-text>
+          We are writing today to ask for your participation in the “One for All” campaign to support HSU students. </mj-text>
+
+        <mj-text>
+          We are writing today to ask for your participation in the “One for All” campaign to support HSU students.
+        </mj-text>
 
         <mj-text>
           This is a challenging time for everyone. We have all been asked to step up to help students in countless ways, converting to virtual instruction, moving work off campus, supporting operations, and providing critical services that had to remain open on campus.
         </mj-text>
-
         <mj-text>
-          As part of this campus community, you give 100% to students. Today, we are asking you to consider joining with other faculty and staff and doing even more - giving a gift to support the students. With a gift of 1 percent of your annual salary, you can help students meet current needs or provide scholarship support.
+          As part of this campus community, you give 100% to students. Today, we are asking you to consider joining with other faculty and staff and doing even more - giving a gift to support the students. With a gift of only 1 percent (1%) of your annual salary, you can help students meet current needs or provide scholarship support.
         </mj-text>
-
         <mj-text>
-          Your generosity has a major impact at every level:
+          If you make $50,000 annually, that is a $500 gift to assist students. You could make that gift in a one-time payment or in multiple payments. We are simply asking you to consider giving.
+        </mj-text>
+        <mj-text>
+          Your generosity has a major impact at every level and could provide a student the following:
         </mj-text>
 
         <mj-text padding-left="20px">
           <ul>
             <li>
-              A gift of $75 provides wi-fi access to a student for virtual learning
+              wi-fi access to a student for virtual learning,
             </li>
             <li>
-              A gift of $100 gives a student groceries for two weeks
+              groceries for two weeks, or
             </li>
             <li>
-              A gift of $1,000 covers a one-year Humboldt First Scholarship to a local student
-            </li>
-            <li>
-              A gift of $4,000 provides a full four-year Humboldt First Scholarship to a local student
+              support for basic needs.
             </li>
           </ul>
         </mj-text>
@@ -80,41 +82,36 @@
         </mj-text>
         <mj-text>
           <strong>The Humboldt First Scholarship</strong><br>
-          Given the uncertainty of these times, local students are more likely than ever to consider HSU, helping to ensure the long-term viability of HSU as an educational institution. And providing local students with a high-quality education is key to enhancing the quality of life on the North Coast. Your gift to the Humboldt First Scholarship will help provide a local student up to $4,000 in financial support. <a href="#" class="dark">Make your gift to the Humboldt First Scholarship here</a>.
+          Given the uncertainty of these times, local students are more likely than ever to consider HSU, helping to ensure the long-term viability of HSU as an educational institution. And providing local students with a high-quality education is key to enhancing the quality of life on the North Coast. Your gift to the Humboldt First Scholarship will help provide a local student up to $4,000 in financial support. <a href="https://alumni.humboldt.edu/giving/staff-faculty-appeal" class="dark">Make your gift to the Humboldt First Scholarship here</a>.
         </mj-text>
         <mj-text>
           <strong>The Student Adversity Fund</strong><br>
-          In the last month alone, more than 160 students have been helped by donor support of the Student Adversity Fund. It provides students with emergency support when they are facing a crisis that could cause them to drop out of school. We are continuing to see a surge of students who need additional funds to make it through this crisis, and to stay on track to graduate. <a href="#" class="dark">Make your gift to the Student Adversity Fund here</a>.
+          In the last month alone, more than 160 students have been helped by donor support of the Student Adversity Fund. It provides students (who may become future long-term Humboldt County residents) with emergency support when they are facing a crisis that could cause them to drop out of school. We are continuing to see a surge of students who need additional funds to make it through this crisis, and to stay on track to graduate. <a href="https://alumni.humboldt.edu/giving/staff-faculty-appeal" class="dark">Make your gift to the Student Adversity Fund here</a>.
         </mj-text>
         <mj-text>
           <strong>Other Options</strong><br>
           You could also choose to support other funds that support HSU students. <a href="#" class="dark">Review all the funds here</a>.
         </mj-text>
         <mj-text>
-          In supporting HSU students, you can choose how you’d like to make your gift, and how much you’d like to contribute. You can select a one-time gift, or set up your gift to recur monthly, quarterly, or yearly. Every gift, be it $5 or $5,000, can make the difference that ensures a student can attend HSU and graduate.
-        </mj-text>
-
-        <mj-text>
           Will you join us today in supporting HSU students with a gift of at least 1% of your salary?
-        </mj-text>
-
-        <mj-text>
-          To make a gift, please visit the <a href="#" class="dark">All for One campaign giving page</a>.
         </mj-text>
 
         <mj-text>
           Thank you for your caring, dedication, and continued work on behalf of the students at HSU.
         </mj-text>
+
         <mj-text>
           Sincerely, <br><br>
-          Tom Jackson, Jr. <br>
-          President, Humboldt State University <br><br>
+          <img src="President-Jacksons-Official-Signature.png" alt="President Jackson's signature"><br>
+          Dr. Tom Jackson, Jr., President<br>
+          Humboldt State University <br><br><br>
 
-          Jessica Welch<br>
-          President, HSU Staff Council<br><br>
-
-          Stephanie Burkhalter<br>
-          Chair, University Senate
+          <img src="Stephanie-Signature.png" alt="Jessica Welch signature"><br>
+          Dr. Stephanie Burkhalter, Professor<br>
+          University Senate Chair<br><br><br>
+          <img src="Signature-Jessica-Welch.png" alt="Jessica Welch signature"><br>
+          Jessica Welch, President<br>
+          HSU Staff Council
         </mj-text>
         <mj-text align="center" font-size="14px" color="#006838" padding-top="40px">
           1 Harpist Street • NHW 202 • Arcata, CA 95521-8299
