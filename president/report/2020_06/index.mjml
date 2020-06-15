@@ -1,0 +1,290 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="49680691002_02811bd41b_k.jpg" alt="Fern Canyon" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          June<br>2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#F2F4EF" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          MSG
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="2020-0519-Mosaic_LARGE.jpg" alt="Mosaic of Gradusates" />
+        <mj-text color="#fff">
+          <h2>Grads Recognized at Virtual Ceremonies</h2>
+          HSU’s class of 2020 graduated last month in a ceremony full of good spirits and inspiring messages. Graduates were recognized in a live-stream video format, with more than 7,500 viewers tuning in and sharing messages in the chat. Many then gathered online for virtual receptions held by academic departments. Videos, photos, and messages from students are archived on the Commencement website, where you can also watch the full ceremony videos.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/grads-recognized-at-hsu-virtual-ceremonies/">
+          Read about virtual commencement
+          </em>
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="osa.jpg" alt="Doug Cherry & Ellen Colegrove" />
+        <mj-text>
+          <h2>
+            HSU’s Outstanding Students for 2020
+          </h2>
+          Prior to the end of the Spring semester, HSU honored recipients of the Outstanding Student Awards for 2020. The awards recognize academic and co-curricular excellence. The Overall Outstanding Students of the Year are Doug Cherry (Psychology) and Ellen Colegrove (Child Development & Native American Studies). <a href="https://osa.humboldt.edu/" class="dark">Read about the all winners and nominees</a>.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/congratulations-to-hsus-outstanding-students-of-2020/">
+          Read Story about Outstanding Students
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021" padding-top="0">
+      <mj-column>
+        <mj-text color="#ffffff">
+          <h2>HSU Distinguished Alumni</h2>
+          Seven accomplished individuals have been named HSU Distinguished Alumni for 2020. Each is a leader in their fields as well as a contributor to their nation, community, or Humboldt State.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/meet-humboldt-states-distinguished-alumni/">
+          HSU Distinguished Alumni
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="2020-0507-DA_LARGE.jpg" alt="Professor Sillett working in Redwood" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+
+        <mj-text>
+          <h2>
+            Outstanding Faculty and McCrone Award Recipients
+          </h2>
+          This year’s Distinguished Faculty Award recipients are William Fisher, Department of Economics, Kishan Lara-Cooper, Department of Child Development, and Cutcha Risling Baldy, Department of Native American Studies. <br><br>
+          McCrone Promising Faculty Scholars Award recipients are Janelle Adsit, Department of English, Renée Byrd, Department of Sociology, and James Woglom, Department of Art. Max Alvarnaz, Environment & Community graduate student, is the recipient of the McCrone Graduate Fellowship,
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsus-2019-outstanding-faculty-honored/">
+          Outstanding Faculty and McCrone Award Recipients
+        </mj-button>
+      </mj-column>
+
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="" alt="" />
+        <mj-text color="#fff">
+          <h2>
+            $7 Million in Federal Emergency Aid for HSU’s NorCal SBDC
+          </h2>
+          HSU’s Northern California Small Business Development Center has received $7 million in federal emergency funding to continue helping thousands of small businesses in Northern California during the pandemic. The grant comes from the Coronavirus Aid, Relief, and Economic Security Act (CARES Act).
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/7-million-in-federal-emergency-aid-for-hsus-norcal-sbdc/">
+          Read about the grant
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+
+      <mj-column>
+        <mj-text>
+          <h2>
+            Summer Session: Faculty Work to Enhance Remote Teaching
+          </h2>
+          How do you humanize a virtual course? What does quality online teaching and learning look like? These are questions instructors around the nation are grappling with amid the pandemic, and are a few of the topics HSU faculty are exploring this summer.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/summer-session-hsu-ramps-up-professional-development-to-enhance-remote-teac/">
+          Summer Session: Faculty Work to Enhance Remote Teaching
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>New Leaders at HSU</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column width="30%">
+        <mj-image src="2020-0519-Capps2_SMALL.jpg" alt="Jenn Capps" padding="0 0 0 20px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text color="#fff">
+          <a href="http://now.humboldt.edu/news/jenn-capps-named-provost-at-humboldt-state-university/">Jenn Capps</a> has been appointed the Provost and Vice President for Academic Affairs. She comes to Humboldt State from the Metropolitan State University of Denver, where she was Dean of the College of Professional Studies and a leader in developing public-private partnerships as well as interdisciplinary programs responsive to workforce needs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff">
+          <a href="http://now.humboldt.edu/news/hsu-appoints-christina-lofthouse-as-interim-chief-of-police/">Christina Lofthouse</a>, a veteran law enforcement officer with two decades of experience at universities, has been named the Interim Chief of Police at HSU.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column width="30%">
+        <mj-image src="2020-0529-Norwood_LARGE.jpg" alt="Tae Norwood" padding="0 0 0 20px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text color="#fff">
+          <a href="http://now.humboldt.edu/news/tae-norwood-2018-national-assistant-coach-of-the-year-hired-to-lead-mens-ba/">Tae Norwood</a> has joined HSU as the new head coach of the men’s basketball team. It marks the next step in the evolution of a coach with nearly two decades of experience at all levels of collegiate athletics.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Online Magazine Showcases Community Engagement
+          </h2>
+          Honoring the community engagement of students, faculty, staff, and regional partners is at the heart of a new digital magazine, Redwood Roots. The magazine highlights stories of community-based learning in and around Humboldt State and is inspired by the hundreds of students who work with community partners to apply their learning and make a difference.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/new-online-magazine-showcases-community-people-and-place/">
+          Online Magazine Showcases Community Engagement
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="redwoodroots-cover.jpg" alt="Redwood Roots" />
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-image src="2020-0522-Otters_LARGE.jpg" alt="Otter Sculpture Photo" />
+
+      </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            North Coast Otter Sculptures Unveiled
+          </h2>
+          World Otter Day on May 27 featured a virtual sneak peek of more than 100 otter sculptures designed and decorated by artists from the North Coast and beyond. It was all part of the <a href="https://otterart.humboldt.edu/">North Coast Otters project</a>.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/north-coast-otter-sculptures-will-be-unveiled-on-world-otter-day-may-27-202/">
+          North Coast Otter Sculptures Unveiled
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Campus Departments Print Face Shields for Health Center
+          </h2>
+          A campus wide effort recently produced 245 plastic face shields to protect healthcare providers at the Student Health Center from contracting the coronavirus. They were printed (in a variety of colors!) using 3-D printers.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/campus-departments-collaborate-to-print-face-shields-for-student-healthcare/">
+          Campus Departments Print Face Shields for Health Center
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5c8021">
+      <mj-column>
+        <mj-image src="hc-logo.jpg" alt="Humboldt Connected" />
+        <mj-text color="#fff">
+          <h2>Donors Step Up Support for Students</h2>
+          Alumni and other supporters have been giving generously to support students. Hundreds of individuals have given to provide immediate assistance to students dealing with the challenges of the pandemic. And they have responded strongly to the need for scholarships, with giving to those funds on a record-setting pace through April.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-donors-step-up-support-for-students/">
+          Donors Step Up Support for Students
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column>
+        <mj-image src="" alt="" />
+        <mj-text>
+          <h2>
+            Giving Opportunities
+          </h2>
+          The new Nursing Program at Humboldt State University has begun accepting applications for its first cohort of students, and <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/alum-gives-150000-nursing-scholarships?utm_source=family_newsletter&utm_medium=email&utm_campaign=family_newsletter_2020_06" class="dark">alum Robin Smith (‘78, Nursing) has stepped up with a $150,000 gift for nursing scholarships</a>. You can also support nursing students by <a href="https://alumni.humboldt.edu/giving/robin-m.-smith-nursing-scholarship-endowment" class="dark">giving to the Robin M. Smith, RN, BSN Nursing Scholarship Endowment</a>. To learn more about the HSU Nursing program, visit <a href="https://nursing.humboldt.edu" class="dark">nursing.humboldt.edu</a>.
+        </mj-text>
+        <mj-text>
+          Now, through June 30, 2020, <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/humboldt-area-foundation-pledges-10k-matching-challenge-support-hsu?utm_source=family_newsletter&utm_medium=email&utm_campaign=family_newsletter_2020_06" class="dark">all gifts to support HSU California Dream Act students</a> will be doubled, thanks to a matching $10,000 grant from Humboldt Area Foundation. Gifts will help undocumented HSU students offset the loss of wages, secure housing, and afford basic needs during this time. HSU Dreamer students are among the students who did not qualify to receive the federal CARES support in the wake of the COVID-19 crisis. <a href="https://www.justgiving.com/campaign/hsudreamerscholarship" class="dark">Learn more about Supporting Dreamers</a>.
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
