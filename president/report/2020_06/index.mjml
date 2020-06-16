@@ -116,12 +116,9 @@
           <h2>
             Outstanding Faculty and McCrone Award Recipients
           </h2>
-          This year’s Distinguished Faculty Award recipients are William Fisher, Department of Economics, Kishan Lara-Cooper, Department of Child Development, and Cutcha Risling Baldy, Department of Native American Studies. <br><br>
-          McCrone Promising Faculty Scholars Award recipients are Janelle Adsit, Department of English, Renée Byrd, Department of Sociology, and James Woglom, Department of Art. Max Alvarnaz, Environment & Community graduate student, is the recipient of the McCrone Graduate Fellowship,
+          This year’s <a href="http://now.humboldt.edu/news/hsus-2019-outstanding-faculty-honored/" class="dark">Distinguished Faculty Award recipients</a> are William Fisher, Department of Economics, Kishan Lara-Cooper, Department of Child Development, and Cutcha Risling Baldy, Department of Native American Studies. <br><br>
+          <a href="http://now.humboldt.edu/news/mccrone-award-winning-faculty-student-honored-for-research-excellence/" class="dark">McCrone Promising Faculty Scholars Award recipients</a> are Janelle Adsit, Department of English, Renée Byrd, Department of Sociology, and James Woglom, Department of Art. Max Alvarnaz, Environment & Community graduate student, is the recipient of the McCrone Graduate Fellowship.
         </mj-text>
-        <mj-button href="http://now.humboldt.edu/news/hsus-2019-outstanding-faculty-honored/">
-          Outstanding Faculty and McCrone Award Recipients
-        </mj-button>
       </mj-column>
 
 
@@ -174,7 +171,10 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#5C8021">
-      <mj-column>
+      <mj-column width="30%">
+        <mj-image src="Lofthouse.jpg" alt="Christina Lofthouse" padding="0 0 0 20px" />
+      </mj-column>
+      <mj-column width="70%">
         <mj-text color="#fff">
           <a href="http://now.humboldt.edu/news/hsu-appoints-christina-lofthouse-as-interim-chief-of-police/">Christina Lofthouse</a>, a veteran law enforcement officer with two decades of experience at universities, has been named the Interim Chief of Police at HSU.
         </mj-text>
