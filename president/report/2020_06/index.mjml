@@ -18,6 +18,15 @@
         color: #5C8021;
       }
 
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
       @media only screen and (max-width: 420px) {
         .caption div {
           text-align: center !important;
@@ -43,7 +52,7 @@
     <mj-section background-color="#25551B" padding="0">
       <mj-column width="70%">
 
-        <mj-text container-background-color="#5C8021" color="#fff" font-size="22px" font-weight="600">
+        <mj-text container-css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
 
           <em>President's Report</em>
         </mj-text>
@@ -56,23 +65,82 @@
     </mj-section>
 
     <!-- Introduction Text -->
-    <mj-section background-color="#F2F4EF" padding-bottom="0">
+    <mj-section css-class="light-wrap" padding-bottom="0">
 
       <mj-column width="30%">
         <mj-image src="https://mailings.humboldt.edu/president/report/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          MSG
+          <strong>INITIAL DRAFT</strong><br>
+          These may be difficult times, but I have chosen to be hopeful and to find inspiration in our young people. I am more convinced than ever about the vital role of higher education in empowering many to guide and teach others, so they can guide and teach others, and on and on.
+        </mj-text>
+        <mj-text>
+          This month marks the end of my first year at Humboldt State. I'm grateful to all the welcoming, amazing people I have met in this truly special place.
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          I admit that I never, ever could have predicted how my first year at Humboldt State would go. Who could have? The last year has included, among other things, multi-day planned power outages and a global pandemic. HSU learned things like how to feed and support thousands with the help of a generator (and a sense of humor), and how to launch a full online academic program in a matter of days.
+        </mj-text>
+        <mj-text>
+          The very challenging times of the year have mixed seamlessly with the very positive ones. This last month was a clear example. We ended the academic year on a high note, with a virtual graduation that was both personal and surprisingly emotional. Then, within weeks, we were in the midst of a distressing, maddening reminder of our national failure to address racism.
+        </mj-text>
+        <mj-text>
+          The mixture of joy and outrage has played out all across our community. Proud families have been putting up yard signs and decorating cars and flying banners to celebrate new graduates. Teachers and school staff have been putting on drive-in graduations and virtual acknowledgements.
+        </mj-text>
+        <mj-text>
+          At the same time, many of those new graduates and other students have been gathering to protest following the murder of George Floyd. Some, in fact, are leading the efforts, demanding that we do better not only by preventing police brutality, but by challenging and fixing systemic racism.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          As a Black man and president of a university, this is very personal. I worry about our students of color at HSU, about their educational experience and about their interactions in the community. I worry about my family and what could happen to them, and I worry that some injustice could occur to me. Will my neighbors and friends help solve this? Will those with privilege in our community take a stand, and insist that we will be better than this? For the bright future we all want, we need to truly believe and live the truth, together, that Black Lives Matter.
+        </mj-text>
+        <mj-text>
+          Again, young people provide the inspiration. We were able to experience that at Humboldt State's virtual graduation, for which hundreds of students submitted photos, videos, and brief statements about their time.
+        </mj-text>
+        <mj-text>
+          One student submission, in particular, continues to resonate with me.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Jesus Cornejo, who earned a degree in Psychology, wrote: "We all have different paths, and we all have different stories to tell, but somehow we all made it this far. Let's honor those who stood here before, let's honor ourselves, and let's honor the ones who are yet to be here. Let's get rid of fear, and let's tear down walls, for we all can make a difference to steer the world in the direction of kindness. ¡Felicidades clase del 2020, la aventura nunca termina!"
+        </mj-text>
+        <mj-text>
+          I thank all our students for their commitment to learning and to creating opportunity. In them, I find an optimism about the future that energizes me every day.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column width="30%">
+        <mj-image src="sts.png" alt="Mosaic of Gradusates" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text color="#fff">
+          <h2>Messages of Solidarity</h2>
+          HSU and many of its departments have written messages of solidarity, outrage, and support in the aftermath of the killing of George Floyd. You can read them on this webpage.
+        </mj-text>
+        <mj-button href="https://president.humboldt.edu/message-solidarity">
+          Read the messages
+          </em>
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="light-wrap">
       <mj-column>
         <mj-image src="2020-0519-Mosaic_LARGE.jpg" alt="Mosaic of Gradusates" />
-        <mj-text color="#fff">
+        <mj-text>
           <h2>Grads Recognized at Virtual Ceremonies</h2>
-          HSU’s class of 2020 graduated last month in a ceremony full of good spirits and inspiring messages. Graduates were recognized in a live-stream video format, with more than 7,500 viewers tuning in and sharing messages in the chat. Many then gathered online for virtual receptions held by academic departments. Videos, photos, and messages from students are archived on the Commencement website, where you can also watch the full ceremony videos.
+          HSU's class of 2020 graduated last month in a ceremony full of good spirits and inspiring messages. Graduates were recognized in a live-stream video format, with more than 7,500 viewers tuning in and sharing messages in the chat. Many then gathered online for virtual receptions held by academic departments. Videos, photos, and messages from students are archived on the Commencement website, where you can also watch the full ceremony videos.
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/grads-recognized-at-hsu-virtual-ceremonies/">
           Read about virtual commencement
@@ -81,12 +149,12 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-image src="osa.jpg" alt="Doug Cherry & Ellen Colegrove" />
-        <mj-text>
+        <mj-text color="#fff">
           <h2>
-            HSU’s Outstanding Students for 2020
+            HSU's Outstanding Students for 2020
           </h2>
           Prior to the end of the Spring semester, HSU honored recipients of the Outstanding Student Awards for 2020. The awards recognize academic and co-curricular excellence. The Overall Outstanding Students of the Year are Doug Cherry (Psychology) and Ellen Colegrove (Child Development & Native American Studies). <a href="https://osa.humboldt.edu/" class="dark">Read about the all winners and nominees</a>.
         </mj-text>
@@ -95,9 +163,9 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021" padding-top="0">
+    <mj-section css-class="light-wrap" padding-top="0">
       <mj-column>
-        <mj-text color="#ffffff">
+        <mj-text>
           <h2>HSU Distinguished Alumni</h2>
           Seven accomplished individuals have been named HSU Distinguished Alumni for 2020. Each is a leader in their fields as well as a contributor to their nation, community, or Humboldt State.
         </mj-text>
@@ -109,28 +177,39 @@
         <mj-image src="2020-0507-DA_LARGE.jpg" alt="Professor Sillett working in Redwood" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="dark-wrap">
       <mj-column>
 
-        <mj-text>
+        <mj-text color="#fff">
           <h2>
             Outstanding Faculty and McCrone Award Recipients
           </h2>
-          This year’s <a href="http://now.humboldt.edu/news/hsus-2019-outstanding-faculty-honored/" class="dark">Distinguished Faculty Award recipients</a> are William Fisher, Department of Economics, Kishan Lara-Cooper, Department of Child Development, and Cutcha Risling Baldy, Department of Native American Studies. <br><br>
-          <a href="http://now.humboldt.edu/news/mccrone-award-winning-faculty-student-honored-for-research-excellence/" class="dark">McCrone Promising Faculty Scholars Award recipients</a> are Janelle Adsit, Department of English, Renée Byrd, Department of Sociology, and James Woglom, Department of Art. Max Alvarnaz, Environment & Community graduate student, is the recipient of the McCrone Graduate Fellowship.
+          This year's <a href="http://now.humboldt.edu/news/hsus-2019-outstanding-faculty-honored/">Distinguished Faculty Award recipients</a> are William Fisher, Department of Economics, Kishan Lara-Cooper, Department of Child Development, and Cutcha Risling Baldy, Department of Native American Studies. <br><br>
+          <a href="http://now.humboldt.edu/news/mccrone-award-winning-faculty-student-honored-for-research-excellence/">McCrone Promising Faculty Scholars Award recipients</a> are Janelle Adsit, Department of English, Renée Byrd, Department of Sociology, and James Woglom, Department of Art. Max Alvarnaz, Environment & Community graduate student, is the recipient of the McCrone Graduate Fellowship.
         </mj-text>
       </mj-column>
-
-
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>
+            New Nursing Program Now Accepting Applications</h2>
+          After years of planning and fund-raising, HSU is set to launch the new Bachelors of Science in Nursing program this fall. The University and Senator Mike McGuire, who along with College of the Redwoods created a partnership to establish the North Coast Nursing Program, are proud to announce the program is now accepting student applications!
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/milestone-moment-humboldt-state-university-opens-enrollment-for-new-nursing/">
+          Humboldt State University Opens Enrollment<br> for New Nursing Program
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-image src="" alt="" />
         <mj-text color="#fff">
           <h2>
-            $7 Million in Federal Emergency Aid for HSU’s NorCal SBDC
+            $7 Million in Federal Emergency Aid for HSU's NorCal SBDC
           </h2>
-          HSU’s Northern California Small Business Development Center has received $7 million in federal emergency funding to continue helping thousands of small businesses in Northern California during the pandemic. The grant comes from the Coronavirus Aid, Relief, and Economic Security Act (CARES Act).
+          HSU's Northern California Small Business Development Center has received $7 million in federal emergency funding to continue helping thousands of small businesses in Northern California during the pandemic. The grant comes from the Coronavirus Aid, Relief, and Economic Security Act (CARES Act).
         </mj-text>
         <mj-button href="http://now.humboldt.edu/news/7-million-in-federal-emergency-aid-for-hsus-norcal-sbdc/">
           Read about the grant
@@ -138,7 +217,7 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="light-wrap">
 
       <mj-column>
         <mj-text>
@@ -153,14 +232,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-text color="#fff">
           <h2>New Leaders at HSU</h2>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column width="30%">
         <mj-image src="2020-0519-Capps2_SMALL.jpg" alt="Jenn Capps" padding="0 0 0 20px" />
       </mj-column>
@@ -170,7 +249,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column width="30%">
         <mj-image src="Lofthouse.jpg" alt="Christina Lofthouse" padding="0 0 0 20px" />
       </mj-column>
@@ -180,18 +259,18 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column width="30%">
         <mj-image src="2020-0529-Norwood_LARGE.jpg" alt="Tae Norwood" padding="0 0 0 20px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text color="#fff">
-          <a href="http://now.humboldt.edu/news/tae-norwood-2018-national-assistant-coach-of-the-year-hired-to-lead-mens-ba/">Tae Norwood</a> has joined HSU as the new head coach of the men’s basketball team. It marks the next step in the evolution of a coach with nearly two decades of experience at all levels of collegiate athletics.
+          <a href="http://now.humboldt.edu/news/tae-norwood-2018-national-assistant-coach-of-the-year-hired-to-lead-mens-ba/">Tae Norwood</a> has joined HSU as the new head coach of the men's basketball team. It marks the next step in the evolution of a coach with nearly two decades of experience at all levels of collegiate athletics.
         </mj-text>
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text>
           <h2>
@@ -208,7 +287,7 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-image src="2020-0522-Otters_LARGE.jpg" alt="Otter Sculpture Photo" />
 
@@ -225,7 +304,7 @@
         </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text>
           <h2>
@@ -239,7 +318,7 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#5c8021">
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-image src="hc-logo.jpg" alt="Humboldt Connected" />
         <mj-text color="#fff">
@@ -252,14 +331,14 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#F2F4EF">
+    <mj-section css-class="light-wrap">
       <mj-column>
         <mj-image src="" alt="" />
         <mj-text>
           <h2>
             Giving Opportunities
           </h2>
-          The new Nursing Program at Humboldt State University has begun accepting applications for its first cohort of students, and <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/alum-gives-150000-nursing-scholarships?utm_source=family_newsletter&utm_medium=email&utm_campaign=family_newsletter_2020_06" class="dark">alum Robin Smith (‘78, Nursing) has stepped up with a $150,000 gift for nursing scholarships</a>. You can also support nursing students by <a href="https://alumni.humboldt.edu/giving/robin-m.-smith-nursing-scholarship-endowment" class="dark">giving to the Robin M. Smith, RN, BSN Nursing Scholarship Endowment</a>. To learn more about the HSU Nursing program, visit <a href="https://nursing.humboldt.edu" class="dark">nursing.humboldt.edu</a>.
+          The new Nursing Program at Humboldt State University has begun accepting applications for its first cohort of students, and <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/alum-gives-150000-nursing-scholarships?utm_source=family_newsletter&utm_medium=email&utm_campaign=family_newsletter_2020_06" class="dark">alum Robin Smith ('78, Nursing) has stepped up with a $150,000 gift for nursing scholarships</a>. You can also support nursing students by <a href="https://alumni.humboldt.edu/giving/robin-m.-smith-nursing-scholarship-endowment" class="dark">giving to the Robin M. Smith, RN, BSN Nursing Scholarship Endowment</a>. To learn more about the HSU Nursing program, visit <a href="https://nursing.humboldt.edu" class="dark">nursing.humboldt.edu</a>.
         </mj-text>
         <mj-text>
           Now, through June 30, 2020, <a href="https://giving.humboldt.edu/content/giving-feature-me-mini/humboldt-area-foundation-pledges-10k-matching-challenge-support-hsu?utm_source=family_newsletter&utm_medium=email&utm_campaign=family_newsletter_2020_06" class="dark">all gifts to support HSU California Dream Act students</a> will be doubled, thanks to a matching $10,000 grant from Humboldt Area Foundation. Gifts will help undocumented HSU students offset the loss of wages, secure housing, and afford basic needs during this time. HSU Dreamer students are among the students who did not qualify to receive the federal CARES support in the wake of the COVID-19 crisis. <a href="https://www.justgiving.com/campaign/hsudreamerscholarship" class="dark">Learn more about Supporting Dreamers</a>.
@@ -268,7 +347,7 @@
       </mj-column>
 
     </mj-section>
-    <mj-section background-color="#5C8021">
+    <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-text color="#fff" align="center">
           <h2>
