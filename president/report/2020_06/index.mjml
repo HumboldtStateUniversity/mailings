@@ -52,7 +52,7 @@
     <mj-section background-color="#25551B" padding="0">
       <mj-column width="70%">
 
-        <mj-text container-css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
 
           <em>President's Report</em>
         </mj-text>
@@ -72,8 +72,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          <strong>INITIAL DRAFT</strong><br>
-          These may be difficult times, but I have chosen to be hopeful and to find inspiration in our young people. I am more convinced than ever about the vital role of higher education in empowering many to guide and teach others, so they can guide and teach others, and on and on.
+          As I look at all the things happening around us, I have chosen to be hopeful and to find inspiration in our students as I look ahead to the influence higher education has on students, communities, and society. I am more convinced than ever about the vital role of higher education in empowering many to guide and teach others, so they can guide and teach others.
         </mj-text>
         <mj-text>
           This month marks the end of my first year at Humboldt State. I'm grateful to all the welcoming, amazing people I have met in this truly special place.
@@ -83,39 +82,29 @@
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
         <mj-text>
-          I admit that I never, ever could have predicted how my first year at Humboldt State would go. Who could have? The last year has included, among other things, multi-day planned power outages and a global pandemic. HSU learned things like how to feed and support thousands with the help of a generator (and a sense of humor), and how to launch a full online academic program in a matter of days.
+          I admit that I never, ever could have predicted my first year at Humboldt State would be filled with the positive change, and dynamic world and local events. The last year has included, among other things, multi-day planned power outages and a global pandemic. HSU learned things like how to feed and support thousands with the help of a generator (and a sense of humor), and how to launch a full online academic program in a matter of days.
         </mj-text>
         <mj-text>
-          The very challenging times of the year have mixed seamlessly with the very positive ones. This last month was a clear example. We ended the academic year on a high note, with a virtual graduation that was both personal and surprisingly emotional. Then, within weeks, we were in the midst of a distressing, maddening reminder of our national failure to address racism.
+          The very challenging times of the year have mixed seamlessly with the very positive ones. This last month was a clear example. We ended the academic year on a high note, with a virtual graduation celebrating over 2,100 new alumni that was both personal and surprisingly emotional. Then, within weeks, we were in the midst of a distressing, maddening reminder of our national failure to address racism. Our students provide great inspiration.
         </mj-text>
         <mj-text>
-          The mixture of joy and outrage has played out all across our community. Proud families have been putting up yard signs and decorating cars and flying banners to celebrate new graduates. Teachers and school staff have been putting on drive-in graduations and virtual acknowledgements.
+          One student submission, as part of the virtual graduation, continues to resonate with me.
         </mj-text>
-        <mj-text>
-          At the same time, many of those new graduates and other students have been gathering to protest following the murder of George Floyd. Some, in fact, are leading the efforts, demanding that we do better not only by preventing police brutality, but by challenging and fixing systemic racism.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section css-class="light-wrap" padding="0">
-      <mj-column>
-        <mj-text>
-          As a Black man and president of a university, this is very personal. I worry about our students of color at HSU, about their educational experience and about their interactions in the community. I worry about my family and what could happen to them, and I worry that some injustice could occur to me. Will my neighbors and friends help solve this? Will those with privilege in our community take a stand, and insist that we will be better than this? For the bright future we all want, we need to truly believe and live the truth, together, that Black Lives Matter.
-        </mj-text>
-        <mj-text>
-          Again, young people provide the inspiration. We were able to experience that at Humboldt State's virtual graduation, for which hundreds of students submitted photos, videos, and brief statements about their time.
-        </mj-text>
-        <mj-text>
-          One student submission, in particular, continues to resonate with me.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section css-class="light-wrap" padding="0">
-      <mj-column>
         <mj-text>
           Jesus Cornejo, who earned a degree in Psychology, wrote: "We all have different paths, and we all have different stories to tell, but somehow we all made it this far. Let's honor those who stood here before, let's honor ourselves, and let's honor the ones who are yet to be here. Let's get rid of fear, and let's tear down walls, for we all can make a difference to steer the world in the direction of kindness. ¡Felicidades clase del 2020, la aventura nunca termina!"
         </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
         <mj-text>
-          I thank all our students for their commitment to learning and to creating opportunity. In them, I find an optimism about the future that energizes me every day.
+          As a community we are also having powerful conversations on race and injustice. These conversations are also emotional and action filled in a way that is unprecedented. This is a positive and will result in subtle changes to how we view each other in our communities. There is hope – and I share with many of you that optimism and hope.
+        </mj-text>
+        <mj-text>
+          Lastly, we are evolving as a campus. COVID-19 certainly has changed us as a campus, and in many respects it is making us better. It has helped us focus on our "hands-on" strengths through our face-to-face instruction while also forcing us to masterfully engage in online/virtual instruction. Online instruction is not new to higher education, but it was something HSU did not do frequently – until now. This will help HSU greatly as we reach further to engage students outside of this region.
+        </mj-text>
+        <mj-text>
+          There is much hope, and many changes at HSU. The soul of campus remains the same as we continue to provide a positive, meaningful, educational experience for our students.
         </mj-text>
       </mj-column>
     </mj-section>
