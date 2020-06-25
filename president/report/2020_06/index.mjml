@@ -44,7 +44,7 @@
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="49680691002_02811bd41b_k.jpg" alt="Fern Canyon" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/49680691002_02811bd41b_k.jpg" alt="Fern Canyon" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
@@ -110,7 +110,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column width="30%">
-        <mj-image src="sts.png" alt="Mosaic of Gradusates" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/sts.png" alt="Mosaic of Gradusates" />
       </mj-column>
       <mj-column width="70%">
         <mj-text color="#fff">
@@ -126,7 +126,7 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-        <mj-image src="2020-0519-Mosaic_LARGE.jpg" alt="Mosaic of Gradusates" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/2020-0519-Mosaic_LARGE.jpg" alt="Mosaic of Gradusates" />
         <mj-text>
           <h2>Grads Recognized at Virtual Ceremonies</h2>
           HSU's class of 2020 graduated last month in a ceremony full of good spirits and inspiring messages. Graduates were recognized in a live-stream video format, with more than 7,500 viewers tuning in and sharing messages in the chat. Many then gathered online for virtual receptions held by academic departments. Videos, photos, and messages from students are archived on the Commencement website, where you can also watch the full ceremony videos.
@@ -140,7 +140,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image src="osa.jpg" alt="Doug Cherry & Ellen Colegrove" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/osa.jpg" alt="Doug Cherry & Ellen Colegrove" />
         <mj-text color="#fff">
           <h2>
             HSU's Outstanding Students for 2020
@@ -163,7 +163,7 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="2020-0507-DA_LARGE.jpg" alt="Professor Sillett working in Redwood" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/2020-0507-DA_LARGE.jpg" alt="Professor Sillett working in Redwood" />
       </mj-column>
     </mj-section>
     <mj-section css-class="dark-wrap">
@@ -193,7 +193,7 @@
 
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image src="" alt="" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/" alt="" />
         <mj-text color="#fff">
           <h2>
             $7 Million in Federal Emergency Aid for HSU's NorCal SBDC
@@ -230,7 +230,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column width="30%">
-        <mj-image src="2020-0519-Capps2_SMALL.jpg" alt="Jenn Capps" padding="0 0 0 20px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/2020-0519-Capps2_SMALL.jpg" alt="Jenn Capps" padding="0 0 0 20px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text color="#fff">
@@ -240,7 +240,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column width="30%">
-        <mj-image src="Lofthouse.jpg" alt="Christina Lofthouse" padding="0 0 0 20px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/Lofthouse.jpg" alt="Christina Lofthouse" padding="0 0 0 20px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text color="#fff">
@@ -250,7 +250,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column width="30%">
-        <mj-image src="2020-0529-Norwood_LARGE.jpg" alt="Tae Norwood" padding="0 0 0 20px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/2020-0529-Norwood_LARGE.jpg" alt="Tae Norwood" padding="0 0 0 20px" />
       </mj-column>
       <mj-column width="70%">
         <mj-text color="#fff">
@@ -272,13 +272,13 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="redwoodroots-cover.jpg" alt="Redwood Roots" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/redwoodroots-cover.jpg" alt="Redwood Roots" />
       </mj-column>
 
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image src="2020-0522-Otters_LARGE.jpg" alt="Otter Sculpture Photo" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/2020-0522-Otters_LARGE.jpg" alt="Otter Sculpture Photo" />
 
       </mj-column>
       <mj-column>
@@ -309,7 +309,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image src="hc-logo.jpg" alt="Humboldt Connected" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2020_06/hc-logo.jpg" alt="Humboldt Connected" />
         <mj-text color="#fff">
           <h2>Donors Step Up Support for Students</h2>
           Alumni and other supporters have been giving generously to support students. Hundreds of individuals have given to provide immediate assistance to students dealing with the challenges of the pandemic. And they have responded strongly to the need for scholarships, with giving to those funds on a record-setting pace through April.
@@ -322,7 +322,6 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-        <mj-image src="" alt="" />
         <mj-text>
           <h2>
             Giving Opportunities
