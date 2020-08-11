@@ -47,9 +47,9 @@
     <mj-section css-class="light-wrap" padding="0">
 
       <mj-column>
-        <mj-image src="hero.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0" />
+        <mj-image src="hero.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0 0 16px 0" />
         <mj-text>
-          Dear campus community,
+          Dear Friends and Colleagues,
         </mj-text>
         <mj-text>
           I have now had the privilege of serving as your President at Humboldt State University for one year. It has been an unforgettable experience, and I am deeply grateful for it.
@@ -61,7 +61,8 @@
           This first-year review highlights just a fraction of the good work and accomplishments at our University. Humboldt State has a big, inspiring story to tell, and it is made up of countless positive moments. As President, I am committed to making sure that story gets told.
         </mj-text>
         <mj-text>
-          President Tom Jackson, Jr.
+          Tom Jackson, Jr.<br>
+          President
         </mj-text>
         <mj-button href="https://president.humboldt.edu/firstyear">
           Read the First-year Review
@@ -69,7 +70,6 @@
         <mj-image src="commencement-grid.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="dark-wrap">
       <mj-column>
         <mj-text color="#fff" align="center">
