@@ -47,7 +47,7 @@
     <mj-section css-class="light-wrap" padding="0">
 
       <mj-column>
-        <mj-image src="hero.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0 0 16px 0" />
+        <mj-image src="https://mailings.humboldt.edu/president/review/first/hero.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0 0 16px 0" />
         <mj-text>
           HSU Community and Friends,
         </mj-text>
@@ -64,7 +64,7 @@
         <mj-button href="https://president.humboldt.edu/firstyear">
           President’s First-year Review
         </mj-button>
-        <mj-image src="commencement-grid.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/review/first/commencement-grid.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="dark-wrap">
