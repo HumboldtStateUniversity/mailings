@@ -49,23 +49,23 @@
       <mj-column>
         <mj-image src="hero.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0 0 16px 0" />
         <mj-text>
-          Dear Friends and Colleagues,
+          HSU Community and Friends,
         </mj-text>
         <mj-text>
-          I have now had the privilege of serving as your President at Humboldt State University for one year. It has been an unforgettable experience, and I am deeply grateful for it.
+          The new academic year will be underway soon, and we’re looking forward to re-connecting and to welcoming new students and colleagues.
         </mj-text>
         <mj-text>
-          I have gotten to know people on campus and in the community, met alumni and donors who shared how their time at Humboldt influenced their lives, and enjoyed exploring the amazing natural environment here along the North Coast.
+          This is also a good time to look back at the previous year. There were many achievements to celebrate, including our shared effort to respond to the challenges of the pandemic. You’re invited to find out more, and to learn about some priorities for the upcoming year, in the <a href="https://president.humboldt.edu/firstyear" class="dark">President’s First-Year Review</a>.
         </mj-text>
         <mj-text>
-          This first-year review highlights just a fraction of the good work and accomplishments at our University. Humboldt State has a big, inspiring story to tell, and it is made up of countless positive moments. As President, I am committed to making sure that story gets told.
+          Even as we face challenges and the unexpected, the campus community maintains a deep commitment to students. Our continued focus is providing them a positive, meaningful educational experience.
         </mj-text>
         <mj-text>
           Tom Jackson, Jr.<br>
           President
         </mj-text>
         <mj-button href="https://president.humboldt.edu/firstyear">
-          Read the First-year Review
+          President’s First-year Review
         </mj-button>
         <mj-image src="commencement-grid.jpg" alt="Resilience & Community, Presidetn's First-year Review" padding="0" />
       </mj-column>
