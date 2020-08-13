@@ -60,10 +60,7 @@
         <mj-text>
           Even as we face challenges and the unexpected, the campus community maintains a deep commitment to students. Our continued focus is providing them a positive, meaningful educational experience.
         </mj-text>
-        <mj-text>
-          Tom Jackson, Jr.<br>
-          President
-        </mj-text>
+
         <mj-button href="https://president.humboldt.edu/firstyear">
           President’s First-year Review
         </mj-button>
