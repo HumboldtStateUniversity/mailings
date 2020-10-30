@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+			<mj-button background-color="#006432" font-size="14px" border-radius="0"/>
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+
+ 
+
+   
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="sp-logo-mark-years.png" alt="HSU-Future Forward - Strategic Plan 2021-2026" />
+      </mj-column>
+    </mj-section>
+		
+    <mj-section css-class="light-wrap">
+			<mj-column>
+				<mj-text>
+          Chickpea leek earthnut pea catsear melon bell pepper tatsoi mung bean. Amaranth celery sorrel water spinach radish maize bok choy corn ricebean lentil gram garlic. Napa cabbage gumbo asparagus celtuce bamboo shoot quandong lotus root gourd dandelion.
+        </mj-text>
+        <mj-button href="#">
+          Some Button Fun
+          </em>
+        </mj-button>
+			</mj-column>
+		</mj-section>
+	
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
