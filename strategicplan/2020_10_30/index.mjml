@@ -53,7 +53,7 @@
     </mj-section>
 
     <mj-section css-class="light-wrap">
-      <mj-column width="100%">
+      <mj-column>
         <mj-text>
           <h2>Open Forums: Help Shape HSU’s Vision and Goals</h2>
         </mj-text>
@@ -81,7 +81,10 @@
           </ul>
         </mj-text>
 				</mj-column>
-				<mj-column width="100%">
+			</mj-column>
+		</mj-section>
+		<mj-section css-class="light-wrap">
+				<mj-column>
         <mj-text><strong>Employee Engagement & Success</strong><br>
          The Employee Engagement & Success working group is ensuring all HSU employees—staff, faculty, administration and student employees—have what they need to be involved in, enthusiastic about, and committed to their work and to HSU. Their success is supported throughout their experience with HSU, from recruitment through departure. Join us to lend your voice to this timely and important conversation.
           <ul>
