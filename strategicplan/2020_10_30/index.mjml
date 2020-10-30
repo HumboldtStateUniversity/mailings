@@ -4,71 +4,120 @@
     <mj-attributes>
       <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
       <mj-all font-family="Arial" />
-			<mj-button background-color="#006432" font-size="14px" border-radius="0"/>
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
     </mj-attributes>
     <mj-style inline="inline">
       h2 {
-        line-height: 28px;
+      line-height: 28px;
       }
 
       a {
-        color: #fff;
+      color: #006432;
       }
 
       a.dark {
-        color: #5C8021;
+      color: #5C8021;
       }
 
       .dark-wrap {
-        background: #5C8021;
-        color: #fff;
+      background: #5C8021;
+      color: #fff;
       }
 
       .light-wrap {
-        background: #F2F4EF;
+      background: #F2F4EF;
       }
 
       @media only screen and (max-width: 420px) {
-        .caption div {
-          text-align: center !important;
-        }
+      .caption div {
+      text-align: center !important;
+      }
       }
     </mj-style>
   </mj-head>
   <mj-body background-color="#8D9495">
     <mj-section>
       <mj-column>
-        
+
       </mj-column>
     </mj-section>
 
- 
 
-   
+
+
     <mj-section background-color="white">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020sp-logo-mark-years.png" alt="HSU-Future Forward - Strategic Plan 2021-2026" />
+        <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png"
+          alt="HSU-Future Forward - Strategic Plan 2021-2026" />
       </mj-column>
     </mj-section>
-		
+
     <mj-section css-class="light-wrap">
-			<mj-column>
-				<mj-text>
-          Chickpea leek earthnut pea catsear melon bell pepper tatsoi mung bean. Amaranth celery sorrel water spinach radish maize bok choy corn ricebean lentil gram garlic. Napa cabbage gumbo asparagus celtuce bamboo shoot quandong lotus root gourd dandelion.
-        </mj-text>
-        <mj-button href="#">
-          Some Button Fun
-          </em>
-        </mj-button>
-			</mj-column>
-		</mj-section>
-	
-    <mj-section>
       <mj-column>
-        <mj-text align="center" color="#fff" font-size="12px">
-          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        <mj-text>
+          <h2>Open Forums: Help Shape HSU’s Vision and Goals</h2>
+        </mj-text>
+        <mj-text>Humboldt State’s Strategic Plan is a blueprint of HSU’s vision and goals for the next five years. It’s
+          a massive undertaking that hinges on ideas from many diverse voices — including yours.</mj-text>
+        <mj-text>Starting next week, join us for a series of virtual “Future Forward Forums.” This is a chance for
+          members of the HSU and local community to provide feedback on key guiding questions for many of our themes.
+          This feedback coupled with data will be a valuable resource in helping the working group shape the vision and
+          strategic goals for each theme of the Strategic Plan. </mj-text>
+        <mj-text>Your input is critical for a Strategic Plan that’s not only bold, but also takes into consideration a
+          range of perspectives. So please spread the word and encourage students, staff, and faculty to participate! If
+          you’re unable to attend the forums, you can <a href="https://hsu.link/spfeedback">use this form to submit your
+            comments and ideas</a>.</mj-text>
+        <mj-text>Thank you for helping to shape the future of HSU.</mj-text>
+        <mj-text padding-top="20px" padding-bottom="0px">
+          <h3>Future Forward Forums</h3>
+        </mj-text>
+        <mj-text><strong>Community Collaboration & Shared Success</strong><br>
+          The Community Collaboration & Shared Success working group is working to ensure that we build a supportive
+          community for students beyond HSU, and that the work of HSU, from teaching to service to research, contributes
+          to vibrant, inclusive, and sustainable communities on the North Coast.
+          <ul>
+            <li><strong>Wednesday, Nov. 4; 10 - 11 a.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZIof-qrqzMvHdZRIYNe6orGDg4UzFL_Gt12">Zoom registration</a></li>
+            <li><strong>Friday, Nov. 6; 11 a.m. - noon</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZMvc-2oqD0oH9UXWfmvW9uhgBqoWl-_57Ng">Zoom registration</a></li>
+          </ul>
+        </mj-text>
+        <mj-text><strong>Employee Engagement & Success</strong><br>
+         The Employee Engagement & Success working group is ensuring all HSU employees—staff, faculty, administration and student employees—have what they need to be involved in, enthusiastic about, and committed to their work and to HSU. Their success is supported throughout their experience with HSU, from recruitment through departure. Join us to lend your voice to this timely and important conversation.
+          <ul>
+            <li><strong>Tuesday, Nov. 3; 9 - 10 a.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZAqdOyupzMqEtF_xZwyKqJQRo8u-TsBUp_D">Zoom registration</a></li>
+            <li><strong>Thursday, Nov. 5; 1 - 2 p.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZAkd-GqrTsuHNGwIJ3HcUwj--6C5XvZQrB_">Zoom registration</a></li>
+          </ul>
+        </mj-text>
+        <mj-text><strong>Future Proofing HSU</strong><br>
+         The Future Proofing HSU working group is examining how to create the type of university that
+can adapt and thrive in the future and respond to internal and external challenges and
+opportunities. With students at the center, we look to create the type of environment that
+provides the educational experience that students want and need, now and in the
+future.
+
+          <ul>
+            <li><strong>Monday, Nov. 9; 4:30 - 5:30 p.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZcocOmspz8rGdAZpDVWY3BWJVV6oWbPlANZ">Zoom registration</a></li>
+            <li><strong>Tuesday, Nov. 10; 11 a.m. - noon</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZYvf-msrzgqE9zXv5mJoUha4gSJS0gaw7cR">Zoom registration</a></li>
+          </ul>
+        </mj-text>
+        <mj-text><strong>Resource Stewardship & Sustainability</strong><br>
+         The Resource Stewardship & Sustainability working group has the charge to develop strategies that appropriately generate, manage, and invest resources towards the purpose of the University and its adopted guiding plans, with the common lens of “Student First”, equity,  inclusivity, and sustainability.
+
+          <ul>
+            <li><strong>Friday, Nov. 6</strong><br>9 - 10 a.m. <a href="https://humboldtstate.zoom.us/meeting/register/tZIufu2urzMtHtBfJiYPCzKX16mA_4wOmGKK">Zoom registration</a><br>
+            Noon -1 p.m. <a href="https://humboldtstate.zoom.us/meeting/register/tZMkf-mhrzguEtDFiZmqzPPPTsik6Cvohzaf">Zoom registration</a>
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text><strong>Student Experience & Success</strong><br>
+         TThe Student Experience & Success working group seeks to identify the HSU student experience by identifying and building strategies that promote positive and meaningful student engagement experiences and success. Discuss ways to more integrate student support, consider needs of holistic student development, and focus on diversity, equity, and inclusion work.
+
+          <ul>
+            <li><strong>Monday, Nov. 2; 9 - 10 a.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZMsfu2pqTotE9HQB8RZuywwWSEvqsgBbVDG">Zoom registration</a></li>
+            <li><strong>Monday, Nov. 9; 10 - 11 a.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZEldumurzkpEtfrWGwvvnQ9IQin74Ra8bHgR">Zoom registration</a></li>
+          </ul>
         </mj-text>
       </mj-column>
     </mj-section>
+
   </mj-body>
 </mjml>
