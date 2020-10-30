@@ -67,7 +67,11 @@
           range of perspectives. So please spread the word and encourage students, staff, and faculty to participate! If
           you’re unable to attend the forums, you can <a href="https://hsu.link/spfeedback">use this form to submit your
             comments and ideas</a>.</mj-text>
-        <mj-text>Thank you for helping to shape the future of HSU.</mj-text>
+				</mj-column>
+		</mj-section>
+		<mj-section css-class="light-wrap">
+				<mj-column>
+					<mj-text>Thank you for helping to shape the future of HSU.</mj-text>
         <mj-text padding-top="20px" padding-bottom="0px">
           <h3>Future Forward Forums</h3>
         </mj-text>
@@ -80,11 +84,6 @@
             <li><strong>Friday, Nov. 6; 11 a.m. - noon</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZMvc-2oqD0oH9UXWfmvW9uhgBqoWl-_57Ng">Zoom registration</a></li>
           </ul>
         </mj-text>
-				</mj-column>
-			</mj-column>
-		</mj-section>
-		<mj-section css-class="light-wrap">
-				<mj-column>
         <mj-text><strong>Employee Engagement & Success</strong><br>
          The Employee Engagement & Success working group is ensuring all HSU employees—staff, faculty, administration and student employees—have what they need to be involved in, enthusiastic about, and committed to their work and to HSU. Their success is supported throughout their experience with HSU, from recruitment through departure. Join us to lend your voice to this timely and important conversation.
           <ul>
@@ -92,7 +91,11 @@
             <li><strong>Thursday, Nov. 5; 1 - 2 p.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZAkd-GqrTsuHNGwIJ3HcUwj--6C5XvZQrB_">Zoom registration</a></li>
           </ul>
         </mj-text>
-        <mj-text><strong>Future Proofing HSU</strong><br>
+      </mj-column>
+    </mj-section>
+					<mj-section css-class="light-wrap">
+						<mj-column>
+							<mj-text><strong>Future Proofing HSU</strong><br>
          The Future Proofing HSU working group is examining how to create the type of university that
 can adapt and thrive in the future and respond to internal and external challenges and
 opportunities. With students at the center, we look to create the type of environment that
@@ -121,8 +124,8 @@ future.
             <li><strong>Monday, Nov. 9; 10 - 11 a.m.</strong> <a href="https://humboldtstate.zoom.us/meeting/register/tZEldumurzkpEtfrWGwvvnQ9IQin74Ra8bHgR">Zoom registration</a></li>
           </ul>
         </mj-text>
-      </mj-column>
-    </mj-section>
+						</mj-column>
+					</mj-section>
 
   </mj-body>
 </mjml>
