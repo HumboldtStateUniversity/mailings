@@ -72,7 +72,7 @@
 		<mj-section css-class="light-wrap" padding="0">
 				<mj-column>
 					<mj-text>Thank you for helping to shape the future of HSU.</mj-text>
-        <mj-text padding-top="20px" padding-bottom="0px">
+        <mj-text padding-bottom="0px">
           <h3>Future Forward Forums</h3>
         </mj-text>
         <mj-text><strong>Community Collaboration & Shared Success</strong><br>
