@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+      line-height: 28px;
+      }
+
+      a {
+      color: #006432;
+      }
+
+      a.dark {
+      color: #5C8021;
+      }
+
+      .dark-wrap {
+      background: #5C8021;
+      color: #fff;
+      }
+
+      .light-wrap {
+      background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+      .caption div {
+      text-align: center !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png"
+          alt="HSU-Future Forward - Strategic Plan 2021-2026" href="https://strategicplan.humboldt.edu"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>Future Forward Forms - Thank You!</h2>
+        </mj-text>
+        <mj-text>The Humboldt State's Strategic Plan "Future Forward Forums" were a success—thanks to you!
+The turnout was great. Discussions were lively. And the ideas, diverse and thoughtful.
+</mj-text>
+        <mj-text>Your feedback, along with input from others, will be reviewed and synthesized into a draft, Phase 1 Strategic Plan. The draft plan will be open to public comment in December so keep an eye out for future announcements.</mj-text>
+        <mj-text>In the meantime, keep those ideas coming. You can <a href="https://hsu.link/spfeedback">submit ideas by theme</a> until November 17!
+.</mj-text>
+<mj-text>
+  For recordings of all Future Forward Forums, go to <a href="https://strategicplan.humboldt.edu/">strategicplan.humboldt.edu</a>.
+</mj-text>
+				</mj-column>
+		</mj-section>
+
+
+  </mj-body>
+</mjml>
