@@ -41,10 +41,6 @@
 
       </mj-column>
     </mj-section>
-
-
-
-
     <mj-section background-color="white">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png"
@@ -55,14 +51,13 @@
     <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text>
-          <h2>Future Forward Forms - Thank You!</h2>
+          <h2>Future Forward Forums - Thank You!</h2>
         </mj-text>
         <mj-text>The Humboldt State's Strategic Plan "Future Forward Forums" were a success—thanks to you!
 The turnout was great. Discussions were lively. And the ideas, diverse and thoughtful.
 </mj-text>
         <mj-text>Your feedback, along with input from others, will be reviewed and synthesized into a draft, Phase 1 Strategic Plan. The draft plan will be open to public comment in December so keep an eye out for future announcements.</mj-text>
-        <mj-text>In the meantime, keep those ideas coming. You can <a href="https://hsu.link/spfeedback">submit ideas by theme</a> until November 17!
-.</mj-text>
+        <mj-text>In the meantime, keep those ideas coming. You can <a href="https://hsu.link/spfeedback">submit ideas by theme</a> through November 16.</mj-text>
 <mj-text>
   For recordings of all Future Forward Forums, go to <a href="https://strategicplan.humboldt.edu/">strategicplan.humboldt.edu</a>.
 </mj-text>
