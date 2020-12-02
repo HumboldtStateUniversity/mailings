@@ -1,0 +1,338 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="50669388516_e619043289_k.jpg" alt="Woodly Island Marina" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+        December<br>2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres052219_0072.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          As we head into the holiday season, I want to acknowledge our Humboldt community&mdash;our students, faculty, staff, families near and far, and neighbors&mdash;for all they've done to help keep each other safe.
+        </mj-text>
+        <mj-text>
+          In response to the pandemic, our students, our faculty and staff, and our broader community came together as a team, and we pulled off something remarkable. Supporting each other is the ultimate act of community. Just as our faculty and staff persevered to deliver education to thousands of students, our students in turn also provided support to their peers, families, and communities.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          I'm inspired by countless efforts large and small. There are the HSU students who have continued to volunteer through the Youth Education Services program, connecting with local youth through a pen pal program and preparing interactive science packets for students. There are all of those who made adjustments so we could virtually host hundreds of eighth graders in November, helping them to picture themselves in college and work toward that goal one day.
+        </mj-text>
+        <mj-text>
+          Environmental Science & Management majors Christian Trujillo, Diana Martinez, and Odalis Avalos launched Ciencia Para Todos. It's an innovative organization that promotes "science for all" through bilingual education to inspire elementary school students to consider majoring in science in college.
+        </mj-text>
+        <mj-text>
+          Our housing and dining teams kept providing services to students living on campus, and they provided support to federal firefighters who needed housing during this year's historic fire season. HSU similarly stepped up to support our sister campus San Jose State, allowing their football team to prepare for their season while also keeping the community safe. And the determined and committed efforts continued in the Emergency Operations Center, Advanced Planning, FITT (Focused Instructional Transition Team), Athletics, and other planning teams.
+        </mj-text>
+        <mj-text>
+          Social Work Professor Jennifer Maguire adapted her groundbreaking work into college students' basic needs, and found that students who continue their college education during the pandemic have found more support and protection. And Julia Jones, who is double majoring in Native American Studies and Sociology, was given a CSU Trustee Award this fall in recognition for her work to help Native youth overcome challenges to attend college.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          These are just a few of the remarkable stories from this challenging year. While we know that the road ahead will be difficult, I'm confident that our Humboldt community will continue to step up to support and protect each other. We share a common goal of providing a positive, meaningful educational experience for all.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="50570338888_d9ff36ce10_c.jpg" alt="Harry Griffith Hall" />
+        <mj-text color="#fff">
+          <h2>Rankings and Recognition</h2>
+          Humboldt State University continues to be recognized for its high-quality educational experience and its commitment to environmental and social responsibility.
+        </mj-text>
+        <mj-text color="#fff">
+          For instance, the University <a href="http://now.humboldt.edu/news/hsu-a-top-peace-corps-volunteer-producing-school/">ranked 16th</a> among medium-size schools on the Peace Corps' list of top volunteer-producing colleges and universities in 2020. Washington Monthly, whose rankings are <a href="https://washingtonmonthly.com/2020college-guide">based on a college's "contribution to the public good</a>," named <a href="https://washingtonmonthly.com/2020college-guide/masters">HSU 45th of 614 master's degree-granting colleges</a> across the nation, marking the fifth consecutive year HSU made the list. HSU, which is one of the nation's most affordable universities, was also named <a href="https://washingtonmonthly.com/2020-best-bang-for-the-buck-rankings-west-2/">77th of 215 western colleges</a> in Washington Monthly's "Best Bang for the Buck" category.
+        </mj-text>
+        <mj-text color="#fff">
+          <a href="http://now.humboldt.edu/news/humboldt-state-receives-stars-gold-rating-for-sustainability-achievements/">HSU earned a STARS Gold rating</a> from the Association for the Advancement of Sustainability in Higher Education (AASHE). STARS (the Sustainability Tracking, Assessment & Rating System) measures and encourages sustainability in all aspects of higher education. HSU previously earned a Silver Rating in 2013 and a Gold Rating in 2017.
+        </mj-text>
+        <mj-text color="#fff">
+          <p>U.S. News &amp; World Report's 2021 Best Colleges list ranked HSU as the<a href="https://www.usnews.com/best-colleges/rankings/regional-universities-west/top-public"> 17th top public school in the West</a>. HSU ranked high on U.S. News &amp; World Report's other regional lists, as well:<a href="https://www.usnews.com/best-colleges/rankings/regional-universities-west"> 37th of 127 public and private universities</a>, #<a href="https://www.usnews.com/best-colleges/rankings/regional-universities-west/veterans">22 in Best Colleges for Veterans</a>, #<a href="https://www.usnews.com/best-colleges/rankings/regional-universities-west/best-value">33 in Best Value School</a>s, and #<a href="https://www.usnews.com/best-colleges/rankings/regional-universities-west/social-mobility">34 in Top Performers on Social Mobility</a>. HSU's undergraduate engineering program<a href="https://www.usnews.com/best-colleges/rankings/engineering-overall"> ranked nationally</a>, coming in at #72 of 220 schools (where a doctorate in engineering is not offered). HSU also made Princeton Review's annual list, which named the University as one of<a href="https://www.princetonreview.com/college-rankings?rankings=best-western"> 127 best colleges in the West</a>.</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>HSU May Be Designated State's Third Polytechnic</h2>
+          HSU's class of 2020 graduated last month in a ceremony full of good spirits and inspiring messages. Graduates were recognized in a live-stream video format, with more than 7,500 viewers tuning in and sharing messages in the chat. Many then gathered online for virtual receptions held by academic departments. Videos, photos, and messages from students are archived on the Commencement website, where you can also watch the full ceremony videos.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/humboldt-state-asked-to-plan-for-consideration-to-be-states-third-polytechn/">
+          Poly planning website
+          </em>
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Strategic Planning Process Moving Ahead
+          </h2>
+          Last spring, members of the campus community began creating Humboldt State's Strategic Plan (2021-2026). Essential to the improvement and growth of HSU, this plan will articulate who we are as an institution now, what we want to work toward together, and who we want to be in five years.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/strategic-planning-process-kicks-off/">
+          Read Story About Strategic Plan Kickoff
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          <h2>CSU Trustee Award Winner Wants to Help Native Youth</h2>
+          From a young age, Julia Jones learned to depend on school for support. Today, she is working towards a career in law and counseling to help Native youth overcome challenges to attend college. Jones has been named a 2020 CSU Trustees' Award for Outstanding Achievement winner.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/csu-trustee-award-winner-wants-to-help-native-youth/">
+          Read About Julia's Achievement
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="2020-0917_Awardee_LARGE.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="2020-09-25-Ciencia_LARGE.jpg" alt="" />
+        </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>'Science for All' with Spanish-Language Education in STEM</h2>
+          An innovative new Humboldt State organization, Ciencia Para Todos, promotes "science for all" through bilingual education to inspire elementary school students to consider science majors in higher education.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/science-for-all-with-spanish-language-education-in-stem/">
+          Read About Ciencia Para Todos
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>25 Years of Remembering: Heritage and Discourse in Native American Studies</h2>
+          Humboldt State University's Native American Studies program provides an essential Indigenous voice on campus. Due to the efforts of early Indigenous students and faculty at HSU, the program, which turned 25 this year, is stronger than ever as it continues to refine HSU's role as a leader in Native American scholarship.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/25-years-of-remembering-heritage-and-discourse-in-native-american-studies/">
+          Learn More About Native American Studies
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>HSU Alum and Instructor Named California Teacher of the Year</h2>
+          Recognized for her leadership and innovation during a challenging educational climate, HSU School of Education instructor and HSU alumna Nora Wynne was named a 2021 California Teacher of the Year. This is the first time a Humboldt County educator has been recognized with the honor since 1996.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-instructor-and-alumna-named-california-teacher-of-the-year/">
+          Read About Nora's Wynne
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="light-wrap">
+
+      <mj-column>
+        <mj-image src="yesvols.jpg" alt="" />
+        <mj-text>
+          <h2>Students Stay Connected to Community Through Virtual Volunteerism</h2>
+          HSU students who volunteer through Youth Educational Services are keeping the spirit of community service alive in creative and remote ways during the pandemic.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/students-stay-connected-to-community-through-virtual-volunteerism/">
+          More About Virtual Tourism
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Hundreds of Eighth Grade Students Get Inspired About College</h2>
+          Despite the big opportunity and financial mobility afforded by a college education, many young people don't envision themselves at four-year universities--especially those facing the greatest hurdles to get there. Humboldt State University's "I've Been Admitted to College" event, or IBAC, inspires local eighth-grade students to imagine themselves as college graduates.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hundreds-of-eighth-grade-students-get-inspired-about-college-at-humboldt-st/">
+          Learn About the ICAC Program
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>
+            Alum Named Cal State East Bay President
+          </h2>
+          Rising through the ranks of higher education, Cathy A. Sandeen ('76, Speech Pathology) has now been named president at California State University East Bay. She is now one of two HSU alumni serving as a current president of a CSU campus, joining CSU Bakersfield President Lynnette Zelezny ('79 Psychology, '81 M.A. Psychology).
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news hsu-alumna-named-cal-state-east-bay-president/">
+          Read About Cathy Sandeen
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="2020-11-14-Sandeen_SMALL.jpg" alt="Cathy A. Sandeen" />
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="50473044363_9254e0efbb_c.jpg" alt="" />
+        <mj-text color="#fff">
+          <h2>
+            Athletics Year in Review
+          </h2>
+          The 2019-20 season saw Lumberjack student-athletes exceeding in the classroom, on the playing fields, and in the community.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/athletics-year-in-review/ ">
+          Athletics Year in Review
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="50473043898_38a1a1f2cd_c.jpg" alt="" />
+        <mj-text>
+          <h2>After $33 Million in Grants, Sponsored Programs Foundation Distributes $650k to Support Research</h2>
+          HSU's Sponsored Programs Foundation oversaw 178 new awards totaling $33 million in the last year. To encourage efforts to pursue additional research and funding, and to support student success, it has recently distributed more than $650,000 to researchers and departments across campus.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/sponsored-programs-foundation-distributes-650k-to-hsu-research-community/">
+          Read Story about Grant Distributions
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>HSU Foundation Makes Major Local Investment</h2>
+          The HSU Foundation - the non-profit organization that accepts donations and manages the endowment for the University - has made a new investment in local real estate. It completed the purchase of nearly eight developable acres near campus that is known as Craftsman Mall.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/hsu-foundation-makes-major-local-investment/">
+          Learn More About the Decision
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>Students Finding Support at College During Pandemic</h2>
+          As the COVID-19 pandemic continues, college students are facing even greater challenges in meeting their basic needs. For some, being on campus may help.
+        </mj-text>
+        <mj-text>
+          "We have found that being on campus may be a stabilizer and protective factor," says Social Work Professor Jennifer Maguire, explaining that students often supplement their needs via food pantries like <a href="http://hsuohsnap.org/" class="dark">HSU's Oh SNAP! program</a>. With many students now reshuffled across the state due to COVID-19, finding a stable place to live—with reliable Wi-fi and technology—is harder than ever.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/students-may-be-at-more-at-risk-for-hunger-and-homelessness-during-covid-19/">
+        Risk of Hunger & Homelessness <br>During Covid-19
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="2020-10-21-thinning_LARGE.jpg" alt="" />
+        <mj-text color="#fff">
+          <h2>Study: Thinning and Prescribed Fire Treatments Reduce Tree Mortality</h2>
+          A recent study by the USDA Forest Service, Humboldt State, and other researchers suggests that if forests had been closer to their historic densities, tree mortality would likely not have been as severe.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/study-thinning-and-prescribed-fire-treatments-reduce-tree-mortality/">
+          Read About Forest Study
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="50305938443_b75ea66989_c.jpg" alt="" />
+        <mj-text>
+          <h2>Enrollment in Graduate Programs Increases</h2>
+          Despite the uncertainty in higher education during the pandemic, Humboldt State experienced a 8% increase in the number of new graduate students from last year and the highest number since 2017.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/enrollment-in-graduate-programs-increases-at-hsu/">
+          Read About Increase in Grad Students
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
