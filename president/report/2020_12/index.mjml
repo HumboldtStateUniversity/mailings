@@ -131,12 +131,12 @@
           <h2>HSU May Be Designated State's Third Polytechnic</h2>
          The California State University has asked Humboldt State University to undertake a self-study toward becoming designated a polytechnic. The request offers the momentous possibility of HSU becoming one of just three polytechnic universities in the state, and the only one in Northern California. It would better position HSU to meet specific workforce needs on the North Coast and statewide, and significantly raise HSU’s profile among prospective students and grant-funding organizations.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUH">
+        <mj-button href="https://hsu.link/ZwD">
           Read story about self-study
         </mj-button>
-        <mj-button href="https://humboldt.edu/polytechnic">
+        <!-- <mj-button href="https://humboldt.edu/polytechnic">
           Polytechnic self-study website
-        </mj-button>
+        </mj-button> -->
       </mj-column>
 
     </mj-section>
@@ -148,7 +148,7 @@
           </h2>
           Last spring, members of the campus community began creating Humboldt State's Strategic Plan (2021-2026). Essential to the improvement and growth of HSU, this plan will articulate who we are as an institution now, what we want to work toward together, and who we want to be in five years.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUV">
+        <mj-button href="https://hsu.link/Zwn">
           Read story about Strategic Plan kickoff
         </mj-button>
       </mj-column>
@@ -159,7 +159,7 @@
           <h2>CSU Trustee Award Winner Wants to Help Native Youth</h2>
           From a young age, Julia Jones learned to depend on school for support. Today, she is working towards a career in law and counseling to help Native youth overcome challenges to attend college. Jones has been named a 2020 CSU Trustees' Award for Outstanding Achievement winner.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUj">
+        <mj-button href="https://hsu.link/Zwh">
           Read about Julia's achievement
         </mj-button>
       </mj-column>
@@ -176,7 +176,7 @@
           <h2>'Science for All' with Spanish-Language Education in STEM</h2>
           An innovative new Humboldt State organization, Ciencia Para Todos, promotes "science for all" through bilingual education to inspire elementary school students to consider science majors in higher education.
         </mj-text>
-        <mj-button href="https://hsu.link/ZU9">
+        <mj-button href="https://hsu.link/Zw7">
           Read about Ciencia Para Todos
         </mj-button>
       </mj-column>
@@ -187,7 +187,7 @@
           <h2>25 Years of Remembering: Heritage and Discourse in Native American Studies</h2>
           Humboldt State University's Native American Studies program provides an essential Indigenous voice on campus. Due to the efforts of early Indigenous students and faculty at HSU, the program, which turned 25 this year, is stronger than ever as it continues to refine HSU's role as a leader in Native American scholarship.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUC">
+        <mj-button href="https://hsu.link/Zw8">
           Learn more about Native American Studies
         </mj-button>
       </mj-column>
@@ -199,8 +199,8 @@
           <h2>HSU Alum and Instructor Named California Teacher of the Year</h2>
           Recognized for her leadership and innovation during a challenging educational climate, HSU School of Education instructor and HSU alumna Nora Wynne was named a 2021 California Teacher of the Year. This is the first time a Humboldt County educator has been recognized with the honor since 1996.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUy">
-          Read about Nora's Wynne
+        <mj-button href="https://hsu.link/ZwX">
+          Read about Nora Wynne
         </mj-button>
       </mj-column>
 
@@ -213,7 +213,7 @@
           <h2>Students Stay Connected to Community Through Virtual Volunteerism</h2>
           HSU students who volunteer through Youth Educational Services are keeping the spirit of community service alive in creative and remote ways during the pandemic.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUF">
+        <mj-button href="https://hsu.link/ZwB">
           More about virtual tourism
         </mj-button>
       </mj-column>
@@ -225,7 +225,7 @@
           <h2>Hundreds of Eighth Grade Students Get Inspired About College</h2>
           Despite the big opportunity and financial mobility afforded by a college education, many young people don't envision themselves at four-year universities--especially those facing the greatest hurdles to get there. Humboldt State University's "I've Been Admitted to College" event, or IBAC, inspires local eighth-grade students to imagine themselves as college graduates.
         </mj-text>
-        <mj-button href="https://hsu.link/ZUv">
+        <mj-button href="https://hsu.link/Zw2">
           Learn about the ICAC Program
         </mj-button>
       </mj-column>
@@ -236,9 +236,9 @@
           <h2>
             Five Alumni Now Serving as College Presidents
           </h2>
-          Cathy A. Sandeen ('76, Speech Pathology) has been named president at California State University, East Bay. She becomes the fifth HSU alum serving as a college president, joining University of LaVerne President <a href="https://hsu.link/Zwc">Devorah Lieberman</a> ('75 Communication Studies), CSU Bakersfield President <a href="https://forever.humboldt.edu/content/forever/lynnette-zelezny-new-president-csu-bakersfield">Lynnette Zelezny</a> ('79 Psychology, '81 M.A. Psychology), North Dakota State University President <a href="https://hsu.link/Zwp">Dean Bresciani</a> ('84 Sociology), and Westminster College President <a href="https://forever.humboldt.edu/content/forever-feature-me/alum-named-president-utah%E2%80%99s-westminster-college">Bethami Dobkin</a> ('85 Speech Communication).
+          Cathy A. Sandeen ('76, Speech Pathology) has been named president at California State University, East Bay. She becomes the fifth HSU alum serving as a college president, joining University of LaVerne President <a href="https://hsu.link/Zwc" class="dark">Devorah Lieberman</a> ('75 Communication Studies), CSU Bakersfield President <a href="https://forever.humboldt.edu/content/forever/lynnette-zelezny-new-president-csu-bakersfield"class="dark">Lynnette Zelezny</a> ('79 Psychology, '81 M.A. Psychology), North Dakota State University President <a href="https://hsu.link/Zwp" class="dark">Dean Bresciani</a> ('84 Sociology), and Westminster College President <a href="https://forever.humboldt.edu/content/forever-feature-me/alum-named-president-utah%E2%80%99s-westminster-college" class="dark">Bethami Dobkin</a> ('85 Speech Communication).
         </mj-text>
-        <mj-button href="https://hsu.link/Zwk">
+        <mj-button href="https://hsu.link/Zw6">
           Read about Cathy Sandeen
         </mj-button>
       </mj-column>
@@ -256,7 +256,7 @@
           </h2>
           The 2019-20 season saw Lumberjack student-athletes exceeding in the classroom, on the playing fields, and in the community.
         </mj-text>
-        <mj-button href="https://hsu.link/ZwZ">
+        <mj-button href="https://hsu.link/Zwu">
           Athletics year in review
         </mj-button>
       </mj-column>
@@ -268,7 +268,7 @@
           <h2>After $33 Million in Grants, Sponsored Programs Foundation Distributes $650k to Support Research</h2>
           HSU's Sponsored Programs Foundation oversaw 178 new awards totaling $33 million in the last year. To encourage efforts to pursue additional research and funding, and to support student success, it has recently distributed more than $650,000 to researchers and departments across campus.
         </mj-text>
-        <mj-button href="https://hsu.link/Zw4">
+        <mj-button href="https://hsu.link/ZwL">
           Read story about grant distributions
         </mj-button>
       </mj-column>
@@ -279,7 +279,7 @@
           <h2>HSU Foundation Makes Major Local Investment</h2>
           The HSU Foundation - the non-profit organization that accepts donations and manages the endowment for the University - has made a new investment in local real estate. It completed the purchase of nearly eight developable acres near campus that is known as Craftsman Mall.
         </mj-text>
-        <mj-button href="https://hsu.link/Zwo">
+        <mj-button href="https://hsu.link/Zwb">
           Learn more about the investment
         </mj-button>
       </mj-column>
@@ -291,9 +291,9 @@
           As the COVID-19 pandemic continues, college students are facing even greater challenges in meeting their basic needs. For some, being on campus may help.
         </mj-text>
         <mj-text>
-          "We have found that being on campus may be a stabilizer and protective factor," says Social Work Professor Jennifer Maguire, explaining that students often supplement their needs via food pantries like <a href="https://hsu.link/ZwG" class="dark">HSU's Oh SNAP! program</a>. With many students now reshuffled across the state due to COVID-19, finding a stable place to live—with reliable Wi-fi and technology—is harder than ever.
+          "We have found that being on campus may be a stabilizer and protective factor," says Social Work Professor Jennifer Maguire, explaining that students often supplement their needs via food pantries like <a href="https://hsu.link/ZoD" class="dark">HSU's Oh SNAP! program</a>. With many students now reshuffled across the state due to COVID-19, finding a stable place to live—with reliable Wi-fi and technology—is harder than ever.
         </mj-text>
-        <mj-button href="https://hsu.link/ZwJ">
+        <mj-button href="https://hsu.link/ZwE">
         Risk of hunger & homelessness <br>during Covid-19
         </mj-button>
       </mj-column>
@@ -305,7 +305,7 @@
           <h2>Study: Thinning and Prescribed Fire Treatments Reduce Tree Mortality</h2>
           A recent study by the USDA Forest Service, Humboldt State, and other researchers suggests that if forests had been closer to their historic densities, tree mortality would likely not have been as severe.
         </mj-text>
-        <mj-button href="https://hsu.link/Zw3">
+        <mj-button href="https://hsu.link/Zwa">
           Read about forest study
         </mj-button>
       </mj-column>
@@ -317,7 +317,7 @@
           <h2>Enrollment in Graduate Programs Increases</h2>
           Despite the uncertainty in higher education during the pandemic, Humboldt State experienced a 8% increase in the number of new graduate students from last year and the highest number since 2017.
         </mj-text>
-        <mj-button href="https://hsu.link/ZwU">
+        <mj-button href="https://hsu.link/ZwR">
           Read about increase in grad students
         </mj-button>
       </mj-column>
