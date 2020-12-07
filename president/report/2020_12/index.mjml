@@ -112,6 +112,10 @@
         <mj-text color="#fff">
           For instance, HSU currently has the eighth-highest rate of STEM (Science, Technology, Engineering, Math) students who go on to earn PhDs among all 660 master’s degree institutions nationwide, and is first among CSU campuses. The University is <a href="https://hsu.link/ZU2">ranked 16th</a> among medium-size schools on the Peace Corps' list of top volunteer-producing colleges and universities in 2020. Washington Monthly, whose rankings are <a href="https://washingtonmonthly.com/2020college-guide">based on a college's "contribution to the public good</a>," named <a href="https://washingtonmonthly.com/2020college-guide/masters">HSU 45th of 614 master's degree-granting colleges</a> across the nation, marking the fifth consecutive year HSU made the list. HSU, which is one of the nation's most affordable universities, was also named <a href="https://washingtonmonthly.com/2020-best-bang-for-the-buck-rankings-west-2/">77th of 215 western colleges</a> in Washington Monthly's "Best Bang for the Buck" category.
         </mj-text>
+			</mj-column>
+			</mj-section>
+				<mj-section css-class="dark-wrap" padding-top="0">
+      <mj-column>
         <mj-text color="#fff">
           <a href="https://hsu.link/ZUb">HSU earned a STARS Gold rating</a> from the Association for the Advancement of Sustainability in Higher Education (AASHE). STARS (the Sustainability Tracking, Assessment & Rating System) measures and encourages sustainability in all aspects of higher education. HSU previously earned a Silver Rating in 2013 and a Gold Rating in 2017.
         </mj-text>
