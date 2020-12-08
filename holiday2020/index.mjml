@@ -36,13 +36,13 @@
 
     <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
-        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2020/header.jpg" alt="Happy Holidays from Humboldt State" />
+        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2020/header.png" alt="Happy Holidays from Humboldt State" />
         <mj-image src="https://mailings.humboldt.edu/holiday2020/boat.jpg" alt="Goldens at Founders Hall" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
       <mj-column>
-			<mj-image src="https://mailings.humboldt.edu/holiday2020/message.jpg" padding-top="10px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
+			<mj-image src="https://mailings.humboldt.edu/holiday2020/message.png" padding-top="10px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
 
 				<mj-text align="center" font-size="18px" line-height="24px" padding-top="10px" padding-left="25px" padding-right="25px">During this time of year, we remember our connection to the beautiful place called Humboldt and our connection to each other as a Lumberjack family.
 </mj-text>
@@ -51,7 +51,7 @@
 May it shine brightly and be filled with hope and joy.</mj-text>
 
         <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/I0fGC2P6iXo?utm_source=email&utm_medium=email&utm_campaign=holiday2019">
-          Watch on YouTube!&nbsp;&nbsp;&#9654;
+         View the Holiday Video&nbsp;&nbsp;&#9654;
         </mj-button>
       </mj-column>
     </mj-section>
