@@ -12,10 +12,12 @@
 
       a {
         color: #fff;
+				text-decoration:underline;
       }
 
       a.dark {
         color: #5C8021;
+				text-decoration:underline;
       }
 
       .dark-wrap {
