@@ -82,20 +82,20 @@
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
         <mj-text>
-          I'm inspired by countless efforts large and small. There are the HSU students who have continued to volunteer through the Youth Education Services program, connecting with local youth through a pen pal program and preparing interactive science packets for students. There are all of those who made adjustments so we could virtually host hundreds of eighth graders in November, helping them to picture themselves in college and work toward that goal one day.
+          I'm inspired by countless efforts large and small. There are the HSU students who have continued to volunteer through the Youth Educational Services program, connecting with local youth through a pen pal program and preparing interactive science packets for students. There are all of those who made adjustments so we could virtually host hundreds of eighth graders in November, helping them to picture themselves in college and work toward that goal one day.
         </mj-text>
         <mj-text>
           Environmental Science & Management majors Christian Trujillo, Diana Martinez, and Odalis Avalos launched Ciencia Para Todos. It's an innovative organization that promotes "science for all" through bilingual education to inspire elementary school students to consider majoring in science in college.
         </mj-text>
         <mj-text>
-          Our housing and dining teams kept providing services to students living on campus, and they provided support to federal firefighters who needed housing during this year's historic fire season. HSU similarly stepped up to support our sister campus San Jose State, allowing their football team to prepare for their season while also keeping the community safe. And the determined and committed efforts continued in the Emergency Operations Center, Advanced Planning, FITT (Focused Instructional Transition Team), Athletics, and other planning teams.
+          Our housing and dining teams kept providing services to students living on campus, and they provided support to federal firefighters who needed housing during this year's historic fire season. HSU similarly stepped up to support our sister campus San José State, allowing their football team to prepare for their season while also keeping the community safe. And the determined and committed efforts continued in the Emergency Operations Center, Advanced Planning, FITT (Focused Instructional Transition Team), Athletics, and other planning teams.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0">
       <mj-column>
 				 <mj-text>
-          Social Work Professor Jennifer Maguire adapted her groundbreaking work into college students' basic needs, and found that students who continue their college education during the pandemic have found more support and protection. And Julia Jones, who is double majoring in Native American Studies and Sociology, was given a CSU Trustee Award this fall in recognition for her work to help Native youth overcome challenges to attend college.
+          Social Work Professor Jennifer Maguire adapted her groundbreaking work into college students' basic needs, and found that students who continue their college education during the pandemic have found more support and protection. And Julia Jones, who is double majoring in Native American Studies and Sociology, was given a CSU Trustees' Award this fall in recognition for her work to help Native youth overcome challenges to attend college.
         </mj-text>
         <mj-text>
           These are just a few of the remarkable stories from this challenging year. While we know that the road ahead will be difficult, I'm confident that our Humboldt community will continue to step up to support and protect each other. We share a common goal of providing a positive, meaningful educational experience for all.
@@ -110,7 +110,7 @@
           Humboldt State University continues to be recognized for its high-quality educational experience and its commitment to environmental and social responsibility.
         </mj-text>
         <mj-text color="#fff">
-          For instance, HSU currently has the eighth-highest rate of STEM (Science, Technology, Engineering, Math) students who go on to earn PhDs among all 660 master’s degree institutions nationwide, and is first among CSU campuses. The University is <a href="https://hsu.link/ZU2">ranked 16th</a> among medium-size schools on the Peace Corps' list of top volunteer-producing colleges and universities in 2020. Washington Monthly, whose rankings are <a href="https://washingtonmonthly.com/2020college-guide">based on a college's "contribution to the public good</a>," named <a href="https://washingtonmonthly.com/2020college-guide/masters">HSU 45th of 614 master's degree-granting colleges</a> across the nation, marking the fifth consecutive year HSU made the list. HSU, which is one of the nation's most affordable universities, was also named <a href="https://washingtonmonthly.com/2020-best-bang-for-the-buck-rankings-west-2/">77th of 215 western colleges</a> in Washington Monthly's "Best Bang for the Buck" category.
+          For instance, HSU currently has the eighth-highest rate of STEM (Science, Technology, Engineering, Math) students who go on to earn Ph.D.s among all 660 master’s degree institutions nationwide, and is first among CSU campuses. The University is <a href="https://hsu.link/ZU2">ranked 16th</a> among medium-size schools on the Peace Corps' list of top volunteer-producing colleges and universities in 2020. Washington Monthly, whose rankings are <a href="https://washingtonmonthly.com/2020college-guide">based on a college's "contribution to the public good</a>," named <a href="https://washingtonmonthly.com/2020college-guide/masters">HSU 45th of 614 master's degree-granting colleges</a> across the nation, marking the fifth consecutive year HSU made the list. HSU, which is one of the nation's most affordable universities, was also named <a href="https://washingtonmonthly.com/2020-best-bang-for-the-buck-rankings-west-2/">77th of 215 western colleges</a> in Washington Monthly's "Best Bang for the Buck" category.
         </mj-text>
 			</mj-column>
 			</mj-section>
@@ -132,7 +132,7 @@
          The California State University has asked Humboldt State University to undertake a self-study toward becoming designated a polytechnic. The request offers the momentous possibility of HSU becoming one of just three polytechnic universities in the state, and the only one in Northern California. It would better position HSU to meet specific workforce needs on the North Coast and statewide, and significantly raise HSU’s profile among prospective students and grant-funding organizations.
         </mj-text>
         <mj-button href="https://hsu.link/ZwD">
-          Read story about self-study
+          Read about the self-study
         </mj-button>
         <!-- <mj-button href="https://humboldt.edu/polytechnic">
           Polytechnic self-study website
@@ -149,7 +149,7 @@
           Last spring, members of the campus community began creating Humboldt State's Strategic Plan (2021-2026). Essential to the improvement and growth of HSU, this plan will articulate who we are as an institution now, what we want to work toward together, and who we want to be in five years.
         </mj-text>
         <mj-button href="https://hsu.link/Zwn">
-          Read story about Strategic Plan kickoff
+          Read more about the Strategic Plan kickoff
         </mj-button>
       </mj-column>
     </mj-section>
@@ -214,7 +214,7 @@
           HSU students who volunteer through Youth Educational Services are keeping the spirit of community service alive in creative and remote ways during the pandemic.
         </mj-text>
         <mj-button href="https://hsu.link/ZwB">
-          More about virtual tourism
+          More about virtual volunteerism
         </mj-button>
       </mj-column>
     </mj-section>
@@ -223,7 +223,7 @@
       <mj-column>
         <mj-text color="#fff">
           <h2>Hundreds of Eighth Grade Students Get Inspired About College</h2>
-          Despite the big opportunity and financial mobility afforded by a college education, many young people don't envision themselves at four-year universities--especially those facing the greatest hurdles to get there. Humboldt State University's "I've Been Admitted to College" event, or IBAC, inspires local eighth-grade students to imagine themselves as college graduates.
+          Despite the big opportunity and financial mobility afforded by a college education, many young people don't envision themselves at four-year universities—especially those facing the greatest hurdles to get there. Humboldt State University's "I've Been Admitted to College" event, or IBAC, inspires local eighth-grade students to imagine themselves as college graduates.
         </mj-text>
         <mj-button href="https://hsu.link/Zw2">
           Learn about the IBAC Program
@@ -236,7 +236,7 @@
           <h2>
             Five Alumni Now Serving as College Presidents
           </h2>
-          Cathy A. Sandeen ('76, Speech Pathology) has been named president at California State University, East Bay. She becomes the fifth HSU alum serving as a college president, joining University of LaVerne President <a href="https://hsu.link/Zwc" class="dark">Devorah Lieberman</a> ('75 Communication Studies), CSU Bakersfield President <a href="https://forever.humboldt.edu/content/forever/lynnette-zelezny-new-president-csu-bakersfield"class="dark">Lynnette Zelezny</a> ('79 Psychology, '81 M.A. Psychology), North Dakota State University President <a href="https://hsu.link/Zwp" class="dark">Dean Bresciani</a> ('84 Sociology), and Westminster College President <a href="https://forever.humboldt.edu/content/forever-feature-me/alum-named-president-utah%E2%80%99s-westminster-college" class="dark">Bethami Dobkin</a> ('85 Speech Communication).
+          Cathy A. Sandeen ('76, Speech Pathology) has been named president at California State University, East Bay. She becomes the fifth HSU alum serving as a college president, joining University of La Verne President <a href="https://hsu.link/Zwc" class="dark">Devorah Lieberman</a> ('75, Communication Studies), CSU Bakersfield President <a href="https://forever.humboldt.edu/content/forever/lynnette-zelezny-new-president-csu-bakersfield"class="dark">Lynnette Zelezny</a> ('79, Psychology, '81, M.A. Psychology), North Dakota State University President <a href="https://hsu.link/Zwp" class="dark">Dean Bresciani</a> ('84, Sociology), and Westminster College President <a href="https://forever.humboldt.edu/content/forever-feature-me/alum-named-president-utah%E2%80%99s-westminster-college" class="dark">Bethami Dobkin</a> ('85, Speech Communication).
         </mj-text>
         <mj-button href="https://hsu.link/Zw6">
           Read about Cathy Sandeen
@@ -269,7 +269,7 @@
           HSU's Sponsored Programs Foundation oversaw 178 new awards totaling $33 million in the last year. To encourage efforts to pursue additional research and funding, and to support student success, it has recently distributed more than $650,000 to researchers and departments across campus.
         </mj-text>
         <mj-button href="https://hsu.link/ZwL">
-          Read story about grant distributions
+          Read more about grant distributions
         </mj-button>
       </mj-column>
     </mj-section>
@@ -277,7 +277,7 @@
       <mj-column>
         <mj-text color="#fff">
           <h2>HSU Foundation Makes Major Local Investment</h2>
-          The HSU Foundation - the non-profit organization that accepts donations and manages the endowment for the University - has made a new investment in local real estate. It completed the purchase of nearly eight developable acres near campus that is known as Craftsman Mall.
+          The HSU Foundation—the non-profit organization that accepts donations and manages the endowment for the University—has made a new investment in local real estate. It completed the purchase of nearly eight developable acres near campus that is known as Craftsman Mall.
         </mj-text>
         <mj-button href="https://hsu.link/Zwb">
           Learn more about the investment
@@ -291,10 +291,10 @@
           As the COVID-19 pandemic continues, college students are facing even greater challenges in meeting their basic needs. For some, being on campus may help.
         </mj-text>
         <mj-text>
-          "We have found that being on campus may be a stabilizer and protective factor," says Social Work Professor Jennifer Maguire, explaining that students often supplement their needs via food pantries like <a href="https://hsu.link/ZoD" class="dark">HSU's Oh SNAP! program</a>. With many students now reshuffled across the state due to COVID-19, finding a stable place to live—with reliable Wi-fi and technology—is harder than ever.
+          "We have found that being on campus may be a stabilizer and protective factor," says Social Work Professor Jennifer Maguire, explaining that students often supplement their needs via food pantries like <a href="https://hsu.link/ZoD" class="dark">HSU's Oh SNAP! program</a>. With many students now reshuffled across the state due to COVID-19, finding a stable place to live—with reliable Wi-Fi and technology—is harder than ever.
         </mj-text>
         <mj-button href="https://hsu.link/ZwE">
-        Risk of hunger & homelessness <br>during Covid-19
+        The risk of hunger & homelessness <br>during Covid-19
         </mj-button>
       </mj-column>
     </mj-section>
@@ -306,7 +306,7 @@
           A recent study by the USDA Forest Service, Humboldt State, and other researchers suggests that if forests had been closer to their historic densities, tree mortality would likely not have been as severe.
         </mj-text>
         <mj-button href="https://hsu.link/Zwa">
-          Read about forest study
+          Read about the forest study
         </mj-button>
       </mj-column>
     </mj-section>
@@ -315,10 +315,10 @@
       <mj-image src="https://mailings.humboldt.edu/president/report/2020_12/50305938443_b75ea66989_c.jpg" alt="" />
         <mj-text>
           <h2>Enrollment in Graduate Programs Increases</h2>
-          Despite the uncertainty in higher education during the pandemic, Humboldt State experienced a 8% increase in the number of new graduate students from last year and the highest number since 2017.
+          Despite the uncertainty in higher education during the pandemic, Humboldt State experienced an 8% increase in the number of new graduate students from last year and the highest number since 2017.
         </mj-text>
         <mj-button href="https://hsu.link/ZwR">
-          Read about increase in grad students
+          Read about the increase in grad students
         </mj-button>
       </mj-column>
     </mj-section>
