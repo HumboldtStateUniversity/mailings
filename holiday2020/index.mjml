@@ -36,8 +36,8 @@
 
     <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
-        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2020/header.png" alt="Happy Holidays from Humboldt State" />
-        <mj-image src="https://mailings.humboldt.edu/holiday2020/boat.jpg" alt="boat"href="https://youtu.be/j3_9MyR-XTI" />
+        <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2020/header.png" alt="Happy Holidays from Humboldt State" href="https://humboldt.edu" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2020/boat.jpg" alt="boat" href="https://youtu.be/j3_9MyR-XTI" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
