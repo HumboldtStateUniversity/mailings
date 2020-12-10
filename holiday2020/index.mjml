@@ -50,8 +50,11 @@
 <strong>Enjoy your holiday season! </strong><br>
 May it shine brightly and be filled with hope and joy.</mj-text>
 
-        <mj-button padding-top="30px" padding-bottom="30px" href="https://youtu.be/I0fGC2P6iXo?utm_source=email&utm_medium=email&utm_campaign=holiday2019">
+        <mj-button padding-top="30px" padding-bottom="20px" href="https://youtu.be/I0fGC2P6iXo">
          Watch the Holiday Video&nbsp;&nbsp;&#9654;
+        </mj-button>
+          <mj-button padding-top="0px" padding-bottom="40px" href="https://humboldt.edu/holiday2020?utm_source=email&utm_medium=email&utm_campaign=holiday2020#zoom-bg">
+         Download Holiday Zoom Backgrounds&nbsp;&nbsp;&#9654;
         </mj-button>
       </mj-column>
     </mj-section>
@@ -62,22 +65,22 @@ May it shine brightly and be filled with hope and joy.</mj-text>
     <mj-section background-color="#3F611E">
       <mj-column>
         <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="20px">
-          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/facebook.png" background-color="none" padding="5px">
+          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/facebook.png" background-color="none" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/twitter.png" background-color="none" padding="5px" padding="5px">
+          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/twitter.png" background-color="none" padding="5px" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/flickr.png" background-color="none" padding="5px" padding="5px">
+          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/flickr.png" background-color="none" padding="5px" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2019/youtube.png" background-color="none" padding="5px">
+          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2020/youtube.png" background-color="none" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2019/linkedin.png" background-color="none" padding="5px">
+          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2020/linkedin.png" background-color="none" padding="5px">
           </mj-social-element>
 
-          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2019/instagram.png" background-color="none" padding="5px">
+          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/instagram.png" background-color="none" padding="5px">
 
           </mj-social-element>
 
