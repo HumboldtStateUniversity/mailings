@@ -7,10 +7,6 @@
         text-decoration: underline;
       }
 
-      body {
-        padding: 20px;
-      }
-
       a {
         color: #444;
       }
@@ -23,7 +19,7 @@
       // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
     </mj-style>
     <mj-attributes>
-      <mj-text padding-left="20px" padding-right="20px" padding-top="10px" padding-bottom="10px" font-size="16px" line-height="22px" color="#444444" />
+      <mj-text padding-left="10px" padding-right="20px" padding-top="10px" padding-bottom="10px" font-size="16px" line-height="22px" color="#444444" />
       <mj-all padding="0" font-family="Arial, san-serif;" />
       <mj-button padding="0" background-color="#3F611E" border-radius="2px" font-size="16px" line-height="22px" />
 
@@ -44,18 +40,28 @@
       <mj-column>
 			<mj-image src="https://mailings.humboldt.edu/holiday2020/message.png" padding-top="10px" padding-left="5px" padding-right="5px" alt="Sending best wishes from Humboldt!"/>
 
-				<mj-text align="center" font-size="18px" line-height="24px" padding-top="10px" padding-left="25px" padding-right="25px">During this time of year, we remember our connection to the beautiful place called Humboldt and our connection to each other as a Lumberjack family.
+				<mj-text align="center" font-size="18px" line-height="24px" padding-top="10px" padding-left="15px" padding-right="15px">During this time of year, we remember our connection to the beautiful place called Humboldt and our connection to each other as a Lumberjack family.
 </mj-text>
-        <mj-text align="center" font-size="18px" line-height="24px" padding-top="10px" padding-left="25px" padding-right="25px">
+        <mj-text align="center" font-size="18px" line-height="24px" padding-top="10px" padding-left="15px" padding-right="15px">
 <strong>Enjoy your holiday season! </strong><br>
 May it shine brightly and be filled with hope and joy.</mj-text>
 
         <mj-button padding-top="30px" padding-bottom="20px" href="https://youtu.be/j3_9MyR-XTI">
          Watch the Holiday Video&nbsp;&nbsp;&#9654;
         </mj-button>
-          <mj-button padding-top="0px" padding-bottom="40px" href="https://humboldt.edu/holiday2020?utm_source=email&utm_medium=email&utm_campaign=holiday2020#zoom-bg">
+          <mj-button padding-top="0px" padding-bottom="20px" href="https://humboldt.edu/holiday2020?utm_source=email&utm_medium=email&utm_campaign=holiday2020#zoom-bg">
          Download Holiday Zoom Backgrounds&nbsp;&nbsp;&#9654;
         </mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
+      <mj-column>
+        <mj-text align="center" padding-bottom="40px">
+          Share on Social<br>
+        <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fhumboldt.edu%2Fholiday2020%2F&pubid=ra-42fed1e187bae420&title=Happy%20Holidays%20from%20Humboldt%20State&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v3/thumbs/32x32/facebook.png" border="0" alt="Facebook"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fhumboldt.edu%2Fholiday2020%2F&pubid=ra-42fed1e187bae420&title=Happy%20Holidays%20from%20Humboldt%20State&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v3/thumbs/32x32/twitter.png" border="0" alt="Twitter"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/mailto/offer?url=http%3A%2F%2Fhumboldt.edu%2Fholiday2020%2F&pubid=ra-42fed1e187bae420&title=Happy%20Holidays%20from%20Humboldt%20State&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v3/thumbs/32x32/mailto.png" border="0" alt="Email App"/></a>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -64,7 +70,10 @@ May it shine brightly and be filled with hope and joy.</mj-text>
 
     <mj-section background-color="#3F611E">
       <mj-column>
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="20px">
+        <mj-text align="center" color="#fff" padding-top="20px" padding-bottom="0">
+          Follow us on social
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="10px">
           <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/facebook.png" background-color="none" padding="5px">
 
           </mj-social-element>
