@@ -37,7 +37,7 @@
     <mj-section background-color="#fff" padding-top="20px">
       <mj-column>
         <mj-image width="600px" src="https://mailings.humboldt.edu/holiday2020/header.png" alt="Happy Holidays from Humboldt State" />
-        <mj-image src="https://mailings.humboldt.edu/holiday2020/boat.jpg" alt="Goldens at Founders Hall" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2020/boat.jpg" alt="boat"href="https://youtu.be/j3_9MyR-XTI" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="1px #3F611E solid" border-right="1px #3F611E solid">
@@ -50,7 +50,7 @@
 <strong>Enjoy your holiday season! </strong><br>
 May it shine brightly and be filled with hope and joy.</mj-text>
 
-        <mj-button padding-top="30px" padding-bottom="20px" href="https://youtu.be/I0fGC2P6iXo">
+        <mj-button padding-top="30px" padding-bottom="20px" href="https://youtu.be/j3_9MyR-XTI">
          Watch the Holiday Video&nbsp;&nbsp;&#9654;
         </mj-button>
           <mj-button padding-top="0px" padding-bottom="40px" href="https://humboldt.edu/holiday2020?utm_source=email&utm_medium=email&utm_campaign=holiday2020#zoom-bg">
