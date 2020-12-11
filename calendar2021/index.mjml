@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-no {
+        color: #fff;
+        font-weight: normal;
+        text-decoration: underline;
+      }
+      body {
+        margin-top: 10px;
+      }
+      a {
+        color: #444;
+      }
+
+      .btn-push {
+        margin: 15px 0;
+      }
+
+    </mj-style>
+    <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text padding-left="10px" padding-right="20px" padding-top="10px" padding-bottom="10px" font-size="16px" line-height="22px" color="#444444" />
+      <mj-all padding="0" font-family="Arial, san-serif;" />
+      <mj-button padding="0" background-color="#25551b" border-radius="2px" font-size="16px" line-height="22px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" >
+    <!-- Header -->
+    <mj-section background-color="#fff" border-top="5px #5C8021 solid" border-bottom="5px #5C8021 solid" border-left="1px #5C8021 solid" border-right="1px #5C8021 solid">
+      <mj-column>
+        <mj-image width="600px" src="https://mailings.humboldt.edu/calendar2021/header.jpg" alt="Our gift to you - Local places you love Calendar 2021" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-left="1px #5C8021 solid" border-right="1px #5C8021 solid">
+      <mj-column>
+				<mj-text align="center" font-size="18px" line-height="24px" padding-top="35px" padding-left="15px" padding-right="15px">During this time of year, we remember our connection to the beautiful place called Humboldt and our connection to each other as a Lumberjack family.
+</mj-text>
+        <mj-text align="center" font-size="18px" line-height="24px" padding-top="15px" padding-left="15px" padding-right="10px" padding-bottom="15px">
+          As a token of our appreciation, we’re sending you a second-edition wall calendar of our favorite local places. It’s beautiful, useful, and very “Humboldt.” <strong>Please keep an eye on your mailbox for this special gift that’s heading your way!</strong></mj-text>
+
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#fff" padding-top="20px" padding-bottom="35px" border-left="1px #5C8021 solid" border-right="1px #5C8021 solid">
+      <mj-column>
+        <mj-image width="350px" src="https://mailings.humboldt.edu/calendar2021/footer.png" alt="Our gift to you - Local places you love Calendar 2021" />
+
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section background-color="#5C8021">
+      <mj-column>
+        <mj-text align="center" color="#fff" padding-top="20px" padding-bottom="0">
+         Get Social with Humboldt State
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="10px" padding-bottom="20px">
+          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/facebook.png" padding="5px 5px 5px 0">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/twitter.png" padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/flickr.png" padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2020/youtube.png" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2020/linkedin.png" padding="5px">
+          </mj-social-element>
+
+          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2020/instagram.png" padding="5px 0 5px 5px">
+
+          </mj-social-element>
+
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+
+
+  </mj-body>
+  <mjml>
