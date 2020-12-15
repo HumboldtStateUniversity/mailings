@@ -1,0 +1,93 @@
+  <mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+      line-height: 28px;
+      }
+
+      a {
+      color: #006432;
+      }
+
+      a.dark {
+      color: #5C8021;
+      }
+
+      .dark-wrap {
+      background: #5C8021;
+      color: #fff;
+      }
+
+      .light-wrap {
+      background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+      .caption div {
+      text-align: center !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png"
+          alt="HSU-Future Forward - Strategic Plan 2021-2026" href="https://strategicplan.humboldt.edu"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <h2>Share Your Feedback on the Draft Strategic Plan</h2>
+        </mj-text>
+        <mj-text>I have much appreciation and gratitude for the collective commitment and engagement with our Strategic Planning efforts, which have progressed even during the pandemic. From sharing innovative ideas to helping us gather important supporting data, you are helping to strengthen our foundation for our future.
+</mj-text>
+        <mj-text>Thank you to each of you who attended the Future Forward Forums, engaged in meetings, or provided feedback on the Strategic Planning website. The Co-Chairs, Steering Committee, and working groups have listened to and valued your feedback, and worked diligently to integrate it into the draft Strategic Plan.</mj-text>
+				</mj-column>
+		</mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+    <mj-column>
+    </mj-text>
+      <mj-text>
+        We are embarking on another pivotal point in the planning process. It is important we hear from HSU students, faculty, staff, administrators, alumni, and the community on our draft Strategic Plan.
+      </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+    <mj-column>
+    <mj-text>
+      The four-week comment period begins today and concludes on January 15. I encourage you to review the draft closely and provide feedback. You can do so by completing the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqX0wX_jSWenyAXMeUe1FNbzkZwxl7KRSnKk14BuTz6OnspA/viewform">feedback form</a> that is located on the <a href="https://strategicplan.humboldt.edu">Strategic Plan website</a>.
+    </mj-text>
+    <mj-text>
+      Your insight is welcomed and important in our planning efforts. The responses will be analyzed and incorporated into final drafting of the Strategic Plan. The next step after that will be sharing the draft with the University Senate on January 26 and I look forward to seeing a final draft shortly thereafter.
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+    <mj-column>
+    <mj-text>
+      As always, I encourage you to <a href="https://strategicplan.humboldt.edu">visit the Strategic Plan website</a> for more information. If you have any questions, please reach out to the Co-Chair leadership directly.
+    </mj-text>
+    <mj-text>
+      Thank you for your continued commitment and engagement during this important process.<br><br>
+Sincerely,<br>
+Tom Jackson, Jr.
+President
+    </mj-text>
+    </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
