@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      body {
+        margin-top: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+      a {
+        color: #25551b
+        text-decoration: underline;
+      }
+    </mj-style>
+     <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="left" font-size="15px" line-height="22px"  color="#444444" padding-top="0" padding-left="0" padding-bottom="15px" padding-right="0"/>
+      <mj-all padding="0" font-family="Arial, san-serif;" />
+      <mj-section  background-color="#F2F4EF"  padding-left="30px" padding-right="30px" />
+    </mj-attributes>
+  </mj-head>
+  
+  <mj-body background-color="#25551b" >
+    <!-- Header -->
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+     
+      </mj-column>
+      
+    </mj-section>
+    <mj-section>
+      <mj-column>
+				<mj-text align="center" font-size="14px" color="#0C4301"  padding-top="25px" padding-bottom="25px">
+          November 23, 2020
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301">
+          Informal Time Off for Fall Break
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#F2F4EF">
+      <mj-column border-top="1px solid #0C4301">
+    		<mj-text padding-top="25px">
+          Dear colleagues:
+        </mj-text>
+        <mj-text>
+          I sincerely appreciate each of you for all you have done to further HSU’s mission and serve our students during this very challenging Fall semester. This has been a remarkable and successful semester because of your continued dedication to our students. Thank you, also, to everyone who has engaged with our organizational change initiatives including strategic planning, budget alignment, process improvement, change management, diversity, equity and inclusion work, and preparation for our WSCUC visit in the spring.
+        </mj-text>
+        <mj-text>
+        I am authorizing staff to end their work three hours prior to the end of their workday on Wednesday, Nov. 25. To assure that necessary work is completed, appropriate administrators must approve this paid informal time off.
+        </mj-text>
+        <mj-text>
+        There is no need for employees to record this time off in PeopleSoft, unless they have scheduled vacation on Wednesday. Employees scheduled for vacation Wednesday should record eight hours of vacation taken in PeopleSoft, and then unofficially take off three hours at a later date. Employees who work their full shift Wednesday will be allowed three hours of informal (not recorded in PeopleSoft) time to be taken prior to June 30, 2021, with the approval of their appropriate administrator.
+        </mj-text>
+        <mj-text>
+        Thank you for all of your contributions to our various communities – on campus and beyond. Please have a safe and restful fall break!  
+        </mj-text>
+        <mj-text padding-top="25px" padding-bottom="0">
+        With best wishes,
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+    
+      <mj-section padding-top="20px" padding-bottom="35px">
+      <mj-column>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+        <strong>Tom Jackson, Jr.</strong><br/>
+President
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+
+  </mj-body>
+  <mjml>
