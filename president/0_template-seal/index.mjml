@@ -8,7 +8,7 @@
         margin-right: 5px;
       }
       a {
-        color: #25551b
+        color: #25551b;
         text-decoration: underline;
       }
     </mj-style>
@@ -57,7 +57,7 @@
         There is no need for employees to record this time off in PeopleSoft, unless they have scheduled vacation on Wednesday. Employees scheduled for vacation Wednesday should record eight hours of vacation taken in PeopleSoft, and then unofficially take off three hours at a later date. Employees who work their full shift Wednesday will be allowed three hours of informal (not recorded in PeopleSoft) time to be taken prior to June 30, 2021, with the approval of their appropriate administrator.
         </mj-text>
         <mj-text>
-        Thank you for all of your contributions to our various communities – on campus and beyond. Please have a safe and restful fall break!  
+        Thank you <a href="#">for all</a> of your contributions to our various communities – on campus and beyond. Please have a safe and restful fall break!  
         </mj-text>
         <mj-text padding-top="25px" padding-bottom="0">
         With best wishes,
