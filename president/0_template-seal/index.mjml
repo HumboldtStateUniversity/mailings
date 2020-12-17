@@ -13,7 +13,7 @@
         text-decoration: underline;
       }
       .circleh {
-      background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.svg') center center no-repeat;
+      background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.png') center center no-repeat;
       height: 50px;
       width: 50px;
       padding: 0px;
