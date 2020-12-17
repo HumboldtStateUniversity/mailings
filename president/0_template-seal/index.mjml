@@ -17,8 +17,8 @@
       height: 50px;
       width: 50px;
       padding: 0px;
-      margin: -25px auto 0;
       background-size: contain;
+      
       }
       .invisible {
       display:none;
@@ -88,11 +88,9 @@ President
         </mj-text>
       </mj-column>
     </mj-section>    
- <mj-section background-color="#25551b">
-      <mj-column>
-         <mj-raw>
-        <div class="circleh"><div class="invisible">Humboldt State University</div></div>
-        </mj-raw>
+ <mj-section padding-left="0" padding-right="0" background-color="#25551b">
+      <mj-column >
+       <mj-image padding="0" width="600px" align="left" src="https://mailings.humboldt.edu/president/0_img/circleh-footer.png" alt="circle h visual footer" />
         
       </mj-column>
     </mj-section>   
