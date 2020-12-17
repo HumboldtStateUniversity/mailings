@@ -89,9 +89,9 @@ President
         </mj-text>
       </mj-column>
     </mj-section>    
- <mj-section background-url="../0_img/circleh-footer.png" padding-left="0" padding-right="0">
+ <mj-section background-url="https://mailings.humboldt.edu/president/0_img/circleh-footer.png" padding-left="0" padding-right="0">
       <mj-column >
-       <mj-image width="50px" align="center" src="../0_img/circleh.png" alt="circle h visual footer" />
+       <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh.png" alt="circle h visual footer" />
         
       </mj-column>
     </mj-section>   
