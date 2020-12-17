@@ -6,10 +6,22 @@
         padding-top: 10px;
         padding-left: 5px;
         padding-right: 5px;
+        padding-bottom: 20px;
       }
       a {
         color: #25551b;
         text-decoration: underline;
+      }
+      .circleh {
+      background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.svg') center center no-repeat;
+      height: 50px;
+      width: 50px;
+      padding: 0px;
+      margin: -25px auto 0;
+      }
+      .invisible {
+      display:none;
+      height: 50px;
       }
     </mj-style>
      <mj-style>
@@ -75,6 +87,13 @@ President
         </mj-text>
       </mj-column>
     </mj-section>    
-
+ <mj-section background-color="#25551b">
+      <mj-column>
+         <mj-raw>
+        <div class="circleh"><div class="invisible">Humboldt State University</div></div>
+        </mj-raw>
+        
+      </mj-column>
+    </mj-section>   
   </mj-body>
   <mjml>
