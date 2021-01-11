@@ -1,0 +1,79 @@
+  <mjml>
+    <mj-head>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F2F4EF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#8D9495">
+      <mj-section>
+        <mj-column>
+
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png" alt="HSU-Future Forward - Strategic Plan 2021-2026" href="https://strategicplan.humboldt.edu" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            <h2>Reminder: Submit Feedback for 2021-2026 Strategic Plan Draft </h2>
+          </mj-text>
+          <mj-text>Humboldt State’s Strategic Plan is a blueprint of HSU’s vision and goals for the next five years. The HSU Strategic Planning Steering Committee has finished a draft on the first section (“Phase 1”) of the 2021-2026 Strategic Plan.
+          </mj-text>
+          <mj-text>The Committee now invites you to share your thoughts on the draft by <br><strong>Friday, Jan. 15.</strong></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          </mj-text>
+          <mj-text>
+            A work in progress, this draft document outlines the overarching vision, purpose, values, themes (plus the vision and strategic goals for each theme). All feedback will be reviewed and help inform the final Strategic Plan.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            <a href="https://hsu.link/strategicplan_draft1">Read the draft</a> and then submit your feedback by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqX0wX_jSWenyAXMeUe1FNbzkZwxl7KRSnKk14BuTz6OnspA/viewform">answering any (or all) of the questions here</a>. Go to <a href="https://strategicplan.humboldt.edu/">strategicplan.humboldt.edu</a> for details on the Strategic Plan timeline, themes, working groups, and more.
+          </mj-text>
+          <mj-text>
+            Thank you for your participation as we work together to create a bold and innovative vision that will move us forward into 2021 and beyond.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
