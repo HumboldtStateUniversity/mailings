@@ -70,7 +70,7 @@
           <mj-text>
             <a href="https://hsu.link/strategicplan_draft1">Read the draft</a> and then submit your feedback by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqX0wX_jSWenyAXMeUe1FNbzkZwxl7KRSnKk14BuTz6OnspA/viewform">answering any (or all) of the questions here</a>. Go to <a href="https://strategicplan.humboldt.edu/">strategicplan.humboldt.edu</a> for details on the Strategic Plan timeline, themes, working groups, and more.
           </mj-text>
-          <mj-text>
+          <mj-text padding-bottom="40px">
             Thank you for your participation as we work together to create a bold and innovative vision that will move us forward into 2021 and beyond.
           </mj-text>
         </mj-column>
