@@ -45,7 +45,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/speakerseries/speaker-series-header.png" alt="Humboldt State University" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/speaker-series-header.png" alt="Humboldt State University" padding="0" />
       </mj-column>
     </mj-section>
 
