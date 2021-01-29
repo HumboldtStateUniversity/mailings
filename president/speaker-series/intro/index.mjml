@@ -55,7 +55,7 @@
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
         <mj-text align="center" font-size="20px" line-height="1.2">
-          This Spring will see the launch of Humboldt State University’s Presidential Speaker Series, which each year will feature a host of national and international experts on issues regarding higher education and of specific interest to HSU and the North Coast.
+          This Spring will see the launch of Humboldt State University’s Presidential Speaker Series, which each year will feature national and international experts on issues regarding higher education and of specific interest to HSU and the North Coast.
         </mj-text>
         <mj-text>
           President Tom Jackson, Jr. began the Speaker Series with a number of goals, including to support the engagement of HSU and local communities in international conversations and thinking on issues of relevance to higher education. Each event will help inform the future of HSU and will feature related scholarship and creative work from HSU students and faculty, showcasing connections to the broader conversations. </mj-text>
@@ -71,9 +71,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/intro/PSS_shaunHarper_1920x1080.jpg" alt="SHAUN HARPER promo graphic" />
-        <mj-text>
-          Harper’s presentation is a partnership with the African American Center for Academic Excellence and will take place Thursday, Feb. 11 at 5 p.m. It is open to all and requires advance registration.
+        Harper’s presentation is a partnership with the African American Center for Academic Excellence and will take place Thursday, Feb. 11 at 5 p.m. It is open to all and requires advance registration.
         </mj-text>
         <mj-button href="https://president.humboldt.edu/speakerseries">
           Register and get info about<br> Dr. Harper's Presentation
