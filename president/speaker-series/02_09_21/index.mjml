@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-button font-family="Lato, Arial, sans-serif" font-size="16px" color="#fff" line-height="20px" background-color="#5c8021" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+        text-decoration: underline;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#5B6361">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/speaker-series-header.png" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!--  Text Start-->
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Humboldt State University’s Presidential Speaker Series begins Thursday, Feb. 11 with a presentation by University of Southern California Professor Shaun Harper. It will begin at 5 p.m. </mj-text>
+        <mj-text>
+          Harper will discuss racial challenges and opportunities currently facing public universities. He will explain how and why faculty, staff, and institutional leaders often mishandle racial situations, and offer numerous practical recommendations for institutional stakeholders who are seriously committed to advancing racial equity at Humboldt State. <a href="https://president.humboldt.edu/speakerseries" class="dark">Register and get info about Dr. Harper’s Presentation</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          The presentation will begin with highlights of the applied research by Department of Social Work graduate students Taylor French, Nino Hoder, Pang Moua, and Samantha Sweeney in partnership with Professor Pam Bowers. This work is designed to contribute to ongoing efforts to create inclusive social work curricula by applying survey research.
+        </mj-text>
+        <mj-text>
+          President Tom Jackson, Jr. began the Speaker Series with a number of goals, including to support the engagement of HSU and local communities in international conversations and thinking on issues of relevance to higher education. Each event will help inform the future of HSU and will feature related scholarship and creative work from HSU students and faculty, showcasing connections to the broader conversations.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+          <mj-column>
+            <mj-text>
+              Information on the Presidential Speaker Series, including registration and archived presentations, is available at <a href="https://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
+            </mj-text>
+          </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
