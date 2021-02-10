@@ -47,7 +47,8 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/speaker-series-header.png" alt="Humboldt State University" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/02_09_21/presidentsLectureSeries_TitleSlide.jpg" alt="Shaun Harper" padding="0" />
+        <!-- <mj-image src="https://mailings.humboldt.edu/president/speaker-series/speaker-series-header.png" alt="Humboldt State University" padding="0" /> -->
       </mj-column>
     </mj-section>
 
@@ -55,7 +56,8 @@
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
         <mj-text>
-          Humboldt State University’s Presidential Speaker Series begins Thursday, Feb. 11 with a presentation by University of Southern California Professor Shaun Harper. It will begin at 5 p.m. </mj-text>
+          <strong>Humboldt State University’s Presidential Speaker Series begins Thursday, Feb. 11 with a presentation by University of Southern California Professor Shaun Harper. It will begin at 5 p.m. </strong></mj-text>
+        >
         <mj-text>
           Harper will discuss racial challenges and opportunities currently facing public universities. He will explain how and why faculty, staff, and institutional leaders often mishandle racial situations, and offer numerous practical recommendations for institutional stakeholders who are seriously committed to advancing racial equity at Humboldt State. <a href="https://president.humboldt.edu/speakerseries" class="dark">Register and get info about Dr. Harper’s Presentation</a>.
         </mj-text>
@@ -71,11 +73,11 @@
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0">
-          <mj-column>
-            <mj-text>
-              Information on the Presidential Speaker Series, including registration and archived presentations, is available at <a href="https://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
-            </mj-text>
-          </mj-column>
+      <mj-column>
+        <mj-text>
+          Information on the Presidential Speaker Series, including registration and archived presentations, is available at <a href="https://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
+        </mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
