@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-button font-family="Lato, Arial, sans-serif" font-size="16px" color="#fff" line-height="20px" background-color="#5c8021" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+        text-decoration: underline;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#5B6361">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/21_03_01/georgeYancy_presidentialSpeakersSeries_2021_email-Social.jpg" alt="George Yancy" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!--  Text Start-->
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          <strong>The second presentation in Humboldt State University’s Presidential Speaker Series begins Wednesday, March 10 at 6 p.m. with a presentation by Emory University Professor George Yancy. </strong></mj-text>
+        <mj-text>
+          Yancy will ask white people to tarry with courage and love within a deeply uncomfortable space: the reality that there is no "white innocence." His objective is to move through spectacular forms of white racism and then question the ways in which non-spectacular "white innocence" works within the same logics of racist whiteness, whiteness as a binary structure that creates a problematic bifurcation: "good whites versus bad whites."
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Yancy says, “James Baldwin speaks of love as removing masks that we are afraid to live without. I want to tarry within that space of white fear, to exhibit a form of courageous speech that is necessary at this moment in white America.”
+        </mj-text>
+        <mj-text>
+          Wednesday’s presentation opens with a brief overview of HSU’s Philosophy Forum by Department of Philosophy Professor Mary Bockover. The Philosophy Forum is a longstanding collaboration between Philosophy faculty and students involving common reading and other forms of preparation for the culminating annual Forum event.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          President Tom Jackson, Jr. began the Speaker Series with a number of goals, including to support the engagement of HSU and local communities in international conversations and thinking on issues of relevance to higher education. Each event will help inform the future of HSU and will feature related scholarship and creative work from HSU students and faculty, showcasing connections to the broader conversations.</mj-text>
+        <mj-text>
+          Information on the Presidential Speaker Series, including registration and archived presentations, is available at <a href="https://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
