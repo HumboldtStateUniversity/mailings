@@ -49,7 +49,7 @@
     </mj-section>
     <mj-section mj-class="border-top border-bottom">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/hsupresents/_template/main.jpg" alt="Angie Thomas" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/hsupresents/_template-speakerseries/main.jpg" alt="Angie Thomas" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section>
