@@ -59,7 +59,7 @@
     </mj-section>
     <!--  Text Start-->
     <mj-section css-class="light-wrap">
-      <mj-column>
+      <mj-column padding-top="15px">
         <mj-text>
           <span class="extrabold">ANGIE THOMAS’</span> debut novel, <span class="extrabold italic">The Hate U Give</span>, has spent more than three years on The New York Times bestseller list, where it was joined by her second novel, On the Come Up, and now her third, Concrete Rose. Blockbuster books and two major film adaptations have amplified Thomas’ clear, crucial voice when we need it most—to #BlackLivesMatter protesters, igniting real change in the fight for racial justice, and through the chaos of a global pandemic that is disproportionately hurting people of color. Her keynotes are powerful, urgent, necessary, and most importantly, hopeful. </mj-text>
         <mj-text mj-class="text-title extrabold italic"> The Hate U Give: </mj-text>
