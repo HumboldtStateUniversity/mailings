@@ -14,8 +14,8 @@
       <mj-class name="date" font-size="40px" line-height="40x" letter-spacing="-.5px" />
       <mj-class name="subtitle-secondary" font-size="27px" line-height="27px" letter-spacing="1px" />
       <!--  body heading classes -->
-      <mj-class name="text-title" font-size="48px" line-height="48px" letter-spacing="-1px" padding-top="25px" padding-bottom="0" />
-      <mj-class name="text-subtitle" font-size="30px" line-height="36px" padding-top="5px" padding-bottom="5px" />
+      <mj-class name="text-title" font-size="42px" line-height="48px" letter-spacing="-1px" padding-top="25px" padding-bottom="0" />
+      <mj-class name="text-subtitle" font-size="25px" line-height="36px" padding-top="5px" padding-bottom="5px" />
       <!--  misc font classes -->
       <mj-class name="extrabold" font-weight="800" />
       <mj-class name="italic" font-style="italic" />
@@ -63,7 +63,7 @@
         <mj-text>
           <span class="extrabold">ANGIE THOMAS’</span> debut novel, <span class="extrabold italic">The Hate U Give</span>, has spent more than three years on The New York Times bestseller list, where it was joined by her second novel, On the Come Up, and now her third, Concrete Rose. Blockbuster books and two major film adaptations have amplified Thomas’ clear, crucial voice when we need it most—to #BlackLivesMatter protesters, igniting real change in the fight for racial justice, and through the chaos of a global pandemic that is disproportionately hurting people of color. Her keynotes are powerful, urgent, necessary, and most importantly, hopeful. </mj-text>
         <mj-text mj-class="text-title extrabold italic"> The Hate U Give: </mj-text>
-        <mj-text mj-class="text-subtitle regular"> Finding Your Activism and<br>Turning the Political into the Personal </mj-text>
+        <mj-text mj-class="text-subtitle regular"> Finding Your Activism and Turning the Political into the Personal </mj-text>
         <mj-text> In this engaging talk, Ms.Thomas traces the development of her captivating debut, <span class="extrabold italic">The Hate U Give</span>—and in so doing, speaks to the heart of race, activism, and social change in America today. She explains why young black people need to see themselves in fiction—especially as they are forced to see themselves, traumatically and routinely, as the victims of discrimination, poverty, and police brutality. She demonstrates why we need more compelling depictions of black girls in art, often lost in discussions of black youth in general. She argues for writing that can turn the merely political into the deeply personal: a way to inspire action and speaking truth to power. And she makes audiences see, and feel, why empathy is more powerful than sympathy—and when done right, that fiction can help us find our voice, or lend it to others. Ultimately, Angie Thomas is the young, outspoken writer ready to hit three truths home: that life fuels art, art mirrors life, and books can change lives. </mj-text>
       </mj-column>
     </mj-section>
