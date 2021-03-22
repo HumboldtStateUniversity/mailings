@@ -69,7 +69,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0 20px">
       <mj-column>
-        <mj-button href="#" padding="40px 0 70px"> Register here </mj-button>
+        <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_0EQiOjM_QC-nDljJhuvNZw" padding="40px 0 70px"> Register here </mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="border-top" css-class="green-wrap">
