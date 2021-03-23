@@ -5,7 +5,7 @@
       <mj-section padding="0" />
       <mj-text font-family="Merriweather Sans, Arial, sans-serif" font-size="18px" line-height="27px" />
       <mj-button font-family="Merriweather Sans, Arial, sans-serif" font-size="30px" font-weight="800" letter-spacing="1px" color="#fff" line-height="40px" background-color="#00935E" padding="40px" border-radius="10px" text-transform="uppercase" />
-      <mj-all font-family="Georgia" />
+      <mj-all font-family="Arial, sans-serif" text-align="left"/>
       <!--  title heading classes -->
       <mj-class name="wordmark" font-size="24px" letter-spacing="1px" line-height="30px" />
       <mj-class name="presents" font-size="24px" letter-spacing="3px" line-height="24px" />
@@ -27,17 +27,17 @@
       <mj-class name="border-top" border-top="6px solid #fcb424" />
       <mj-class name="border-bottom" border-bottom="6px solid #fcb424" />
     </mj-attributes>
-    <mj-style inline="inline"> .text-yellow { color: #fcb424; } .extrabold { font-weight: 800; } .italic { font-style: italic; } .light { font-weight="300"} .green-wrap { background: #00552b; } .light-green-wrap { background: #00935E; } .light-wrap { background: #d8d7d6; } .button-text { display: inline-flex; align-items: center; } @media only screen and (max-width: 420px) { } </mj-style>
+    <mj-style inline="inline"> .text-yellow { color: #fcb424; } .extrabold { font-weight: 800; } .italic { font-style: italic; } .light { font-weight="300"}  .light-wrap { background: #d8d7d6; } .button-text { display: inline-flex; align-items: center; } </mj-style>
   </mj-head>
   <mj-body background-color="#FFF">
-    <mj-section css-class="light-green-wrap" padding-top="20px">
+    <mj-section background-color="#00935E" padding-top="20px">
       <mj-column>
         <mj-text mj-class="wordmark white caps extrabold">Humboldt State University <span style="font-weight:300 !important; letter-spacing:5px;">Presents</span></mj-text>
-        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/header.png" alt="Humboldt Presents" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/header.png" alt="heading divider" padding="0" />
       </mj-column>
     </mj-section>
     <!--  Heading Start-->
-    <mj-section css-class="green-wrap" padding-bottom="15px">
+    <mj-section background-color="#00552b" padding-bottom="15px">
       <mj-column>
         <mj-text mj-class="title white extrabold"> Angie Thomas </mj-text>
         <mj-text mj-class="subtitle white regular"> #1 New York Times Bestselling Author of<br>
@@ -54,11 +54,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/photo-bottom.png" alt="Angie Thomas" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/photo-bottom.png" alt="photo bottom divider" padding="0" />
       </mj-column>
     </mj-section>
     <!--  Text Start-->
-    <mj-section css-class="light-wrap">
+    <mj-section background-color="#d8d7d6">
       <mj-column>
         <mj-text>
           <span class="extrabold">ANGIE THOMAS’</span> debut novel, <span class="extrabold italic">The Hate U Give</span>, has spent more than three years on The New York Times bestseller list, where it was joined by her second novel, On the Come Up, and now her third, Concrete Rose. Blockbuster books and two major film adaptations have amplified Thomas’ clear, crucial voice when we need it most—to #BlackLivesMatter protesters, igniting real change in the fight for racial justice, and through the chaos of a global pandemic that is disproportionately hurting people of color. Her keynotes are powerful, urgent, necessary, and most importantly, hopeful. </mj-text>
@@ -67,14 +67,14 @@
         <mj-text> In this engaging talk, Ms.Thomas traces the development of her captivating debut, <span class="extrabold italic">The Hate U Give</span>—and in so doing, speaks to the heart of race, activism, and social change in America today. She explains why young black people need to see themselves in fiction—especially as they are forced to see themselves, traumatically and routinely, as the victims of discrimination, poverty, and police brutality. She demonstrates why we need more compelling depictions of black girls in art, often lost in discussions of black youth in general. She argues for writing that can turn the merely political into the deeply personal: a way to inspire action and speaking truth to power. And she makes audiences see, and feel, why empathy is more powerful than sympathy—and when done right, that fiction can help us find our voice, or lend it to others. Ultimately, Angie Thomas is the young, outspoken writer ready to hit three truths home: that life fuels art, art mirrors life, and books can change lives. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section css-class="light-wrap" padding="0 20px">
+    <mj-section background-color="#d8d7d6" padding="0 20px">
       <mj-column>
         <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_0EQiOjM_QC-nDljJhuvNZw" padding="40px 0 70px"> Register here </mj-button>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="border-top" css-class="green-wrap">
+    <mj-section mj-class="border-top" background-color="#00552b">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/hsu-mark.png" alt="Humboldt Presents" width="425px" padding="25px 20px" />
+        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/hsu-mark.png" alt="Humboldt State University" width="425px" padding="25px 20px" />
       </mj-column>
     </mj-section>
   </mj-body>
