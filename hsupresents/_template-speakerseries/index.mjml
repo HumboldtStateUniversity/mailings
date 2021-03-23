@@ -3,8 +3,8 @@
     <mj-font name="Merriweather Sans" href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,700;0,800;1,800&display=swap" />
     <mj-attributes>
       <mj-section padding="0" />
-      <mj-text font-family="Merriweather Sans, Georgia, serif" font-size="18px" line-height="27px" />
-      <mj-button font-family="Merriweather Sans, Georgia, serif" font-size="30px" font-weight="800" letter-spacing="1px" color="#fff" line-height="40px" background-color="#00935E" padding="40px" border-radius="10px" text-transform="uppercase"/>
+      <mj-text font-family="Merriweather Sans, Arial, sans-serif" font-size="18px" line-height="27px" />
+      <mj-button font-family="Merriweather Sans ,Arial, sans-serif" font-size="30px" font-weight="800" letter-spacing="1px" color="#fff" line-height="40px" background-color="#00935E" padding="40px" border-radius="10px" text-transform="uppercase"/>
       <mj-all font-family="Georgia" />
       <!--  title heading classes -->
       <mj-class name="title" font-size="72px" letter-spacing="-2px" line-height="72px" />

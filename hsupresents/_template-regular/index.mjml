@@ -3,8 +3,8 @@
     <mj-font name="Merriweather Sans" href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,700;0,800;1,400;1,700;1,800&display=swap" />
     <mj-attributes>
       <mj-section padding="0" />
-      <mj-text font-family="Merriweather Sans, Georgia, serif" font-size="18px" line-height="27px" />
-      <mj-button font-family="Merriweather Sans, Georgia, serif" font-size="30px" font-weight="800" letter-spacing="1px" color="#fff" line-height="40px" background-color="#00935E" padding="40px" border-radius="10px" text-transform="uppercase" />
+      <mj-text font-family="Merriweather Sans, Arial, sans-serif" font-size="18px" line-height="27px" />
+      <mj-button font-family="Merriweather Sans, Arial, sans-serif" font-size="30px" font-weight="800" letter-spacing="1px" color="#fff" line-height="40px" background-color="#00935E" padding="40px" border-radius="10px" text-transform="uppercase" />
       <mj-all font-family="Georgia" />
       <!--  title heading classes -->
       <mj-class name="wordmark" font-size="24px" letter-spacing="1px" line-height="30px" />
@@ -30,7 +30,7 @@
     <mj-style inline="inline"> .text-yellow { color: #fcb424; } .extrabold { font-weight: 800; } .italic { font-style: italic; } .light { font-weight="300"} .green-wrap { background: #00552b; } .light-green-wrap { background: #00935E; } .light-wrap { background: #d8d7d6; } .button-text { display: inline-flex; align-items: center; } @media only screen and (max-width: 420px) { } </mj-style>
   </mj-head>
   <mj-body background-color="#FFF">
-    <mj-section css-class="light-green-wrap" padding-top="20px" >
+    <mj-section css-class="light-green-wrap" padding-top="20px">
       <mj-column>
         <mj-text mj-class="wordmark white caps extrabold">Humboldt State University <span style="font-weight:300 !important; letter-spacing:5px;">Presents</span></mj-text>
         <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/header.png" alt="Humboldt Presents" padding="0" />
