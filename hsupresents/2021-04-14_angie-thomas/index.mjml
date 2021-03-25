@@ -27,8 +27,42 @@
       <!--  style classes -->
       <mj-class name="border-top" border-top="6px solid #fcb424" />
       <mj-class name="border-bottom" border-bottom="6px solid #fcb424" />
+      <mj-class name="white-link" color="#fff;" />
     </mj-attributes>
-    <mj-style inline="inline"> .text-yellow { color: #fcb424; } .extrabold { font-weight: 800; } .italic { font-style: italic; } .light { font-weight="300"} .light-wrap { background: #d8d7d6; } .button-text { display: inline-flex; align-items: center; } </mj-style>
+    <mj-style inline="inline">
+      a {
+        color: #00552b;
+      }
+
+      a.white-text {
+        color: #fff;
+      }
+
+      .text-yellow {
+        color: #fcb424;
+      }
+
+      .extrabold {
+        font-weight: 800;
+      }
+
+      .italic {
+        font-style: italic;
+      }
+
+      .light {
+        font-weight="300"
+      }
+
+      .light-wrap {
+        background: #d8d7d6;
+      }
+
+      .button-text {
+        display: inline-flex;
+        align-items: center;
+      }
+    </mj-style>
   </mj-head>
   <mj-body background-color="#FFF">
     <mj-section background-color="#00935E" padding-top="20px">
@@ -70,12 +104,18 @@
     </mj-section>
     <mj-section background-color="#d8d7d6" padding="0 20px">
       <mj-column>
-        <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_0EQiOjM_QC-nDljJhuvNZw" padding="40px 0 70px"> Register here </mj-button>
+        <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_0EQiOjM_QC-nDljJhuvNZw" padding="40px 0 40px"> Register here </mj-button>
+        <mj-text padding-bottom="40px">
+          For more information: <a href="mailto:osl@humboldt.edu">osl@humboldt.edu</a>, (707) 702-1762
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="border-top" background-color="#00552b">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/hsu-mark.png" alt="Humboldt State University" width="425px" padding="25px 20px" />
+        <mj-image src="https://mailings.humboldt.edu/hsupresents/assets/hsu-mark.png" alt="Humboldt State University" width="425px" padding-top="25px" />
+        <mj-text align="center" color="#fff" font-size="14px" font-weight="300">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="white-text">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="white-text">Email Preferences</a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
