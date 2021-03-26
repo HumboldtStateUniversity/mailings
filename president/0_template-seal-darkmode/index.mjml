@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name=”color-scheme” content=”light dark”>
+      <meta name=”supported-color-schemes” content=”light dark”>
+    </mj-raw>
+    <mj-title>Future Forward: 2021-2026 Strategic Plan</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+    <mj-style inline="inline"> 
+      body { padding-top: 10px; padding-left: 5px; padding-right: 5px; padding-bottom: 20px; } 
+      
+      a { color: #25551b; text-decoration: underline; } 
+      
+      .invisible { display:none; height: 50px; } 
+      
+      .light-img { display: block; } 
+      
+      .dark-img { display: none; } 
+      
+      @media (prefers-color-scheme: dark) { 
+        .light-img { display: none !important; } 
+        .dark-img { display: block !important; } 
+      } 
+      [data-ogsc] .light-img { display: none !important; }
+      [data-ogsc] .dark-img { display: block !important; }
+        </mj-style>
+    <mj-attributes>
+      <mj-text align="left" font-size="16px" line-height="22px" color="#444444" padding-top="0" padding-left="0" padding-bottom="15px" padding-right="0" />
+      <mj-all padding="0" font-family="Lato, Arial, san-serif;" />
+      <mj-section background-color="#F2F4EF" padding-left="30px" padding-right="25px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#25551b">
+    <!-- Header -->
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" css-class="light-img" />
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal-light.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" css-class="dark-img" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#0C4301" padding-top="25px" padding-bottom="25px"> February 15, 2021 </mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301"> Future Forward: 2021-2026 Strategic Plan </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F4EF">
+      <mj-column border-top="2px solid #ffc32c">
+        <mj-text padding-top="25px"> When I think about our "<a href="https://strategicplan.humboldt.edu/">Future Forward: 2021-2026 Strategic Plan</a>," I envision a mirror, one that allows us to reflect on why Humboldt State University is here, where we’ve been, who we are now, and who we want to be. </mj-text>
+        <mj-text> First and foremost we’re here for our students, to provide an accessible, high-quality education that cultivates a new generation of leaders who have the skills, knowledge, and resilience to address the most pressing issues facing the world today. </mj-text>
+        <mj-text> I see that commitment every day from our campus community who provide the kind of educational experiences that fosters the whole student, from practical, field-based research and student mentorship programs, to scholarship opportunities and health and wellbeing support. </mj-text>
+        <mj-text> For the University to continue these efforts, I asked the Strategic Plan Steering Committee and working groups to establish a model global community and to integrate diversity, equity, and inclusion within its planning. The result is a “future forward” plan, one that articulates the University’s purpose, vision, values, and goals for each theme—all of which will guide our decision-making for years to come. </mj-text>
+        <mj-text> I invite you to <a href="https://strategicplan.humboldt.edu/sites/default/files/strategicplan_2020_final.pdf">read our strategic plan</a> that was created with the assistance of hundreds of diverse voices on and beyond campus who shared their ideas for HSU’s future. I want to thank everyone who was involved in the planning process—your collaboration made this plan happen. </mj-text>
+        <mj-text> Remember, this is just the beginning. The campus will begin Phase 2 during the Spring ‘21 semester to develop institutional and divisional operational plans that include objectives, outcomes, and measures. What you’ll find here builds on our strong legacy and foundation while seeking to be bold, innovative, and sustainable as a campus community and as a University. </mj-text>
+        <mj-text padding-top="25px" padding-bottom="0"> Sincerely, </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px" padding-bottom="35px">
+      <mj-column>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" css-class="light-img" />
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature_light.png" alt="Tom Jackson Jr. signature" css-class="dark-img" />
+        <mj-text>
+          <strong>Tom Jackson, Jr.</strong><br /> President </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0" padding-bottom="20px">
+      <mj-column>
+        <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh.png" alt="circle h visual footer" css-class="light-img" />
+        <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh-light.png" alt="circle h visual footer" css-class="dark-img" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  <mjml>
