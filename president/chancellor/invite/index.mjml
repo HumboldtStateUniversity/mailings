@@ -42,7 +42,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
-        <mj-image src="https://mailings.humbolt.edu/president/chancellor/invite/handsonlearning.jpg" alt="" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/chancellor/invite/handsonlearning.jpg" alt="" padding="0" />
       </mj-column>
     </mj-section>
     <!--  Text Start-->
@@ -100,7 +100,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="40%">
-        <mj-image src="https://mailings.humbolt.edu/president/chancellor/invite/castro.jpg" alt="" />
+        <mj-image src="https://mailings.humboldt.edu/president/chancellor/invite/castro.jpg" alt="" />
         <mj-button href="https://www2.calstate.edu/csu-system/chancellor/Pages/meet-the-chancellor.aspx">
           Chancellor Castro's Bio
         </mj-button>
