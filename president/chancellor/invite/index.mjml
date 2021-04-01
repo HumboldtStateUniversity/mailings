@@ -75,7 +75,7 @@
           Register for the Forum
         </mj-button>
         <mj-text align="center">
-          <a href="#" class="dark">Submit questions</a>
+          <a href="https://docs.google.com/forms/d/1iZm7JvV24E10I9TfL_5yskayxZMl4PSx6SrriPAjdOA/edit?usp=drive_open" class="dark">Submit questions</a>
         </mj-text>
       </mj-column>
     </mj-section>
