@@ -48,6 +48,8 @@
     <!--  Text Start-->
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
+				<mj-text align="center" font-size="30px" padding-bottom="15px">Virtual Open Forum with</mj-text>
+				<mj-text align="center" font-size="22px" padding-top="0"><strong>Chancellor Joseph I. Castro</strong></mj-text>
         <mj-text align="center" font-size="20px" line-height="1.4">
          Humboldt State University is excited to host a virtual visit with the new California State University Chancellor Joseph I. Castro on Tuesday, April 27.
         </mj-text>
@@ -66,16 +68,16 @@
     </mj-section>
     <mj-section background-color="#e8efd3" border-top="solid 2px #ffc32c" border-bottom="solid 2px #ffc32c" padding="20px 0">
       <mj-column>
-        <mj-text align="center" font-weight="bold">
+        <mj-text align="center" font-weight="bold" line-height="1.4">
           Virtual Open Forum with Chancellor Joseph Castro<br>
           Tuesday, April 27 <br>1:15-2 p.m.
           <br><em>Register in advance</em>
         </mj-text>
-        <mj-button href="#">
+        <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_f3d0jYJtS7ai1iZSK-rsqQ">
           Register for the Forum
         </mj-button>
         <mj-text align="center">
-          <a href="https://docs.google.com/forms/d/1iZm7JvV24E10I9TfL_5yskayxZMl4PSx6SrriPAjdOA/edit?usp=drive_open" class="dark">Submit questions</a>
+          <a href="https://docs.google.com/forms/d/1iZm7JvV24E10I9TfL_5yskayxZMl4PSx6SrriPAjdOA/edit?usp=drive_open" class="dark">Submit questions in advance</a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -90,13 +92,10 @@
     <mj-section css-class="light-wrap" padding-top="20px">
       <mj-column width="60%">
         <mj-text>
-          Future themes and related speakers will be announced at a future date.
+          Dr. Joseph I. Castro serves as the eighth chancellor to lead the California State University (CSU). He is the first Californian and first person of color to serve in this role. The grandson of immigrants from Mexico and the son of a single mother, Dr. Castro was the first in his family to graduate from a university. He earned a bachelor's degree in political science and a master's in public policy from the University of California, Berkeley, and a Ph.D. in higher education policy and leadership from Stanford University. He is a renowned and gifted scholar in the fields of leadership and public policy, and has mentored hundreds of other scholars and practitioners, including many university presidents and senior officers.
         </mj-text>
         <mj-text>
-          Dr. Joseph I. Castro serves as the eighth chancellor to lead the California State University (CSU). He is the first Californian and first person of color to serve in this role. The grandson of immigrants from Mexico and the son of a single mother, Dr. Castro was the first in his family to graduate from a university. He earned a bachelor's degree in political science and a master's in public policy from the University of California, Berkeley, and a Ph.D. in higher education policy and leadership from Stanford University. ​He is a renowned and gifted scholar in the fields of leadership and public policy, and has mentored hundreds of other scholars and practitioners, including many university presidents and senior officers.
-        </mj-text>
-        <mj-text>
-          Prior to his appointment as CSU chancellor in September 2020, Dr. Castro served as president of California State University, Fresno, beginning in 2013. He also worked in the University of California system for 23 years, serving as vice chancellor of Student Academic Affairs and as professor of Family and Community ​Medicine at the University of California, San Francisco from 2006 to 2013. Earlier in his career, he held faculty or administrative leadership positions at four other University of California campuses: Berkeley, Davis, Merced and Santa Barbara.
+          Prior to his appointment as CSU chancellor in September 2020, Dr. Castro served as president of California State University, Fresno, beginning in 2013. He also worked in the University of California system for 23 years, serving as vice chancellor of Student Academic Affairs and as professor of Family and Community Medicine at the University of California, San Francisco from 2006 to 2013. Earlier in his career, he held faculty or administrative leadership positions at four other University of California campuses: Berkeley, Davis, Merced and Santa Barbara.
         </mj-text>
       </mj-column>
       <mj-column width="40%">
