@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-button font-family="Arial, sans-serif" font-size="16px" color="#fff" line-height="20px" background-color="#25551b" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #444;
+        text-decoration: underline;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e8e6e0">
+    <mj-section>
+      <mj-column>
+        <mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#25551b" padding="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" align="left" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#25551b" padding="0" border-top="solid 2px #8C7637">
+      <mj-column>
+        // // style="color: #fff; font: normal 38px Georgia, serif; margin: 0; padding: 7px 0 13px 5px; line-height: 45px; font-variant: small-caps;"
+        <mj-text color="#fff" font-family="Gergia, serif" font-size="34px" line-height="1.2">
+          Commencement 2021
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  Text Start-->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          Hello @FirstName,</mj-text>
+        <mj-text>
+          We're so excited to host limited in-person Commencement ceremonies in Redwood Bowl this year. You have the option of participating in either the Friday, May 14 or Saturday, May 15 Commencement ceremonies in Redwood Bowl.
+        </mj-text>
+        <mj-text>
+          If you want to walk in the ceremony or participate virtually, you MUST register by Wednesday, April 21. To comply with safety protocols and public health guidelines, advanced registration is required to enter Redwood Bowl, there will be no exceptions. Ceremonies are limited to 500 people.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Please follow the registration instructions below, create a password, and submit the information needed to create personalized graduation slide. Be prepared to submit an optional photo and personalized message when you register.</mj-text>
+        <mj-text>
+          There are known accessibility issues with this site. If you are having difficulty navigating the site, email grad@humboldt.edu and we can help you register.
+        </mj-text>
+        <mj-text>
+          To register:<br />
+          1) Click this link and create your password:<br />
+          <a href="@Raw(Model.Link.GraduatePasswordSet)" target="_blank">Set Password Here</a><br />
+          <strong>Note: The password link above is unique to your account, <u>do not</u>&nbsp;forward to others.</strong><br />
+          <br />
+          2) Log in and complete the registration process.<br />
+          3) You may return to the site anytime by going to the&nbsp;<a href="@Model.BaseUrl" target="_blank">Login Page</a> and using this email address:<br />
+          @Email<br />
+        </mj-text>
+        <mj-text>
+          <strong>Recognition at in-person ceremony: </strong>If you're out of the area and can't be here in person, you can still be recognized at the ceremonies. Just follow the prompts in the registration form and indicate that you won't be here in person but still want to be recognized with a video slide. You may submit a photo and still have your name read.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <strong>Regalia: </strong>Caps, rental gowns, tassels, hoods, and more are now available to order on the <a href="https://herff.ly/humboldt" target="_blank">HSU Bookstore's Herff Jones website</a>. Orders will be shipped directly to students, and return shipping for the rental gowns is included in the shipping fee of $12.95, or you may return them in Redwood Bowl following the ceremony. If you need to order Class of 2020 regalia or announcements, contact the Bookstore directly at (707) 826-3741.
+        </mj-text>
+        <mj-text>
+          <strong>Photos: </strong>GradImages photographers will be on hand at the ceremony to capture official graduation portraits. After the ceremony, you'll be sent a link to preview your images and purchase photo packages if you want.
+        </mj-text>
+        <mj-text>
+          <strong>Watch Commencement</strong>: Ceremonies will be livestreamed so that families, friends, and the campus community can watch and celebrate your big moment, and links to the livestream will be available on the <a href="https://commencement.humboldt.edu/" target="_blank">Commencement&nbsp;website</a>&nbsp;and&nbsp;<a href="https://humboldt.edu/" target="_blank">HSU homepage</a>&nbsp;on the day of the events.&nbsp;A video recording will be available online after the ceremony, and can be downloaded for free from Commencement website in the weeks following.
+        </mj-text>
+        <mj-text>
+          Questions? Email grad@humboldt.edu.
+        </mj-text>
+        <mj-text>
+          Congratulations!
+        </mj-text>
+        <mj-text>
+          Sincerely,<br />
+          <br />
+          <strong>Kristen Gould &amp; Stephanie Lane&nbsp;</strong><br />
+          Commencement Office<br />
+          <br />
+          Humboldt State University<br />
+          E&nbsp; | grad@humboldt.edu<br />
+          W | <a href="http://commencement.humboldt.edu">commencement.humboldt.edu</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
