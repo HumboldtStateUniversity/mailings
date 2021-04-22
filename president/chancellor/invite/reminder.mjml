@@ -62,7 +62,7 @@
         <mj-text>
           Throughout the day, Chancellor Castro will learn more about Humboldt State’s innovative teaching and learning, research, programs, current initiatives, and the significant impact HSU has on the North Coast. </mj-text>
         <mj-text>
-          Students, faculty, and staff are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform">submit questions in advance</a> for the virtual open forum with the Chancellor.
+          Students, faculty, and staff are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform"><strong>submit questions in advance</strong></a> for the virtual open forum with the Chancellor.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -71,14 +71,15 @@
         <mj-text align="center" font-weight="bold" line-height="1.4">
           Virtual Open Forum with Chancellor Joseph I. Castro<br>
           Tuesday, April 27 <br>1:15-2 p.m.
-          <br><em>Register in advance</em>
         </mj-text>
         <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_f3d0jYJtS7ai1iZSK-rsqQ">
           Register for the Forum
         </mj-button>
-        <mj-text align="center">
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform" class="dark">Submit questions in advance</a>
-        </mj-text>
+					<mj-divider border-width="2px" border-color="#ffc32c"></mj-divider>
+					 <mj-button href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform">
+          Submit questions in advance
+        </mj-button>
+        
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="50px">
