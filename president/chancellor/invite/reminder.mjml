@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-button font-family="Lato, Arial, sans-serif" font-size="16px" color="#fff" line-height="20px" background-color="#25551b" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #444;
+        text-decoration: underline;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#25551b">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/chancellor/invite/handsonlearning.jpg" alt="" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!--  Text Start-->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-size="30px" padding-bottom="15px">Virtual Open Forum: Q&A with</mj-text>
+        <mj-text align="center" font-size="30px" padding-top="0">Chancellor Joseph I. Castro</mj-text>
+        <mj-text align="center" font-size="20px" line-height="1.4">
+          Humboldt State University is excited to host a virtual visit with the new California State University Chancellor Joseph I. Castro on <strong>Tuesday, April 27</strong>.
+        </mj-text>
+        <mj-text>
+          Part of a virtual tour of all 23 CSU campuses, the visit presents an opportunity for the Chancellor to get to know HSU by meeting various stakeholders from campus and the local community. The constituents, schedule, and format were determined based on requests by the Chancellor’s Office.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0 0 30px 0">
+      <mj-column>
+        <mj-text>
+          Throughout the day, Chancellor Castro will learn more about Humboldt State’s innovative teaching and learning, research, programs, current initiatives, and the significant impact HSU has on the North Coast. </mj-text>
+        <mj-text>
+          Students, faculty, and staff are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform">submit questions in advance</a> for the virtual open forum with the Chancellor.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e8efd3" border-top="solid 2px #ffc32c" border-bottom="solid 2px #ffc32c" padding="20px 0">
+      <mj-column>
+        <mj-text align="center" font-weight="bold" line-height="1.4">
+          Virtual Open Forum with Chancellor Joseph I. Castro<br>
+          Tuesday, April 27 <br>1:15-2 p.m.
+          <br><em>Register in advance</em>
+        </mj-text>
+        <mj-button href="https://humboldtstate.zoom.us/webinar/register/WN_f3d0jYJtS7ai1iZSK-rsqQ">
+          Register for the Forum
+        </mj-button>
+        <mj-text align="center">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLl8jtE59kOFZdZgKPsrrraEpD4uLVT9jDpAxvdXHDTN82zA/viewform" class="dark">Submit questions in advance</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="50px">
+      <mj-column>
+        <mj-text font-size="18px" align="center">
+          <strong>About Chancellor Joseph I. Castro</strong>
+        </mj-text>
+        <mj-divider border-width="2px" border-color="#ffc32c" padding="0 10% 0 10%" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="20px">
+      <mj-column width="60%">
+        <mj-text>
+          Dr. Joseph I. Castro serves as the eighth chancellor to lead the California State University (CSU). He is the first Californian and first person of color to serve in this role. The grandson of immigrants from Mexico and the son of a single mother, Dr. Castro was the first in his family to graduate from a university. He earned a bachelor's degree in political science and a master's in public policy from the University of California, Berkeley, and a Ph.D. in higher education policy and leadership from Stanford University. He is a renowned and gifted scholar in the fields of leadership and public policy, and has mentored hundreds of other scholars and practitioners, including many university presidents and senior officers.
+        </mj-text>
+        <mj-text>
+          Prior to his appointment as CSU chancellor in September 2020, Dr. Castro served as president of California State University, Fresno, beginning in 2013. He also worked in the University of California system for 23 years, serving as vice chancellor of Student Academic Affairs and as professor of Family and Community Medicine at the University of California, San Francisco from 2006 to 2013. Earlier in his career, he held faculty or administrative leadership positions at four other University of California campuses: Berkeley, Davis, Merced and Santa Barbara.
+        </mj-text>
+      </mj-column>
+      <mj-column width="40%">
+        <mj-image src="https://mailings.humboldt.edu/president/chancellor/invite/castro.jpg" alt="" />
+        <mj-button href="https://www2.calstate.edu/csu-system/chancellor/Pages/meet-the-chancellor.aspx">
+          Chancellor Castro's Bio
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
