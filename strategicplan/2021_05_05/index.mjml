@@ -109,19 +109,18 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding="0">>
         <mj-column>
-          <mj-text>
+          <mj-text padding-bottom="0">
             Here is a timeline of the next steps for the Strategic Plan process:
             <ul>
               <li>Phase 2: Divisions to complete in Summer, 2021</li>
               <li>Phase 3: Colleges and similar areas to complete in early Fall, 2021</li>
             </ul>
           </mj-text>
-          <mj-text>
-            Please continue to access the Strategic Planning website for more information. As always we welcome your feedback and suggestions. If you’re interested in being involved in the strategic planning process within your division, please contact your appropriate administrator.
+          <mj-text padding-top="0">
+						Please continue to access the <a href="https://strategicplan.humboldt.edu/">Strategic Planning website</a> for more information. As always we welcome your feedback and suggestions. If you’re interested in being involved in the strategic planning process within your division, please contact your appropriate administrator.
           </mj-text>
         </mj-column>
       </mj-section>
-
       </mj-section>
       <mj-section css-class="light-wrap" padding="0">
         <mj-column>
