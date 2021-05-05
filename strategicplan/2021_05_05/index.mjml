@@ -1,0 +1,143 @@
+  <mjml>
+    <mj-head>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F2F4EF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#8D9495">
+      <mj-section>
+        <mj-column>
+
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png" alt="HSU-Future Forward - Strategic Plan 2021-2026" href="https://strategicplan.humboldt.edu" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            <h2>Strategic Plan: Measuring Our Progress Through Assessment</h2>
+          </mj-text>
+          <mj-text>Dear Campus Community,
+          </mj-text>
+          <mj-text>With the successful completion of the first phase of Strategic Planning, we have launched the next two phases.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          </mj-text>
+          <mj-text>
+            The next phases of strategic planning are occurring within each division under the leadership of division teams. Strategic planning is moving forward as an initiative to integrate institutional assessment.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Our Integrated Assessment and Planning (IAP) initiative includes the formation of a working group to support the collaborative development of the Phase 2 and 3 plans and ultimately, a culture of institutional assessment across campus.
+          </mj-text>
+          <mj-text>
+            IAP Working Group members selected by leadership across the University divisions are:
+          </mj-text>
+          <mj-text>
+            Corliss Bennett <br>
+            Robert Keever <br>
+            Stephanie Lane <br>
+            Michael Le <br>
+            Heather Madar <br>
+            Monty Mola <br>
+            Cyril Oberlander <br>
+            Patrick Orona <br>
+            Elavie Ndura <br>
+            Angie Petroske <br>
+            Angela Rich <br>
+            Stephen St. Onge <br>
+            Eboni Turnbow <br>
+            Elizabeth Whitchurch <br>
+            George Wrenn <br>
+            Shawna Young <br>
+            Rick Zechman
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            As a university, our faculty have made great progress in the area of academic program assessment and review. This IAP initiative will focus on two other areas: co-curricular (student affairs and student learning outside the classroom) and operational activities.
+          </mj-text>
+          <mj-text>
+            In Phase 2, divisions will be working first on statements of purpose, desired outcomes, and key initiatives that will map back to the purpose and strategic goals of the Phase 1 plan.
+          </mj-text>
+          <mj-text>
+            Eventually, in Phase 3, colleges and other similar areas will develop plans that include objectives and measures of impact that connect to the division plans.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">>
+        <mj-column>
+          <mj-text>
+            Here is a timeline of the next steps for the Strategic Plan process:
+            <ul>
+              <li>Phase 2: Divisions to complete in Summer, 2021</li>
+              <li>Phase 3: Colleges and similar areas to complete in early Fall, 2021</li>
+            </ul>
+          </mj-text>
+          <mj-text>
+            Please continue to access the Strategic Planning website for more information. As always we welcome your feedback and suggestions. If you’re interested in being involved in the strategic planning process within your division, please contact your appropriate administrator.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Thank you for your continuing support of the strategic planning process and the University’s bold vision for the future.
+          </mj-text>
+          <mj-text padding-bottom="40px">
+            Sincerely,<br><br>
+
+            Lisa Bond-Maupin, Deputy Chief of Staff and Special Assistant to the President<br>
+            IAP Co-Lead<br><br>
+
+            Amy Moffat, Associate Director of Institutional Assessment <br>
+            IAP Co-Lead
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
