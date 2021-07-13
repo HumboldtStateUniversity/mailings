@@ -72,7 +72,11 @@ Today Governor Newsom signed a budget that authorizes $433 million in one-time f
         <mj-text>
           In this surreal moment in time, I am so humbled and honored to serve as your president, and I could not be more proud of how well we have conducted ourselves. Acting as one team has led to this incredible show of support from state leadership. Thank you!
         </mj-text>
-        <mj-text>
+				</mj-column>
+				</mj-section>
+        <mj-section>
+					<mj-column>
+						<mj-text>
           HSU has prepared for this day. For more than six months, hundreds of community members, alumni, staff, students, and faculty participated in planning and deep discussions to help guide HSU toward becoming a polytechnic. Just two months ago, HSU hosted the visiting team from the WASC Senior College and University Commission as part of a very important accreditation visit. This campus and community were prepared, spoke in one voice, shared a positive vision, and clearly articulated how we have evolved. We addressed several key issues impacting the campus and how we had resolved, or were resolving, them. The accreditation visiting team departed with a positive perception and issued strong commendations. Shortly thereafter, HSU hosted Chancellor and Mrs. Castro along with a number of other CSU officials for a virtual visit. During the day, they met many different groups of people, and we also shared our popular "Points of Pride" video. Together, we spoke often and enthusiastically about our journey thus far in becoming a polytechnic. We shared the positivity we were experiencing as a campus and community, and we spoke with one very positive and future forward voice.
         </mj-text>
         <mj-text>
@@ -84,6 +88,10 @@ Today Governor Newsom signed a budget that authorizes $433 million in one-time f
         <mj-text>
           There are many people that played a role in making this happen. They include CSU Chancellor Castro and others at the Chancellor's Office, and a broad range of individuals from across campus, particularly the self-study committee chairs and budget writing team. They also include friends and supporters on our County Board of Supervisors and other local leaders, State Senator Mike McGuire, State Assemblymember Jim Wood, and College of the Redwoods President Keith Flamer. There were also advocates in Sacramento like Green Diamond and others who spoke up not just for Humboldt, but for all rural counties in California. There are many, many others who have played an important part.
         </mj-text>
+					</mj-column>
+				</mj-section>
+		        <mj-section>
+					<mj-column>
         <mj-text>
           Now the really hard work begins. We will continue to approach our responsibility to our students and to this region with class, grace, and respect as we work to evolve Humboldt State University.
         </mj-text>
