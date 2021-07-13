@@ -1,0 +1,119 @@
+<mjml>
+  <mj-head>
+    <mj-title>California's Historic Investment in Humboldt State and the North Coast</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+    <mj-style inline="inline">
+      body {
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 20px;
+      }
+      a {
+        color: #25551b;
+        text-decoration: underline;
+      }
+      .circleh {
+   background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.png') center center no-repeat;
+      height: 50px;
+      width: 50px;
+      padding: 0px;
+      background-size: contain;
+
+      }
+      .invisible {
+      display:none;
+      height: 50px;
+      }
+    </mj-style>
+     <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="left" font-size="16px" line-height="22px"  color="#444444" padding-top="0" padding-left="0" padding-bottom="15px" padding-right="0"/>
+      <mj-all padding="0" font-family="Lato, Arial, san-serif;" />
+      <mj-section  background-color="#F2F4EF"  padding-left="30px" padding-right="25px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#25551b">
+    <!-- Header -->
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+				<mj-text align="center" font-size="14px" color="#0C4301"  padding-top="25px" padding-bottom="25px">
+          July 13, 2021
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301" >
+          California's Historic Investment in Humboldt State and the North Coast
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column border-top="2px solid #ffc32c">
+    		<mj-text padding-top="25px">
+Dear HSU Community,</mj-text>
+        <mj-text>
+There's a quote from the classic film Hoosiers that has run through my mind many times in recent weeks. "No school this small has ever been to the State Championship!"
+    </mj-text>
+        <mj-text>
+If you've ever seen the film, you'll remember that they won the state championship.
+        </mj-text>
+        <mj-text>
+Today Governor Newsom signed a budget that authorizes $433 million in one-time funding and $25 million in ongoing funding to Humboldt State University in support of our vision for becoming California's third polytechnic university and the only one in Northern California. This historic investment will be transformational for our institution, and it will revitalize this region for decades into the future.
+        </mj-text>
+        <mj-text>
+          In this surreal moment in time, I am so humbled and honored to serve as your president, and I could not be more proud of how well we have conducted ourselves. Acting as one team has led to this incredible show of support from state leadership. Thank you!
+        </mj-text>
+        <mj-text>
+          HSU has prepared for this day. For more than six months, hundreds of community members, alumni, staff, students, and faculty participated in planning and deep discussions to help guide HSU toward becoming a polytechnic. Just two months ago, HSU hosted the visiting team from the WASC Senior College and University Commission as part of a very important accreditation visit. This campus and community were prepared, spoke in one voice, shared a positive vision, and clearly articulated how we have evolved. We addressed several key issues impacting the campus and how we had resolved, or were resolving, them. The accreditation visiting team departed with a positive perception and issued strong commendations. Shortly thereafter, HSU hosted Chancellor and Mrs. Castro along with a number of other CSU officials for a virtual visit. During the day, they met many different groups of people, and we also shared our popular "Points of Pride" video. Together, we spoke often and enthusiastically about our journey thus far in becoming a polytechnic. We shared the positivity we were experiencing as a campus and community, and we spoke with one very positive and future forward voice.
+        </mj-text>
+        <mj-text>
+          The positive messages were heard. The fantastic preparation by the polytechnic self-study team and the entire HSU family demonstrated what was possible. And it all came together as an incredible opportunity that is unprecedented in the CSU. The Governor and state legislators decided to support the polytechnic vision by including substantial funding for it in the new California budget.
+        </mj-text>
+        <mj-text>
+          Through this investment in HSU, this region can look for new jobs, new student housing, a mixed use engineering building and science renovation. There is also support for broadband capability, land acquisition, energy research, and more. These opportunities do not just impact HSU - they impact this entire region directly as well as the state of California. HSU will do everything we can to be deliberate, respectful, responsible, and forthright as we accept the investment by the people of California in this incredible university and this amazing region.
+        </mj-text>
+        <mj-text>
+          There are many people that played a role in making this happen. They include CSU Chancellor Castro and others at the Chancellor's Office, and a broad range of individuals from across campus, particularly the self-study committee chairs and budget writing team. They also include friends and supporters on our County Board of Supervisors and other local leaders, State Senator Mike McGuire, State Assemblymember Jim Wood, and College of the Redwoods President Keith Flamer. There were also advocates in Sacramento like Green Diamond and others who spoke up not just for Humboldt, but for all rural counties in California. There are many, many others who have played an important part.
+        </mj-text>
+        <mj-text>
+          Now the really hard work begins. We will continue to approach our responsibility to our students and to this region with class, grace, and respect as we work to evolve Humboldt State University.
+        </mj-text>
+        <mj-text>
+          Near the end of Hoosiers, with one final shot remaining, the coach is drawing up a decoy play, assuming the other team would be aggressively covering the star player Jimmy. The team does not react and the coach wonders why. Jimmy says simply, "I'll make it." In other words, just give him the ball. He will do it.
+        </mj-text>
+        <mj-text>
+          This is our moment. This is our time as a campus and community to become the place we have always envisioned. We can do this!  We will make it.
+        </mj-text>
+        <mj-text padding-top="25px" padding-bottom="0">
+        Respectfully,
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+      <mj-section padding-top="20px" padding-bottom="35px">
+      <mj-column>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+        <strong>Tom Jackson, Jr.</strong><br/>
+President, Humboldt State University
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <mj-section background-url="https://mailings.humboldt.edu/president/0_img/circleh-footer.png" padding-left="0" padding-right="0">
+      <mj-column >
+       <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh.png" alt="circle h visual footer" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  <mjml>
