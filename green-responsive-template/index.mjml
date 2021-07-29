@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <<mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">July 27, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+            San José State Football Returns to HSU
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+Humboldt State will welcome back the San José State University football team for training and practice ahead of the start of their 2021 season. SJSU athletes, coaches, and staff have all been fully vaccinated and will continue to observe general safety practices while at HSU.
+        </mj-text>
+				<mj-text>
+				The team will begin to arrive Wednesday, July 28 and depart Sunday, August 8. The public will be invited to view a team scrimmage on Saturday, August 7. More details will be released closer to the event date.
+				</mj-text>
+								<mj-text>
+“This is a wonderful opportunity for the Spartans to prepare for their season in the beautiful Redwood Bowl,” says Cooper Jones, Executive Director of Intercollegiate Athletics & Campus Recreation. “We’re glad to assist San José State as they kickoff the 2021 season with Fall camp in Arcata. After last year’s safe visit, and a very successful season for SJSU, we are happy to invite them back and support the team this semester.”
+				</mj-text>
+								<mj-text>
+				The Spartans will live and practice on campus, all while essentially maintaining a bubble to prevent contact between the team, the campus, and the local community. SJSU will have access to the Redwood Bowl for practice and training, and will use the Student Recreation Center outside of current open hours so HSU student access is not affected. HSU has been in close contact with Humboldt County Health regarding this agreement and will continue to adhere to county, state, and CDC guidelines
+				</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
