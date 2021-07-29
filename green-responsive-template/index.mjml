@@ -5,9 +5,14 @@
       <mj-all font-family="Arial" />
       <mj-section background-color="#fff" />
     </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
   </mj-head>
   <mj-body background-color="#e1e1e1">
-    <mj-section padding="40px 0 0">
+    <mj-section padding="40px 0 0" background-color="transparent">
       <mj-column>
         <mj-image src="https://humboldt.edu/mailings/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
       </mj-column>
@@ -27,6 +32,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
+				<mj-text>Dearn Colleagues,</mj-text>
         <mj-text>
 Humboldt State will welcome back the San José State University football team for training and practice ahead of the start of their 2021 season. SJSU athletes, coaches, and staff have all been fully vaccinated and will continue to observe general safety practices while at HSU.
         </mj-text>
