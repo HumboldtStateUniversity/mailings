@@ -14,7 +14,7 @@
   <mj-body background-color="#e1e1e1">
     <mj-section padding="40px 0 0" background-color="transparent">
       <mj-column>
-        <mj-image src="https://humboldt.edu/mailings/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section border-bottom="1px solid #25551b">
