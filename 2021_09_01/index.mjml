@@ -30,7 +30,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding-bottom="0">
       <mj-column>
 				<mj-text>Dear Campus Community,</mj-text>
         <mj-text>
@@ -39,7 +39,11 @@
 				<mj-text>
 				As you know, this was a collective undertaking resulting from an extensive self-study over the course of Spring 2021. Teams of staff, faculty, students, alumni, and community members explored our existing strengths and our new opportunities for creating a 21st-century comprehensive polytechnic university that is true to our campus purpose and shared vision. The result of this self-study was a powerful articulation of how we will build on what we already do well while expanding our contributions to our region and state. Ultimately, the prospectus underscores our commitment to the achievement of our students’ dreams for themselves and their families and communities.
 				</mj-text>
-        <mj-text>
+      </mj-column>
+    </mj-section>
+		<mj-section  padding-top="0">
+			<mj-column>
+				<mj-text>
         Over the next few months, we will work closely with the Chancellor’s Office in preparation for a successful proposal to the CSU Board of Trustees and in the allocation of the new state resources generously awarded to HSU to support our transformation.
 				</mj-text>
         <mj-text>
@@ -55,8 +59,8 @@
           Lisa Bond-Maupin<br>
           Deputy Chief of Staff and Special Assistant to the President
         </mj-text>
-      </mj-column>
-    </mj-section>
+			</mj-column>
+		</mj-section>
     <mj-section background-color="#25551b" >
       <mj-column>
         <mj-text color="#ffffff" align="center">
