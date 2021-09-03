@@ -1,0 +1,99 @@
+<mjml>
+  <mj-head>
+    <mj-title>TITLE</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+    <mj-style inline="inline">
+      body {
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 20px;
+      }
+      li {
+        padding-bottom: 15px;
+      }
+      a {
+        color: #25551b;
+        text-decoration: underline;
+      }
+      .circleh {
+   background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.png') center center no-repeat;
+      height: 50px;
+      width: 50px;
+      padding: 0px;
+      background-size: contain;
+
+      }
+      .invisible {
+      display:none;
+      height: 50px;
+      }
+    </mj-style>
+     <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="left" font-size="16px" line-height="22px"  color="#444444" padding-top="0" padding-left="0" padding-bottom="15px" padding-right="0"/>
+      <mj-all padding="0" font-family="Lato, Arial, san-serif;" />
+      <mj-section  background-color="#F2F4EF"  padding-left="30px" padding-right="25px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#25551b">
+    <!-- Header -->
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+				<mj-text align="center" font-size="14px" color="#0C4301"  padding-top="25px" padding-bottom="25px">
+          September 3, 2021
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301" >
+          TITLE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column border-top="2px solid #ffc32c">
+    		<mj-text padding-top="25px">
+Dear [firstname],
+        </mj-text>
+        <mj-text>
+Congratulations! We are so proud of your accomplishments, both as a Humboldt State University student and athlete. Today, we would like to acknowledge you for being part of a very special team that includes a record 91 student-athletes named to the 2020-21 All-Academic Team. This is a tremendous honor, both for you and our university, and we want to take the time to celebrate your efforts.
+    </mj-text>
+        <mj-text>
+Balancing academics and athletics takes incredible discipline, hard work, and heart. Particularly in a year that was so challenging, you truly rose above and demonstrated admirable resilience. Thank you for being such incredible leaders on campus and in our community. 				</mj-text>
+        <mj-text>
+        We plan to celebrate your All-Academic Team accomplishment in person when it is safe to do so. In the meantime, <a href="https://youtu.be/Av715B8C4-0">please enjoy this short video</a> that Athletics Director Cooper Jones and I put together for you. Thank you for making us proud!
+
+        </mj-text>
+					</mj-column>
+				</mj-section>
+		
+
+      <mj-section padding-top="20px" padding-bottom="35px">
+      <mj-column>
+				        <mj-text padding-top="0" padding-bottom="20px">
+    Go Jacks,
+        </mj-text>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+        <strong>Tom Jackson, Jr., President</strong><br/>Humboldt State University
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <mj-section background-url="https://mailings.humboldt.edu/president/0_img/circleh-footer.png" padding-left="0" padding-right="0">
+      <mj-column >
+       <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh.png" alt="circle h visual footer" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  <mjml>
