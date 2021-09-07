@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section padding-bottom="0">
       <mj-column>
-				<mj-text>Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, the <a href="https://clery.humboldt.edu/sites/default/files/final_-_humboldt_state_university_-_2021_annual_security_report.pdf">2021 Annual Security Report</a> (ASR) is now available for viewing. The ASR contains the current security and safety-related policy statements, emergency preparedness and evacuation information, crime prevention and sexual assault prevention information, and information about drug and alcohol prevention programming. The ASR also contains statistics of Clery crimes for Humboldt State University for 2018, 2019, and 2020. A paper copy of the ASR is available upon request by contacting the Title IX & DHR Prevention Office located at:</mj-text>
+				<mj-text>Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, the 2021 Annual Security Report (ASR) is now available for viewing at <a href="https://clery.humboldt.edu/sites/default/files/final_-_humboldt_state_university_-_2021_annual_security_report.pdf">https://clery.humboldt.edu/sites/default/files/final_-_humboldt_state_university_-_2021_annual_security_report.pdf</a>. The ASR contains the current security and safety-related policy statements, emergency preparedness and evacuation information, crime prevention and sexual assault prevention information, and information about drug and alcohol prevention programming. The ASR also contains statistics of Clery crimes for Humboldt State University for 2018, 2019, and 2020. A paper copy of the ASR is available upon request by contacting the Title IX & DHR Prevention Office located at:</mj-text>
         <mj-text>
         213 Siemens Hall<br>
         1 Harpst Street<br>
@@ -41,7 +41,7 @@
         <a href="mailto:titleix@humboldt.edu">titleix@humboldt.edu</a>
         </mj-text>
 				<mj-text>
-				Pursuant to the Higher Education Opportunity Act, the <a href="https://housing.humboldt.edu/sites/default/files/annual_fire_safety_report_for_housing_2021.pdf">2021 Annual Fire Safety Report</a> (AFSR) is now available for viewing.
+					Pursuant to the Higher Education Opportunity Act, the 2021 Annual Fire Safety Report (AFSR) is now available for viewing at <a href="https://housing.humboldt.edu/sites/default/files/annual_fire_safety_report_for_housing_2021.pdf">https://housing.humboldt.edu/sites/default/files/annual_fire_safety_report_for_housing_2021.pdf</a>.
 				</mj-text>
       </mj-column>
     </mj-section>
