@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <<mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://humboldt.edu/mailings/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">September 7, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+            Campus-Wide Distribution of the Annual Security Report and Annual Fire Safety Report
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+				<mj-text>Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, the <a href="https://clery.humboldt.edu/sites/default/files/final_-_humboldt_state_university_-_2021_annual_security_report.pdf">2021 Annual Security Report</a> (ASR) is now available for viewing. The ASR contains the current security and safety-related policy statements, emergency preparedness and evacuation information, crime prevention and sexual assault prevention information, and information about drug and alcohol prevention programming. The ASR also contains statistics of Clery crimes for Humboldt State University for 2018, 2019, and 2020. A paper copy of the ASR is available upon request by contacting the Title IX & DHR Prevention Office located at:</mj-text>
+        <mj-text>
+        213 Siemens Hall<br>
+        1 Harpst Street<br>
+        Arcata, CA, 95521<br>
+        <a href="tel:(707) 826-5177">(707) 826-5177</a><br>
+        <a href="mailto:titleix@humboldt.edu">titleix@humboldt.edu</a>
+        </mj-text>
+				<mj-text>
+				Pursuant to the Higher Education Opportunity Act, the <a href="https://housing.humboldt.edu/sites/default/files/annual_fire_safety_report_for_housing_2021.pdf">2021 Annual Fire Safety Report</a> (AFSR) is now available for viewing.
+				</mj-text>
+      </mj-column>
+    </mj-section>
+		<mj-section  padding-top="0">
+			<mj-column>
+				<mj-text>
+       The purpose of this report is to disclose statistics for fires that occurred within Humboldt State University housing facilities for 2018, 2019, and 2020, and to distribute fire safety policies and procedures intended to promote safety on campus. A paper copy of the AFSR is available upon request by contacting the Housing & Residence Life Department located at:
+				</mj-text>
+        <mj-text>
+				355 Granite Ave<br>
+        Arcata, CA 95521<br>
+        <a href="tel:(707) 826-3451">(707) 826-3451</a><br>
+        <a href="mailto:housing@humboldt.edu">housing@humboldt.edu</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
