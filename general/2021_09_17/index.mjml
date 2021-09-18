@@ -135,7 +135,7 @@
     </mj-section>
     <mj-section padding-bottom="0" padding-top="0">
       <mj-column>
- <mj-image src="capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
+ <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
           <mj-text>
 						Jenn Capps<br>
           Provost and Vice President for Academic Affairs<br><br>
