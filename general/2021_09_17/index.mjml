@@ -30,16 +30,20 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding-bottom="0">
       <mj-column>
-				<mj-text>Dear Campus Community,</mj-text>
+ 	<mj-text>Dear Campus Community,</mj-text>
         <mj-text>
         We are excited to announce the next phase of HSU’s transition to a polytechnic: the creation of the Polytech Implementation Steering Committee, which was charged by President Jackson to implement bold, innovative, and forward-looking plans.
         </mj-text>
 				<mj-text>
 				Now, under the leadership of the committee, working groups will be tasked with carrying out the proposals outlined in the polytechnic prospectus that has been submitted to the Chancellor’s Office.
 				</mj-text>
-        <mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
        Faculty, staff, students, alumni, and community members are welcome to be a part of this transformative moment for Humboldt State. We have a few working groups which will be aligning with existing university structures which will require limited or no additional membership. To join a Polytech Implementation Team working group, please submit the <a href="https://forms.gle/ZV9NrcwP2MFmp8Dk9">interest form</a> by Friday, September 24.
 				</mj-text>
         <mj-text>
@@ -62,7 +66,11 @@
           <li>Eileen Cashman, Professor and Department Chair, Environmental Resources Engineering</li>
           </ul>
         </mj-text>
-       <mj-text padding-bottom="0">
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
           <strong>Budget, Finance & Reporting</strong><br>
           The <strong>Budget, Finance & Reporting</strong> working group in collaboration with campus leadership and URPC is responsible for the financial planning and oversight of the state funding to support our polytechnic implementation.
           <ul>
@@ -78,7 +86,11 @@
           <li>Bori Mazzag, Chair, Mathematics & Computer Science</li>
           </ul>
         </mj-text>
-        <mj-text padding-bottom="0">
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
           <strong>Enrollment & Growth Management  </strong><br>
           The <strong>Enrollment & Growth Management</strong>  group is responsible for developing a robust coordinated enrollment and growth strategy for recruiting and supporting students into new polytechnic degree programs and existing programs. In addition, they will identify guidelines and strategies to support the successful recruitment, hiring, and retention of faculty and staff.
           <ul>
@@ -94,7 +106,11 @@
           <li>Carmen Bustos-Works, Interim Associate Vice President of Academic Programs</li>
           </ul>
         </mj-text>
-        <mj-text padding-bottom="0">
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0" padding-top="0">
         <strong>Communications</strong><br>
           The <strong>Communications</strong> working group is responsible for communications, marketing, branding advertisement, engagement activities, and events associated with polytechnic planning and implementation.
           <ul padding="0">
@@ -105,13 +121,21 @@
         <mj-text>
           We are thankful for everyone’s commitment and enthusiasm to lead such a momentous opportunity in collaboration with stakeholders from our campus, community and region.
         </mj-text>
-        <mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
           Please continue checking your email and the <a href="https://www.humboldt.edu/polytechnic">Polytechnic website</a> for updates. If you have any questions or feedback, please email <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a> or call <a href="tel:707-826-3300">707-826-3300</a>.
         </mj-text>
         <mj-text>
           Sincerely,
 					</mj-text>
-          <mj-image src="capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-image src="capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
           <mj-text>
 						Jenn Capps<br>
           Provost and Vice President for Academic Affairs<br><br>
@@ -122,9 +146,9 @@
             Sherie Cornish Gordon<br>
           Chief of Staff
          </mj-text>
-        </mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section background-color="#25551b" >
       <mj-column>
         <mj-text color="#ffffff" align="center">
