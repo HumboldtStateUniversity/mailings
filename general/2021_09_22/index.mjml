@@ -1,0 +1,162 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">September 22, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+            Reminder: Help Support HSU's Polytechnic Plans
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+ 	<mj-text>Dear Campus Community,</mj-text>
+        <mj-text>
+        We are excited to announce the next phase of HSU’s transition to a polytechnic: the creation of the Polytech Implementation Steering Committee, which was charged by President Jackson to implement bold, innovative, and forward-looking plans.
+        </mj-text>
+				<mj-text>
+				Now, under the leadership of the committee, working groups will be tasked with carrying out the proposals outlined in the polytechnic prospectus that has been submitted to the Chancellor’s Office.
+				</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
+       Faculty, staff, students, alumni, and community members are welcome to be a part of this transformative moment for Humboldt State. We have a few working groups which will be aligning with existing university structures which will require limited or no additional membership. To join a Polytech Implementation Team working group, please submit the <a href="https://forms.gle/ZV9NrcwP2MFmp8Dk9">interest form</a> by Friday, September 24.
+				</mj-text>
+        <mj-text>
+				Below is the list of our working groups and co-leads.
+				</mj-text>
+        <mj-text padding-bottom="0">
+          <strong>Facilities</strong><br>
+          The <strong>Facilities</strong> working group will be responsible for many facets of polytechnic planning which will include, but are not limited to, academic and housing capital projects, renovations, and infrastructure in support of campus growth and modernization.
+          <ul>
+          <li>Michael Fisher, Associate Vice President for Facilities Management</li>
+          <li>Eric Riggs, Dean, College of Resources and Natural Sciences</li>
+          </ul>
+        </mj-text>
+
+        <mj-text padding-bottom="0">
+         <strong>Curriculum & Academic Programs </strong><br>
+          The <strong>Curriculum & Academic Programs</strong> working group is responsible for planning components associated with the launch of our academic programs in the prospectus. The group will prioritize academic programs (bachelor’s and master’s degrees and certificates) identified for a Fall 2023 start.
+          <ul>
+          <li>Jenn Capps, Provost and Vice President for Academic Affairs</li>
+          <li>Eileen Cashman, Professor and Department Chair, Environmental Resources Engineering</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
+          <strong>Budget, Finance & Reporting</strong><br>
+          The <strong>Budget, Finance & Reporting</strong> working group in collaboration with campus leadership and URPC is responsible for the financial planning and oversight of the state funding to support our polytechnic implementation.
+          <ul>
+          <li>Amber Blakeslee, University Budget Director</li>
+          <li>Simone Aloisio, Associate Vice President for Academic Personnel Services</li>
+          </ul>
+        </mj-text>
+        <mj-text padding-bottom="0">
+          <strong>Technology & Infrastructure </strong><br>
+          The <strong>Technology & Infrastructure</strong> working group is responsible for working in collaboration with campus and external partners to modernize and expand technology infrastructure for teaching and learning environments. In addition, the group will focus on infrastructure components related to broadband and fiber deployment.
+          <ul>
+          <li>Bethany Rizzardi, Chief Information Officer</li>
+          <li>Bori Mazzag, Chair, Mathematics & Computer Science</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
+          <strong>Enrollment & Growth Management  </strong><br>
+          The <strong>Enrollment & Growth Management</strong>  group is responsible for developing a robust coordinated enrollment and growth strategy for recruiting and supporting students into new polytechnic degree programs and existing programs. In addition, they will identify guidelines and strategies to support the successful recruitment, hiring, and retention of faculty and staff.
+          <ul>
+          <li>Pedro Martinez, Director of Admissions</li>
+          <li>Shawna Young, Dean, College of Professional Studies</li>
+          </ul>
+        </mj-text>
+        <mj-text padding-bottom="0">
+        <strong>Inclusive Student Success/Graduation Initiative 2025</strong><br>
+          The <strong>Inclusive Student Success/Graduation Initiative 2025</strong> group will replace the Student Success Alliance group (SSA) and is responsible for developing a  comprehensive institutional strategy on academic success, retention, degree completion and closing equity gaps as described in GI 2025.
+          <ul>
+          <li>Jason Meriwether, Vice President for Enrollment Management</li>
+          <li>Carmen Bustos-Works, Interim Associate Vice President of Academic Programs</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0" padding-top="0">
+        <strong>Communications</strong><br>
+          The <strong>Communications</strong> working group is responsible for communications, marketing, branding advertisement, engagement activities, and events associated with polytechnic planning and implementation.
+          <ul padding="0">
+          <li>Sherie C. Gordon, Chief of Staff, Office of the President</li>
+          <li>Kristen Gould, Director of Marketing, Marketing & Communications</li>
+          </ul>
+        </mj-text>
+        <mj-text>
+          We are thankful for everyone’s commitment and enthusiasm to lead such a momentous opportunity in collaboration with stakeholders from our campus, community and region.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
+          Please continue checking your email and the <a href="https://www.humboldt.edu/polytechnic">Polytechnic website</a> for updates. If you have any questions or feedback, please email <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a> or call <a href="tel:707-826-3300">707-826-3300</a>.
+        </mj-text>
+        <mj-text>
+          Sincerely,
+					</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
+          <mj-text>
+						Jenn Capps<br>
+          Provost and Vice President for Academic Affairs<br><br>
+					</mj-text>
+
+          <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
+         <mj-text>
+            Sherie Cornish Gordon<br>
+          Chief of Staff
+         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
