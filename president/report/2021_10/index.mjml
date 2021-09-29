@@ -1,0 +1,217 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+				text-decoration:underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+				text-decoration:underline;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="51441512953_f4de914149_c.jpg" alt="Student Activity Center Movie Night" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+        October<br>2021
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres082020_0081.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          We are well into the Fall semester, and I want to take a moment to thank everyone for doing their part to keep us safe. Through our shared commitment and attention, we’re off to a successful start.
+        </mj-text>
+        <mj-text>
+          The health and safety of our campus community is only one hallmark of a positive educational experience. HSU is committed to the whole student experience, including academics, student life, intercollegiate athletics, and campus recreation.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          I’m particularly excited to invite Lumberjacks to the reimagined <a href="http://now.humboldt.edu/news/kick-back-grab-a-bite-and-play-a-game-at-the-new-student-activities-center/" class="dark">Student Activities Center</a>. At the heart of campus, the lively Student Activities Center is located in the building surrounding the Quad. The center hosts lounge spaces, movies, student services, video games, pool tables, ping pong, and more. It’s also the home of the new Bigfoot Burgers restaurant, Kinetic Koffee, Obento, Wildflower Cafe, and Hey Juan Burritos.When it’s safe, the Center will host concerts, tournaments, and other activities.
+        </mj-text>
+        <mj-text>
+          Please join us tonight Monday, Oct. 4 at 8 p.m. for the Student Activities Center’s grand opening. The celebration will feature DJs, yard games, barbecue and food trucks, a ribbon-cutting ceremony, and a performance by the live band Object Heavy.
+        </mj-text>
+        <mj-text>
+          A place to relax, play, and get to know each other is more important than ever. My hope is that the Student Activities Center will continue to grow and expand based on student interest, serving as a place for students to build community for their own success.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+				 <mj-text>
+            Student-athletes are returning to intercollegiate competition, and our men’s Soccer team is <a href="https://hsujacks.com/news/2021/9/28/mens-soccer-mens-soccer-stays-at-no-13-in-this-weeks-national-poll.aspx" class="dark">nationally ranked at No. 13</a>. Students are enjoying being back at play, and crowds have been enjoying watching the games again.
+        </mj-text>
+        <mj-text>
+          Next month we will break ground on the Food Sovereignty Lab. When completed, it will offer students an opportunity to explore healthy, traditional Indigenous food systems.. The Lab will operate as a commercial kitchen, with a plant drying station and salmon pit for working with and preparing food, baskets, and regalia. It will serve as a study and research space, and will host University and community events. When complete, HSU will become the first university in California with a space dedicated to uplifting tribal sovereignty through the research, practice, and preservation of food sovereignty.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section  css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          Finally, we continue to make amazing progress with our polytechnic planning, thanks to the work of hundreds of individuals. We recently submitted our Final Draft of the Polytechnic Prospectus to the CSU Chancellor’s Office. We will be presenting this information for HSU to the CSU Board of Trustees in November, as we continue to take advantage of this historic opportunity.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>New and Local Dining on Campus</h2>
+          Thanks to several new eateries, students can fuel their studies with nutritious snacks and freshly prepared meals from local restaurants this semester. Whether it's a chai latte before a big test or Friday night burgers with friends, HSU’s vibrant food scene has your favorite food fix.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/new-local-flavors-cooking-on-campus">
+          See all of the new dining options and hours
+        </mj-button>
+			</mj-column>
+      <mj-column>
+        <mj-image src="dine090121_0196.jpg" alt="Fries at Bigfoot Burgers" />
+      </mj-column>
+			</mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="2021-0921-CIRM_LARGE.jpg" alt="Professory Amy Sprowles and students" />
+        <mj-text>
+          <h2>Stem Cell Research Program Secures $3.6 Million for Student Internships</h2>
+         Our distinguished CIRM Bridges Program has once again been awarded with generous grant funding from the California Institute for Regenerative Medicine (CIRM). Led by Biology Professor Amy Sprowles, HSU’s CIRM Bridges is designed to support students from diverse backgrounds committed to improving human health through stem cell research and gene therapy.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/renowned-stem-cell-research-program-secures-36-million-for-student-internsh">
+          Learn about HSU’s CIRM program
+        </mj-button>
+        <!-- <mj-button href="https://humboldt.edu/polytechnic">
+          Polytechnic self-study website
+        </mj-button> -->
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="09-16-2021-HUB_LARGE.jpg" alt="" />
+        <mj-text color="#fff">
+          <h2>
+            New Research and Business Development Centers
+          </h2>
+          HSU will join a coastal resiliency research hub led by Oregon State University and the University of Washington focused on the impact of earthquakes, coastal erosion, and climate change on coastal communities in the Pacific Northwest. The Cascadia Coastlines and Peoples Hazards Research Hub, or Cascadia CoPes Hub, will coordinate research in Pacific Northwest coastal communities between numerous academic and government organizations to inform and enable integrated hazard assessment, mitigation, and adaptation. <a href="http://now.humboldt.edu/news/hsu-joins-oregon-state-university-of-washington-to-launch-a-research-hub-fo/">Read more about this important development</a>.
+        </mj-text>
+        <mj-text color="#fff">
+          Elsewhere, HSU’s Northern California Small Business Development Center (NorCal SBDC) has partnered with UCDavis to open a tech center that will support business owners and innovators in bringing new ideas, inventions, products, and services to market. <a href="http://now.humboldt.edu/news/hsu-partners-with-uc-davis-to-launch-tech-center-for-small-business-innovat/">Learn about the Tech Center</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          <h2>Wildlife Grad Student Honored with CSU Trustees’ Award</h2>
+          Throughout her childhood, Janelle Chojnacki turned to education as a steadying force to cope with adversity. Today, she is a graduate student in the Wildlife department at HSU, learning the necessary skills to follow her dream of starting a nonprofit organization for wildlife research.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/wildlife-grad-student-honored-with-csu-trustees-award/">
+          Meet Janelle
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="2021-09-13_Award_LARGE.jpg" alt="Janelle Chojnacki" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>New Certificate Promotes Healthy Housing</h2>
+          To foster mutual understanding and improve the local housing climate, a free community course facilitated by HSU is now open to the public for enrollment. The product of years of work involving HSU and community partners, the course is designed to build relationships between the University, community, landlords, and tenants.
+        </mj-text>
+        <mj-button href="http://now.humboldt.edu/news/living-in-community-new-learning-certificate-promotes-healthy-housing/">
+          Learn more about the housing program
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>HSU Ranks Again</h2>
+        HSU has again been nationally recognized for our outstanding programs and commitment to sustainability.
+        </mj-text>
+        <mj-text>
+          HSU is ranked as the 12th top public school in the west, and tied for 30th out of 126 public and private schools in the region, according to the 2022 Best Colleges annual ranking by U.S. News & World Report. The group also noted <a href="http://now.humboldt.edu/news/us-news-world-report-hsu-among-top-public-schools-in-the-west1/" class="dark">HSU’s support for veterans and student’s social mobility</a>.
+        </mj-text>
+        <mj-text>
+          HSU was also recently named one of the 127 best colleges in the West, <a href="http://now.humboldt.edu/news/humboldt-state-university-named-to-the-princeton-reviews-best-in-the-west-l/" class="dark">according to the Princeton Review</a>. Students described HSU as “unique and conscientious,” with a “tight community,” “relaxed campus vibe,” and “chill environment.” HSU is “all about equality in diversity,” and students at Humboldt learn “to live with people of all different lifestyles in a socially responsible way.”
+        </mj-text>
+        <mj-text>
+          And, for the fourth year in a row, we’ve been named a “<a href="http://now.humboldt.edu/news/hsu-named-a-green-cool-school-again/" class="dark">Cool School</a>” by the Sierra Club magazine’s annual ranking of sustainability among North America’s greenest colleges and universities.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-text>
+      <!-- used to have social stuff her-->
+      </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
