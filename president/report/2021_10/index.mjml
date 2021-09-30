@@ -46,7 +46,7 @@
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="51441512953_f4de914149_c.jpg" alt="Student Activity Center Movie Night" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/51441512953_f4de914149_c.jpg" alt="Student Activity Center Movie Night" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
@@ -74,17 +74,17 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          We are well into the Fall semester, and I want to take a moment to thank everyone for doing their part to keep us safe. Through our shared commitment and attention, we’re off to a successful start.
+          We are well into the Fall semester, and now is a good time to take a moment to thank everyone for doing their part to keep us safe. Through our shared commitment and attention, we’re off to a very successful start.
         </mj-text>
         <mj-text>
-          The health and safety of our campus community is only one hallmark of a positive educational experience. HSU is committed to the whole student experience, including academics, student life, intercollegiate athletics, and campus recreation.
+          The health and safety of our campus and community is only one hallmark of a positive educational experience. HSU is committed to the whole student experience, including academics, student life, intercollegiate athletics, and campus recreation.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
         <mj-text>
-          I’m particularly excited to invite Lumberjacks to the reimagined <a href="http://now.humboldt.edu/news/kick-back-grab-a-bite-and-play-a-game-at-the-new-student-activities-center/" class="dark">Student Activities Center</a>. At the heart of campus, the lively Student Activities Center is located in the building surrounding the Quad. The center hosts lounge spaces, movies, student services, video games, pool tables, ping pong, and more. It’s also the home of the new Bigfoot Burgers restaurant, Kinetic Koffee, Obento, Wildflower Cafe, and Hey Juan Burritos.When it’s safe, the Center will host concerts, tournaments, and other activities.
+          I’m particularly excited to invite Lumberjacks to the reimagined <a href="http://now.humboldt.edu/news/kick-back-grab-a-bite-and-play-a-game-at-the-new-student-activities-center/" class="dark">Student Activities Center</a>. At the heart of campus, the lively Student Activities Center is located in the building surrounding the Quad. The center hosts lounge spaces, movies, student services, video games, pool tables, ping pong, and more. It’s also the home of the new Bigfoot Burgers restaurant, Kinetic Koffee, Obento, Wildflower Cafe, and Hey Juan Burritos.When it’s safe, the Center will host concerts, tournaments, and other activities. These changes are a result of feedback from throughout campus and the student body.
         </mj-text>
         <mj-text>
           Please join us tonight Monday, Oct. 4 at 8 p.m. for the Student Activities Center’s grand opening. The celebration will feature DJs, yard games, barbecue and food trucks, a ribbon-cutting ceremony, and a performance by the live band Object Heavy.
@@ -97,17 +97,17 @@
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
 				 <mj-text>
-            Student-athletes are returning to intercollegiate competition, and our men’s Soccer team is <a href="https://hsujacks.com/news/2021/9/28/mens-soccer-mens-soccer-stays-at-no-13-in-this-weeks-national-poll.aspx" class="dark">nationally ranked at No. 13</a>. Students are enjoying being back at play, and crowds have been enjoying watching the games again.
+            Student-athletes  have returned to intercollegiate competition, and our men’s Soccer team is <a href="https://hsujacks.com/news/2021/9/28/mens-soccer-mens-soccer-stays-at-no-13-in-this-weeks-national-poll.aspx" class="dark">nationally ranked at No. 13</a>. Students are enjoying being back at play, and crowds have been enjoying watching the games again.
         </mj-text>
         <mj-text>
-          Next month we will break ground on the Food Sovereignty Lab. When completed, it will offer students an opportunity to explore healthy, traditional Indigenous food systems.. The Lab will operate as a commercial kitchen, with a plant drying station and salmon pit for working with and preparing food, baskets, and regalia. It will serve as a study and research space, and will host University and community events. When complete, HSU will become the first university in California with a space dedicated to uplifting tribal sovereignty through the research, practice, and preservation of food sovereignty.
+          This week we will break ground on the Food Sovereignty Lab. When completed, it will offer students an opportunity to explore healthy, traditional Indigenous food systems.. The Lab will operate as a commercial kitchen, with a plant drying station and salmon pit for working with and preparing food, baskets, and regalia. It will serve as a study and research space, and will host University and community events. When complete, HSU will become the first university in California with a space dedicated to uplifting tribal sovereignty through the research, practice, and preservation of food sovereignty.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section  css-class="light-wrap" padding-top="0">
       <mj-column>
         <mj-text>
-          Finally, we continue to make amazing progress with our polytechnic planning, thanks to the work of hundreds of individuals. We recently submitted our Final Draft of the Polytechnic Prospectus to the CSU Chancellor’s Office. We will be presenting this information for HSU to the CSU Board of Trustees in November, as we continue to take advantage of this historic opportunity.
+          Finally, we continue to make amazing progress with our polytechnic planning, thanks to the work of hundreds of individuals throughout campus and the community. We recently submitted our Final Draft of the <a href="https://www.humboldt.edu/sites/default/files/hsupolytechnicselfstudy.pdf" class="dark">Polytechnic Prospectus</a> to the CSU Chancellor’s Office. We will be presenting this information for HSU to the CSU Board of Trustees later this year, as we continue to take advantage of this historic opportunity.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -122,13 +122,13 @@
         </mj-button>
 			</mj-column>
       <mj-column>
-        <mj-image src="dine090121_0196.jpg" alt="Fries at Bigfoot Burgers" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/dine090121_0196.jpg" alt="Fries at Bigfoot Burgers" />
       </mj-column>
 			</mj-section>
 
     <mj-section css-class="light-wrap">
       <mj-column>
-      <mj-image src="2021-0921-CIRM_LARGE.jpg" alt="Professory Amy Sprowles and students" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/2021-0921-CIRM_LARGE.jpg" alt="Professory Amy Sprowles and students" />
         <mj-text>
           <h2>Stem Cell Research Program Secures $3.6 Million for Student Internships</h2>
          Our distinguished CIRM Bridges Program has once again been awarded with generous grant funding from the California Institute for Regenerative Medicine (CIRM). Led by Biology Professor Amy Sprowles, HSU’s CIRM Bridges is designed to support students from diverse backgrounds committed to improving human health through stem cell research and gene therapy.
@@ -144,7 +144,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-      <mj-image src="09-16-2021-HUB_LARGE.jpg" alt="" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/09-16-2021-HUB_LARGE.jpg" alt="" />
         <mj-text color="#fff">
           <h2>
             New Research and Business Development Centers
@@ -167,7 +167,7 @@
         </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="2021-09-13_Award_LARGE.jpg" alt="Janelle Chojnacki" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/2021-09-13_Award_LARGE.jpg" alt="Janelle Chojnacki" />
       </mj-column>
     </mj-section>
     <mj-section css-class="dark-wrap">
