@@ -25,7 +25,7 @@
     <mj-section padding-bottom="0">
       <mj-column>
       <mj-image src="https://mailings.humboldt.edu/general/2021_09_30_homecoming/date.png" alt="October 4-9, 2021" width="430px" padding-top="0"/>
- 	<mj-text>Hello Campus Community,</mj-text>
+ 
         <mj-text>
           The Humboldt State community is invited to HSU’s <a href="https://homecoming.humboldt.edu"><strong>Homecoming Week, October 4 – 9!</strong></a> This is an opportunity for faculty, staff, and students to come together and celebrate all that it means to be a Lumberjack! There will be free virtual and in-person events, with COVID-19 precautions in place to ensure the health and wellbeing of our campus community.
         </mj-text>
