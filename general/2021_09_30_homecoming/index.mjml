@@ -19,15 +19,15 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="HCsocial 2.png" alt="Homecoming 2021 Humboldt State University" padding-bottom="0"/>
+        <mj-image src="https://mailings.humboldt.edu/general/2021_09_30_homecoming/HCsocial 2.png" alt="Homecoming 2021 Humboldt State University" padding-bottom="0"/>
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0">
       <mj-column>
-      <mj-image src="date.png" alt="October 4-9, 2021" width="430px" padding-top="0"/>
+      <mj-image src="https://mailings.humboldt.edu/general/2021_09_30_homecoming/date.png" alt="October 4-9, 2021" width="430px" padding-top="0"/>
  	<mj-text>Hello Campus Community,</mj-text>
         <mj-text>
-          The Humboldt State community is invited to HSU’s <a href="https://homecoming.humboldt.edu">Homecoming Week, October 4 – 9!</a> This is an opportunity for faculty, staff, and students to come together and celebrate all that it means to be a Lumberjack! There will be free virtual and in-person events, with COVID-19 precautions in place to ensure the health and wellbeing of our campus community.
+          The Humboldt State community is invited to HSU’s <a href="https://homecoming.humboldt.edu"><strong>Homecoming Week, October 4 – 9!</strong></a> This is an opportunity for faculty, staff, and students to come together and celebrate all that it means to be a Lumberjack! There will be free virtual and in-person events, with COVID-19 precautions in place to ensure the health and wellbeing of our campus community.
         </mj-text>
 				<mj-text>
 				To kick off the week, stop by the Student Activities Center (SAC) Quad for the <strong>Homecoming Pep Rally on Monday, October 4 from 11 a.m. – 2 p.m.</strong> Show your HSU spirit and enjoy the yard games, giveaways, free food, and a DJ!
@@ -44,7 +44,7 @@
     <mj-section>
       <mj-column>
         <mj-button background-color="#25551b" href="https://i.imgur.com/7w0pXSN.jpg">
-          Homecoming flier!
+					Download the Homecoming Flyer
         </mj-button>
       </mj-column>
     </mj-section>
