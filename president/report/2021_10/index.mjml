@@ -128,7 +128,7 @@
 
     <mj-section css-class="light-wrap">
       <mj-column>
-      <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/2021-0921-CIRM_LARGE.jpg" alt="Professory Amy Sprowles and students" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/bios041417_061.jpg" alt="Professory Amy Sprowles and students" />
         <mj-text>
           <h2>Stem Cell Research Program Secures $3.6 Million for Student Internships</h2>
          Our distinguished CIRM Bridges Program has once again been awarded with generous grant funding from the California Institute for Regenerative Medicine (CIRM). Led by Biology Professor Amy Sprowles, HSU’s CIRM Bridges is designed to support students from diverse backgrounds committed to improving human health through stem cell research and gene therapy.
@@ -184,6 +184,7 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
+				<mj-image src="https://mailings.humboldt.edu/president/report/2021_10/hous081418_0086.jpg" alt="" />
         <mj-text>
           <h2>HSU Ranks Again</h2>
         HSU has again been nationally recognized for our outstanding programs and commitment to sustainability.
