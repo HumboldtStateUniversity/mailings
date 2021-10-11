@@ -1,0 +1,78 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-button background-color="#5C8021" font-size="16px" padding="40px 0" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px 0px 0px 5px" />
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding="0">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/review/2021/hero.jpg" alt="Resiliency & New Momentum, Presidetn's Year in Review" padding="0 0 16px 0" />
+        <mj-text>
+          HSU Community and Friends,
+        </mj-text>
+        <mj-text>
+          We’ve appreciated the opportunity to re-connect and to welcome new students and colleagues this semester.
+        </mj-text>
+        <mj-text>
+					This is also a good time to look back at the previous year. There were many achievements to celebrate, including our hard work on realizing our polytechnic vision, and our shared effort to respond to the challenges of the pandemic. You’re invited to find out more, and to learn about some priorities for the upcoming year, in the <a href="https://president.humboldt.edu/year-in-review-2020-21" class="dark">President’s Year in Review</a>.
+        </mj-text>
+        <mj-text>
+Even as we face challenges and the unexpected, the campus community maintains a deep commitment to students. Our continued focus is providing them a positive, meaningful educational experience.
+        </mj-text>
+
+        <mj-button href="https://president.humboldt.edu/year-in-review-2020-21">
+         Read the President’s Year in Review
+        </mj-button>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
