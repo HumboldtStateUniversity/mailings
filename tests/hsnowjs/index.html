@@ -1,0 +1,27 @@
+<html>
+
+<head><title>HS NOW Email - JS Test</title>
+
+
+  </head>
+<body style="background-color: #fff; margin: 0; padding: 0;">
+<div class="ach-links">
+    <p><a href="#">JavaScript Setting Style Demo!</a></p>
+    <p><a href="#">JavaScript Setting Style Demo!</a></p>
+</div>
+  <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
+  <script>
+    // get all the anchor tags
+      let links = document.querySelectorAll('.ach-links a');
+      /* slice the html collection into an array so we can manipulate it.
+      Turns out we don't need to since the (for of) seems to handle them just fine */
+      // let links = Array.prototype.slice.call( getLinks );
+
+      console.log(links);
+      for (const link of links){
+        link.style.color = '#444';
+      }
+  </script>
+</body>
+
+</html>
