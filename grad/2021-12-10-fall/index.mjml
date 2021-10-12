@@ -51,7 +51,6 @@
     </mj-section>
     <mj-section background-color="#25551b" padding="0" border-top="solid 2px #8C7637">
       <mj-column>
-        // // style="color: #fff; font: normal 38px Georgia, serif; margin: 0; padding: 7px 0 13px 5px; line-height: 45px; font-variant: small-caps;"
         <mj-text color="#fff" font-family="Gergia, serif" font-size="34px" line-height="1.2">
           Fall Commencement 2021
         </mj-text>
