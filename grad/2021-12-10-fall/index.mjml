@@ -107,8 +107,14 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
       <mj-column>
-        <mj-text>
+        <mj-text padding-bottom="30px">
           More information will be sent to graduating students soon, and we can’t wait to help celebrate all their accomplishments!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+	<mj-section>
+      <mj-column>
+        <mj-text>
         </mj-text>
       </mj-column>
     </mj-section>
