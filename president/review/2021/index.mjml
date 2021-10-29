@@ -47,7 +47,7 @@
     <mj-section css-class="light-wrap" padding="0">
 
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/review/2021/hero.jpg" alt="Resiliency & New Momentum, Presidetn's Year in Review" padding="0 0 16px 0" />
+        <mj-image src="https://mailings.humboldt.edu/president/review/2021/hero.jpg" alt="Resiliency & New Momentum, 2020-2021 Year in Review" padding="0 0 16px 0" />
         <mj-text>
           HSU Community and Friends,
         </mj-text>
@@ -55,14 +55,14 @@
           We’ve appreciated the opportunity to re-connect and to welcome new students and colleagues this semester.
         </mj-text>
         <mj-text>
-					This is also a good time to look back at the previous year. There were many achievements to celebrate, including our hard work on realizing our polytechnic vision, and our shared effort to respond to the challenges of the pandemic. You’re invited to find out more, and to learn about some priorities for the upcoming year, in the <a href="https://president.humboldt.edu/year-in-review-2020-21" class="dark">President’s Year in Review</a>.
+					This is also a good time to look back at the previous year. There were many achievements to celebrate, including our progress toward  realizing our polytechnic vision, and our shared effort to respond to the challenges of the pandemic. You’re invited to find out more in the <a href="https://president.humboldt.edu/year-in-review-2020-21" class="dark">President’s Year in Review</a>.
         </mj-text>
         <mj-text>
-Even as we face challenges and the unexpected, the campus community maintains a deep commitment to students. Our continued focus is providing them a positive, meaningful educational experience.
+Thank you for your resilience over the last year and your deep commitment to providing a positive, meaningful educational experience for all our students.
         </mj-text>
 
         <mj-button href="https://president.humboldt.edu/year-in-review-2020-21">
-         Read the President’s Year in Review
+         President’s Year in Review
         </mj-button>
         
       </mj-column>
