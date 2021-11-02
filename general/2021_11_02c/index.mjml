@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">November 2, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+            Health Update Regarding Registrar Clint Rebik
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+ 	<mj-text>Dear Friends,</mj-text>
+        <mj-text>
+        With a heavy heart, I write to share an important health update regarding Clint Rebik. Clint is our friend, classmate, colleague, father, son, brother, and one of the most spirited, gifted, and beautiful souls I've ever had the pleasure of working with.
+        </mj-text>
+				<mj-text>
+				Below, you will find a note from Sheila Rocker-Heppe, one of Clint’s dearest friends. Sheila’s note was sent to a small group of friends who have been providing support to Clint during his recent battle with esophageal cancer. Some in our campus community have heard this news, and many have not. Clint’s wishes have been to navigate his health journey with little fanfare. Considering that Clint loves to bring joy to so many of our hearts, he requested that his close group of supporters keep this information quiet and confidential until he was ready to share the news with the larger campus community. Honoring Clint's wishes has been an important part of supporting him on his journey to battle cancer.
+				</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
+       With the recent update in his health status described below, Clint and his family have agreed to allow a broader group to become aware. Below, Sheila provides information regarding how to best provide support for Clint, his boys, his mother, and his partner. Each message sent from the HSU family will be read with Clint and will have just as much positive impact on the family as it will him.
+				</mj-text>
+        <mj-text>Thank you for your caring and support for Clint and his family, and our entire team in Enrollment Management, as we navigate this journey together.
+				</mj-text>
+        <mj-text padding-bottom="0">
+          Dr. Jason L. Meriwether <br>
+Vice President of Enrollment Management <br>
+Humboldt State University
+        </mj-text>
+
+        <mj-text padding-bottom="0" padding-top="30px">
+         <em>[From Sheila Rocker-Heppe]</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
+          Today Clint entered hospice care. He is at home and remaining comfortable.
+His mother, sister, and partner asked me to let folks know that Clint's treatments have stopped and all efforts now are focused on his comfort.
+        </mj-text>
+        <mj-text padding-bottom="0">
+        Clint was diagnosed with esophageal cancer this summer. By the time it was fully discovered and understood, the cancer had spread to other parts of his body. He has endured very aggressive radiation and chemotherapy treatments and now his doctors have determined it is best to stop.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+          <mj-text>
+						Clint has so many friends and family he loves deeply. I know this message is heartbreaking. At Clint's request, please refrain from making posts to social media.
+					</mj-text>
+         <mj-text>
+            Clint is not able to have visitors and he does not receive email, calls or text messages. <strong>If you would like to contact Clint, you are kindly asked to send your message in an old fashion card or letter: 1530 Erin Court, Eureka, CA 95503 </strong>
+         </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text>
+          Clint's Support Crew list continues to grow. <a href="https://forms.gle/ygxn7529opGDLqjn9">If you know someone who would like to join the group, please use this form</a>.
+        </mj-text>
+        <mj-text>
+          As new information becomes available, this Contact List/Support Crew group will be looped in so all the love, light and prayers can continue to surround Clint.
+        </mj-text>
+        <mj-text>
+          Thank you for loving Clint.
+<br><br>
+          Sheila
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
