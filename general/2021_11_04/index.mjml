@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">November 4, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+            Passing of HSU Registrar Clint Rebik
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+ 	<mj-text>Dear Friends,</mj-text>
+        <mj-text>
+        Today, Humboldt State University has lost an icon. With deep sadness and a broken heart, we must share the news of Clint Rebik's passing. Peggy Metzger and Sheila Rocker-Heppe, Clint's dearest and most beloved friends, have provided an update below to Clint's support team regarding this devastating loss. With their permission, this note is enclosed below.
+        </mj-text>
+				<mj-text>
+				There are many words to describe how positively Clint was able to impact everyone in his presence. Clint brought grace, humor, class, kindness, intelligence, wit, and charm to any occasion. Among Clint's many gifts were the ability to draw upon the best parts of himself when one of us was at a moment of frustration, anxiety, or concern. Even more, if our day was as good as we thought it could possibly be, Clint found a way to elevate our spirits with his infectious smile and optimistic perspective. In these moments, the thespian in Clint was only surpassed by the authenticity and genuineness of Clint's delightful spirit and beautiful soul.
+				</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text>
+       As our entire campus community mourns, I encourage us to give a bit of what Clint gave to us back to our campus. I encourage us to think of his family and to send them all the love, energy, and positive thoughts that we can muster in this moment of shock and grief.
+				</mj-text>
+        <mj-text>
+        As we navigate the news of losing Clint, please remember that connecting to the people that we love and trust around our grief will likely help us to cope with the pain of this loss. HSU's Counseling & Psychological Services (CAPS) website has some <a href="https://counseling.humboldt.edu/death-loss-grief">useful resources related to grief</a>. It can be helpful to talk with a professional therapist if your grief becomes overwhelming, interferes with your daily functioning, or is unexpectedly prolonged. HSU employees can access the <a href="https://hraps.humboldt.edu/employee-assistance-program">Employee Assistance Program</a> at no expense for up to eight counseling sessions. <a href="https://ncamhp.org/">Our local therapists are also a good resource</a>. As always, HSU students can access CAPS for assistance at <a href="mailto:hsucaps@humboldt.edu">hsucaps@humboldt.edu</a> or (707) 826-3236.
+				</mj-text>
+        <mj-text>
+          Please see the letter from Peggy and Sheila below. They will share more news on behalf of Clint's family regarding the celebration of Clint's life.
+        </mj-text>
+        <mj-text padding-bottom="0">
+        Sincerely Yours,<br>
+          Dr. Jason L. Meriwether <br>
+Vice President of Enrollment Management
+        </mj-text>
+
+        <mj-text padding-bottom="25px" padding-top="30px">
+         <em>[From Peggy Metzger and Sheila Rocker-Heppe]</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+ <mj-text padding-bottom="0">
+          Dear Friends,
+        </mj-text>
+        <mj-text padding-bottom="0">
+        Clint passed peacefully this afternoon after morning visits from family and his beloved sons, Matt and Alex.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="30px" padding-top="0">
+      <mj-column width="50%">
+          <mj-text>
+						His partner was by his side. Thank you for all of the prayers and positive messages shared these past few days and weeks. Mostly, thank you for loving Clint.
+					</mj-text>
+         <mj-text>
+            We will send an update later as plans are made for a celebration of Clint's extraordinary life.
+         </mj-text>
+         <mj-text>
+          With much love and appreciation,
+        </mj-text>
+        <mj-text>
+          Peggy and Sheila
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://mailings.humboldt.edu/general/2021_11_04/Clint-at-the-Beach.jpg" alt="Clint at the Beach" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
