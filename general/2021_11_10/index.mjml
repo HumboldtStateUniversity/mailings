@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text  font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+		<mj-style inline="inline">
+      a {
+        color: #25551b;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+            A Message from Humboldt State University
+          </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">November 10, 2021</p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+					President Jackson Presents Polytechnic Vision to CSU Board of Trustees
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+ 	<mj-text>Dear Campus Community,</mj-text>
+        <mj-text>
+        On Tuesday, Nov. 9, President Jackson presented Humboldt State University's vision to become a polytechnic to the California State University Board of Trustees. Tuesday's presentation was a formal part of the University's proposal to change HSU's name to California State Polytechnic University, Humboldt.
+        </mj-text>
+				<mj-text>
+				President Jackson provided the Trustees with a broad overview of Humboldt State, from the University’s emphasis of hands-on learning and strong STEM programs to its strength in the liberal arts and humanities—qualities that position the University to become the third polytechnic institution in the CSU and the first in Northern California. President Jackson and Provost Jenn Capps also emphasized the economic and social impact of such a designation for the North Coast.
+				</mj-text>
+     
+ 	      <mj-text>
+     In response to the Trustees' questions, Provost Capps detailed the intentional efforts the University has taken to engage with the campus and local communities, in particular with local Native Tribes, who continue to be an invaluable partner in articulating our future as a polytechnic. Provost Capps also explained recruitment and enrollment strategies, in addition to the University’s commitment to access for students who live in remote areas. [<a href="https://www.youtube.com/watch?v=XpjUw4Sc4T0&t=5s">Watch the video of the presentation</a>.]
+				</mj-text>
+        <mj-text>
+        We’re also happy to announce that the Trustees approved the University’s proposal to rename Science D Building to Alistair McCrone Hall to honor the continuing legacy of President Alistair McCrone, the University’s fifth president. 
+        </mj-text>
+        <mj-text>
+        The Trustees are scheduled to vote on the renaming of the University at the next board meeting on January 24-26, 2022. In the meantime, polytechnic implementation team working groups have begun carrying out plans outlined in the <a href="https://www.humboldt.edu/sites/default/files/hsupolytechnicprospectus.pdf">polytechnic prospectus</a>. The University will also continue to solicit feedback and provide updates on the transition.
+        </mj-text>
+        <mj-text>
+We want to express our sincerest gratitude to students, staff, faculty, and members of the local community. Everyone's input and ideas are instrumental in helping us shape our future and prepare for a new chapter in Humboldt history. To quote President Jackson, "This is our moment."
+</mj-text>
+        <mj-text>
+         Please continue checking your email and the <a href="https://www.humboldt.edu/polytechnic">Polytechnic website</a> for updates. If you have any questions or feedback, please email <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a> or call <a href="tel:7078263300">(707) 826-3300</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20" padding-top="0">
+      <mj-column>
+         <mj-text>
+        Sincerely,
+        </mj-text> 
+ <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature"  width="145px" align="left"/>
+        
+        <mj-text>
+						Jenn Capps<br>
+          Provost and Vice President for Academic Affairs<br><br>
+					</mj-text>
+
+          <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
+         <mj-text>
+            Sherie Cornish Gordon<br>
+          Chief of Staff
+         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#25551b" >
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+					Humboldt State University</br>
+					1 Harpst Street</br>
+					Arcata, Ca 95521
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
