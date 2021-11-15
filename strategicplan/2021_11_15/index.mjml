@@ -1,0 +1,99 @@
+  <mjml>
+    <mj-head>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F2F4EF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#8D9495">
+      <mj-section>
+        <mj-column>
+
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/strategicplan/template2020/sp-logo-mark-years.png" alt="HSU-Future Forward - Strategic Plan 2021-2026" href="https://strategicplan.humboldt.edu" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            <h2>Strategic Planning Phase 3: Working Toward University Goals</h2>
+          </mj-text>
+          <mj-text>Dear Campus Community,
+          </mj-text>
+          <mj-text>We are writing to provide a strategic planning update and to express our gratitude to everyone engaging with this process. Together we are making terrific progress and there is much to celebrate. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          </mj-text>
+          <mj-text>
+            As you know, the University is implementing a phased approach to planning that provides a unifying foundation and embeds plans in the work we are doing at the division levels and beyond. Phase 1 was completed last year and resulted in our collective statement of purpose, values, vision, and strategic goals. Phase 2 was completed last month with each division articulating priorities and desired outcomes mapping back to Phase 1 goals and the Pillars of Inclusive Excellence. You can review the plans for each division at <a href="https://strategicplan.humboldt.edu">strategicplan.humboldt.edu</a>. <em>Please note, the Phase 2 plans are considered "living documents" that will be improved and honed as we learn from Phase 3 and from our assessments</em>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            We are now in Phase 3 and our college deans and the directors of other units are working collaboratively within their areas to identify key initiatives and create objectives (including assessable measures) that contribute to the achievement of desired outcomes at the division level and ultimately our goals as a university. This work will continue this fall with drafts complete early in 2022.
+          </mj-text>
+          <mj-text>
+            Much of our progress has been facilitated by the leadership of the divisions and the diligence of the members of the Integrated Assessment & Planning Working Group (IAPW). Representatives from across campus serve as liaisons and supporters of integrated assessment and planning within their divisions. These colleagues receive technical support, are helping to develop our planning and assessment capacity, and will assist with the policies and procedures to guide this work into the future. They are also keen to make sure we collectively highlight and celebrate our accomplishments. Look for information on our showcase next spring.
+          </mj-text>
+          <mj-text>
+            Thank you to our leadership and our IAPW members for your commitment to continuous improvement and ultimately to doing the very best by our students. Thank you to everyone who is contributing to planning and assessment at Humboldt State.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Thank you for your continuing support of the strategic planning process and the University's bold vision for the future.
+          </mj-text>
+          <mj-text padding-bottom="40px">
+            Sincerely,<br><br>
+
+            Dr. Lisa Bond-Maupin<br>
+            Deputy Chief of Staff and Special Assistant to the President<br><br>
+
+            Dr. Amy Moffat <br>
+            Associate Director of Institutional Assessment
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
