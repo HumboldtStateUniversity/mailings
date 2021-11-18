@@ -48,14 +48,14 @@
   <mj-body background-color="#8D9495">
     <mj-section>
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" />
       </mj-column>
     </mj-section>
 
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/51441512953_f4de914149_c.jpg" alt="Student Activity Center Movie Night" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2021_11/land101608_121.jpg" alt="Fern in the redwoods" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
