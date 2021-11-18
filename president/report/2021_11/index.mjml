@@ -1,0 +1,350 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h1 {
+        line-height: 28px;
+        margin: 0 auto;
+      }
+
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+        text-decoration: underline;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      .section-heading {
+        border-bottom: solid 1px #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/hsu-mark.png" alt="Humboldt State University" width="425px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2021_10/51441512953_f4de914149_c.jpg" alt="Student Activity Center Movie Night" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          November<br>2021
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres082020_0081.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          On November 9, Provost Jenn Capps and I made the case for HSU to become a polytechnic to the CSU Board of Trustees, who will make their final decision in January 2022. During that presentation, we were able to share the exciting, world-class accomplishments of our community, and to show how much more can be accomplished should we become a polytechnic. We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance & Reporting; Curriculum and Academic Programs; Communications; Enrollment and Growth Management; Facilities; Technology and Infrastructure; and Inclusive Student Success.
+        </mj-text>
+        <mj-text>
+          On October 26 and 27, staff representing state legislators, staff from the Governor's Office, and Chancellor's Office representatives participated in a two-day, virtual visit at HSU.
+        </mj-text>
+        <mj-text>
+          The purpose of the visit was to become more familiar with HSU in general and more specifically, with our plans to become a polytechnic university. HSU administrators, faculty, staff, and students shared information through presentations on enrollment, budgeting, academic programming, basic needs, infrastructure, and inclusive student success.
+        </mj-text>
+        <mj-text>
+          Read more about these <a href="https://www.humboldt.edu/polytechnic" class="dark">groups and their members</a> on the Polytechnic website.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          HSU will continue to incorporate Traditional Ecological Knowledge (TEK) into our programs, and will focus on the pressing issues facing California and the North Coast, building on our efforts in the realms of renewable energy and climate change, wildfire science, and contemporary learning.
+        </mj-text>
+        <mj-text>
+          I have continued to meet with regional Native Tribes in an effort to strengthen our partnerships. Provost Capps and I had a site visit and gave a presentation on polytechnic planning at the Tolowa Dee-Ni' Nation Tribal Council Meeting last month, and met with the Tribe's senior staff to discuss education needs and economic development plans of the Tribes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          Our hope is to visit all 13 regional Tribes this academic year, so we can learn how we support Tribal members, bring HSU's services to them, and ensure access to education.
+        </mj-text>
+        <mj-text>
+          Thank you again to the campus community for persevering through this semester. I hope everyone has an opportunity to rest during Fall Break, catch up with friends and family, and reflect on your accomplishments.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Academics</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="2021-1022-tree_LARGE.jpg" alt="HSU students Anisa Benamira-Dod, Katie Miller, and Samantha Mariscal " />
+        <mj-text color="#fff">
+          <h2>Telling the Story Behind 'Sugar Bear' and Six Rivers National Forest</h2>
+          An 84-foot white fir harvested from Six Rivers National Forest will light up the U.S. Capitol this holiday season after making the cross-country trek from Northern California to Washington D.C. In preparation, Humboldt State University students have helped create interpretative and educational materials to accompany the tree on its journey east.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGU">
+          Learn more about the students involved
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-image src="2021-1029-RR2_LARGE.jpg" alt="Redwood Rising HSU student apprentices" />
+        <mj-text>
+          <h2>Students are Helping Redwood Forests Rise Again</h2>
+          HSU and the College of the Redwoods students are working with Save the Redwoods League, the National Park Service, and California State Parks to restore the ecological diversity of the world's tallest forests while gaining practical research experience.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGw">
+          Watch a video about Redwoods Rising
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Applications Sought for 36th Annual CSU Student Research Competition
+          </h2>
+          The Humboldt State Office of Research and Sponsored Programs is encouraging students to participate in the 2022 CSU Student Research Competition.<br><br>
+          Students must submit a written summary of their research or creative presentations through InfoReady (link below) to the Office of Research by Monday, January 31, 2022. If selected, students will compete at San Francisco State University on April 29 or 30, 2022. Sponsored Programs will pay approved travel costs for each student selected to represent HSU in the statewide competition.<br><br>
+          HSU hopes to advance 10 students to the statewide competition, and is looking for competitive applications. If chosen, students will be able to represent HSU and compete for cash prizes.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGi">
+          Learn more and apply
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+      <mj-column>
+        <mj-text>
+          <h2>Restoring Kelp in the Face of Climate Change</h2>
+          Researchers at UC Davis' Coastal and Marine Sciences Institute, in collaboration with Humboldt State University and UC Santa Cruz, will research how ecological restoration of kelp forests might incorporate future impacts of climate change.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZG5">
+          Learn more about kelp forest research
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="2021-1015_Kelp_LARGE.jpg" alt="Photo of Kelp" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Diversity, Equity & Inclusion</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="2021-1105-VBOC_LARGE.jpg" alt="Photo of Noah Harris" />
+        <mj-text color="#fff">
+          <h2>HSU Backs Veteran Entrepreneurs Across California through New Outreach Center</h2>
+          Veteran small business owners and aspiring entrepreneurs across California can access free business training and counseling thanks to Humboldt State University's Veterans Business Outreach Center (NorCal VBOC). With a $258,000 award from the U.S. Small Business Administration (SBA), the center will serve veterans in all 50 California counties north of Santa Barbara, Ventura, Los Angeles, and San Bernardino.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGS">
+          Learn more about the VBOC
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-image src="48044664413_349eddb964_c.jpg" alt="Latinx Graducation" />
+        <mj-text>
+          <h2>Humboldt Recognized as Equity Champion</h2>
+          Humboldt State University has been named a 2021 Equity Champion for Higher Education for exemplary work in enrolling Latinx Associate Degree for Transfer earners on a guaranteed pathway to a bachelor's degree.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGf">
+          Learn more about the recognition
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Alumni & Donor Support</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Donors Give $9.4 Million to Support Students and Programs</h2>
+          In a year marked by incredible challenges, the Humboldt State University community rallied together to generously support students with scholarships and new opportunities. Over the course of the year, 3,360 donors gave $9.4 million.<br><br>
+          A few highlights:
+          <ul>
+            <li>674 students supported</li>
+            <li>890 donors gave for the first time</li>
+            <li>1,800 donors were HSU alumni, and they gave more than $3 million</li>
+            <li>The average gift amount tripled from the previous year</li>
+          </ul>
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGT">
+          Learn more about giving
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="33107230831_24a7a5dcb4_c.jpg" alt="Hands on learning in HSU's greenhouse"/>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="2021-08-27-Otter2_LARGE.jpg" alt="Otter sculptures" />
+        <mj-text>
+          <h2>North Coast Otters Art Project Raises $300,000</h2>
+          North Coast Otters Public Arts Initiative, which featured 108 life-sized sculptures of otters painted by local artists, raised more than $300,000 in grants, sponsorships, and generous donations. Final proceeds will support otter research and student internships at Humboldt State University.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGq">
+          Learn more about North Coast Otters
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+    <mj-column>
+      <mj-image src="cdev022218_0210.jpg" alt="" />
+
+    </mj-column>
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>HSU Children's Center Receives $178,000 Department of Education Grant</h2>
+          Humboldt State University's Children Center has received a four-year, $178,365 grant from the U.S. Department of Education to support campus-based childcare services for low-income students. The award can be used to support before and after-school care for school-age children, as well as preschoolers, toddlers, and infants.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGc">
+          Learn more about the Children's Center
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>$30 Million in Grants Support Important Research for Faculty and Students</h2>
+          Humboldt State faculty, staff, and student researchers were awarded $30 million in new grant funding secured by HSU's Sponsored Programs Foundation (SPF) last year. SPF currently manages 630 active projects with a total award value of $113 million.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGp">
+          Learn more about SPF funding
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Community Engagement & Impact</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="2021-1027-TRIO_LARGE.jpg" alt="TRIO participants experiencing the kinetic topography sandbox in HSU's Library" />
+        <mj-text color="#fff">
+          <h2>30 Years of Making College a Reality for Local Youth</h2>
+          For three decades, a program at Humboldt State University has helped thousands of youth from disadvantaged backgrounds on the North Coast make college a reality. Today, the mission of HSU's TRIO Educational Talent Search continues thanks to more than $4 million in funding from two grants recently awarded by the U.S. Department of Education.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGN">
+          Learn more about TRIO Educational Talent Search
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>HSU Housing and IT Work to Stop Rental Scams</h2>
+          Since 2018, Humboldt State Information Technology Services has worked with Housing & Residence Life and other California State University campuses to identify fake rental listings and help students, faculty, staff, and alumni avoid housing scams.
+        </mj-text>
+        <mj-button href="https://hsu.link/ZGx">
+          Learn more about how HSU protects the campus community
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Sustainability</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="27272335523_0a76acef6e_c.jpg" alt="HSU graduate students and a student intern work on the Blue Lake Rancheria Micro-Grid project. This" />
+        <mj-text color="#fff">
+          <h2>Helping Set the Gold Standard for Green Colleges</h2>
+          Once again, Humboldt State University has been <a href="https://hsu.link/ZGG">named a "Green College" by The Princeton Review</a>. The education services company included HSU in their 2022 edition of The Princeton Review Guide to Green Colleges, released this October.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap" border-top="solid 1px #fff">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/HSUPrez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
