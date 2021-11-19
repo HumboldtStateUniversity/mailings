@@ -91,16 +91,15 @@
       <mj-column>
         <mj-text>We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.</mj-text>
         <mj-text>
-          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance  Reporting; Curriculum & Academic Programs; Communications; Enrollment & Growth Management; Facilities; Technology & Infrastructure; and Inclusive Student Success.
+          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance &amp; Reporting; Curriculum &amp; Academic Programs; Communications; Enrollment &amp; Growth Management; Facilities; Technology &amp; Infrastructure; and Inclusive Student Success..
         </mj-text>
         <mj-text>
+          Read more about these <a href="https://www.humboldt.edu/polytechnic" class="dark">groups and their members</a> on the Polytechnic website.
+        </mj-text>
           On October 26 and 27, staff representing state legislators, staff from the Governor's Office, and Chancellor's Office representatives participated in a two-day, virtual visit at HSU.
         </mj-text>
         <mj-text>
           The purpose of the visit was to become more familiar with HSU in general and more specifically, with our plans to become a polytechnic university. HSU administrators, faculty, staff, and students shared information through presentations on enrollment, budgeting, academic programming, basic needs, infrastructure, and inclusive student success.
-        </mj-text>
-        <mj-text>
-          Read more about these <a href="https://www.humboldt.edu/polytechnic" class="dark">groups and their members</a> on the Polytechnic website.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -117,7 +116,7 @@
           Our hope is to visit all 13 regional Tribes so we can learn how we support Tribal members, bring HSU's services to them, and ensure access to education.
         </mj-text>
         <mj-text>
-          Thank you again to the campus community for persevering through this semester. I hope everyone has an opportunity to rest during Fall Break and catch up with friends and family.
+          Thank you again to the campus community for persevering through this semester. I hope everyone has an opportunity to rest during Fall Break and connect with friends and family.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -337,12 +336,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text align="center" color="#fff" font-size="12px">
-          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+
   </mj-body>
 </mjml>
