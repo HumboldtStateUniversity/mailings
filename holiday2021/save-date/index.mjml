@@ -30,7 +30,7 @@
     <!-- Header -->
     <mj-section padding-top="65px" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://mailing.humboldt.edu/holiday2021/save-date/header.png" alt="Happy Holidays, 2021 Holiday Party, Dec. 9 4-6 p.m." padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2021/save-date/header.png" alt="Happy Holidays, 2021 Holiday Party, Dec. 9 4-6 p.m." padding="0" />
       </mj-column>
     </mj-section>
 
@@ -51,7 +51,7 @@
     </mj-section>
     <mj-section padding="0 0 65px 0">
     <mj-column>
-      <mj-image src="https://mailing.humboldt.edu/holiday2021/save-date/footer.png" alt="Humboldt State Univeristy Circle H" padding="0"/>
+      <mj-image src="https://mailings.humboldt.edu/holiday2021/save-date/footer.png" alt="Humboldt State Univeristy Circle H" padding="0"/>
     </mj-column>
     </mj-section>
   </mj-body>
