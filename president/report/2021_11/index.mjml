@@ -83,14 +83,15 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text>
-          On November 9, Provost Jenn Capps  and I made the case for HSU to become a polytechnic to the CSU Board of Trustees, who will make their final decision in January 2022. During that presentation, we were able to share the exciting, world-class accomplishments of our community, and to show how much more can be accomplished should we become a polytechnic. We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.
+          On November 9, Provost Jenn Capps  and I made the case for HSU to become a polytechnic to the CSU Board of Trustees, who will make their final decision in January 2022. During that presentation, we were able to share the exciting, world-class accomplishments of our community, and to show how much more can be accomplished should we become a polytechnic.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
+        <mj-text>We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.</mj-text>
         <mj-text>
-          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance & Reporting; Curriculum and Academic Programs; Communications; Enrollment and Growth Management; Facilities; Technology and Infrastructure; and Inclusive Student Success.
+          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance  Reporting; Curriculum & Academic Programs; Communications; Enrollment & Growth Management; Facilities; Technology & Infrastructure; and Inclusive Student Success.
         </mj-text>
         <mj-text>
           On October 26 and 27, staff representing state legislators, staff from the Governor's Office, and Chancellor's Office representatives participated in a two-day, virtual visit at HSU.
@@ -113,7 +114,7 @@
     <mj-section css-class="light-wrap" padding-top="0">
       <mj-column>
         <mj-text>
-          Our hope is to visit all 13 regional Tribes this academic year, so we can learn how we support Tribal members, bring HSU's services to them, and ensure access to education.
+          Our hope is to visit all 13 regional Tribes so we can learn how we support Tribal members, bring HSU's services to them, and ensure access to education.
         </mj-text>
         <mj-text>
           Thank you again to the campus community for persevering through this semester. I hope everyone has an opportunity to rest during Fall Break and catch up with friends and family.
