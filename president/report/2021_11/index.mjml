@@ -89,13 +89,15 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
-        <mj-text>We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.</mj-text>
+        <mj-text>We also asked the Board to consider changing the University's name to California State Polytechnic University, Humboldt. If approved by the Trustees at the next meeting in January, the name change would be effective immediately. The University would be informally known as Cal Poly Humboldt.
+				</mj-text>
         <mj-text>
-          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance &amp; Reporting; Curriculum &amp; Academic Programs; Communications; Enrollment &amp; Growth Management; Facilities; Technology &amp; Infrastructure; and Inclusive Student Success..
+          Meanwhile, back on campus, the work continues with Polytech Implementation Working Groups formed and meeting to discuss next steps. These groups have wide membership from across campus and throughout the community, and they will work on Budget, Finance &amp; Reporting; Curriculum &amp; Academic Programs; Communications; Enrollment &amp; Growth Management; Facilities; Technology &amp; Infrastructure; and Inclusive Student Success.
         </mj-text>
         <mj-text>
           Read more about these <a href="https://www.humboldt.edu/polytechnic" class="dark">groups and their members</a> on the Polytechnic website.
         </mj-text>
+				<mj-text>
           On October 26 and 27, staff representing state legislators, staff from the Governor's Office, and Chancellor's Office representatives participated in a two-day, virtual visit at HSU.
         </mj-text>
         <mj-text>
