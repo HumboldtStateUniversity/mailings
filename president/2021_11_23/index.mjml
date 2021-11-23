@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title>Congratulations to the 2020-21 HSU All-Academic Team</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+    <mj-style inline="inline">
+      body {
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 20px;
+      }
+      li {
+        padding-bottom: 15px;
+      }
+      a {
+        color: #25551b;
+        text-decoration: underline;
+      }
+      .circleh {
+   background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.png') center center no-repeat;
+      height: 50px;
+      width: 50px;
+      padding: 0px;
+      background-size: contain;
+
+      }
+      .invisible {
+      display:none;
+      height: 50px;
+      }
+    </mj-style>
+     <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="left" font-size="16px" line-height="22px"  color="#444444" padding-top="0" padding-left="0" padding-bottom="15px" padding-right="0"/>
+      <mj-all padding="0" font-family="Lato, Arial, san-serif;" />
+      <mj-section  background-color="#F2F4EF"  padding-left="30px" padding-right="25px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#25551b">
+    <!-- Header -->
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+				<mj-text align="center" font-size="14px" color="#0C4301"  padding-top="25px" padding-bottom="25px">
+          November 23, 2021
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301" >
+          Informal Time Off for Fall Break
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4EF">
+      <mj-column border-top="2px solid #ffc32c">
+    		<mj-text padding-top="25px">
+Dear colleagues:
+        </mj-text>
+        <mj-text>
+I sincerely appreciate each of you for all you've done this Fall semester. As always, you have continued to further HSU’s goal of providing a positive, meaningful educational experience for our students. Also, thank you to everyone who has engaged in the planning of our many University initiatives and in our emergency operations efforts.
+    </mj-text>
+        <mj-text>
+In gratitude, I am authorizing staff to end their work three hours prior to the end of their workday on Wednesday, Nov. 24. To ensure that necessary work is completed, appropriate administrators must approve this paid informal time off.</mj-text>
+        <mj-text>
+        There is no need for employees to record this time off in PeopleSoft, unless they have scheduled vacation on Wednesday. Employees who have scheduled vacation time off on Wednesday should record eight hours of vacation taken in PeopleSoft, and then unofficially take off three hours at a later date. Employees who work their full shift Wednesday will be allowed three hours of informal (not recorded in PeopleSoft) time to be taken prior to June 30, 2022, with the approval of their appropriate administrator.
+
+        </mj-text>
+					</mj-column>
+				</mj-section>
+		<mj-section>
+			<mj-column>
+			<mj-text>Thank you for all of your contributions to our campus. Please have a safe and restful fall break!
+</mj-text>
+			</mj-column>
+		</mj-section>
+
+      <mj-section padding-top="20px" padding-bottom="35px">
+      <mj-column>
+				<mj-text padding-top="0" padding-bottom="20px">
+									With best wishes,
+				</mj-text>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+        <strong>Tom Jackson, Jr., President</strong><br/>Humboldt State University
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <mj-section background-url="https://mailings.humboldt.edu/president/0_img/circleh-footer.png" padding-left="0" padding-right="0">
+      <mj-column >
+       <mj-image width="50px" align="center" src="https://mailings.humboldt.edu/president/0_img/circleh.png" alt="circle h visual footer" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  <mjml>
