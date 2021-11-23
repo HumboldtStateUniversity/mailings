@@ -1,0 +1,84 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-size="14px" color="#444" line-height="20px"/>
+            <mj-all font-family="Arial"/>
+            <mj-section background-color="#fff"/>
+        </mj-attributes>
+        <mj-style inline="inline">
+            a {
+                color: #25551b;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#e1e1e1">
+        <mj-section padding="40px 0 0" background-color="transparent">
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University"
+                          padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section border-bottom="1px solid #25551b">
+            <mj-column>
+                <mj-text>
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+                        A Message from Humboldt State University
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                        November 22, 2021
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+                        Polytechnic Open Forum - Facilities, Budget, and Communications Priorities
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="0">
+            <mj-column>
+                <mj-text>Dear Campus Community,</mj-text>
+                <mj-text>
+                    Last Friday, we held an open forum to discuss the University’s polytechnic implementation plans. The forum provided an overview of the recent California State University Board of Trustees meeting and included presentations from various <a href="https://www.humboldt.edu/polytechnic/implementation-working-groups">Polytechnic Implementation Working Group</a> leaders who shared details and insights on: facilities and the physical campus plan; budget, finance, and reporting—including defined spending categories over the next several years—and communications priorities, which are focused on developing communications, marketing, and branding  strategies.
+                </mj-text>
+                <mj-text>
+                    We want to thank the students, staff, faculty, and community members who joined us. The questions we received were impassioned and thoughtful and we appreciate everyone taking the time to engage in one of what will be several meaningful discussions on Humboldt State University’s future.
+                </mj-text>
+                <mj-text>
+                    <a href="https://humboldtstate.zoom.us/rec/share/oExar9ruzEY8RNczq8LyS9-sZv4vDvHW6h2fvnnfD22AVvLZ0LKR0JBKK3IwbKra.kU-5eXJIzw_Y5Hf0">Watch a recording of the forum</a> and review the <a href="https://www.humboldt.edu/sites/default/files/poly_forum_nov_2021.pdf">slides</a> from the presentation. For updates go to the Polytechnic website and please email <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a> or call <a href="tel:7078263300">(707) 826-3300</a> if you have any questions or feedback.
+                </mj-text>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="20px" padding-top="20">
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature" width="145px" align="left"/>
+
+                <mj-text>
+                    Jenn Capps
+                    <br>
+                    Provost and Vice President for Academic Affairs
+                    <br>
+                    <br>
+                </mj-text>
+
+                <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
+                <mj-text>
+                    Sherie Cornish Gordon
+                    <br>
+                    Chief of Staff
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#25551b">
+            <mj-column>
+                <mj-text color="#ffffff" align="center">
+                    Humboldt State University</br>
+                    1 Harpst Street</br>
+                    Arcata, Ca 95521
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
