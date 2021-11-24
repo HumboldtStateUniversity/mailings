@@ -1,0 +1,64 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-size="14px" color="#444" line-height="20px"/>
+            <mj-all font-family="Arial"/>
+            <mj-section background-color="#fff"/>
+        </mj-attributes>
+        <mj-style inline="inline">
+            a {
+                color: #25551b;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#e1e1e1">
+        <mj-section padding="40px 0 0" background-color="transparent">
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University"
+                          padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section border-bottom="1px solid #25551b">
+            <mj-column>
+                <mj-text>
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+                        A Message from Humboldt State University
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                        November 24, 2021
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+                        Drone Filming on HSU Campus Nov. 26–28
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="20px">
+            <mj-column>
+                <mj-text>
+                    HSU Marketing & Communications will be capturing drone footage on campus Nov. 26–Nov. 28.
+                </mj-text>
+                <mj-text>
+                Filming will begin at approximately 3 p.m. and end around 6 p.m. The footage will be gathered primarily around Founders Hall, but may extend to other areas of campus. An experienced, certified drone pilot and the Office of Risk Management & Safety Services will ensure that the Unmanned Aircraft Systems policy and safety rules are followed.
+                </mj-text>
+                <mj-text>
+                    In addition, pathway lights around Founders Hall and the SAC Quad will be off during that time. Please be cautious when walking in that area or use an alternate route.
+                </mj-text>
+
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section background-color="#25551b">
+            <mj-column>
+                <mj-text color="#ffffff" align="center">
+                    Humboldt State University</br>
+                    1 Harpst Street</br>
+                    Arcata, Ca 95521
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
