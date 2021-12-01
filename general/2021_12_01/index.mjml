@@ -1,0 +1,85 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-size="14px" color="#444" line-height="20px"/>
+            <mj-all font-family="Arial"/>
+            <mj-section background-color="#fff"/>
+        </mj-attributes>
+        <mj-style inline="inline">
+            a {
+                color: #25551b;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#e1e1e1">
+        <mj-section padding="40px 0 0" background-color="transparent">
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University"
+                          padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section border-bottom="1px solid #25551b">
+            <mj-column>
+                <mj-text>
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+                        A Message from Humboldt State University
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                       December 1, 2021
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+                        Phasing Out Email Accounts for Former and Inactive Campus Community Members
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="0">
+            <mj-column>
+                <mj-text>
+                    Humboldt State will begin phasing out inactive university accounts, including email, for former campus community members, including former students, alumni, and former employees. Accounts will start to close 6 months or later after they’re no longer associated with the University.
+                </mj-text>
+                <mj-text padding-bottom="0">
+                There are several reasons to discontinue old accounts:
+                <ul>
+                    <li>The high cost to the University to maintain accounts for people no longer actively affiliated</li>
+                    <li>Reducing confusion regarding people with the same name</li>
+                    <li>Risk to the University of people no longer associated with the campus claiming to represent HSU</li>
+                    <li>Very few of the accounts are regularly used</li>
+                </ul>
+                </mj-text>
+                <mj-text>
+                 Faculty and staff are encouraged to ask graduating students for a personal email address in order to stay in contact, or encourage alumni to update their address to a non-humboldt.edu email in order to stay connected with the university.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-text>
+                Alumni are encouraged to sign up for Forever Humboldt with a personal email address. Forever Humboldt is the association of all Humboldt alumni, students, parents & families, faculty, and staff, intended to showcase pride in our university and encourage everyone to help support its mission. <a href="https://forever.humboldt.edu/">Learn more and sign up here</a>.
+                </mj-text>
+                <mj-text padding-bottom="0">
+                    General best practices:
+                    <ul>
+                    <li>Use your HSU email account for University business only</li>
+                    <li>Maintain a personal account for utility bills, smartphone accounts, online subscriptions, etc.</li>
+                    </ul>
+                </mj-text>
+                <mj-text>
+                    <a href="https://support.google.com/accounts/answer/6386856">How to copy content from your school account to another account</a>. <br><br>
+                    <a href="https://its.humboldt.edu/accounts-passwords/account-deactivation">For more information about Humboldt email accounts, visit the ITS website</a>.
+
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#25551b">
+            <mj-column>
+                <mj-text color="#ffffff" align="center">
+                    Humboldt State University</br>
+                    1 Harpst Street</br>
+                    Arcata, Ca 95521
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
