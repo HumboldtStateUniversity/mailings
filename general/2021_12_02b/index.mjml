@@ -49,7 +49,7 @@
                 </ul>
                 </mj-text>
                 <mj-text>
-                 Faculty and staff are encouraged to ask graduating students for a personal email address in order to stay in contact, or encourage alumni to update their address to a non-humboldt.edu email in order to stay connected with the university.
+                 Faculty and staff are encouraged to ask graduating students for a personal email address in order to stay in contact, or encourage alumni to update their address to a <a href="mailto:non-humboldt.edu">non-humboldt.edu</a> email in order to stay connected with the university.
                 </mj-text>
             </mj-column>
         </mj-section>
