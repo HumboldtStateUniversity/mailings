@@ -26,7 +26,7 @@
                     </h1>
                     <p id="date"
                        style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
-                       December 1, 2021
+                       December 2, 2021
                     </p>
                     <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
                         Phasing Out Email Accounts for Former and Inactive Campus Community Members
@@ -79,6 +79,7 @@
                     1 Harpst Street</br>
                     Arcata, Ca 95521
                 </mj-text>
+							
             </mj-column>
         </mj-section>
     </mj-body>
