@@ -1,0 +1,112 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-size="14px" color="#444" line-height="20px"/>
+            <mj-all font-family="Arial"/>
+            <mj-section background-color="#fff"/>
+        </mj-attributes>
+        <mj-style inline="inline">
+            a {
+                color: #25551b;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#e1e1e1">
+        <mj-section padding="40px 0 0" background-color="transparent">
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University"
+                          padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section border-bottom="1px solid #25551b">
+            <mj-column>
+                <mj-text>
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;">
+                        A Message from Humboldt State University
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                        November 18, 2021
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;">
+                        Reminder: 'Poly-TEK?': A Discussion with Distinguished Author Robin Wall Kimmerer
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="0">
+            <mj-column>
+                <mj-text>Dear Campus Community,</mj-text>
+                <mj-text>
+                    As a reminder, esteemed author of <em>“Braiding Sweetgrass,”</em> Robin Wall Kimmerer, will join us for a
+                    virtual discussion on Indigenous wisdom—also known as Traditional Ecological Knowledge (TEK)—a
+                    cornerstone of a future polytechnic curriculum. Panelists include Native American Studies Professor
+                    Cutcha Risling Baldy, Environmental Studies Professor Sarah Ray, and Provost Jenn Capps.
+                </mj-text>
+                <mj-text>
+                    Kimmerer is a Distinguished Teaching Professor of Environmental Biology at the SUNY College of Environmental Science and Forestry in Syracuse, New York, where she is also the director of The Center for Native Peoples and the Environment. An enrolled member of the Citizen Potawatomi Nation, Kimmerer’s 2014 book, <em>
+                    Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants</em>, has sold nearly 500,000 copies worldwide, and brought widespread acclaim to her ideas about nature, ecology, and Indigenous knowledge. [<a href="https://www.nytimes.com/2020/11/05/books/review/robin-wall-kimmerer-braiding-sweetgrass.html">Read the New York Times review of <em>Braiding Sweetgrass</em></a>.]
+                </mj-text>
+
+                <mj-text>
+                    The event is designed to deepen our understanding of TEK and the importance of working with local Tribal communities to incorporate Native knowledge into the polytechnic experience. It’s an important discussion that will help chart the University’s path forward to an education for the 21st century—one that equips students with knowledge they need to address the pressing issues of an increasingly complex world.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-text>
+                    SAVE THE DATE
+                </mj-text>
+                <mj-text>
+                    <strong>
+                        Wednesday, Dec. 8, 4-6 p.m.<br>
+                        “Poly-TEK?” Virtual Discussion<br>
+                    </strong>
+                    Visiting author Robin Wall Kimmerer, Native American Studies Professor Cutcha Risling Baldy, Environmental Studies Professor Sarah Ray, and Provost Jenn Capps<br>
+                    <strong>FREE and OPEN TO THE PUBLIC</strong><br>
+                    <a href="https://humboldtstate.zoom.us/webinar/register/WN_qK_9PzNyREyLS1uFQYD0Jg">Register in advance</a>
+                </mj-text>
+
+                <mj-text>
+                    We hope you’ll join us for this amazing conversation and for future events related to the University’s polytechnic implementation plans. For updates go to the <a href="https://www.humboldt.edu/polytechnic">Polytechnic website</a> and please email <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a> or call <a href="tel:7078263300">(707) 826-3300</a>  if you have any questions or feedback.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="20px" padding-top="0">
+            <mj-column>
+                <mj-text>
+                    Sincerely,
+                </mj-text>
+                <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png"
+                          alt="Jenn Capps' signature" width="145px" align="left"/>
+
+                <mj-text>
+                    Jenn Capps
+                    <br>
+                    Provost and Vice President for Academic Affairs
+                    <br>
+                    <br>
+                </mj-text>
+
+                <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png"
+                          alt="Sherie Gordons' Signature" width="100px" align="left"/>
+                <mj-text>
+                    Sherie Cornish Gordon
+                    <br>
+                    Chief of Staff
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#25551b">
+            <mj-column>
+                <mj-text color="#ffffff" align="center">
+                    Humboldt State University</br>
+                    1 Harpst Street</br>
+                    Arcata, Ca 95521
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
