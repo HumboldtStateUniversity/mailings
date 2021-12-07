@@ -68,7 +68,7 @@
       </mj-column>
     </mj-section>
 
-<mj-section css-class="light-wrap" padding="0">
+<mj-section css-class="light-wrap" padding="20px 0 0">
   <mj-column>
     <mj-text>
           Humboldt State University and the College of the Redwoods make a strong team for the North Coast. As two campuses, they are both collaborating to enhance the experience of CR students who transfer to HSU and, ultimately, to improve access to higher education on the North Coast.
@@ -86,14 +86,13 @@
         <mj-text>
 The result has been significant progress in supporting CR students at all stages of their college career and helping them succeed at HSU. The RN-to-BSN Nursing program was launched in 2020. Another program—“HSU+ Transfer”—addresses topics specific to transfer students such as adapting appropriate study habits for a four-year university and preparing to enroll at  Humboldt. CR’s Multicultural Center and HSU’s Social Justice, Equity & Inclusion Center are developing a mentorship agreement. And through a more robust Associate Degree for Transfer advising program, representatives from both campuses are helping students stay on track and select courses that align with HSU degree programs.
         </mj-text>
-
       </mj-column>
     </mj-section>
-    <mj-section css-class="light-wrap" padding="0" border-bottom="solid 8px #FFC32C">
+    <mj-section css-class="light-wrap"  padding="0 0 20px 0" border-bottom="solid 8px #FFC32C">
       <mj-column>
 
         <mj-text>
-There’s still work to be done and the University is excited to tackle new opportunities, including increasing engagement with Indigenous Tribes, creating a joint admissions process, and establishing a CR-HSU alumni organization. You can find updates on the CR/HSU initiatives at this <a href="https://redwoods-humboldt.org/" class="dark">new website</a>.
+There’s still work to be done and both schools are excited to tackle new opportunities, including increasing engagement with Indigenous Tribes, creating a joint admissions process, and establishing a CR-HSU alumni organization. You can find updates on the CR/HSU initiatives at this <a href="https://redwoods-humboldt.org/" class="dark">new website</a>.
 
         </mj-text>
         <mj-text>
