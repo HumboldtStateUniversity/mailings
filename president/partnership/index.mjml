@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h1 {
+        line-height: 28px;
+        margin: 0 auto;
+      }
+
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #82181d;
+        text-decoration: underline;
+      }
+
+      .dark-wrap {
+        background: #444;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #fff;
+      }
+
+      .section-heading {
+        border-bottom: solid 1px #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#575757">
+
+    <mj-section padding="50px 0 0" full-width="full-width" background-color="#EAEAEA">
+      <mj-column>
+        <mj-image src="photo-strip-top.jpg" alt="Campus photos" padding="0"	/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding="0" border-top="solid 8px #FFC32C">
+      <mj-column>
+        <mj-image src="partner-logos.png" alt="CR & Humboldt" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="dark-wrap" padding="0">
+      <mj-column>
+        <mj-text font-size="24px" line-height="1.4" align="center" color="white" padding="20px 0">
+          CR-HSU Partnership: Improving Access to Higher Education on the North Coast
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+<mj-section css-class="light-wrap" padding="0">
+  <mj-column>
+    <mj-text>
+          Humboldt State University and the College of the Redwoods make a strong team for the North Coast. As two campuses, they are both collaborating to enhance the experience of CR students who transfer to HSU and, ultimately, to improve access to higher education on the North Coast.
+        </mj-text>
+        <mj-text>
+          A priority for CR President Keith Flamer and HSU President Tom Jackson Jr. has been their partnership as two local campuses. The partnership is crucial for the future of HSU, CR, and the region. Transfer students are an integral part of the HSU campus and local community. HSU and CR share faculty and serve the same students. On average, nearly 3,000 transfer students from CR and other institutions continue their education at HSU each year.
+        </mj-text>
+  </mj-column>
+</mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          While the University has a long history of working closely with CR, a <a href="https://hsu.link/ZGm" class="dark">formalized partnership in 2019</a> has provided both institutions a framework for making the transfer process easier by combining best practices plus resources in areas such as academic programs, admissions, intercollegiate athletics, university housing, and campus safety.
+        </mj-text>
+        <mj-text>
+The result has been significant progress in supporting CR students at all stages of their college career and helping them succeed at HSU. The RN-to-BSN Nursing program was launched in 2020. Another program—“HSU+ Transfer”—addresses topics specific to transfer students such as adapting appropriate study habits for a four-year university and preparing to enroll at  Humboldt. CR’s Multicultural Center and HSU’s Social Justice, Equity & Inclusion Center are developing a mentorship agreement. And through a more robust Associate Degree for Transfer advising program, representatives from both campuses are helping students stay on track and select courses that align with HSU degree programs.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0" border-bottom="solid 8px #FFC32C">
+      <mj-column>
+
+        <mj-text>
+There’s still work to be done and the University is excited to tackle new opportunities, including increasing engagement with Indigenous Tribes, creating a joint admissions process, and establishing a CR-HSU alumni organization. You can find updates on the CR/HSU initiatives at this <a href="https://redwoods-humboldt.org/" class="dark">new website</a>.
+
+        </mj-text>
+        <mj-text>
+Key to the alliance has been the faculty, administrators, and staff from all corners of both campuses. They have been working together to find solutions while exploring new possibilities. They are genuinely committed to improving the transfer process by removing barriers to success and keeping students on track to achieve their dreams of earning a four-year college degree from HSU.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
