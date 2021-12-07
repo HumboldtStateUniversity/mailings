@@ -49,13 +49,13 @@
 
     <mj-section padding="50px 0 0" full-width="full-width" background-color="#EAEAEA">
       <mj-column>
-        <mj-image src="photo-strip-top.jpg" alt="Campus photos" padding="0"	/>
+        <mj-image src="https://mailings.humboldt.edu/president/partnership/photo-strip-top.jpg" alt="Campus photos" padding="0"	/>
       </mj-column>
     </mj-section>
 
     <mj-section css-class="light-wrap" padding="0" border-top="solid 8px #FFC32C">
       <mj-column>
-        <mj-image src="partner-logos.png" alt="CR & Humboldt" />
+        <mj-image src="https://mailings.humboldt.edu/president/partnership/partner-logos.png" alt="CR & Humboldt" />
       </mj-column>
     </mj-section>
 
