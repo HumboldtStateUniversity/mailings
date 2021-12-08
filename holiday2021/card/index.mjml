@@ -32,8 +32,8 @@
 
     <mj-section  padding-top="40px" >
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/holiday2021/header-img.png" alt="Happy Holidays from Humboldt State" href="https://humboldt.edu" />
-        <mj-image src="https://mailings.humboldt.edu/holiday2021/camp113021_0036.jpg" alt="Founders Hall with lights, watch the holiday video" href="https://humboldt.edu/holiday/2021" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2021/card/header-img.png" alt="Happy Holidays from Humboldt State" href="https://humboldt.edu" />
+        <mj-image src="https://mailings.humboldt.edu/holiday2021/card/camp113021_0036.jpg" alt="Founders Hall with lights, watch the holiday video" href="https://humboldt.edu/holiday/2021" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff">
@@ -57,22 +57,22 @@ Warmest wishes for a magical holiday season.</mj-text>
       <mj-column>
 
         <mj-social font-size="18px" icon-size="36px" mode="horizontal" padding-top="10px">
-          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/facebook.png"  padding="5px">
+          <mj-social-element name="hsu-facebook" href="https://facebook.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/card/facebook.png"  padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/twitter.png"  padding="5px" padding="5px">
+          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/card/twitter.png"  padding="5px" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/flickr.png"  padding="5px" padding="5px">
+          <mj-social-element name="flickr" href="https://flickr.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/card/flickr.png"  padding="5px" padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2021/youtube.png"  padding="5px">
+          <mj-social-element name="yotube" href="https://youtube.com/humboldtonline" src="https://mailings.humboldt.edu/holiday2021/card/youtube.png"  padding="5px">
 
           </mj-social-element>
-          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2021/linkedin.png"  padding="5px">
+          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/school/humboldt-state-university/" src="https://mailings.humboldt.edu/holiday2021/card/linkedin.png"  padding="5px">
           </mj-social-element>
 
-          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/instagram.png"  padding="5px">
+          <mj-social-element name="hsu-instagram" href="https://instagram.com/humboldtstate" src="https://mailings.humboldt.edu/holiday2021/card/instagram.png"  padding="5px">
 
           </mj-social-element>
 
