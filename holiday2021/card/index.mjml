@@ -91,10 +91,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-text align="center" color="#444" padding-bottom="40px">
+        <mj-text align="center" color="#444" >
           Humboldt State University <br> 1 Harpst St., Arcata, CA 95521
         </mj-text>
-
+					<mj-text align="center" font-size="14px" padding-bottom="40px"><a href="target=&amp;pid=219&amp;did=0&amp;tab=0" >Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0">Email Preferences</a></mj-text>
       </mj-column>
     </mj-section>
 
