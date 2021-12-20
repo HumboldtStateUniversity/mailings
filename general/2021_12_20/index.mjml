@@ -32,8 +32,9 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
+    <mj-section padding="10px 0 0">
       <mj-column>
+				<mj-text>Dear Campus Community:</mj-text>
         <mj-text>
           We all know Humboldt offers students an amazing experience, and we celebrate our close-knit community and beautiful natural environment. At the same time, we have remained something of a hidden gem. Now, as we expand into a polytechnic institution, we have a momentous opportunity to share our story and our distinctive strengths with a much broader audience.
         </mj-text>
@@ -58,7 +59,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-text>
-          SimpsonScarborough will partner closely with the Polytechnic Implementation Communications Working Group, which is responsible for communications, marketing, branding advertisement, engagement activities, and events.
+          SimpsonScarborough will partner closely with the Polytechnic Implementation Communications Working Group, who is responsible for communications, marketing, branding advertisement, engagement activities, and events.
         </mj-text>
         <mj-text>
           There’s much work to be done in a short period of time. Our immediate planning and development will occur in three phases, followed by multiple years of implementation and buildout:
@@ -67,7 +68,7 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px">
           <ul>
             <li><strong>PHASE 1: November 15 – January 14, 2022</strong><br>
               Transitional communications and marketing plan; audience research to inform the brand</li>
