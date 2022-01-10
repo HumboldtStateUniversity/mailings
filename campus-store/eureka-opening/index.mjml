@@ -1,0 +1,76 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-no {
+        color: #25551b;
+        font-weight: normal;
+        text-decoration: underline;
+      }
+      body {
+        margin-top: 10px;
+      }
+      a {
+        color: #444;
+      }
+
+      .btn-push {
+        margin: 15px 0;
+      }
+
+    </mj-style>
+    <mj-style>
+      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
+    </mj-style>
+    <mj-attributes>
+      <mj-text padding-left="10px" padding-right="20px" padding-top="10px" padding-bottom="10px" font-size="16px" line-height="22px" color="#444444" />
+      <mj-all padding="0" font-family="Arial, san-serif;" />
+      <mj-button padding="0" background-color="#25551b" border-radius="2px" font-size="16px" line-height="22px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#E5E5E5" >
+    <!-- Header -->
+    <mj-section background-color="#fff" border-top="10px #25551b solid" border-bottom="5px #25551b solid">
+      <mj-column>
+        <mj-image width="600px" src="https://mailings.humboldt.edu/campus-store/eureka-opening/logo.jpg" alt="The Campus Store - Humboldt State University Eureka, California" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" >
+      <mj-column>
+				<mj-text align="center" font-size="20px" line-height="24px" padding-top="35px" padding-left="35px" padding-right="35px">You are cordially invited to the ribbon cutting for the Campus Store in Eureka. 
+</mj-text>
+        <mj-text align="center" font-size="24px" line-height="30px" padding-top="25px" padding-left="15px" padding-right="10px" padding-bottom="35px">
+          <strong>January 20 at 3:30 PM</strong><br />
+          <strong>218 F Street, Eureka</strong>
+        </mj-text>
+
+      </mj-column>
+      
+    </mj-section>
+    <mj-section>
+    <mj-column>
+        <mj-image width="600px" src="https://mailings.humboldt.edu/campus-store/eureka-opening/store-photo.jpg" alt="The Campus Store - Humboldt State University Eureka, California" />
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column>
+				<mj-text align="center" font-size="18px" line-height="24px" padding-top="40px" padding-left="35px" padding-right="35px">Join President Jackson, the Eureka Chamber of Commerce, and Eureka Main Street to celebrate the new store opening.
+</mj-text>
+        <mj-text align="center" font-size="16px" line-height="24px" padding-top="40px" padding-left="15px" padding-right="10px" padding-bottom="25px">
+         Questions? Email <a class="link-no" href="mailto:joellen.peterson@humboldt.edu"> joellen.peterson@humboldt.edu</a>
+        </mj-text>
+      </mj-column>
+      
+    </mj-section>
+      
+    <mj-section border-top="10px solid #25551b" >
+      <mj-column>
+       <mj-text align="center" color="#444" padding-top="20px" padding-bottom="0" font-size="12px">
+          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+  </mj-body>
+  <mjml>
