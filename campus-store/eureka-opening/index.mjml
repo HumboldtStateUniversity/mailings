@@ -65,7 +65,7 @@
     <mj-section border-top="10px solid #25551b" >
       <mj-column>
        <mj-text align="center" color="#444" padding-top="20px" padding-bottom="0" font-size="12px">
-          <a href="target=&amp;pid=219&amp;did=0&amp;tab=0" class="link-no">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" class="link-no">Email Preferences</a>
+          <a href="https://mailings.humboldt.edu/campus-store/eureka-opening/" class="link-no">View this email in your browser</a>
         </mj-text>
       </mj-column>
     </mj-section>
