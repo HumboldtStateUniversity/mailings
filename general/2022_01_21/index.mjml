@@ -1,0 +1,50 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-size="14px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+    <mj-style inline="inline"> a { color: #25551b; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/img/hsumark.jpg" alt="Humboldt State University" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-bottom="1px solid #25551b">
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family:georgia, serif;color:#202020;font-size:20px;font-weight:normal;margin:0;"> A Message from Humboldt State University </h1>
+          <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;"> January 21, 2022 </p>
+          <p style="font-family:georgia, serif;color:#202020;font-size:16px;font-weight:normal;margin:10px 0 0px 0;"> Student Forum Recording: Associated Students Strategic Plan and Polytechnic Presentation </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0 0">
+      <mj-column>
+        <mj-text> Dear Campus Community, </mj-text>
+        <mj-text> Humboldt State University students joined a productive virtual forum to learn more about the student governing body, Associated Students (A.S.), and the University’s polytechnic transition process. </mj-text>
+        <mj-text> The event featured panelists A.S. President Jeremiah Finley and leads from all seven polytechnic implementation teams: (Budget, Finance & Reporting Working Group; Communications Working Group; Curriculum and Academic Programs Working Group; Enrollment and Growth Management Working Group; Facilities Working Group; Inclusive Student Success/GI 2025 Working Group; Technology and Infrastructure Working Group). (Read more about <a href="https://www.humboldt.edu/polytechnic/implementation-working-groups">the teams</a> and <a href="https://www.humboldt.edu/polytechnic/implementation-working-group-charge">their charges</a>). </mj-text>
+        <mj-text> Students heard a general overview of A.S., including its purpose, the resources it provides, and its student advocacy work, in addition to the organization’s 2021-2026 Strategic Plan–a roadmap of goals and how to achieve them. To address frequently asked questions about the polytechnic designation, a separate presentation detailed the reasons and benefits of such a designation, budget and funding priorities, academic programs, and infrastructure projects. Students also had the opportunity to ask panelists questions about everything from becoming a Student Trustee for the California State University to polytech state funding. </mj-text>
+        <mj-text> You can expect more details about these topics, plus additional open forums and opportunities to provide feedback in future communications. Students, faculty, and staff are welcome to read the <a href="https://docs.google.com/presentation/u/0/d/1NNL1vgiFPSUNrZarOr6aVC72neULJQ8VC1ZRDdILCpg/edit">A.S. Strategic Plan</a>, <a href="https://humboldtstate.zoom.us/rec/share/3R-Netq7ve6aSFl0N6GNvAe2iSKqzQ1pbFresvLux708C89fIcvkrZWgTNakkw.P3l8uFQMa054JKjI">watch a recording of Wednesday’s forum</a>, and <a href="https://www.humboldt.edu/sites/default/files/poly_student_forum_jan_2022.pdf">review the polytechnic slideshow</a>. Also feel free to refer to the <a href="https://www.humboldt.edu/polytechnic">polytechnic website</a> for updates, background information, and more. </mj-text>
+        <mj-text> Thank you to all who participated! On Wednesday, Jan. 26, please don’t forget to <a href="https://www.calstate.edu/csu-system/board-of-trustees">watch the livestream</a> of the California State University Board of Trustees meeting, for <a href="https://mailings.humboldt.edu/general/2022_01_19a/index.html">the presentation of the final proposal</a> for the University’s name to be changed to California State Polytechnic University, Humboldt. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text> Sincerely, </mj-text>
+        <mj-text> Jeremiah Finley <br> President for Associated Students </mj-text>
+        <mj-text> Jenn Capps <br> Provost and Vice President for Academic Affairs <br>
+          <br>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#25551b">
+      <mj-column>
+        <mj-text color="#ffffff" align="center"> Humboldt State University</br> 1 Harpst Street</br> Arcata, Ca 95521 </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
