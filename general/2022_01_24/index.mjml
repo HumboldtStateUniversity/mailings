@@ -93,10 +93,5 @@
                     1 Harpst Street</br>
                     Arcata, Ca 95521
                 </mj-text>
-				<mj-text align="center" color="#fff">
-					<a href="target=&amp;pid=219&amp;did=0&amp;tab=0" style="color:white;">Privacy Policy</a> | <a href="target=&amp;pid=220&amp;did=0&amp;tab=0" style="color:white;">Email Preferences</a>
-					</mj-text>
-            </mj-column>
-        </mj-section>
     </mj-body>
 </mjml>
