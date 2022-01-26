@@ -91,13 +91,12 @@
               Everything that makes us <em>Humboldt</em> speaks to our purpose of providing a positive, meaningful educational experience for our students. It’s why we’re here. It’s why we’ll continue to be here, stronger than ever, for students from all regions and backgrounds. This is our time as a campus and community to become the university we have always envisioned—Cal Poly Humboldt.
             </mj-text>
      
-          </mj-text>
         </mj-column>
       </mj-section>
       
       <mj-section css-class="light-wrap">
       <mj-column>
-         <mj-text padding-top="10px" padding-bottom="30px">
+         <mj-text padding-top="0" padding-bottom="30px">
             Sincerely,
           </mj-text>
         <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
