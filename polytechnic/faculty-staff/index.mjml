@@ -41,7 +41,10 @@
       <mj-section padding="40px 0 0" background-color="transparent">
       <mj-column>
         
-        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" />
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" /> 
           <mj-image src="https://mailings.humboldt.edu/polytechnic/faculty-staff/email-staff.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
         </mj-column>
