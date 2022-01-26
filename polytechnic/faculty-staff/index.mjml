@@ -52,9 +52,13 @@
 
       <mj-section css-class="light-wrap">
         <mj-column>
-          <mj-text font-size="24px" line-height="34px" color="#0C4301" >
+          <mj-text font-size="24px" line-height="34px" color="#0C4301" padding-bottom="20px" >
           Thank you for Helping Create Cal Poly Humboldt
           </mj-text>
+          <mj-text>
+          Dear Faculty and Staff,
+          </mj-text>
+          
           <mj-text>
           We are happy and grateful to announce that the California State University Board of Trustees has just approved our new name and designation. From this day on, we are Cal Poly Humboldt—the first polytechnic in Northern California. 
           </mj-text>
@@ -104,7 +108,7 @@
       <mj-section css-class="light-wrap" padding="0">
         <mj-column>
           <mj-text padding-top="30px" padding-bottom="30px">
-            Sincerely,
+          	Sincerely,
           </mj-text>
           
            <mj-image src="https://mailings.humboldt.edu/polytechnic/img/capps.png"alt="Jenn Capps' signature" width="145px" align="left"/>
