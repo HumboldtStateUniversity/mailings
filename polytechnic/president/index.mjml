@@ -49,7 +49,7 @@
       <mj-section padding-top="0px">
         <mj-column>
           <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
-          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/general-1.jpg" alt="Cal Poly Humboldt" padding ="0"/>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/president/email-president.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
         </mj-column>
       </mj-section>
