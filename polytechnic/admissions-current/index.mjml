@@ -41,7 +41,7 @@
         <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
         <!-- wordmark on right -->
         <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
-          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/general-1.jpg" alt="Cal Poly Humboldt" padding ="0"/>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/admissions-current/email-students.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
         </mj-column>
       </mj-section>
@@ -52,32 +52,31 @@
             Dear Students:
           </mj-text>
           <mj-text>
-            By now you know that Humboldt State University is officially California State Polytechnic University, Humboldt! This is a historic moment for the Humboldt community, and it’s an incredible opportunity for you as well.
+            By now you know that Humboldt State University is officially California State Polytechnic University, Humboldt! This is a historic moment for the Humboldt community, and it's an incredible opportunity for you as well
           </mj-text>
           <mj-text>
-           First, what is a polytechnic? It’s an institution that embraces a “learn by doing” approach to education. Academic programming is broad in natural sciences, applied sciences, technology, and engineering. It has a strong liberal arts curriculum. It emphasizes hands-on learning, helping students apply what they learn to prepare graduates for that next step in life, whether that’s a career or graduate school.
+           First, what is a polytechnic? It's an institution that embraces a "learn by doing" approach to education. Academic programming is broad in natural sciences, applied sciences, technology, and engineering. It has a strong liberal arts curriculum. It emphasizes hands-on learning, helping students apply what they learn to prepare graduates for that next step in life, whether that’s a career or graduate school.
           </mj-text>
           <mj-text>
-          In other words, it’s everything we already are; however, with a formal designation comes more  resources to enhance your educational experience, and a prestige that can help you in your career. Check out the <a href="https://www.humboldt.edu/polytechnic">polytechnic website for details</a>.
+          In other words, it's everything we already are; however, with a formal designation comes more  resources to enhance your educational experience, and a prestige that can help you in your career. Check out the <a href="https://www.humboldt.edu/polytechnic">polytechnic website for details</a>.
           </mj-text>
           <mj-text>
-           Here’s what you need to know right now:
+           Here's what you need to know right now:
             <ul>
               <li>
-                <strong>Academics</strong>: Whether it’s Art or Social Work or Forestry, ALL programs matter. We are not cutting majors—only adding them! 
+                <strong>Academics</strong>: Whether it's Art or Social Work or Forestry, ALL programs matter. We are not cutting majors-only adding them! 
               </li>
               <li>
-                <strong>Our name</strong>: Technically, we are California State Polytechnic University, Humboldt. But in most cases, we’ll refer to ourselves as either Cal Poly Humboldt or Humboldt.
+                <strong>Our name</strong>: Technically, we are California State Polytechnic University, Humboldt. But in most cases, we'll refer to ourselves as either Cal Poly Humboldt or Humboldt.
               </li>
               <li>
-                <strong>Diplomas</strong>: The Class of 2022 will be the first graduating class from Cal Poly Humboldt. Starting with Spring 2022 students, and for all current students moving forward, your diploma will be printed with California State Polytechnic University, Humboldt unless you specifically request to have it printed with Humboldt State University. Once your degree is awarded, you’ll be contacted by the Office of the Registrar to update your mailing address and indicate your university name preference. 
-
+                <strong>Diplomas</strong>: The Class of 2022 will be the first graduating class from Cal Poly Humboldt. Starting with Spring 2022 students, and for all current students moving forward, your diploma will be printed with California State Polytechnic University, Humboldt unless you specifically request to have it printed with Humboldt State University. Once your degree is awarded, you'll be contacted by the Office of the Registrar to update your mailing address and indicate your university name preference.
               </li>
               <li>
-                <strong>Gear</strong>: The <a href="https://www.bkstr.com/humboldtstatestore/home"></a>Humboldt Bookstore on campus and <a href="https://www.thecampusstoreeureka.com/">The Campus Store in Eureka</a> have Cal Poly Humboldt merchandise in stock now and will continue building inventory. You can also buy gear online through the <a href="https://sideline.bsnsports.com/schools/california/arcata/cal-poly-humboldt">Humboldt Athletics website</a>.
+                <strong>Gear</strong>: The <a href="https://www.bkstr.com/humboldtstatestore/home">Humboldt Bookstore</a> on campus and <a href="https://www.thecampusstoreeureka.com/">The Campus Store in Eureka</a> have Cal Poly Humboldt merchandise in stock now and will continue building inventory. You can also buy gear online through the <a href="https://sideline.bsnsports.com/schools/california/arcata/cal-poly-humboldt">Humboldt Athletics website</a>.
               </li>
               <li>
-              <strong>Tuition</strong>: Becoming a polytechnic will not increase tuition, which is determined by the California State University.
+              <strong>Tuition</strong>: Becoming a polytechnic will not increase tuition, which is determined by the California State University. 
               </li>
             </ul>
           </mj-text>
@@ -96,7 +95,7 @@
             </ul>
           </mj-text>
           <mj-text>
-           Remember, we’re still the Humboldt that thousands of current students, their families, and alumni know and love, and what truly makes Humboldt special is you. We’re grateful to be with you on this incredible journey into Cal Poly Humboldt’s bold new future
+           Remember, we're still the Humboldt that thousands of current students, their families, and alumni know and love, and what truly makes Humboldt special is you. We’re grateful to be with you on this incredible journey into Cal Poly Humboldt's bold new future. 
           </mj-text>
           
         </mj-column>

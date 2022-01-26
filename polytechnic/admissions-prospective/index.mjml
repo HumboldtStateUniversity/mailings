@@ -38,16 +38,19 @@
       <mj-section padding="40px 0 0" background-color="transparent">
       <mj-column>
         <!-- wordmark on right -->
-        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" />
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
         <!-- wordmark on left -->
-        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" /> -->
-          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/general-1.jpg" alt="Cal Poly Humboldt" padding ="0"/>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+         <mj-image src="https://mailings.humboldt.edu/polytechnic/admissions-prospective/email-students.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
         </mj-column>
       </mj-section>
 
-      <mj-section css-class="light-wrap">
+      <mj-section css-class="light-wrap" padding-top="20px">
         <mj-column>
+          <mj-text font-size="24px" line-height="30px" color="#0C4301" padding-bottom="20px" >
+            We’re Now Cal Poly Humboldt!
+          </mj-text>
           <mj-text>
             Dear [First Name]:
           </mj-text>
@@ -55,14 +58,14 @@
             I have some exciting news: Humboldt State University is now officially California State Polytechnic University, Humboldt! But you can call us Cal Poly Humboldt.
           </mj-text>
           <mj-text>
-           We are the first polytechnic in Northern California and only the third in the state. It's a historic moment for the Humboldt community, and it’s an incredible opportunity for you as well.
+           We are the first polytechnic in Northern California and only the third in the state. It's a historic moment for the Humboldt community, and it's an incredible opportunity for you as well.
           </mj-text>
           <mj-text>
-           A polytechnic embraces a "learn by doing" approach to education. Academic programming is broad in natural sciences, applied sciences, technology, and engineering. It has a strong liberal arts curriculum. It emphasizes hands-on learning, helping students apply what they learn to prepare graduates for that next step in life, whether that’s a career or graduate school.
+           A polytechnic embraces a "learn by doing" approach to education. Academic programming is broad in natural sciences, applied sciences, technology, and engineering. It has a strong liberal arts curriculum. It emphasizes hands-on learning, helping students apply what they learn to prepare graduates for that next step in life, whether that's a career or graduate school.
           </mj-text>
           <mj-text>
-            In other words, it's everything we already are; however, with a formal designation, we have 
-the state funding and resources to provide you a bigger and better educational experience over the next several years. To name a few, we are:
+            In other words, it's everything we already are; however, with a formal designation, we have the state funding and resources to provide you a bigger and better educational experience over the next several years. To name a few, we are:
+
             <ul>
               <li>
                 Launching 12 new academic programs by Fall 2023 
@@ -83,10 +86,10 @@ the state funding and resources to provide you a bigger and better educational e
           Here’s what you need to know right now:
             <ul>
               <li>
-                <strong>Academics</strong>: We are not cutting programs—only adding them!
+                <strong>Academics</strong>: We are not cutting programs–only adding them!
               </li>
               <li>
-                <strong>Admissions</strong>: While you were admitted to "Humboldt State University," you're now officially accepted to “Cal Poly Humboldt.” Congrats! 
+                <strong>Admissions</strong>: While you were admitted to "Humboldt State University," you’re now officially accepted to "Cal Poly Humboldt." Congrats!  
               </li>
               <li>
                 <strong>Tuition</strong>: Becoming a polytechnic will not increase tuition, which is determined by the California State University. 
@@ -97,10 +100,10 @@ the state funding and resources to provide you a bigger and better educational e
            At our core, we're still the Humboldt that thousands of current students and alumni know and love. We’re a close-knit community of faculty who care about your academic and personal growth. They often work with you one-on-one and many become mentors, too. Staff are also ready to support you through cultural resources, tutoring, or other services.
           </mj-text>
           <mj-text>
-          What makes Humboldt special is the region’s unparalleled beauty. Students from across California live and learn in a stunning location where ancient redwoods and the Pacific Ocean are just minutes away.
+          What makes Humboldt special is the region's unparalleled beauty. Students from across California live and learn in a stunning location where ancient redwoods and the Pacific Ocean are just minutes away.
           </mj-text>
           <mj-text>
-          No doubt you have more questions so please feel free to reach out to me and check out the <a href="https://www.humboldt.edu/polytechnic/student-faq">FAQ on the polytechnic website for details</a>. It’s an amazing time and I can’t wait for you to join us this Fall.
+          No doubt you have more questions so please feel free to reach out to me and check out the <a href="https://www.humboldt.edu/polytechnic/student-faq">FAQ on the polytechnic website for details</a>. It's an amazing time and I can’t wait for you to join us this Fall. 
           </mj-text>
           <mj-text>
           <a href="https://my.humboldt.edu">Confirm your enrollment</a> to Cal Poly Humboldt today!
