@@ -42,7 +42,7 @@
       <mj-column>
         
         <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" />
-          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/general-1.jpg" alt="Cal Poly Humboldt" padding ="0"/>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/faculty-staff/email-staff.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
         </mj-column>
       </mj-section>
@@ -50,34 +50,51 @@
       <mj-section css-class="light-wrap">
         <mj-column>
           <mj-text font-size="24px" line-height="34px" color="#0C4301" >
-            Thank you for Helping Create Cal Poly Humboldt
+          Thank you for Helping Create Cal Poly Humboldt
           </mj-text>
           <mj-text>
           We are happy and grateful to announce that the California State University Board of Trustees has just approved our new name and designation. From this day on, we are Cal Poly Humboldt—the first polytechnic in Northern California. 
           </mj-text>
           <mj-text>
-            .<br/>
-            .<br/>
-            .<br/>
+           This historic moment could not have come to pass if it wasn't for you—our dedicated staff and faculty. <a href="https://www.humboldt.edu/polytechnic/staff-and-faculty-faqs">See frequently asked questions about the polytechnic designation here</a>.
           </mj-text>
           <mj-text>
-            .<br/>
-            .<br/>
-            .<br/>
+            Collectively, you have helped to create and articulate an inspiring vision of education for the next generation of changemakers. Your contributions in the self study, open forums, and polytechnic working groups, and your work on the <a href="https://www.humboldt.edu/sites/default/files/hsupolytechnicprospectus.pdf">polytechnic prospectus</a> made this all possible.
           </mj-text>
           <mj-text>
-            .<br/>
-            .<br/>
-            .<br/>
+            Now, with this designation, and the resources that come with it, we’re moving very quickly ahead with our planning. Our incredible faculty are working to build <a href="https://www.humboldt.edu/polytechnic/academic-programming-build-out">12 new academic programs for Fall 2023</a> and our polytechnic working group leaders are working very intentionally to ensure we support a successful launch of our new programs.
           </mj-text>
           <mj-text>
-            .<br/>
-            .<br/>
-            .<br/>
+           The University is committed to inclusive excellence. The University's 2021-2026 Strategic Plan, Future Forward, centers inclusive student success in its strategic priorities, and an Inclusive Student Success working group has been formed to help the transition.
           </mj-text>
           <mj-text>
-          These continued efforts will shape Cal Poly Humboldt and the North Coast for generations to come. 
+          A $433 million one-time investment will fund new academic facilities, building renovations, upgrades to lab spaces, technology throughout the curriculum, expanded broadband, and investments in renewable energy research capacity. We will build additional housing for 2,400 students with the goal of building additional housing in the future. See more about our <a href="https://www.humboldt.edu/polytechnic/infrastructure-projects">infrastructure projects</a>.
+
           </mj-text>
+          <mj-text>
+            And we have strategically identified properties in our area to support infill development for housing and student services, as well as expand the University's presence in our community allowing greater access to our services.
+
+            </mj-text>
+          <mj-text>
+            Over the next few months, the campus will use a phased approach to transition Humboldt State University to Cal Poly Humboldt on everything from websites and social media accounts to signage and forms. While some of this will be done at the institutional level, you will also need to transition some of your materials. 
+            </mj-text>
+          <mj-text>
+            The University will begin the process of replacing business cards, ID cards, and other personal materials, and more information will be available in the future. Please note that updating the University name on all of our materials will take some time, and the current focus is on public-facing materials. See more details in the <a href="https://brand.humboldt.edu/transition-guide">Cal Poly Transition Process Guide</a>. 
+            </mj-text>
+          <mj-text>
+            To show off your pride in Cal Poly Humboldt, the <a href="https://www.bkstr.com/humboldtstatestore/home">Humboldt Bookstore</a> on campus and <a href="https://www.thecampusstoreeureka.com/">The Campus Store in Eureka</a> have Cal Poly Humboldt merchandise in stock now and will be building inventory in the coming months. They will continue to sell legacy Humboldt State University apparel and materials. You can also buy Cal Poly Humboldt gear online through the <a href="https://sideline.bsnsports.com/schools/california/arcata/cal-poly-humboldt">Humboldt Athletics website</a>. 
+             </mj-text>
+          <mj-text>  
+            As the University develops new academic programs and supports and enrollment grows, there will be a continued need to hire new staff and faculty. Several searches are currently underway, with more to come. The University will continue to communicate with campus about construction, hiring, departmental shifts, and any other growth plans as the transformation takes place in the next decade, as well as spending priorities related to the polytechnic transition and other budget matters.
+             </mj-text>
+          <mj-text>
+            Keep in mind that this implementation is a work in progress, and our plans will evolve throughout the transition to a fully functioning polytechnic university. Thank you for your patience and continued support. In the meantime, please continue to visit the <a href="https://www.humboldt.edu/polytechnic">Polytechnic Website</a> for up to date information.
+             </mj-text>
+          <mj-text>
+            These continued efforts will shape Cal Poly Humboldt and the North Coast for generations to come.
+             </mj-text>
+ 
+          
           
         </mj-column>
       </mj-section>
