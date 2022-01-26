@@ -97,6 +97,9 @@
       
       <mj-section css-class="light-wrap">
       <mj-column>
+         <mj-text padding-top="10px" padding-bottom="30px">
+            Sincerely,
+          </mj-text>
         <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
         <mj-text>
         <strong>Tom Jackson, Jr.</strong><br/>
