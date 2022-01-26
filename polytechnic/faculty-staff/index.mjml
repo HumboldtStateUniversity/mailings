@@ -1,0 +1,110 @@
+  <mjml>
+    <mj-head>
+      <mj-title></mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0" background-color="transparent">
+      <mj-column>
+        
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" />
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/general-1.jpg" alt="Cal Poly Humboldt" padding ="0"/>
+         <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text font-size="24px" line-height="34px" color="#0C4301" >
+            Thank you for Helping Create Cal Poly Humboldt
+          </mj-text>
+          <mj-text>
+          We are happy and grateful to announce that the California State University Board of Trustees has just approved our new name and designation. From this day on, we are Cal Poly Humboldt—the first polytechnic in Northern California. 
+          </mj-text>
+          <mj-text>
+            .<br/>
+            .<br/>
+            .<br/>
+          </mj-text>
+          <mj-text>
+            .<br/>
+            .<br/>
+            .<br/>
+          </mj-text>
+          <mj-text>
+            .<br/>
+            .<br/>
+            .<br/>
+          </mj-text>
+          <mj-text>
+            .<br/>
+            .<br/>
+            .<br/>
+          </mj-text>
+          <mj-text>
+          These continued efforts will shape Cal Poly Humboldt and the North Coast for generations to come. 
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text padding-top="30px" padding-bottom="30px">
+            Sincerely,
+          </mj-text>
+          
+           <mj-image src="https://mailings.humboldt.edu/polytechnic/img/capps.png"alt="Jenn Capps' signature" width="145px" align="left"/>
+          <mj-text padding-top="0">
+            <strong>Dr. Jenn Capps</strong><br/>
+            Provost and Vice President for Academic Affairs
+          </mj-text>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/sherieGordon_signature.png"
+                          alt="Sherie Gordons' Signature" width="100px" align="left"/>
+          <mj-text padding-bottom="30px" padding-top="0">
+            <strong>Dr. Eboni Ford Turnbow</strong><br/>
+            Dean of Students
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+        <mj-section padding="0 0 40px 0">
+          <mj-column>
+           <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png"alt="circle H graphic element" padding="0"/>
+        </mj-column>
+        </mj-section>
+    </mj-body>
+  </mjml>
