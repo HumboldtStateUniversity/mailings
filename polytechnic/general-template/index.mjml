@@ -1,0 +1,103 @@
+  <mjml>
+    <mj-head>
+      <mj-title></mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px"/>
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+      <mj-column>
+        
+       <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" /> 
+          
+         
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+            <mj-column>
+                <mj-text padding-top="0">
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+                        A Message from Cal Poly Humboldt
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                       January 26, 2022
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0;">
+                        Cal Poly Humboldt Celebration Today
+                    </p>
+                </mj-text>
+              <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
+            </mj-column>
+        </mj-section>
+
+      <mj-section css-class="light-wrap">
+        <mj-column>
+         
+          <mj-text>
+           The campus community is invited to an in-person gathering to celebrate Humboldt's new polytechnic designation today in the Library's Nordstrom Lobby (at main entry). There will be a free raffle for attendees with the opportunity to win some of the first Cal Poly Humboldt items! 
+          </mj-text>
+          <mj-text>
+          This will be a chance to mark an incredible moment for our institution, celebrate our efforts together, and look to our bold new future.
+          </mj-text>
+          <mj-text font-size="20px" align="center" line-height="26px">	
+           <strong>Library's Nordstrom Lobby<br/>
+            Wednesday, Jan. 26<br/>
+             5 p.m.</strong>
+          </mj-text>
+          <mj-text>
+            Don't forget to show your Humboldt pride and wear Green and Gold!
+
+           
+          </mj-text>
+          <mj-text font-size="13px">
+          [NOTE: This event is intended for the campus community. Under the University's COVID-19 guidelines, members of the campus community may access events by showing their campus ID. Food and drinks will not be served, and masks are required at all times indoors.]
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+      
+        <mj-section padding="0 0 40px 0">
+          <mj-column>
+           <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png"alt="circle H graphic element" padding="0"/>
+        </mj-column>
+        </mj-section>
+    </mj-body>
+  </mjml>
