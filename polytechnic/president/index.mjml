@@ -42,7 +42,7 @@
       </mj-section>
         <mj-section padding-top="25px" padding-bottom="25px" css-class="light-wrap">
           <mj-column>
-            <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+            <mj-image width="120px" src="https://mailings.humboldt.edu/polytechnic/img/pres-seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
           </mj-column>
       </mj-section>
       
