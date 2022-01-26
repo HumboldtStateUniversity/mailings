@@ -107,7 +107,7 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding="0">
         <mj-column>
-          <mj-text padding-top="30px" padding-bottom="30px">
+          <mj-text padding-top="30px" padding-bottom="20px">
           	Sincerely,
           </mj-text>
           
