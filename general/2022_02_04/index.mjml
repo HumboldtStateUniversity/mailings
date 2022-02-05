@@ -1,0 +1,120 @@
+  <mjml>
+    <mj-head>
+      <mj-title></mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px"/>
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+      <mj-column>
+
+       <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+            <mj-column>
+                <mj-text padding-top="0">
+                    <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+                        A Message from Cal Poly Humboldt
+                    </h1>
+                    <p id="date"
+                       style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+                       February 4, 2022
+                    </p>
+                    <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+                        Open Letter from Chancellor Castro to the CSU Community
+                    </p>
+                </mj-text>
+              <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
+            </mj-column>
+        </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+					<mj-text font-style="italic" font-size="14px" padding-top="0" padding-bottom="10px" >
+            The message below is being sent on behalf of CSU Chancellor Joseph I. Castro:
+          </mj-text>
+          <mj-text padding-top="30px">
+           To the California State University Community:
+          </mj-text>
+          <mj-text>
+          As many of you are aware, yesterday a story was published in the national media about the handling of sexual harassment allegations against Fresno State’s Vice President of Student Affairs and Enrollment Management Frank Lamas while I was serving as the campus president. I write to you now believing it to be of utmost importance that I immediately and directly address this matter with the entire CSU community.
+          </mj-text>
+          <mj-text>
+           Above all, I want to acknowledge the pain suffered by the members of the Fresno State community. To those who were hurt by Dr. Lamas’ behavior and actions, I am deeply and profoundly sorry.
+          </mj-text>
+          <mj-text>
+            In addition, I also recognize that aspects of Dr. Lamas’ separation from the university may have exacerbated this pain and caused understandable frustration among the campus community. I am sorry for this. I also want to provide some context in the hope that additional clarity will be helpful to those who are frustrated or confused by the circumstances of his departure.
+          </mj-text>
+          <mj-text>
+          In 2019, when a formal Title IX complaint was filed against Dr. Lamas, we acted immediately. To protect the campus community, he was removed from campus within four days. We then entered into settlement negotiations for two fundamental reasons: to permanently separate Dr. Lamas from campus as quickly as possible – without a prolonged legal fight – and to bar him permanently from future employment at Fresno State or any CSU campus. As part of the settlement agreement, which was mediated by a respected retired federal judge, I was required to provide Dr. Lamas with a letter of reference. I did so, and included language mentioning the progress the campus had made on student success and outcomes during his tenure. In hindsight, while my motives were to expedite Dr. Lamas’ permanent removal from the CSU, I regret agreeing to this aspect of the settlement, knowing that it caused additional pain.
+          </mj-text>
+          <mj-text>
+         Again, I am sorry for the pain caused by Dr. Lamas’ abhorrent behavior and actions, and for any additional hurt and understandable frustration brought about by aspects of the mediated settlement agreement.
+          </mj-text>
+          <mj-text>
+          I want you – the entire Cal State community – to know that your health, safety and well-being are my first priority. This includes fostering and sustaining an environment free from sexual harassment and all other forms of sexual misconduct. And it also means respectfully and intentionally holding space for all those affected by this behavior. To that end, I am encouraged by the work we have done over the past year, including launching a systemwide review of Title IX compliance and community awareness of Title IX rights and responsibilities – and addressing the so-called “faculty retreat rights” that complicated Dr. Lamas’ separation.
+          </mj-text>
+          <mj-text>
+            But, of course, we must do so much more – to strengthen our survivor support services; to sharpen the tools we have to quickly and effectively respond to incidents that occur; and to appropriately address legal, administrative and procedural barriers that can impede action.
+          </mj-text>
+          <mj-text>
+          We must do more – and we will do more. I am fully committed to working with our campus presidents and the CSU Board of Trustees on these critically important issues, and I pledge to continue to do so until the California State University becomes a national model for the prevention and redress of sexual misconduct in all its forms.
+          </mj-text>
+          <mj-text>
+            Sincerely,
+          </mj-text>
+            <mj-image src="https://mailings.humboldt.edu/general/2022_02_04/castro.jpg"alt="Joseph A. Castro" width="200px" align="left"/>	
+           <mj-text>
+             Joseph I. Castro<br/>
+Chancellor
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+        <mj-section padding="0 0 40px 0">
+          <mj-column>
+           <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png"alt="circle H graphic element" padding="0"/>
+        </mj-column>
+        </mj-section>
+    </mj-body>
+  </mjml>
