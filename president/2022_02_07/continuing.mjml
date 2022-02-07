@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #006432;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#25551b">
+    <mj-section padding="30px 0 0">
+    </mj-section>
+    <mj-section padding-top="25px" padding-bottom="0px" css-class="light-wrap">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/polytechnic/img/pres-seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#0C4301" padding-top="0" padding-bottom="0" font-weight="bold">
+          February 7, 2022
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="34px" color="#0C4301">
+          Congratulations on being designated as a Presidential Scholar
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" css-class="light-wrap">
+      <mj-column>
+
+
+        <mj-divider border-color="#FFC629" border-width="3px" padding="0 20px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          Dear [FirstName]:
+        </mj-text>
+        <mj-text>
+          Congratulations on being designated as a Presidential Scholar based on your outstanding academic achievement during the fall 2021 semester at Humboldt State University. This recognition requires a grade point average of at least 3.85 with a minimum of 12 credit hours. You clearly worked hard during the semester, and this achievement will be noted on your transcript.
+        </mj-text>
+        <mj-text>
+          You have my best wishes for continued success in your studies as you progress toward graduation.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="30px">
+          Very Sincerely,
+        </mj-text>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+          <strong>Tom Jackson, Jr., Ed.D.</strong><br />President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
