@@ -1,0 +1,115 @@
+<mjml>
+    <mj-head>
+      <mj-title></mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Lato, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#25551b">
+      <mj-section padding="30px 0 0">
+      </mj-section>
+        <mj-section padding-top="25px" padding-bottom="25px" css-class="light-wrap">
+          <mj-column>
+            <mj-image width="120px" src="https://mailings.humboldt.edu/polytechnic/img/pres-seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+          </mj-column>
+      </mj-section>
+      
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/president/email-president.jpg" alt="It's Official there's a new Cal Poly in the Golden State" padding ="0"/>
+         <mj-divider border-color="#FFC629" padding="0" ></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text align="center" font-size="24px" line-height="34px" color="#0C4301" >
+          Cal Poly Humboldt!<br/>Let's Enjoy This Historic Moment Together
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#0C4301"  padding-top="5px" padding-bottom="0" font-weight="bold">
+          January 26, 2022
+        </mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text>
+            Dear Humboldt family,
+          </mj-text>
+          <mj-text>
+           I'm thrilled to announce that the California State University Board of Trustees has just approved our new name and designation. From this day on, we are California State Polytechnic University, Humboldt—or Cal Poly Humboldt. This is truly a historic moment for our institution, this region, and the state.
+          </mj-text>
+          <mj-text>
+          Please take a moment to let this sink in. We are now the first polytechnic in Northern California and only the third in the state. It's important to reflect on everything that all of you—students, faculty, staff, alumni, donors, and friends—have accomplished to help us arrive at this transformational opportunity. Our big and far-flung Humboldt community truly pulled together.
+          </mj-text>
+          <mj-text>
+        Collectively, you have helped to create and articulate an inspiring vision of education for the next generation of changemakers. You did so from the conviction that a polytechnic will serve the greater good of the community, region, and the state. You did all this during a pandemic. It’s an astounding, inspired feat and I can't stress enough my gratitude for the time and energy you have put into this effort.
+          </mj-text>
+          <mj-text>
+            Make no mistake, this polytechnic designation embodies not only what we will become but it also is a celebration of who we already are. Humboldt is a place where students follow their dreams to better the world. Now, with this designation, and the resources that come with it, we’re moving very quickly ahead with our planning. Our incredible faculty are working diligently to build 12 new academic programs for Fall 2023 and our polytechnic working group leaders are working very intentionally to ensure we support a successful launch of our new programs.  
+</mj-text>
+          <mj-text>
+            Just over two years ago, I was honored to become president of this amazing institution. Like many of you who have a deep connection with the University, I will always cherish the traditions and memories associated with our previous name. I know it may take time to adjust to all the changes happening around us. However, I can say with confidence that the core of who we are won’t change as Cal Poly Humboldt.
+</mj-text>
+          <mj-text>
+            We are the university with excellent liberal arts and science programs, outstanding professional studies programs, amazing faculty and staff who support and mentor our students, and hands-on learning opportunities for all majors. We are the university that genuinely engages our students wherever they are, both inside and outside of the classroom. We are the university with passionate alumni and supportive friends and donors that are willing to make a difference in this world everyday. We are the university in a beautiful place with an equally beautiful community. Our commitment to serving underrepresented students and to social and environmental responsibility remains unwavering.
+            </mj-text>
+            <mj-text>
+              Everything that makes us <em>Humboldt</em> speaks to our purpose of providing a positive, meaningful educational experience for our students. It's why we're here. It's why we'll continue to be here, stronger than ever, for students from all regions and backgrounds. This is our time as a campus and community to become the university we have always envisioned—Cal Poly Humboldt.
+            </mj-text>
+     
+        </mj-column>
+      </mj-section>
+      
+      <mj-section css-class="light-wrap">
+      <mj-column>
+         <mj-text padding-top="0" padding-bottom="30px">
+            Sincerely,
+          </mj-text>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+        <strong>Tom Jackson, Jr.</strong><br/>
+President
+        </mj-text>
+      </mj-column>
+    </mj-section>   
+        <mj-section padding="0 0 40px 0">
+          <mj-column>
+           <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png"alt="circle H graphic element" padding="0"/>
+        </mj-column>
+        </mj-section>
+    </mj-body>
+  </mjml>
