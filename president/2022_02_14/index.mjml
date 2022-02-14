@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #006432;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#25551b">
+    <mj-section padding="30px 0 0">
+    </mj-section>
+    <mj-section padding-top="25px" padding-bottom="0px" css-class="light-wrap">
+      <mj-column>
+        <mj-image width="120px" src="https://mailings.humboldt.edu/polytechnic/img/pres-seal.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#0C4301" padding-top="0" padding-bottom="0" font-weight="bold">
+          February 14, 2022
+        </mj-text>
+        <mj-text align="center" font-size="24px" line-height="34px" color="#0C4301">
+          Congratulations on being designated as a Presidential Scholar
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" css-class="light-wrap">
+      <mj-column>
+
+
+        <mj-divider border-color="#FFC629" border-width="3px" padding="0 20px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          Dear Campus Community:
+        </mj-text>
+        <mj-text>
+I am happy to announce that the University will confer an Honorary Doctorate of Humane Letters to local philanthropist and hero Betty Kwan Chinn at this May’s Commencement ceremony. Ms. Chinn will be the first recipient of an honorary degree from Cal Poly Humboldt and one of only 13 in the University’s history. 
+        </mj-text>
+        <mj-text>
+          Ms. Chinn is exemplary of service before self and upholds the University’s vision of a more just and equitable society. Turning her personal hardships into a passion, Chinn has spent the past four decades working to restore hope and dignity to those experiencing homelessness.  
+        </mj-text>
+        <mj-text>
+          In 2010, Ms. Chinn was awarded the Presidential Citizens Medal, the second highest civilian honor in the country, by former President Barack Obama, who praised her effort and success in “renewing America’s promise by serving those in need.”
+        </mj-text>
+        <mj-text>
+          Ms. Chinn’s own experience with homelessness began at age seven, when her family was violently forced from their home in China during Mao’s Cultural Revolution. She endured untold physical and mental abuse, torture, and near starvation until her arduous escape to Hong Kong four years later. After emigrating to the United States, she took refuge with relatives in California, later marrying retired Humboldt Physics Professor Leung Chinn, and raising two sons in Eureka. Her life changed again one day when she noticed that one of her son’s classmates was living out of the family car. Ms. Chinn started sending extra food to school to share with the family and her service to the community began. 
+        </mj-text>
+        <mj-text>
+         Today, the Betty Kwan Chinn Homeless Foundation consists of Chinn’s Day Center, offering transitional housing, and employment and family services; Betty’s House, a 32-bed family shelter; Betty’s Blue Angel Village, a temporary housing shelter built from shipping containers; Betty’s Annex, a women and children’s center that opened during the pandemic; Betty’s Showers, a public shower facility; and Betty’s Blue Angel Outreach, which provides  wraparound services to hard-to-reach individuals in need of specialty services.
+        </mj-text>
+        <mj-text>
+        
+Betty Chinn is a visionary leader and an inspiration to the entire Humboldt community. She calls every day an opportunity to give back, a gift in itself. She is a role model for our students and for us all, proving that one person can indeed change the world.
+
+        </mj-text>
+      
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="30px">
+          Sincerely,
+        </mj-text>
+        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
+        <mj-text>
+          <strong>Tom Jackson, Jr.</strong><br />President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
