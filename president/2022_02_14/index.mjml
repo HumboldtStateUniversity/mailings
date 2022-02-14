@@ -93,7 +93,7 @@ Betty Chinn is a visionary leader and an inspiration to the entire Humboldt comm
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-        <mj-text padding-top="0" padding-bottom="30px">
+        <mj-text padding-top="0" padding-bottom="20px">
           Sincerely,
         </mj-text>
         <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
