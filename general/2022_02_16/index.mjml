@@ -1,0 +1,126 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Cal Poly Humboldt Branding Initiative Enters Next Phase</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              February 16, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Cal Poly Humboldt Branding Initiative Enters Next Phase
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Dear Campus Community,
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Now that we’re officially Cal Poly Humboldt, it’s full steam ahead for several projects that started last year, including a <a href="https://humboldt.edu/polytechnic/branding-initiative">comprehensive branding initiative</a> that will help us share the University’s story in fresh ways to a broader audience.
+          </mj-text>
+          <mj-text>
+            The scope of a rebranding project goes beyond updating logos. The University and higher education marketing firm SimpsonScarborough are working together to evaluate and revamp the visuals and words that we use to communicate our DNA&mdash;distinctive characteristics, such as our values and strengths, that define us as a university.
+          </mj-text>
+          <mj-text>
+            The initiative is happening in four stages over the span of 2021 and 2022: the Discovery phase, which ended in January, followed by the Research; Branding & Messaging; and Creative, Digital & Media phases. An important milestone of the initiative is the launch of our brand platform. Expected to roll out this summer, the brand platform will help guide design and messaging for everything from newly designed websites to recruitment brochures.
+          </mj-text>
+          <mj-text>
+            During the Discovery phase, SimpsonScarborough consultants met with members of the campus community and key external stakeholders, conducted a brand and website audit, analyzed our competitors, and examined our organization’s strengths and challenges.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Some key themes that emerged from their findings were remoteness of location (escapism vs. isolation); the natural environment; interplay between University community and Humboldt County community; accessibility and social justice; the importance of resources and support; and national vs. local impact. In its analysis of 11 competitors (both in and outside California), SimpsonScarborough also found that Cal Poly Humboldt has the opportunity to own and improve its storytelling of sustainability and social justice.
+          </mj-text>
+          <mj-text>
+            As part of the Research phase, SimpsonScarborough is preparing to send students, staff, faculty, alumni, donors, and prospective students and their families a survey to better understand perceptions of the University and get feedback on potential new logo concepts. Everyone’s input is valuable in helping us gather the information we need to elevate our brand and we encourage you to take the survey. At the conclusion of the Research phase, we will communicate future consultation and engagement opportunities in the upcoming phases of this initiative.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Read more about the <a href="https://www.humboldt.edu/polytechnic/branding-initiative">brand initiative and timeline</a>, and if you have any questions, feedback, or ideas, please leave your comments in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSedMeS-v-6VIz9TQPrJ3xKjZKkJ8pCoGlJmA32mNJGQ6ZubiA/viewform">Polytech Implementation Feedback Form</a>.
+          </mj-text>
+          <mj-text>
+          Sincerely,
+          </mj-text>
+          <mj-text>
+            <strong>Sherie C. Gordon</strong>, Chief of Staff <br><br>
+            <strong>Kristen Gould</strong>, Director of Marketing
+            <br><br>
+            Co-Leads, Polytechnic Implementation Communications Working Group
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
