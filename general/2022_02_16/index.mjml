@@ -108,8 +108,12 @@
           <mj-text>
           Sincerely,
           </mj-text>
-          <mj-text>
-            <strong>Sherie C. Gordon</strong>, Chief of Staff <br><br>
+            <mj-image src="https://mailings.humboldt.edu/general/signatures/sherieGordon_signature.png" width="75px" alt="Kristen Stegeman-Gould's Signature" align="left"/>
+          <mj-text padding-bottom="20px">
+            <strong>Sherie C. Gordon</strong>, Chief of Staff
+            </mj-text>
+            <mj-image src="https://mailings.humboldt.edu/general/signatures/KSGSignature.png" alt="Kristen Stegeman-Gould's Signature" width="200px" align="left"/>
+            <mj-text>
             <strong>Kristen Gould</strong>, Director of Marketing
             <br><br>
             Co-Leads, Polytechnic Implementation Communications Working Group
