@@ -198,8 +198,7 @@
       <mj-image src="2021-0129-HSUCR_LARGE.jpg" alt="CR & Humboldt Campus Photos" />
         <mj-text color="#fff">
           <h2>Partnership with CR</h2>
-          College of the Redwoods President Keith Flamer and Cal Poly Humboldt President Tom Jackson, Jr. have continued to strengthen the ties between the two institutions. Read President Jackson's recent column in the Times-Standard. Read President Flamer's recent column in the Times-Standard.
-          <!-- need to rewrite so one link works https://redwoods-humboldt.org/articles-reports -->
+					College of the Redwoods President Keith Flamer and Cal Poly Humboldt President Tom Jackson, Jr. have continued to strengthen the ties between the two institutions. <a href="https://redwoods-humboldt.org/articles-reports">Read President Jackson's recent column</a> in the Times-Standard. <a href="https://redwoods-humboldt.org/articles-reports">Read President Flamer's recent column</a> in the Times-Standard.
         </mj-text>
         <mj-button href="https://redwoods-humboldt.org/">
           Learn about the partnership
