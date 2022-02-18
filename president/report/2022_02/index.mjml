@@ -55,7 +55,7 @@
     <!-- Report Header -->
     <mj-section background-color="#25551B" padding="20px 20px 0">
       <mj-column>
-        <mj-image src="51845055891_0260f44563_c.jpg" alt="People celebarting Cal Poly Humboldt" padding="0" />
+         <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/51845055891_0260f44563_c.jpg" alt="People celebarting Cal Poly Humboldt" padding="0" />
       </mj-column>
     </mj-section>
     <!-- Date -->
@@ -132,7 +132,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image src="2022-0128-Kelp_LARGE.jpg" alt="Diver with kelp" />
+         <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/2022-0128-Kelp_LARGE.jpg" alt="Diver with kelp" />
         <mj-text color="#fff">
           <h2>VIDEO: Helping Kelp Come Back in California</h2>
           Cal Poly Humboldt is working to restore kelp populations throughout the North Coast by growing bull kelp in Humboldt Bay. A pilot project of the University's Telonicher Marine Lab, the project is California's first open-water commercial seaweed farm.
@@ -146,7 +146,7 @@
 
     <mj-section css-class="light-wrap">
       <mj-column>
-      <mj-image src="camp020822_0017.jpg" alt="Photo of Library" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/camp020822_0017.jpg" alt="Photo of Library" />
         <mj-text>
           <h2>Library Reopens its Doors </h2>
          Welcome back to the Cal Poly Humboldt Library! The $34 million seismic retrofit project began in 2018 and improved the safety and integrity of the Library, added new LED lights and ceiling tiles in the north side of the building, modernized the central elevator,  upgraded ADA parking and accessibility and added many other enhancements. You're invited back to utilize the Library's many programs and services, students can access scholarly research, relax in the <a href="https://libguides.humboldt.edu/brainbooth"class="dark">Brain Booth</a>, or learn something new in a <a href="https://libguides.humboldt.edu/skillshops"class="dark">SkillShop</a>.
@@ -196,7 +196,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-      <mj-image src="2021-0129-HSUCR_LARGE.jpg" alt="CR & Humboldt Campus Photos" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/2021-0129-HSUCR_LARGE.jpg" alt="CR & Humboldt Campus Photos" />
         <mj-text color="#fff">
           <h2>Partnership with CR</h2>
 					College of the Redwoods President Keith Flamer and Cal Poly Humboldt President Tom Jackson, Jr. have continued to strengthen the ties between the two institutions. <a href="https://redwoods-humboldt.org/articles-reports">Read President Jackson's recent column</a> in the <em>Times-Standard</em>. <a href="https://redwoods-humboldt.org/articles-reports">Read President Flamer's recent column</a> in the <em>Times-Standard</em>.
@@ -208,7 +208,7 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-      <mj-image src="2022-0121-MLKDAY1_LARGE.jpg" alt="Voluteers cleaning up on MLK Day" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/2022-0121-MLKDAY1_LARGE.jpg" alt="Voluteers cleaning up on MLK Day" />
         <mj-text>
           <h2>'A Day On' for the Community in Honor of Martin Luther King Jr.</h2>
           Twenty-two students and 18 faculty and staff members spent the day at multiple community and campus sites, working together to beautify the community while honoring the legacy of Dr. King.
@@ -238,7 +238,7 @@
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-      <mj-image src="2022-0121-Trinity_LARGE.jpg" alt="Model of new Children's facility" />
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_02/2022-0121-Trinity_LARGE.jpg" alt="Model of new Children's facility" />
         <mj-text color="#fff">
           <h2>Renovations Underway on New University Children’s Center, Child Development Lab</h2>
           Humboldt recently broke ground on the renovation of the historic Trinity Annex, located just off campus at 14th and B streets. The extensive remodel and expansion will be the future home of the University’s Children’s Center and Child Development Lab; the project is slated for completion June 2023.
@@ -268,6 +268,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
+		
   </mj-body>
 </mjml>
