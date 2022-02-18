@@ -1,0 +1,88 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Dr. Joseph I. Castro Resigns as CSU Chancellor</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#ffffff">
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            University to Launch Systemwide Title IX Assessment
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            On February 17, 2022, Chancellor Joseph I. Castro notified the Board of Trustees of the California State University of his resignation as Chancellor, effective immediately. The Board of Trustees accepted his resignation.
+          </mj-text>
+          <mj-text>
+            “I have been honored to serve the California State University for more than eight years, including as its eighth chancellor, and the decision to resign is the most difficult of my professional life,” said Dr. Joseph I. Castro. “While I disagree with many aspects of recent media reports and the ensuing commentary, it has become clear to me that resigning at this time is necessary so that the CSU can maintain its focus squarely on its educational mission and the impactful work yet to be done.”
+          </mj-text>
+          <mj-text>
+            “We appreciate Chancellor Castro’s cooperation with the Trustees and his decision to step down for the benefit of California State University system,” stated Board of Trustee Chair, Lillian Kimbell.
+          </mj-text>
+          <mj-text>
+            Dr. Castro added, “As I know from my own lived experience, our state’s and nation’s diverse and talented young people – especially low-income and first-generation students – deserve access to the transformative power of higher education that so often can seem like an elusive dream. I remain forever committed to ensuring that those students – our future leaders – are able to achieve that dream for themselves, their families and their communities.”
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            	A succession plan to replace Dr. Castro is being finalized by the Board of Trustees. Executive Vice Chancellor and Chief Financial Officer, Steve Relyea, will serve as acting chancellor until an interim chancellor has been named.
+          </mj-text>
+          <mj-text>
+            The Board of Trustees also intends to launch an initiative to strengthen institutional culture across the largest public four-year system of higher education and bring CSU to the forefront of Title IX innovation, accountability and response.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            At the upcoming Board of Trustees meeting on March 22-23, 2022, the Trustees intend to call for a vote to engage Gina Maisto Smith and Leslie Gomez, the chair and vice chair of Cozen O’Connor’s Institutional Response Group<a href="https://www.cozen.com/practices/institutional-response-group">https://www.cozen.com/practices/institutional-response-group</a>, to conduct a comprehensive systemwide assessment. The goal of the systemwide assessment is to provide insights, recommendations and resources to help advance CSU’s Title IX and civil rights training, awareness, prevention, intervention, compliance, accountability, and support systems. The assessment will begin this March at Fresno State University.
+          </mj-text>
+          <mj-text>
+            The Board of Trustees will continue to provide updates to the CSU community in a timely manner.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
