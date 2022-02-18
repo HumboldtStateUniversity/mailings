@@ -1,0 +1,273 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h1 {
+        line-height: 28px;
+        margin: 0 auto;
+      }
+
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+        text-decoration: underline;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      .section-heading {
+        border-bottom: solid 1px #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/CPH-mark-white-lighter.png" alt="Cal Poly Humboldt" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+        <mj-image src="51845796070_3f0041d5ee_o.jpg" alt="Fern in the redwoods" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          February <br>2022
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres082020_0081.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          The spring semester is well underway and our campus is becoming more vibrant with students attending class, studying in the library, socializing in the Student Activities Center (SAC)  and engaging in other activities. It's good to see both new and familiar faces throughout the campus.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>While we are rapidly moving in the spring semester, I would like to take a moment to reflect on  hosting our first ever Fall Commencement, which was a resounding success and reminder that we're here for our students first. It was a great way to end 2021 and the new year has brought some exciting news for the University.
+				</mj-text>
+        <mj-text>
+          As you're now well aware, we've been designated California's third polytechnic University, Cal Poly Humboldt. It's more than a historic moment—it's a huge opportunity for all of our students, staff and faculty, our communities on the North Coast, and California. Learn more about what it means to be a polytechnic university here.
+        </mj-text>
+        <mj-text>
+          I'm immensely grateful to everyone for your contributions to this effort. Our self-study and prospectus were conducted quickly under challenging circumstances, and they spotlighted our incredible strengths and areas for growth. Students, staff, faculty, alumni, donors, and community members were all integral to our success, and we will continue to seek input from and participation as we transition into a full polytechnic university.
+        </mj-text>
+				<mj-text>
+          <strong>Read coverage of our <a href="https://link.humboldt.edu/ZQz" class="dark">polytechnic transition</a>:</strong>
+          <ul>
+          <li><a href="https://www.insidehighered.com/news/2022/01/27/humboldt-state-university-now-polytechnic" class="dark">Inside Higher Ed</a></li>
+          <li><a href="https://www.sacbee.com/news/local/education/article257754703.html" class="dark">Sacramento Bee</a></li>
+          <li><a href="https://www.latimes.com/california/story/2022-01-28/humboldt-state-gets-a-name-and-mission-makeover-as-a-polytechnic-university" class="dark">Los Angeles Times</a></li>
+          <li><a href="https://www.chronicle.com/newsletter/daily-briefing/2022-01-28" class="dark">Chronicle of Higher Education</a></li>
+          </ul>
+        </mj-text>
+        <mj-text>
+        Alongside our campus' hard polytech work, we've made great strides in sustainability efforts. Sustainability at Cal Poly Humboldt is not just an initiative, but a culture. The <a href="https://facilitymgmt.humboldt.edu/sustainability-what-sustainability" class="dark">definition</a> of sustainability touches on a wide variety of programs and populations, with the intent of achieving the university's sustainability goals and educating our students to be ambassadors of sustainability.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          <ul>
+            <li style="padding-bottom:14px;"><strong>Climate Action Plan</strong>: We are updating the ClimateAction Plan (CAP 2.0) and we want your input! The CAP 2.0 is a roadmap to guide the university towards achieving carbon neutrality by 2045, and to build resilience to climate change impacts. </li>
+            <li style="padding-bottom:14px;"><strong>STARS</strong>: The campus has completed a plan to pursue a platinum rating in a large and well-adopted sustainability assessment called STARS. This ambitious goal will position the campus to become the best performing CSU in the system by 2026, and one of very few campuses worldwide to secure the elusive Platinum rating. Read the <a href="https://facilitymgmt.humboldt.edu/sites/default/files/hsu_stars_path_to_platinum_2020-2022_final.pdf" class="dark">Path to Platinum Plan here</a>. A few examples of current programming underway that supports this effort includes professional development for faculty on sustainability topics, refining our process for designating courses as sustainability focused or related, better documenting landscape management and integrated pest management protocols, and incorporating sustainability criteria more formally into contracts and procurement policy. Read more about STARS as a general assessment tool <a href="https://facilitymgmt.humboldt.edu/stars" class="dark">here</a>. </li>
+            <li style="padding-bottom:14px;"><strong>Microgrid</strong>: The University has partnered with the Schatz Energy Research Center to develop a campus microgrid. A microgrid is a system of energy generation, storage, and controls that will provide electricity to campus in the event the grid goes down and to lower the university's electricity demand. Components will include solar PV, large battery, backup generator, and associated controls. Local microgrids developed by the Schatz Center are at the <a href="https://schatzcenter.org/blrmicrogrid/" class="dark">Blue Lake Rancheria</a> and the <a href="https://schatzcenter.org/acv/" class="dark">Redwood Coast airport</a></li>
+            <li style="padding-bottom:14px;"><strong>Social Justice in Sustainability</strong>: The Sustainability Office continues to work toward implementing a sustainability movement that elevates justice, liberation, and decolonization along with the environmental and economic dimensions of sustainability. A few programs underway for Spring 2022 include various book circles and speaker series, supporting Umoja's Black to the Land farming initiative at the Bayside Park Farm, and supporting a campus-wide food summit led by El Centro (and supported by HEIF) in April 2022. </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Academics</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="2022-0128-Kelp_LARGE.jpg" alt="Diver with kelp" />
+        <mj-text color="#fff">
+          <h2>VIDEO: Helping Kelp Come Back in California</h2>
+          Cal Poly Humboldt is working to restore kelp populations throughout the North Coast by growing bull kelp in Humboldt Bay. A pilot project of the University's Telonicher Marine Lab, the project is California's first open-water commercial seaweed farm.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZQy">
+          Learn more about the kelp project
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>Library Reopens its Doors </h2>
+         Welcome back to the Cal Poly Humboldt Library! The $34 million seismic retrofit project began in 2018 and improved the safety and integrity of the Library, added new LED lights and ceiling tiles in the north side of the building, modernized the central elevator,  upgraded ADA parking and accessibility and added many other enhancements. you're invited back to utilize the Library's many programs and services, students can access scholarly research, relax in the <a href="https://libguides.humboldt.edu/brainbooth"class="dark">Brain Booth</a>, or learn something new in a <a href="https://libguides.humboldt.edu/skillshops"class="dark">SkillShop</a>.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAZ">
+          Read about the Library reopening
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            New Minor Offers Education in Sustainability for Every Major
+          </h2>
+          Starting this Fall, the Sustainability minor will explore real-world problems from a variety of academic perspectives, incorporating curricula from across the natural and social sciences, as well as the humanities and the arts. The interdisciplinary nature of the minor will catalyze intellectual inquiry, systems thinking, and students' agency to tackle the most pressing socio-ecological challenges of our time. The new program marks a major milestone in Humboldt's campus-wide goal to foster sustainability literacy across all colleges.
+          </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZA4">
+          Learn more about the Sustainability minor
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Diversity, Equity & Inclusion</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Improve Your Tomorrow: A Brotherhood of Support on Campus </h2>
+          Founded by Cal Poly Humboldt  alumnus Michael Lynch ('11, Business Administration), Improve Your Tomorrow (IYT) has served thousands of young men across California through mentorship, tutoring, college advising, and community investment. Last Fall, IYT kicked off their first semester of programming at Humboldt, a longtime goal for Lynch who recalls his own transformative experience at Humboldt.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAJ">
+          Learn more about Improve Your Tomorrow
+        </mj-button>
+      </mj-column>
+    </mj-section>
+       <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Community Engagement & Impact</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="2021-0129-HSUCR_LARGE.jpg" alt="CR & Humboldt Campus Photos" />
+        <mj-text color="#fff">
+          <h2>Partnership with CR</h2>
+          College of the Redwoods President Keith Flamer and Cal Poly Humboldt President Tom Jackson, Jr. have continued to strengthen the ties between the two institutions. Read President Jackson's recent column in the Times-Standard. Read President Flamer's recent column in the Times-Standard.
+          <!-- need to rewrite so one link works https://redwoods-humboldt.org/articles-reports -->
+        </mj-text>
+        <mj-button href="https://redwoods-humboldt.org/">
+          Learn about the partnership
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="2022-0121-MLKDAY1_LARGE.jpg" alt="Voluteers cleaning up on MLK Day" />
+        <mj-text>
+          <h2>'A Day On' for the Community in Honor of Martin Luther King Jr.</h2>
+          Twenty-two students and 18 faculty and staff members spent the day at multiple community and campus sites, working together to beautify the community while honoring the legacy of Dr. King.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAc">
+          Read about 'A Day On'
+        </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Humboldt Joins California’s Historic College Service Program </h2>
+          California Governor Gavin Newsom and the leaders of California’s college and university systems launched the largest state-level investment in a college service program in California history: #CaliforniansForAll College Corps. The program will help create debt-free college pathways for low-income students who commit to serve.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAx">
+          Learn about the historic college service program
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Infrastructure</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+      <mj-image src="2022-0121-Trinity_LARGE.jpg" alt="Model of new Children's facility" />
+        <mj-text color="#fff">
+          <h2>Renovations Underway on New University Children’s Center, Child Dev. Lab</h2>
+          Humboldt recently broke ground on the renovation of the historic Trinity Annex, located just off campus at 14th and B streets. The extensive remodel and expansion will be the future home of the University’s Children’s Center and Child Development Lab; the project is slated for completion June 2023.
+        </mj-text>
+         <mj-button href="https://link.humboldt.edu/ZAg">
+          Read about the renovations
+        </mj-button>
+      </mj-column>
+    </mj-section><mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>Contactless Digital Payment for Parking through New App</h2>
+         Partnering with transportation software and payments company Passport, Humboldt recently began utilizing a digital parking payment system for the first time. <a href="https://www.passportparking.com/" class="dark">The app, Passport Parking</a>, allows for a contactless experience where motorists pay for and manage their parking sessions with their smartphones. Those who prefer to pay via traditional meters or purchase passes from the parking kiosk can still do so.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAA">
+         Learn about the digital payment system
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap" border-top="solid 1px #fff">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @HSUPrez!
+          </h2>
+          <a href="https://instagram.com/humboldtprez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/humboldtprez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
