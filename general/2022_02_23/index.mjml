@@ -1,0 +1,137 @@
+  <mjml>
+    <mj-head>
+      <mj-title>People-Centered Change Leadership Training</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              February 15, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+             People-Centered Change Leadership Training
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+					<mj-text>As we celebrate the positive vote of the CSU Board of Trustees we want to acknowledge that the continued transformation of Cal Poly Humboldt takes all of us. In support of the many people at the center of this change, we are ramping up our People-Centered Change Initiative. </mj-text>
+          <mj-text>
+            Training to support successful and sustainable people-centered change will continue with the guidance of your representatives on the People-Centered Change Team. We are grateful to the leaders who have engaged with the training and are encouraging their colleagues to do the same. Here is some of what participants are saying about the experience:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text padding-left="50px">
+            <em>This training has helped me reflect on what has caused conflict when change happens at our institution and some of the ways I can help facilitate smoother changes.</em>
+          </mj-text>
+          <mj-text padding-left="50px">
+            <em>Systems change happens at a personal level, and it is important to engage people at the level of change they're at, in order to be an effective change manager.</em>
+          </mj-text>
+          <mj-text padding-left="50px">
+            <em>This training offered me helpful expertise of colleagues, awareness of new tools and resources, and an opportunity to try some new ideas or frameworks.</em>
+          </mj-text>
+          <mj-text padding-left="50px">
+            <em>The tools will help me refocus my role in current change processes and hopefully approach things more constructively.</em>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            <strong>Leading Your Team through Change</strong> <br>
+            Change requires more than a tactical plan; it requires that all those responsible for and impacted by the change are ready to engage. Through this in-depth course, you will learn foundational concepts, tools and strategies to successfully lead your team through change, based on Procsi's internationally utilized ADKAR model.
+          </mj-text>
+          <mj-text>
+            Upcoming dates (each set of dates is a series of 3 classes; classes are held 9am-12pm):
+            <ul>
+              <li><a href="https://csu.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68210%26UserMode%3D0">March 9, 10 and 11</a> <br></li>
+              <li><a href="https://CSU.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68992%26UserMode%3D0">April 26, 27 and 28 </a><br></li>
+              <li><a href="https://CSU.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68993%26UserMode%3D0">June 7, 8 and 9</a></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            <strong>Fundamentals of People-Centered Change </strong><br>
+            Change at an institutional, department or even individual level is more than the business side of planning. Every bit as important is how people adapt to and engage with the change. In this two hour course you will learn how we as human beings experience change, and gain easy-to-use tools to navigate it successfully.
+          </mj-text>
+          <mj-text>
+            Upcoming dates:
+            <ul>
+              <li><a href="https://CSU.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68989%26UserMode%3D0">February 23, 9-11am
+                </a> <br></li>
+              <li><a href="https://CSU.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68990%26UserMode%3D0">March 15, 1-3pm</a><br></li>
+              <li><a href="https://CSU.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68991%26UserMode%3D0">March 29, 9-11am</a></li>
+            </ul>
+          </mj-text>
+          <mj-text>
+            Additional training dates will be announced later in the semester. More information is available at <a href="https://pcci.humboldt.edu">pcci.humboldt.edu</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
