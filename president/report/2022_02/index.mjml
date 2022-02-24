@@ -97,6 +97,7 @@
         <mj-text>
           I'm immensely grateful to everyone for your contributions to this effort. Our self-study and prospectus were conducted quickly under challenging circumstances, and they spotlighted our incredible strengths and areas for growth. Students, staff, faculty, alumni, donors, and community members were all integral to our success, and we will continue to seek input from and participation as we transition into a full polytechnic university.
         </mj-text>
+			</mj-column>
     </mj-section>
 			<mj-section css-class="light-wrap" padding="0">
       <mj-column>
@@ -109,7 +110,6 @@
           <li><a href="https://www.chronicle.com/newsletter/daily-briefing/2022-01-28" class="dark">Chronicle of Higher Education</a></li>
           </ul>
         </mj-text>
-      </mj-column>
 			</mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
