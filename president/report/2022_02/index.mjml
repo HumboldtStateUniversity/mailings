@@ -106,13 +106,13 @@
           <li><a href="https://www.chronicle.com/newsletter/daily-briefing/2022-01-28" class="dark">Chronicle of Higher Education</a></li>
           </ul>
         </mj-text>
-        <mj-text>
-        Alongside our campus' hard polytech work, we've made great strides in sustainability efforts. Sustainability at Cal Poly Humboldt is not just an initiative, but a culture. The <a href="https://facilitymgmt.humboldt.edu/sustainability-what-sustainability" class="dark">definition</a> of sustainability touches on a wide variety of programs and populations, with the intent of achieving the university's sustainability goals and educating our students to be ambassadors of sustainability.
-        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
+				 <mj-text>
+        Alongside our campus' hard polytech work, we've made great strides in sustainability efforts. Sustainability at Cal Poly Humboldt is not just an initiative, but a culture. The <a href="https://facilitymgmt.humboldt.edu/sustainability-what-sustainability" class="dark">definition</a> of sustainability touches on a wide variety of programs and populations, with the intent of achieving the university's sustainability goals and educating our students to be ambassadors of sustainability.
+        </mj-text>
         <mj-text>
           <ul>
             <li style="padding-bottom:14px;"><strong>Climate Action Plan</strong>: We are updating the ClimateAction Plan (CAP 2.0) and we want your input! The CAP 2.0 is a roadmap to guide the University toward achieving carbon neutrality by 2045, and to build resilience to climate change impacts. </li>
