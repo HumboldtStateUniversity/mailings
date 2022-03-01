@@ -80,10 +80,11 @@
             Cal Poly Humboldt’s vision to become an innovative polytechnic rests on our excellent academic programs. To that end, the University plans to launch <a href="https://www.humboldt.edu/polytechnic/academic-programming-build-out">12 new academic programs</a> and has proposed an additional 15 over the next seven years. 
           </mj-text>
           <mj-text>
-            <strong>New Academic Programs to Launch by 2023</strong>
-          	<ul>
-              <li>Applied Fire Science & Management B.S.; Cannabis Studies B.A.; Cybersecurity Stackable Certificate; Data Science B.S.; Energy Systems Engineering B.S.; Engineering & Community Practice M.Eng.; Equitable & Sustainable Future Certificate; Geospatial Science & Technology B.S.; Information Technology Certificate; Marine Biology B.S.; Mechanical Engineering B.S.; Software Engineering B.S.</li>
-            </ul>
+            <strong>New Academic Programs Planned to Launch by 2023</strong>
+          </mj-text>
+          <mj-text padding-left="40px">
+            Applied Fire Science & Management B.S.; Cannabis Studies B.A.; Cybersecurity Stackable Certificate; Data Science B.S.; Energy Systems Engineering B.S.; Engineering & Community Practice M.Eng.; Equitable & Sustainable Future Certificate; Geospatial Science & Technology B.S.; Information Technology Certificate; Marine Biology B.S.; Mechanical Engineering B.S.; Software Engineering B.S.
+          </mj-text>
           </mj-text>
           <mj-text>
             These high-demand programs emphasize the importance of building out our STEM offerings and our liberal arts programs. Both are crucial to the success of our students and Humboldt’s future. Our academic expansion also highlights the amazing expertise of our faculty. Those faculty include members of the Curriculum & Academic Programs Working Group. The team is responsible for planning and executing new curricula and content for new academic programs, and ensuring resources are thoughtfully allocated. 
@@ -93,7 +94,7 @@
       <mj-section css-class="light-wrap" padding="0">
         <mj-column>
           <mj-text>
-            Their work isn’t possible without our key partners—the <a href="https://academicprograms.humboldt.edu/content/integrated-curriculum-committee">Integrated Curriculum Committee</a> and the <a href="https://senate.humboldt.edu/">University Senate</a>. The ICC is reviewing curriculum and academic plans for all of the new Fall 2023 programs, for approval by the University Senate. We are excited to share that the below programs were approved by the University Senate to-date:
+            Their work isn’t possible without our key partners—the <a href="https://academicprograms.humboldt.edu/content/integrated-curriculum-committee">Integrated Curriculum Committee</a> and the <a href="https://senate.humboldt.edu/">University Senate</a>. Curriculum and academic plans for the Fall 2023 programs are being reviewed by the ICC before final consideration and approval by the University Senate. We are excited to share that the University Senate has approved the programs below to-date:
             <ul style="margin-bottom:0;">
               <li>Cannabis Studies, B.A.</li>
               <li>Data Science, B.S.</li>
