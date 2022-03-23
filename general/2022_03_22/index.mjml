@@ -1,0 +1,176 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Reminder: People-Centered Change Leadership Training</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+        }
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              March 23, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Spring 2022 Commencement Ceremonies
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>We're so excited to host Commencement ceremonies for the first Cal Poly Humboldt graduating class on Saturday, <strong>May 14 in Redwood Bowl! </strong></mj-text>
+          <mj-text>
+            The ceremonies will be held at the following times:<br><br>
+            <strong>8:30 a.m.—College of Arts, Humanities & Social Sciences<br>
+              Noon—College of Natural Resources & Sciences<br>
+              3:30 p.m.—College of Professional Studies</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Registration for Spring 2022 Commencement is now open and those who want to walk in the Commencement ceremony <strong>MUST sign up by Friday, April 8</strong>. Details about registering for the ceremony are on the <a href="https://commencement.humboldt.edu/">Commencement website</a>.
+          </mj-text>
+          <mj-text>
+            In addition to the Commencement ceremonies on May 14, the Cultural Centers for Academic Excellence will be hosting <a href="https://commencement.humboldt.edu/cultural-graduation-celebrations">
+            Cultural Graduation Celebrations</a> to honor the rich diversity of our students and celebrate this milestone achievement with the graduates and their families. Students can register for the celebrations at the same time as the Commencement ceremony. The celebrations will be held on the following days and times:
+          </mj-text>
+          <mj-text>
+            <strong>Queer Graduation Celebration</strong>—May 5, 5 – 7 p.m., Nelson Hall East, Goodwin Forum (Room 102) <br>
+            <strong>Native Graduation Celebration</strong>—May 12, 6 – 8 p.m., Van Duzer Theatre & Balabanis Art Quad <br>
+            <strong>Black Graduation Celebration</strong>—May 13, 1 – 3 p.m., Founders Hall Courtyard <br>
+            <strong>Latinx Graduation Celebration</strong>—May 13, 3 – 5 p.m., Kinesiology & Athletics, Lumberjack Arena <br>
+            <strong>Asian, Desi, Pacific Islander, Middle Eastern, and North African (ADPI+MENA) Graduation
+              Celebration</strong>—May 13, 5:30 – 7 p.m., Nelson Hall East, Goodwin Forum (Room 102)
+          </mj-text>
+          <mj-text>
+            Additional information about Commencement:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+           <ul>
+             <li><strong>Registration: Graduates MUST register by April 8 to participate in Commencement</strong>. This is in addition to officially applying for graduation. Students who have Spring 2022 and Summer 2022 graduation dates on file have been sent an email invitation with instructions about how to register themselves and their guests. <em>Students with a graduation date other than Spring or Summer 2022 who want to participate in the ceremony
+               may email <a href="mailto:grad@humboldt.edu">grad@humboldt.edu</a></em>.</li>
+             <li><strong>Guests</strong>: Guest tickets are required to enter Redwood Bowl, and students can claim tickets as part of the Commencement registration. There are no assigned seats, so first-come, first seated.  </li>
+             <li><strong>Health Requirements</strong>: In order to best protect the campus community, <strong>anyone
+               accessing campus events who is over the age of 12 will be required to show proof of a COVID-19
+               vaccination (including a booster shot) or a negative test result within 72 hours</strong>.
+             </li>
+             <li><strong>Regalia and Memorabilia</strong>: A black cap and gown are required to walk in the Commencement ceremony. Caps, rental gowns, tassels, hoods, and more are available to <a href="https://collegegrad.herffjones.com/">
+               order through the Humboldt Bookstore on the Herff Jones website</a>. Early bird pricing ends on March 25, and the final deadline to order your regalia for home shipping is April 17! If you have any questions regarding regalia orders, please contact the Humboldt Bookstore at (707) 826-3741. </li>
+             <li><strong>Grad Fair is today, Wednesday, March 23 from 10 a.m. to 3 p.m. at the Humboldt
+               Bookstore</strong>. This event is a one-stop shop for all things graduation and Commencement.
+             </li>
+             <li>
+               <strong>Faculty & Staff:</strong>
+               <ul>
+                 <li>Faculty and staff are encouraged to be part of the celebrations and support students at Commencement. Those who would like to walk in the processional and be seated in the faculty/staff section on the field will need to wear regalia. If needed, you may <a href="https://facultydirect.herffjones.com/">
+                   rent regalia for the ceremony through Herff Jones</a>. Deadline for faculty regalia orders to be received in time is March 25. Faculty and Staff should <a href="https://forms.gle/Dpw5XhMd6XCi38rZ6">
+                   sign up to participate in the processional
+                 </a> by May 4.
+                   </li>
+                 <li>Staff members are needed to work one, two, or all three ceremonies. Staff who want to work on Saturday are asked to make arrangements with their supervisor and complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0Q5HbgD97OCKq1IFNKlp6ydC_G_NkLGmc_-GyeZgMpXz1nQ/viewform?usp=sf_link">
+                   form with their availability and shift preferences</a>.</li>
+               </ul>
+             </li>
+             <li><strong>Watch Commencement</strong>: Ceremonies will be livestreamed so that families, friends, and the campus community can watch and help graduates celebrate their big moment. There will be a link on <a href="https://humboldt.edu/">humboldt.edu</a> the days of the events. A video will be available on <a href="https://commencement.humboldt.edu/">commencement.humboldt.edu
+             </a> in the week following.</li>
+           </ul>
+          </mj-text>
+          <mj-text>
+            The safety of our Lumberjack community and their families is a priority. All plans are subject to change based on the status of the pandemic, and additional regulations may be required based on Humboldt County Public Health and University health and safety guidelines.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            For questions about Commencement ceremonies or student registration, contact Commencement coordinators Kristen Gould and Stephanie Lane at <a href="mailto:grad@humboldt.edu">
+            grad@humboldt.edu</a>.
+          </mj-text>
+          <mj-text>
+            For questions about faculty participation, contact:
+          </mj-text>
+          <mj-text>
+            <ul>
+              <li>College of Arts, Humanities & Social Sciences—Shannon Collart,
+                <a href="mailto:Shannon.Collart@humboldt.edu">Shannon.Collart@humboldt.edu</a></li>
+              <li>College of Natural Resources & Sciences—Arlene Wynne, <a href="mailto:Arlene.Wynn@humboldt.edu">Arlene.Wynn@humboldt.edu</a> </li>
+              <li>College of Professional Studies—Jean Thomson,
+                <a href="mailto:Jean.Thomson@humboldt.edu">Jean.Thomson@humboldt.edu</a></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>We can’t wait to help celebrate Cal Poly Humboldt’s first graduating class!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
