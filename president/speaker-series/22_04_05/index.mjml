@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/22-04-05/presidentsLectureSeries_jacobs-calhoun_sp2022_v3.jpg" alt="Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler" padding="0"/>
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/22_04_05/presidentsLectureSeries_jacobs-calhoun_sp2022_v3.jpg" alt="Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler" padding="0"/>
       </mj-column>
     </mj-section>
 
