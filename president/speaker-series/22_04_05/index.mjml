@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/22_04_05/presidentsLectureSeries_jacobs-calhoun_sp2022_v3.jpg" alt="Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler" padding="0"/>
+        <mj-image src="https://mailings.humboldt.edu/president/speaker-series/22_04_05/presidentsLectureSeries_jacobs-calhoun_sp2022.jpg" alt="Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler" padding="0"/>
       </mj-column>
     </mj-section>
 
@@ -79,7 +79,7 @@
     <mj-section css-class="light-wrap" padding="0">
       <mj-column>
         <mj-text>
-          For this year’s theme–<em>Advancing Women and People of Color in Higher Education</em>–Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler will lead a panel discussion on Tuesday, <strong>April 19 at 5 p.m.</strong> They will share their journey in higher education, provide insights on strategies to increase diversity in our industry, and provide tools for women and people of color to advance in this profession.</mj-text>
+          For this year’s theme&mdash;<em>Advancing Women and People of Color in Higher Education</em>&mdash;Dr. Bonita Jacobs, President, University of North Georgia and Dr. Kirk A. Calhoun, President, University of Texas at Tyler will lead a panel discussion on Tuesday, <strong>April 19 at 5 p.m.</strong> They will share their journey in higher education, provide insights on strategies to increase diversity in our industry, and provide tools for women and people of color to advance in this profession.</mj-text>
         <mj-text>
          Dr. Eboni Ford Turnbow, Dean of Students for Cal Poly Humboldt, will serve as the moderator for the Speaker Series. Dr. Turnbow was recognized by the Center for Women of the National Association of Student Personnel Administrators for her research on gender and racial inequality experienced by women administrators who work in student affairs at colleges and universities.
         </mj-text>
