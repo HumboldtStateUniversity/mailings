@@ -91,7 +91,7 @@
         Register here and learn more about the panelists
       </mj-button>
         <mj-text>
-          Information on the Presidential Speaker Series, including future speakers, event registration, and archived presentations, is available at <a href="http://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
+          Information on the Presidential Speaker Series, including future speakers, event registration, and archived presentations, is available at <a href="https://president.humboldt.edu/speakerseries" class="dark">president.humboldt.edu/speakerseries</a>.
         </mj-text>
       </mj-column>
     </mj-section>
