@@ -1,0 +1,127 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Campus Update Regarding Title IX Story and Public Records Requests</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+        }
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              April 20, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Campus Update Regarding Title IX Story and Public Records Requests
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>On Monday, USA Today published a story documenting Title IX harassment complaints substantiated in 2016 against a former Cal Poly Humboldt Academic Dean and current faculty member, and called into question his ability to retreat to faculty following these findings. Our <a href="https://mailings.humboldt.edu/general/2022_04_15/">
+            campus message on April 15, 202</a>2 provided resources for support for Title IX matters and other instances of harm, as well as context on the process and steps leading up to the publication of the article.  </mj-text>
+          <mj-text>
+            We recognize this information raises many questions, emotions, and even fear or feelings of trauma among students, faculty, and staff. We want to reiterate our continued commitment and efforts to provide a strong campus culture of support and sustain a safe environment for our entire community.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            For those needing support we encourage you to contact the <a href="https://titleix.humboldt.edu/hsu-cat">Campus Advocate Team</a> for fully <strong>
+            confidential
+          </strong> support at (707) 445-2881. They work with, not for, the University and provide trained care and advocacy to the community. Staffed by the <a href="https://www.ncrct.org/">
+            North Coast Rape Crisis Team</a>, advocates are available 24/7 to meet with students, staff, and faculty to provide options, choices, and a compassionate and caring ear. The Campus Advocate Team is available for anyone regardless of age, gender, and other identity, and regardless of when the harm occurred.
+          </mj-text>
+          <mj-text>
+            Much has changed since 2016. Cal Poly Humboldt has evolved and continues to improve ways to better prevent and respond to incidents of harm. Looking forward, it is the duty of every member of our community—including all faculty, academic chairs, deans, campus administration, staff, and students—to commit to collectively ensuring we all continue to not just discuss, but implement a culture of care, survivor support, and prevention education. This entails enforcing clear and accessible anti-violence policies, facilitating retaliation-free reporting, and offering every survivor options for accountability. Our campus <a href="https://stoprape.humboldt.edu/">
+            Sexual Assault Prevention Committee (SAPC)</a>, in partnership with the North Coast Rape Crisis Team and the Office of Title IX & Discrimination, Harassment, & Retaliation (DHR) Prevention will continue to support this meaningful change on campus.
+          </mj-text>
+          <mj-text>
+            Several campus leaders and stakeholders are working with representatives from SAPC to collaborate on the next steps for substantial work. We remain committed to the work that is necessary to respond ethically and strategically to create a shared community of compassion and accountability.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            <a href="https://titleix.humboldt.edu/contact-titleix">The Title IX team</a> is standing by to respond to campus community members who have experienced harassment, discrimination, retaliation, sexual misconduct, dating or domestic violence, or stalking. Any members of the campus community who would like to report a Title IX violation or seek support can contact the Title IX Office at:
+            <ul>
+              <li>Phone: (707) 826-5177</li>
+              <li>Email: <a href="mailto:titleix@humboldt.edu">titleix@humboldt.edu</a></li>
+              <li>File a report online at this link: <a href="https://hsu.link/TitleIXReport">https://hsu.link/TitleIXReport</a></li>
+              <li>Complete this Formal Complaint Form and email to the Title IX and DHR Prevention Office: <a href="https://hsu.link/TitleIXFormalComplaint">https://hsu.link/TitleIXFormalComplaint</a></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Questions regarding how to complete the report or Formal Complaint can be directed to the Title IX & DHR Prevention Office or the Campus Advocate Team.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
