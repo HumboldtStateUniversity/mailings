@@ -130,8 +130,7 @@
           Students were also offered career advice and guidance. The Peace Corps representative, the new diplomat in residence from the State Department, and our own Academic Career and Advising Center gave tips and practical steps about working overseas. Humboldt has been recognized many times as one of the Peace Corps’ top volunteer-producing universities.
         </mj-text>
         <mj-text>And as always, I encourage students to explore our <a href="https://humboldt-international.terradotta.com/" class="dark">study abroad programs</a>. They are often more affordable and within greater reach than people expect, and can create opportunities and experiences that last a lifetime. </mj-text>
-        <mj-text>Finally, I invite you to learn more about our continued polytechnic implementation, a campus-wide effort with buy-in from our entire community. <a href="https://www.humboldt.edu/polytechnic" class="dark">
-          Learn more, give feedback, and get involved by visiting humboldt.edu/polytechnic</a>.</mj-text>
+        <mj-text>Finally, I invite you to learn more about our continued polytechnic implementation, a campus-wide effort with buy-in from our entire community. Learn more, give feedback, and get involved by visiting <a href="https://www.humboldt.edu/polytechnic" class="dark">humboldt.edu/polytechnic</a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section css-class="dark-wrap">
@@ -275,8 +274,8 @@
           <h2>Renowned Local Hero Betty Chinn to Receive Honorary Doctorate</h2>
           Cal Poly Humboldt will confer an Honorary Doctorate of Humane Letters to local philanthropist and hero Betty Kwan Chinn at this May’s Commencement ceremony. Chinn will be one of only 13 recipients of an honorary degree in the University’s history.
         </mj-text>
-        <mj-button href="https://link.humboldt.edu/ZAc">
-          Read about 'A Day On'
+        <mj-button href="https://now.humboldt.edu/news/renowned-local-activist-betty-chinn-to-receive-honorary-doctorate">
+          Read about Betty Chinn
         </mj-button>
       </mj-column>
     </mj-section>
@@ -308,7 +307,7 @@
   </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/cal_poly_humboldt_rohdes.jpg" alt="Jerry and Gisela Rohde" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/cal_poly_humboldt_rohdes.jpg" alt="Jerry and Gisela Rohde" />
         <mj-text color="#fff">
           <h2>Transformational Gift to Help Document the Past and Preserve the Future</h2>
           Inspired by their passion for Humboldt, history, and lifelong learning, Jerry and Gisela Rohde have made a transformational gift to the Cal Poly Humboldt Library and its Osher Lifelong Learning.
@@ -320,7 +319,6 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/tim_karas_1.jpg" alt="Tim Karas" />
         <mj-text>
           <h2>Community College President Behind the Scenes of the ‘Greatest Stories’</h2>
           Tim Karas (‘91, Geography) is the president of Mendocino College, and says their mission is to be a gateway to higher education and help students find their home.
@@ -329,16 +327,21 @@
           Read about Tim Karas
         </mj-button>
       </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/tim_karas_1.jpg" alt="Tim Karas" />
+      </mj-column>
     </mj-section>
     <mj-section css-class="dark-wrap">
       <mj-column>
-        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/jennifer_khophoto_by_candice_dickens_russell_0_30.jpg" alt="Jennifer Kho" />
         <mj-text color="#fff">
           <h2>Journalist Wields Media Strategy to Make an Impact</h2>
           As a young student, Jennifer Kho (‘99, Journalism) jumped straight into the deep end at The Lumberjack, Humboldt’s student newspaper, where one assignment after another led her off campus and into the community.
         </mj-text>
         <mj-button href="https://now.humboldt.edu/news/journalist-wields-media-strategy-empower-communities-make-impact">
           Read about Jennifer Kho        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/jennifer_khophoto_by_candice_dickens_russell_0_30.jpg" alt="Jennifer Kho" />
       </mj-column>
     </mj-section>
     <mj-section css-class="section-heading">
@@ -369,7 +372,7 @@
           Read about the regatta        </mj-button>
       </mj-column>
       <mj-column>
-        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/A60Y8424_71.jpg" alt="Women's rowing team on water" />
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/A60Y8424_71.jpg" alt="Women's rowing team on water" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap">
@@ -378,7 +381,7 @@
           <h2>Student-Athlete Advisory Committee Donates 600+ Canned Goods to Campus’ Oh SNAP!</h2>
           This year's drive was held in conjunction with a Dodgeball Tournament that involved the athletic and campus recreation departments. The Lumberjack SAAC raised 611 cans that were donated to the campus' Oh SNAP! Student Food Programs.
         </mj-text>
-        <mj-button href="https://now.humboldt.edu/news/cal-poly-humboldt-adds-triathlon-as-12th-ncaa-division-ii-sport">
+        <mj-button href="https://humboldtathletics.com/news/2022/3/11/general-cal-poly-humboldts-student-athlete-advisory-committee-donates-611-canned-goods-to-campus-oh-snap.aspx">
           Read about the Student-Athlete Advisory Committee food drive</mj-button>
       </mj-column>
     </mj-section>
