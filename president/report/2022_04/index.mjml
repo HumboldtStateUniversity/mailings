@@ -1,0 +1,397 @@
+<mjml>
+  <mj-head>
+		<mj-title>Humboldt President's Report - February 2022</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Lato, Arial, sans-serif" font-size="16px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h1 {
+        line-height: 28px;
+        margin: 0 auto;
+      }
+
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #fff;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #5C8021;
+        text-decoration: underline;
+      }
+
+      .dark-wrap {
+        background: #5C8021;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F2F4EF;
+      }
+
+      .section-heading {
+        border-bottom: solid 1px #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9495">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/CPH-mark-white-lighter.png" alt="Cal Poly Humboldt" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Report Header -->
+    <mj-section background-color="#25551B" padding="20px 20px 0">
+      <mj-column>
+         <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/51970423394_1ed7bf8469_c.jpg" alt="Cal Poly Humboldt Gate" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Date -->
+
+    <mj-section background-color="#25551B" padding="0">
+      <mj-column width="70%">
+
+        <mj-text css-class="dark-wrap" color="#fff" font-size="22px" font-weight="600">
+
+          <em>President's Report</em>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text align="right" container-background-color="#fff" color="#5C8021" font-size="18px">
+          April <br>2022
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section css-class="light-wrap" padding-bottom="0">
+
+      <mj-column width="30%">
+        <mj-image src="https://mailings.humboldt.edu/president/report/pres082020_0081.jpg" alt="President Jackson" border-radius="100px" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          Since our transition to a polytechnic university became official, I’ve had the honor to connect with a wide variety of community and Tribal groups to share our vision and also explore greater opportunities to partner and discuss shared interests, goals and priorities.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>Provost Jenn Capps and I recently met with the Humboldt Association of Realtors to discuss our enrollment and hiring growth expectations, and to share ideas to ensure housing is available for the community. Earlier I met with the Arcata Chamber of Commerce, the business leaders of our community, many of whom are Humboldt alumni. I also had a very positive meeting with the community leaders who make up the President’s Community Advisory Committee.
+				</mj-text>
+        <mj-text>
+          In early April, College of the Redwoods President Keith Flamer, Provost Jenn Capps and I visited the Hoopa Valley Tribal Nation headquarters and met with the leaders of the regional Tribal Nations to learn more about how Cal Poly Humboldt can partner to support the educational dreams of their members. These visits are designed to honor the sovereignty of each Tribal Nation through a reciprocal relationship, characterized by listening and sharing. College of the Redwoods has an established center and relationship with the Hoopa Valley Tribe, on which both institutions may continue to build in service to the Tribe.
+        </mj-text>
+        <mj-text>
+          President Flamer and I are also building on the work of the Native American Advisory Council (NAAC), which was re-established by former Cal Poly Humboldt President Lisa Rossbacher, to foster a Tribal government-to-university relationship. This vital connection to the Native American communities prioritizes the development of leader-to-leader relationships through one-on-one meetings and visits to Tribal headquarters, attendance as invited guests at Tribal events, participation in specific Northcoast Tribal Leaders Association meetings, and hosting an annual spring campus meeting.
+        </mj-text>
+			</mj-column>
+    </mj-section>
+			<mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+				<mj-text>
+                  This leader-to-leader relationship is an expression of President Flamer’s and my respect for the sovereignty of tribal nations and their desire to listen to and speak directly with elected leaders.
+                  Based on insights from Tribal leaders and others about the higher education trajectories and
+                  persistent structural challenges impacting local Native students, the new joint NAAC will serve as an external advisory group of Tribal leaders for the Presidents of the College of the Redwoods and Cal Poly Humboldt.
+
+                </mj-text>
+			</mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+				 <mj-text>
+                   Many people have been concerned by global events recently, and I am reminded that we are part of a global community, rich in opportunities and experiences, that help educate our students.
+                 </mj-text>
+        <mj-text>
+          We recently hosted International Education Week, an annual opportunity to explore, learn about and celebrate our connections to the world beyond our local and national boundaries.
+        </mj-text>
+        <mj-text>Mary Akpovi, the keynote speaker, was born overseas, but gained her education and has spent her professional life here in California. Throughout her experiences, she has maintained her global outlook through volunteer work overseas where she has been instrumental in founding schools in three African countries that support vocational education for women. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-text>
+          Additionally, our campus and greater community were able to hear from Tom Mills from University of Lancaster. He shared about Latin America from the British point of view, and Baroness Suttie of Hawick, a member of the House of Lords in London and leading political expert on Russia.
+        </mj-text>
+        <mj-text>
+          Students were also offered career advice and guidance. The Peace Corps representative, the new diplomat in residence from the State Department, and our own Academic Career and Advising Center gave tips and practical steps about working overseas. Humboldt has been recognized many times as one of the Peace Corps’ top volunteer-producing universities.
+        </mj-text>
+        <mj-text>And as always, I encourage students to explore our <a href="https://humboldt-international.terradotta.com/" class="dark">study abroad programs</a>. They are often more affordable and within greater reach than people expect, and can create opportunities and experiences that last a lifetime. </mj-text>
+        <mj-text>Finally, I invite you to learn more about our continued polytechnic implementation, a campus-wide effort with buy-in from our entire community. <a href="https://www.humboldt.edu/polytechnic" class="dark">
+          Learn more, give feedback, and get involved by visiting humboldt.edu/polytechnic</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0202-staff_LARGE.jpg" alt="2022 Staff Recognition Award Recipients" />
+        <mj-text color="#fff">
+          <h2 align="center">2021-22 Staff Recognition Awards</h2>
+          Much of the success of Cal Poly Humboldt depends on the dedication, experience, and skill of our staff. For more than three decades, the annual Staff Recognition Awards program has recognized meritorious staff members at Humboldt. Congratulations to the 2021-22 award recipients! Read more about the recipients.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/2021-22-staff-recognition-awards">
+          Meet the recipients</mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Academics</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+         <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/NOW_faculty.jpg" alt="Distinguished Faculty awardees Lonny Grafman, Frank Shaughnessy, and Michihiro Sugata" />
+        <mj-text color="#fff">
+          <h2>Distinguished Faculty Lectures: Connections and Incarceration</h2>
+          Engagement between student and faculty in the classroom. Dreams of freedom and of confinement in the era of Japanese incarceration. Two powerful talks by winners of the 2020-21 Distinguished Faculty Awards.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/distinguished-faculty-lectures-resilience-connections-incarceration">
+          Learn more about the distinguished faculty lectures
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0318-Eli_LARGE.jpg" alt="Eli Allen, Graduate student in Biological Sciences, is one of the competitors in the CSU Student Research Competition." />
+        <mj-text>
+          <h2>Students Chosen to Represent Cal Poly Humboldt at CSU Research Competition</h2>
+          Ten students were chosen as the 2022 outstanding student researchers, following competitive review of their written summaries by the Planning Committee for Research, Scholarly and Creative Activities.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/students-chosen-represent-cal-poly-humboldt-csu-student-research-competition">
+          Learn about the 2022 outstanding student researchers
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>
+            Rangeland Resource Science Students Win Triple Recognition in Albuquerque
+          </h2>
+          Once again proving their plant prowess, Cal Poly Humboldt students won big at a national plant identification competition.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/cal-poly-humboldt-rangeland-resource-science-students-win-triple-recognitio">
+          Learn about their wins</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0304-PlantID_LARGE.jpg" alt="Attendees to the plant ID competition (left to right): Kaleie Pena, Ezra Huebner, Stephanie Sandoval, Autumn Pecarovich, Michael Miller, Caitlin Davis, Britney Long, Jennie Hernandez, Hunter Mortensen, Tiffany Douglas, Emma Kirshten, Todd Golder, and Susan Edinger Marshall." />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>It’s the Authors of Cal Poly Humboldt!</h2>
+          Now in its eighth year, the Library's Humboldt Authors Celebration showcases the published work of diverse University authors. It is a way of regularly honoring the achievements and expertise of students, faculty, staff, and alumni.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/its-the-authors-of-cal-poly-humboldt">
+          Read about the Humboldt Authors Celebration
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0206-SKY_LARGE.jpg" alt="Film post production workstation" />
+        <mj-text color="#fff">
+          <h2>New Apple TV+ Film: Cameos and Hands-on Experience for Students</h2>
+          Visual and performing arts students have many opportunities to apply what they learn. Their projects include everything from producing a film on campus (pictured) to working on the set of a new feature movie–one of the perks of living in an area that often attracts major film producers.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/cameos-and-hands-on-experience-for-new-apple-tv-film">
+          Read about the projects
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Diversity, Equity & Inclusion</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/eboniTurnbow_Now_large_IMG7343044861413722650.jpg" alt="Eboni Turnbow takes the stage" />
+        <mj-text>
+          <h2>Research Sheds Light on Challenges for Women Administrators</h2>
+          Gender and racial inequity are weighing on women administrators who work in Student Affairs at colleges and universities, affecting their wellbeing and personal lives, according to research by Eboni Ford Turnbow, Dean of Students.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/award-winning-research-sheds-light-challenges-women-administrators">
+          Learn about Dr. Turnbow's research
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Calling out Aversive Racism in Academic Medicine</h2>
+          The systemic effects of aversive racism––characterized as racist tendencies despite the endorsement of egalitarian values––is prevalent in academic medicine, impeding diversity, equity, and inclusion efforts. This is according to new research by Cal Poly Humboldt Psychology Professor Gregg Gold and physicians at UCLA and UC San Francisco medical schools.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/calling-out-aversive-racism-in-academic-medicine">
+          Learn about  Professor Gold's research
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0206-Gold_LARGE.jpg" alt="Gregg Gold" />
+      </mj-column>
+    </mj-section>
+       <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Community Engagement & Impact</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+
+        <mj-text>
+          <h2>HSU Joins California’s Historic College Service Program</h2>
+          California recently launched the largest state-level investment in a college service program in California history: #CaliforniansForAll College Corps, which will help create debt-free college pathways for low-income students who commit to serve. Cal Poly Humboldt will be awarded up to $3.3 million to support approximately 100 students each year for their community projects, and to support community partners that host students over the next two academic years, starting in Fall 2022.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/humboldt-state-university-joins-californias-historic-college-service-progra">
+          Read about the program</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Renowned Local Hero Betty Chinn to Receive Honorary Doctorate</h2>
+          Cal Poly Humboldt will confer an Honorary Doctorate of Humane Letters to local philanthropist and hero Betty Kwan Chinn at this May’s Commencement ceremony. Chinn will be one of only 13 recipients of an honorary degree in the University’s history.
+        </mj-text>
+        <mj-button href="https://link.humboldt.edu/ZAc">
+          Read about 'A Day On'
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Resources</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+      <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0304-SHRC_LARGE.jpg" alt="Student Health & Counseling sign" />
+        <mj-text>
+          <h2>Cal Poly Humboldt Expands Health Care with New Telehealth Service</h2>
+          Telehealth has proven to be an essential tool for helping students stay connected with healthcare providers during the pandemic. To continue supporting the health and wellbeing of students, Cal Poly Humboldt has added a supplemental telehealth service called TimelyCare.
+        </mj-text>
+         <mj-button href="https://now.humboldt.edu/news/cal-poly-humboldt-expands-health-care-with-new-telehealth-service">
+           Learn about TimelyCare
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+    <mj-column>
+      <mj-text color="#fff">
+        <h1 align="center">Giving & Alumni</h1>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/cal_poly_humboldt_rohdes.jpg" alt="Jerry and Gisela Rohde" />
+        <mj-text color="#fff">
+          <h2>Transformational Gift to Help Document the Past and Preserve the Future</h2>
+          Inspired by their passion for Humboldt, history, and lifelong learning, Jerry and Gisela Rohde have made a transformational gift to the Cal Poly Humboldt Library and its Osher Lifelong Learning.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/documenting-past-and-preserving-future">
+          Read about the gift
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/tim_karas_1.jpg" alt="Tim Karas" />
+        <mj-text>
+          <h2>Community College President Behind the Scenes of the ‘Greatest Stories’</h2>
+          Tim Karas (‘91, Geography) is the president of Mendocino College, and says their mission is to be a gateway to higher education and help students find their home.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/community-college-president-behind-scenes-greatest-stories">
+          Read about Tim Karas
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/jennifer_khophoto_by_candice_dickens_russell_0_30.jpg" alt="Jennifer Kho" />
+        <mj-text color="#fff">
+          <h2>Journalist Wields Media Strategy to Make an Impact</h2>
+          As a young student, Jennifer Kho (‘99, Journalism) jumped straight into the deep end at The Lumberjack, Humboldt’s student newspaper, where one assignment after another led her off campus and into the community.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/journalist-wields-media-strategy-empower-communities-make-impact">
+          Read about Jennifer Kho        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section-heading">
+      <mj-column>
+        <mj-text color="#fff">
+          <h1 align="center">Athletics</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/report/2022_04/2022-0216-Tri_LARGE.jpg" alt="Triathlon image" />
+        <mj-text>
+          <h2>Cal Poly Humboldt Adds Triathlon as 12th DII Sport</h2>
+          Cal Poly Humboldt will become the 40th program to offer women's triathlon at the varsity level when it fields a team starting in the 2022-23 season.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/cal-poly-humboldt-adds-triathlon-as-12th-ncaa-division-ii-sport">
+          Read the triathlon story</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap">
+      <mj-column>
+        <mj-text color="#fff">
+          <h2>Jacks Perform Well in Annual Regatta</h2>
+          Cal Poly Humboldt women's rowing team hosted their annual regatta on March 26 at the Humboldt Bay Aquatic Center in Eureka. The varsity 4+ B team captured first to lead the way for the Jacks.
+        </mj-text>
+        <mj-button href="https://humboldtathletics.com/news/2022/3/26/general-jacks-perform-well-in-annual-regatta.aspx">
+          Read about the regatta        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image href="https://mailings.humboldt.edu/president/report/2022_04/A60Y8424_71.jpg" alt="Women's rowing team on water" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text>
+          <h2>Student-Athlete Advisory Committee Donates 600+ Canned Goods to Campus’ Oh SNAP!</h2>
+          This year's drive was held in conjunction with a Dodgeball Tournament that involved the athletic and campus recreation departments. The Lumberjack SAAC raised 611 cans that were donated to the campus' Oh SNAP! Student Food Programs.
+        </mj-text>
+        <mj-button href="https://now.humboldt.edu/news/cal-poly-humboldt-adds-triathlon-as-12th-ncaa-division-ii-sport">
+          Read about the Student-Athlete Advisory Committee food drive</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="dark-wrap" border-top="solid 1px #fff">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h2>
+            Follow @humboldtprez!
+          </h2>
+          <a href="https://instagram.com/humboldtprez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Instagram</a> | <a href="https://twitter.com/humboldtprez/?utm_source=president-report&utm_medium=email&utm_campaign=pres-report-sept19">Twitter</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+		
+  </mj-body>
+</mjml>
