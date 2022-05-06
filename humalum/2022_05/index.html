@@ -1,0 +1,668 @@
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Crabs are back at the ballpark!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <style type="text/css">
+        body {
+            background-color: #e6e6e6;
+            margin: 0;
+            padding: 0;
+        }
+
+        p {
+            color: #333333;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 12px;
+            margin: 0 0 6px 0px;
+            padding: 5px 0 0 0;
+            line-height: 16px;
+            max-width: 290px;
+        }
+
+        a {
+            /*font-weight: bold;*/
+            color: #2d532d;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 12px;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #e7a407;
+        }
+
+        .grey-text {
+            color: #999999 !important;
+        }
+
+        .yellow-text {
+            color: #e7a407;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        ul {
+            color: #333333;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 12px;
+            font-weight: normal;
+            margin: 10px 0 8px 10px;
+            padding: 0 0 0 0;
+        }
+
+        li {
+            list-style: none;
+            margin: 0;
+        }
+
+        ul li {
+            margin: 0 0 12px 10px;
+            max-width: 275px;
+        }
+
+        ul.no-margin {
+            margin: 0px;
+        }
+
+        ul.no-margin li {
+            margin: 0px;
+            padding: 0 0 10px;
+        }
+
+        img {}
+
+        p.caption {
+            margin: 0;
+        }
+
+        .permission {
+            padding: 20px 0;
+        }
+
+        .header {
+            background-position: top center;
+            background-repeat: no-repeat;
+            padding-top: 40px;
+        }
+
+        .content {
+            background-color: #fff;
+        }
+
+        h4.section {
+            color: #2d532d;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 15px 0 2px 0;
+            padding: 0 0 4px 0;
+            clear: left;
+            /* text-transform: uppercase; */
+        }
+
+        h4.date {
+            font-size: 12px;
+            /* text-transform: uppercase; */
+            font-family: "Lucida Grande", sans-serif;
+            color: #555;
+        }
+
+        h4 a {
+            font-size: 16px !important;
+            text-decoration: none;
+        }
+        .border {
+            border: 1px solid #999;
+            padding: 10px 15px;
+            width: 175px;
+            margin: 0px 0px 10px;
+            background: #f6f6f6;
+        }
+        .button {
+            margin-top: 7px;
+            margin-left: 0px;
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #057743;
+            border: 1px solid #444;
+            width: 150px;
+            border-radius: 3px;
+            text-align: center;
+        }
+
+        .button a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+        }
+
+        .button a:hover {
+            text-decoration: underline;
+        }
+
+        .submit {
+            margin-top: 20px;
+            margin-left: 0px;
+            padding: 10px;
+            background-color: #057743;
+            border: 1px solid #444;
+            width: 150px;
+            border-radius: 3px;
+            text-align: center;
+        }
+        .submit--full {
+            width: 288px;
+            margin-bottom: 10px;
+        }
+        .submit a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 14px;
+        }
+
+        .submit a:hover {
+            text-decoration: underline;
+        }
+
+        .submit-sm {
+            margin-top: 10px;
+            margin-left: 0px;
+            padding: 10px;
+            background-color: #eee;
+            border: 1px solid #cfcfcf;
+            width: 150px;
+            border-radius: 3px;
+            text-align: center;
+        }
+
+        .submit-main {
+            margin-top: 10px;
+            margin-left: 0px;
+            padding: 10px;
+            background-color: #eee;
+            border: 1px solid #cfcfcf;
+            width: 270px;
+            border-radius: 3px;
+            text-align: center;
+        }
+
+        .submit-main p {
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        .submit-sm a,
+        .submit-main a {
+            color: #2d532d;
+            text-decoration: none;
+            font-weight: 300;
+            font-size: 12px;
+        }
+        /* .intro{
+		border:0 !important;
+		margin-bottom:0px !important;
+		font-size:14px !important;
+	}
+	*/
+
+        .heading-alpha {
+            color: #25551b;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 15px 0 5px;
+            padding: 0;
+            clear: left;
+            max-width: 290px;
+        }
+
+        .heading {
+            color: #25551b;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 10px 0 4px 0;
+            clear: left;
+            max-width: 290px;
+            line-height: 20px;
+            /* text-transform: uppercase; */
+        }
+
+        h5.sub-heading {
+            margin: 20px 0 4px 0;
+        }
+
+        h5.sub-heading a {
+            color: #25551b;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 13px;
+            padding: 0;
+            clear: left;
+            max-width: 290px;
+        }
+
+        .main-col-img {
+            /* border: solid 1px #999; */
+            margin: 3px 0px 10px 0px;
+            display: block;
+        }
+
+        .left {
+            margin: 3px 10px 5px 0px;
+            float: left;
+        }
+
+        .section-wrapper {
+            padding-bottom: 25px;
+            /*border-bottom: 1px solid #eee;*/
+        }
+        /* side bar styles */
+
+        .sidebar {
+            padding-top: 20px;
+        }
+
+        .sidebar p.sidetext {
+            font-size: 12px;
+        }
+
+        h3.side-heading {
+            color: #2d532d;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 30px 0 14px 5px;
+            padding: 0;
+        }
+
+        ul.social {
+            margin: 0 0 10px 0;
+        }
+
+        ul.social li {
+            margin: 0px;
+            line-height: 18px;
+        }
+
+        .event-title {
+            font-size: 14px;
+            color: #e7a407;
+        }
+
+        .networks {
+            margin: 5px 0 10px 0;
+        }
+
+        .networks a {
+            padding: 0 3px 0 0;
+        }
+
+        .footer {
+            padding: 0px 0 25px 0;
+        }
+
+        blockquote {
+            border-left: 2px solid #e7a407;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 12px;
+            font-weight: normal;
+            padding: 10px 20px;
+            margin: 0;
+            max-width: 270px;
+        }
+    </style>
+</head>
+
+<body>
+<table cellspacing="0" border="0" cellpadding="0" width="100%" style="background-color:#e6e6e6;">
+    <tr>
+        <td align="center">
+            <table cellspacing="0" border="0" cellpadding="0" width="580">
+                <!-- ======================= HSU Wordmark ============================-->
+
+                <!-- ======================= email header ============================-->
+                <tr>
+                    <td class="header" align="left" valign="bottom">
+                        <a href="https://www.humboldt.edu" border="0"><img src="https://mailings.humboldt.edu/humalum/2022_05/header-mark.jpg" height="41" width="580" border="0" alt="Humboldt State University" style="display:block;"/></a>
+
+                        <a href="https://forever.humboldt.edu?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05" style="font-weight:bold;color:#2d532d;font-family:'Lucida Grande', sans-serif;font-size:12px !important;"><img src="https://mailings.humboldt.edu/humalum/2022_05/logo.jpg" height="132" alt="Forever Humboldt Alumni Newsletter" width="580" style="display:block;" /></a>
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        <table class="content" cellspacing="16" border="0" height="130" cellpadding="0" width="580">
+                            <tr>
+                                <td class="main bar" align="left" valign="top" width="290">
+                                    <h4 class="date">May 2022</h4>
+                                    <!-- ===================== Section 1-1 ===================== -->
+
+                                    <div class="section-wrapper">
+                                        <h4 class="heading">
+                                            <a href="https://host.nxt.blackbaud.com/registration-form/?formId=e4f46d03-2a20-4479-ab8c-0166588fb731&envId=p-kYh76efQwk2lvjMidehRmA">
+                                                Forever Humboldt Crabs Game is back!
+                                            </a>
+                                        </h4>
+                                        <p><a href="https://host.nxt.blackbaud.com/registration-form/?formId=e4f46d03-2a20-4479-ab8c-0166588fb731&envId=p-kYh76efQwk2lvjMidehRmA"><img src="https://mailings.humboldt.edu/humalum/2022_05/main1.jpg" alt="Batter taking a swing in a crabs uniform" width="288" height="162" class="main-col-img" /></a></p>
+                                        <p>
+                                            Join other Humboldt alumni, friends and families for an evening of fun at the Arcata Ball Park as the Crabs take on the Seattle Studs! Enjoy a traditional BBQ dinner with vegan and gluten-free options, a Forever Humboldt raffle, corn hole, and more.
+                                        </p>
+                                        <p><strong><a href="https://host.nxt.blackbaud.com/registration-form/?formId=e4f46d03-2a20-4479-ab8c-0166588fb731&envId=p-kYh76efQwk2lvjMidehRmA">This event sells out quickly every year, so register today</a>! &nbsp;&raquo;</strong></p>
+
+                                    </div>
+                                    <!-- ==================  Section 2  ================== -->
+
+                                    <div class="section-wrapper">
+                                        <h4 class="heading"><a href="https://giving.humboldt.edu/content/forever-giving-feature-me-mini/alumni-support-stem-scholarships-and-entrepreneurship?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">
+                                            Alumni Support STEM Scholarships and Entrepreneurship
+                                        </a></h4>
+                                        <p><a href="https://giving.humboldt.edu/content/forever-giving-feature-me-mini/alumni-support-stem-scholarships-and-entrepreneurship?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05"><img src="https://mailings.humboldt.edu/humalum/2022_05/main2.jpg" alt="Kathy and John Ballard smiling for the camera on a boat" width="288" height="216" class="main-col-img" /></a></p>
+                                        <p>
+                                            After more than a decade supporting high-achieving and deserving students, Kathy and John Ballard are now shifting their focus to make an even broader impact with the Ballard Scholarship Fund endowment. Their gift provides annual scholarships for STEM students, and funds an effort aimed at supporting aspiring entrepreneurs, providing mentoring and paid internships that benefit all majors.
+                                        </p>
+                                        <p><strong><a href="https://giving.humboldt.edu/content/forever-giving-feature-me-mini/alumni-support-stem-scholarships-and-entrepreneurship?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Read the full story</a> &nbsp;&raquo;</strong></p>
+
+                                    </div>
+
+                                    <!-- ==================  Section 3  ================== -->
+
+                                    <div class="section-wrapper">
+                                        <h4 class="heading"><a href="https://forever.humboldt.edu/content/forever-feature-me-mini/passion-flying-and-writing-turns-stellar-career?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">
+                                            Passion for Flying and Writing Turns Into Stellar Career
+                                        </a></h4>
+                                        <p><a href="https://forever.humboldt.edu/content/forever-feature-me-mini/passion-flying-and-writing-turns-stellar-career?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05"><img src="https://mailings.humboldt.edu/humalum/2022_05/main3.jpg" alt="Cal Mukumoto standing in front of a fire place" width="288" height="193" class="main-col-img" /></a></p>
+                                        <p>
+                                            “I didn’t want one of those careers where you’re just doing something to make money,” says Meg Godlewski (‘87, Journalism), a seasoned journalist who covered the industry for 16 years at General Aviation News before landing her new role as the technical editor  for the nation’s largest aviation magazine, Flying.
+                                        </p>
+                                        <p><strong><a href="https://forever.humboldt.edu/content/forever-feature-me-mini/passion-flying-and-writing-turns-stellar-career?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Read the full profile</a> &nbsp;&raquo;</strong></p>
+
+                                    </div>
+
+                                    <!-- ===================== Section 4 ===================== -->
+
+                                    <div class="section-wrapper">
+                                        <h4 class="heading"><a href="https://forever.humboldt.edu/alumni-owned-businesses?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">
+                                            Alumni Owned Business Highlight
+                                        </a></h4>
+                                        <p><a href="https://forever.humboldt.edu/alumni-owned-businesses?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05"><img src="https://mailings.humboldt.edu/humalum/2022_05/main4.jpg" style="margin: 0 auto;" alt="surfboard with painted birds" width="288" height="98" class="main-col-img" /></a></p>
+                                        <h4 class="heading"><a href="https://www.ripeminddesigns.com/?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Ripe Mind Designs &nbsp;&raquo;</a></h4>
+                                        <p>
+                                            Tony Diaz is a Northern California-based artist who graduated from Cal Poly Humboldt in 2013 with a degree in Studio Art. Tony has since been commissioned by many businesses and musicians for merchandise, apparel, logos, murals, and poster designs. Diaz’s creative vision has been inspired by the human form, flora, horror films, and creatures from the natural world. He now owns Ripe Mind Designs, where you can purchase his art on clothing and request custom-designed pieces.
+                                        </p>
+                                        <p><strong><a href="https://forever.humboldt.edu/alumni-owned-businesses?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Find out more about Ripe Mind Designs and other alumni-owned businesses</a> &nbsp;&raquo;</strong></p>
+                                        <p>
+                                            <strong>Are you an alumnus who owns a business?</strong> Join our Alumni Owned Business Directory! Fill out our form to be included in the directory.
+                                        </p>
+
+                                        <p><strong><a href="https://forever.humboldt.edu/add-my-business?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Join the Alumni Owned Business Directory</a> &nbsp;&raquo;</strong></p>
+                                    </div>
+
+
+                                    <!-- ===================== Section 5 ===================== -->
+                                    <div class="section-wrapper">
+<!--                                        <h4 class="heading"><a href="https://forever.humboldt.edu/benefits?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">-->
+<!--                                            Get your Geico Discount-->
+<!--                                        </a></h4>-->
+                                        <p><a href="http://www.geico.com/alum/humboldt"><img src="https://mailings.humboldt.edu/humalum/2022_05/main5.jpg" alt="Geico logo" width="240" height="84" class="main-col-img" /></a></p>
+                                        <p>
+                                            Cal Poly Humboldt's Forever Humboldt Association has partnered to offer members special savings on GEICO auto insurance. Visit <strong><a href="http://www.geico.com/alum/humboldt">GEICO</a></strong> or call 1-800-368-2734 to find out how much you could save today. Be sure to mention Humboldt to be eligible for the special savings.
+                                        </p>
+<!--                                        <p><strong><a href="https://forever.humboldt.edu/benefits?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Find out about these alumni<br>discount and more &nbsp;&raquo;</a></strong>-->
+<!--                                        </p>-->
+                                    </div>
+
+                                    <!-- ==================   Updates From Campus  ================== -->
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <h4 class="heading">Updates From Campus</h4>
+
+                                        <p><strong><a href="https://now.humboldt.edu/news/alum-among-first-peace-corps-volunteers-return-service-overseas">
+                                        Alum Among First Peace Corps Volunteers to Return to Service Overseas</a> »</strong></p>
+
+                                        <p><strong><a href="https://now.humboldt.edu/news/black-land-nurtures-growth-and-connection">
+                                        'Black to the Land' Nurtures Growth and Connection</a> »</strong></p>
+
+                                        <p><strong><a href="https://now.humboldt.edu/news/cannabis-research-connects-many-disciplines">
+                                        Cannabis Research Connects with Many Disciplines</a> »</strong></p>
+
+                                    </div>
+
+                                    <!-- ==================   Section  ================== -->
+                                    <!-- ===================== Humboldt Quiz ===================== -->
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <h4 class="heading">Take the Humboldt Quiz</h4>
+
+                                        <p>
+                                            How much do you know about Cal Poly Humboldt? You could win great Humboldt prizes! Just click the answer button to respond. Those sending correct responses to this month's question will be entered in a drawing for Forever Humboldt gifts.                                        </p>
+                                        <p><strong>
+                                            The Graduation Pledge, started at Cal Poly Humboldt in 1987, is a voluntary pledge made by students graduating from colleges or universities, stating their commitment to social and environmental responsibility in their future careers. Since its start, at least how many other campuses have adopted this pledge?
+                                        </strong></p>
+
+                                        <ul>
+                                            <li>
+                                                A. 200
+                                            </li>
+                                            <li>
+                                                B. 50
+                                            </li>
+                                            <li>
+                                                C. 75
+                                            </li>
+                                            <li>
+                                                D. 100
+                                            </li>
+                                        </ul>
+
+                                        <div align="left" class="submit">
+                                            <a href="https://forms.gle/fxwofMSq1AGAFuZr6">Submit an Answer &nbsp;&raquo;</a>
+                                        </div>
+                                        <br>
+                                        <p><em>
+                                            Last month’s quiz asked, “Of the 170 Cal Poly Humboldt student clubs, how many are specifically interested in environmental justice?” Congratulations to Elizabeth Cueva (‘10, Kinesiology) for submitting the correct answer and winning the drawing. Answer: 5
+                                        </em></p>
+
+                                    </div>
+
+
+                                    <!-- ===================== Questions Comments Rants ===================== -->
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <h4 class="heading"><strong>Questions? Comments? Rants?</strong></h4>
+
+                                        <p>Nelson Hall East 112<br>
+                                            1 Harpst St Arcata, CA 95521<br>
+                                            <a href="mailto:forever@humboldt.edu">forever@humboldt.edu</a> or 707.826.3132</p>
+                                    </div>
+                                    <table cellspacing="10" border="0" cellpadding="0">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="https://mailings.humboldt.edu/humalum/2022_05/person-stephanie.jpg" height="50" align="left" alt="Stephanie Lane" width="50" />
+                                            </td>
+                                            <td valign="top">
+                                                <p><strong>Stephanie Lane </strong>(&rsquo;04 &amp; &rsquo;16)<br>Director of Alumni Relations
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="https://mailings.humboldt.edu/humalum/2022_05/person-ash.jpg" height="50" align="left" alt="Ash Hanson" width="50" />
+                                            </td>
+                                            <td valign="top">
+                                                <p><strong>Ash Hansen </strong>(&rsquo;18 &amp; &rsquo;22)<br>Marketing & Engagement Lead
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+
+                                <!-- ======================================================== -->
+                                <!-- ======================================================== -->
+                                <!-- ===================== RIGHT COLUMN ===================== -->
+                                <!-- ======================================================== -->
+
+                                <td class="sidebar" align="left" valign="top" width="192">
+                                    <!-- ===================== Upcoming Events ================== -->
+                                     <div class="section-wrapper">
+                                        <h4 class="section">Upcoming Events</h4>
+
+                                         <p class="sidetext"><a href="https://ces.humboldt.edu/alumni-summer-stay"><strong>
+                                         Alumni Stay</strong></a><br>
+                                         Wednesday, June 1 - Friday, Aug. 5<br>
+                                         Residence Hall Rooms
+                                         </p>
+
+                                         <p class="sidetext"><a href="https://forever.humboldt.edu/csu-alumni-virtual-event-london"><strong>
+                                         CSU Alumni Virtual Mixer—London</strong></a><br>
+                                         Tuesday, June 7<br>
+                                         9:30 a.m.<br>
+                                         Virtual (pre-registration needed)
+                                         </p>
+
+                                         <p class="sidetext"><a href="https://forever.humboldt.edu/csu-alumni-virtual-event-tokyo-0"><strong>
+                                         CSU Alumni Virtual Mixer—Tokyo</strong></a><br>
+                                         Friday, June 10<br>
+                                         5:30 p.m.<br>
+                                         Virtual (pre-registration needed)
+                                         </p>
+
+                                         <p class="sidetext"><a href="https://host.nxt.blackbaud.com/registration-form/?formId=e4f46d03-2a20-4479-ab8c-0166588fb731&envId=p-kYh76efQwk2lvjMidehRmA"><strong>
+                                         Forever Humboldt Crabs Game!</strong></a><br>
+                                         Friday, June 17<br>
+                                         6 p.m.<br>
+                                         Arcata Ball Park
+                                         </p>
+
+                                         <p class="sidetext"><a href="https://forever.humboldt.edu/csu-alumni-virtual-event-hong-kong-0"><strong>
+                                         CSU Alumni Virtual Event—Hong Kong</strong></a><br>
+                                         Friday, May 6<br>
+                                         6 p.m.
+                                         </p>
+
+                                         <br>
+                                         <div align="left" class="submit-sm"><a href="https://forever.humboldt.edu/events?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">All Alumni Events &nbsp;&raquo;</a></div>
+                                  </div>
+
+                                    <!-- ===================== Photo Headline ===================== -->
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <h4 class="section"><a href="https://flic.kr/p/GXfbZ4">
+                                            ideaFest: A Celebration of Humboldt’s Scholarly and Creative Talents!
+                                        </a></h4>
+                                        <a href="https://flic.kr/p/GXfbZ4"><img src="https://mailings.humboldt.edu/humalum/2022_05/flickr.jpg" alt="chain link fence with Humboldt Softball sign" width="192" height="128" class="main-col-img" /></a>
+                                        <p class="side-text">
+                                            Cal Poly Humboldt’s annual research and project showcase, ideaFest, features more than 400 student, staff, and faculty activities from the past year.
+                                        </p>
+
+                                        <p class="side-text"><a href="https://flic.kr/p/GXfbZ4"><strong>View this photo on Flickr &nbsp;&raquo;</strong></a></p>
+                                        <p class="side-text"><a href="https://www.flickr.com/photos/calpolyhumboldt"><strong>More Cal Poly Humboldt Flickr photos &nbsp;&raquo;</strong></a></p>
+                                    </div>
+
+                                    <!-- ===================== Class Notes ===================== -->
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <h4 class="section">Latest Class Notes</h4>
+                                        <p><strong>
+                                            Diane Haase ('89, Forestry)
+                                        </strong><br>
+                                            Diane Haase earned her M.S. in tree physiology at OSU in 1991. She then worked as the Associate Director of OSU's Nursery Technology Cooperative, researching seedling production, quality, and outplanting. She now works for the USDA Forest Service as the Western Nursery Specialist on the national Reforestation, Nurseries, and Genetics Resources team (RNGR.net).                                         </p>
+                                        <p><strong>
+                                            Kate Nixon (‘05, Journalism)
+                                        </strong><br>
+                                            Since graduating and spending a life-changing week in New Zealand, Kate Nixon ('05, Journalism) has survived 11 years in broadcast news, working their way up from Humboldt County to Southern Oregon as a newscast director, technical supervisor, and eventually accomplished producing a three-part series about school teachers and the costume department at the world-renowned Oregon Shakespeare Festival.
+                                        </p>
+
+                                        <p><strong>
+                                            Jessie Perez, (‘10, Biological Sciences)
+                                        </strong><br>
+                                            Jessie Perez recently founded a <a href="https://www.geekwire.com/2022/former-dod-nuclear-engineer-leads-new-seattle-startup-developing-air-purification-technology/">company</a> to help provide clean air during the global pandemic and the company would like to spread the word about a new technology that can keep people safe in the spaces they work, learn, and live in.
+                                        </p>
+
+                                        <p><a href="https://forever.humboldt.edu/notes?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05"><strong>See all class notes &nbsp;&raquo;</strong></a></p>
+                                    </div>
+                                    <div class="section-wrapper">
+                                        <h4 class="heading"><a href="https://link.humboldt.edu/ZgG">Share Your Class Note!</a></h4>
+
+                                        <p>Share news about the important changes in your life—like a career move, marriage, baby, community work, etc.</p>
+                                        <div align="left" class="submit">
+                                            <a href="https://link.humboldt.edu/ZgG">Submit a Note &nbsp;&raquo;</a>
+                                        </div>
+                                    </div>
+                                    <br>
+
+                                    <div class="section-wrapper">
+                                        <hr />
+                                        <!-- ======= Loyalty Logo ======= -->
+                                        <h4 class="heading">Your Gifts Support Cal Poly Humboldt Students</h4>
+<!--                                        <a href="https://giving.humboldt.edu/humboldt-connected?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05" style="font-weight:bold;color:#2d532d;font-family:'Lucida Grande', sans-serif;font-size:12px !important;"><img src="https://mailings.humboldt.edu/humalum/2022_05/giving-logo.png" width="192" height="104" alt="Giving" /></a>-->
+
+                                        <p>Humboldt alumni are big supporters of Humboldt students and programs and your gifts make a real difference. Your generous gifts through the Humboldt Loyalty Fund have supported scholarships, classroom technology upgrades, new lab equipment, and more. </p>
+                                        <p>Thank you!</p>
+
+                                        <p class="sidetext">
+                                            <strong><a href="https://humboldt.edu/giving?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Learn more about giving to Cal Poly Humboldt &nbsp;&raquo;</a></strong>
+                                        </p>
+                                    </div>
+
+                                    <!-- ===================== Stay Connnected ===================== -->
+                                    <hr />
+                                    <h4 class="section">Keep up With Humboldt</h4>
+
+                                    <ul class="social">
+                                        <li><a href="https://forever.humboldt.edu?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Forever Humboldt</a></li>
+                                        <li><a href="https://humboldt.edu?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">humboldt.edu</a><br></li>
+                                        <li><a href="https://now.humboldt.edu?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Campus News</a></li>
+                                        <li><a href="https://giving.humboldt.edu?utm_source=alumni_newsletter&utm_medium=email&utm_campaign=alumni_newsletter_2022_05">Give to Cal Poly Humboldt</a></li>
+                                    </ul>
+
+                                    <!-- ===================== Social Media ===================== -->
+
+                                    <h4 class="section">Stay Connected</h4>
+                                    <div class="networks">
+                                        <a href="https://www.facebook.com/calpolyhumboldtalumni" title="Facebook"><img src="https://mailings.humboldt.edu/humalum/2022_05/social-facebook-40px-fhgreen.png" alt="facebook" height="25px" width="25px" /></a>
+                                        <a href="https://www.flickr.com/photos/calpolyhumboldt" title="flickr"><img src="https://mailings.humboldt.edu/humalum/2022_05/social-flickr-40px-fhgreen.png" alt="Flickr" height="25px" width="25px" /></a>
+                                        <a href="https://www.instagram.com/humboldtalumni/" title="linked in"><img src="https://mailings.humboldt.edu/humalum/2022_05/social-instagram-40px-fhgreen.png" alt="Instagram" height="25px" width="25px" /></a>
+                                        <a href="https://twitter.com/ForeverHumboldt" title="twitter"><img src="https://mailings.humboldt.edu/humalum/2022_05/social-twitter-40px-fhgreen.png" alt="Twitter" height="25px" width="25px" /></a>
+                                        <a href="https://www.youtube.com/humboldtonline" title="youtube"><img src="https://mailings.humboldt.edu/humalum/2022_05/social-youtube-40px-fhgreen.png" alt="Youtube" height="25px" width="25px" /></a>
+                                    </div>
+
+                                    <!-- ===================== Unsubscribe ===================== -->
+
+                                    <h4 class="section">Unsubscribe</h4>
+                                    <p class="sidetext">If you no longer wish to receive this newsletter, <a href="target=&amp;pid=220&amp;did=0&amp;tab=0">unsubscribe here</a>.</p>
+                                    <p class="sidetext">View <a href="target=&amp;pid=219&amp;did=0&amp;tab=0">Privacy Policy</a><br><br><a href="https://mailings.humboldt.edu/humalum/2022_05/">View this Newsletter in your browser.</a></p>
+
+                                    <!-- ===================== The End ===================== -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+            <table cellspacing="0" border="0" cellpadding="0" width="646">
+                <tr>
+                    <td>
+                        <img src="https://mailings.humboldt.edu/humalum/2022_05/footer-tail.jpg" height="87" alt="Footer" width="646" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="footer" align="center">
+                        <a href="https://www.humboldt.edu/"><img src="https://mailings.humboldt.edu/humalum/2022_05/hsu_wordmark.png" border="0" alt="Humboldt State University" /></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>
