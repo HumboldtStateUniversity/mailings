@@ -1,0 +1,123 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Message to the CSU Community from Interim Chancellor Koester</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+        }
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              May 26, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Message to the CSU Community from Interim Chancellor Koester
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text><em>The message below is being sent on behalf of CSU Chancellor Jolene Koester:
+          </em></mj-text>
+          <mj-text>
+            Please allow me to introduce myself. My name is Jolene Koester, and it is my great honor to serve as the
+            California State University’s interim chancellor for the next 12 to 15 months, as a search for the next
+            regularly appointed chancellor is completed.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            This will truly be a labor of love for me. The CSU has been my professional home since 1983. I started my Cal State career at Sacramento State, where I stayed for 17 years, beginning as a faculty member and eventually serving as vice president of academic affairs and provost. From Sac State, I was honored to be appointed president of CSUN, serving an 11-year term beginning in 2000. Since retiring from CSUN, I have worked as a consultant, helping university presidents and leaders from universities across the country, including the CSU, to enhance student success and institutional effectiveness.
+          </mj-text>
+          <mj-text>
+            I know firsthand that the work, attention and care you deliver every day reflect the CSU’s core values, the ideals that drew us all to this extraordinary institution" inclusive excellence, equity, access, compassion and transforming lives through the power of higher education. I understand that it is on our university <em>campuses</em> that our students’ lives are forever changed. And it will be one of my highest priorities" and greatest joys" to support and shine a light on your remarkable work. There is so much to be proud of. Thank you.
+          </mj-text>
+          <mj-text>
+            But as recent events and revelations have made clear" sometimes painfully clear" change is necessary. We must do better. I assure you that CSU leadership will work diligently to restore trust across our universities and among the communities we serve. We will take a hard and clear-eyed look at our processes, policies and organizational structures to build a culture of inclusiveness, open communication and service. We will face our most critical operational and strategic challenges head-on, from funding and enrollment to closing equity gaps to restoring faith in the protections of Title IX. With your help, we will continue to persistently and powerfully advocate" with a united voice" for the resources we need to advance our academic mission and to fairly compensate our skilled and dedicated faculty and staff. And together we will protect and strengthen the reputation to which we all aspire" and the values at our core.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            I am grateful for the opportunity to join you in this work, and I look forward to all we will accomplish together.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Sincerely,
+          </mj-text>
+          <mj-image src="CSU-Jolene-Koester.png" alt="Jolene Koester" width="175" align="left"/>
+          <mj-text>Jolene Koester<br>
+            Interim Chancellor
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
