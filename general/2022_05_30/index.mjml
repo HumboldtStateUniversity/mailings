@@ -1,0 +1,105 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Loss of Humboldt Student Brooke Schryver</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+        }
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              May 30, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Loss of Humboldt Student Brooke Schryver
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Dear University Community,
+          </mj-text>
+          <mj-text>
+            We are sad to share news of the loss of Cal Poly Humboldt student Brooke Schryver. We extend our condolences to her family, friends, and all who have been affected by her loss.
+          </mj-text>
+          <mj-text>
+Brooke, of Sunnyvale, California died Sunday and was 25 years old. Those close to her say Brooke, a double major in Environment Science & Management and Anthropology, was “an incredible human being” who was generous with her time and expertise, always offering support to anyone who needed help. She was also committed to connecting people to the natural world.
+          </mj-text>
+          <mj-text>
+The University has been in close contact with Brooke’s family and will continue to assist them during this tragic time.
+          </mj-text>
+          <mj-text>
+            Support services are available for students through immediate or scheduled counseling using TimelyCare. If you have not yet registered for telehealth through TimelyCare, please register at <a href="https://timely.md/schools/index.html?school=calpolyhumboldt">timelycare.com/calpolyhumboldt</a> with your name and your University email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop. Additional information about available services can be found at the <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">Counseling & Psychological Services’ TimelyCare website</a>.   
+          </mj-text>
+       
+          <mj-text>
+Staff or faculty seeking additional support may utilize the <a href="https://hraps.humboldt.edu/employee-assistance-program">Employee Assistance Program, LifeMatters</a>, offered through Empathia 24 hours a day, seven days a week.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
