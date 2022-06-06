@@ -30,7 +30,7 @@
         .light-wrap {
           background: #FFFFFF;
         }
-        }
+
         li {
           line-height: 1.4;
           margin-bottom: 14px;
@@ -39,7 +39,7 @@
         @media only screen and (max-width: 420px) {
           .caption div {
             text-align: center !important;
-
+          }
         }
       </mj-style>
     </mj-head>
@@ -73,11 +73,11 @@
       </mj-section>
 
       <mj-section css-class="light-wrap" padding-bottom="0">
-        <mj-column>
+        <mj-column width="40%">
 
-          <mj-image src="https://mailings.humboldt.edu/general/2022_06_06/SherieGordon.jpg"/>
+          <mj-image src="https://mailings.humboldt.edu/general/2022_06_06/SherieGordon.jpg" padding-right="0"/>
           </mj-column>
-        <mj-column>
+        <mj-column width="60%">
           <mj-text>
             Sherie Cornish Gordon, who has taken a lead role in a series of important initiatives including the polytechnic implementation, has been appointed Vice President for Finance & Administration.
           </mj-text>
@@ -86,7 +86,7 @@
           </mj-text>
           </mj-column>
       </mj-section>
-      <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
         <mj-column>
           <mj-text>
             “Sherie has proven to be an amazing asset for Cal Poly Humboldt, both as Chief of Staff and twice in the interim Vice President role. We’re fortunate that she has agreed to take on this new role, and I know the division will benefit from her strategic thinking, her commitment to results, and her fierce dedication to our students,” said Cal Poly Humboldt President Tom Jackson, Jr.
@@ -103,7 +103,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
         <mj-column>
           <mj-text>
             Gordon has served as Chief of Staff in the President’s Office since 2019, where she was responsible for coordinating important campus-wide initiatives, engaging with internal and external constituents, and working closely with strategic initiatives and operations.  The Chief of Staff role is currently filled on an interim basis by Timothy Downs, who was most recently President of Northern State University in South Dakota.
