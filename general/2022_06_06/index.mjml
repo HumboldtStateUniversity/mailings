@@ -1,0 +1,128 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Sherie Cornish Gordon Named Vice President for Finance & Administration</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+        }
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              June 6, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Sherie Cornish Gordon Named Vice President for Finance & Administration
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+
+          <mj-image src="https://mailings.humboldt.edu/general/2022_06_06/SherieGordon.jpg"/>
+          </mj-column>
+        <mj-column>
+          <mj-text>
+            Sherie Cornish Gordon, who has taken a lead role in a series of important initiatives including the polytechnic implementation, has been appointed Vice President for Finance & Administration.
+          </mj-text>
+          <mj-text>
+            She has been serving in the role on an interim basis since March, and previously served as interim for nearly a year.
+          </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            “Sherie has proven to be an amazing asset for Cal Poly Humboldt, both as Chief of Staff and twice in the interim Vice President role. We’re fortunate that she has agreed to take on this new role, and I know the division will benefit from her strategic thinking, her commitment to results, and her fierce dedication to our students,” said Cal Poly Humboldt President Tom Jackson, Jr.
+          </mj-text>
+          <mj-text>
+            As Vice President, Gordon will oversee areas with significant impact on campus operations including budget, accounting, facilities, human resources, emergency response, police, and more. In addition, the Office of Title IX, DHR, and Clery will return to the Division of Administrative Affairs under Gordon’s leadership.
+          </mj-text>
+          <mj-text>
+            She will continue to co-lead the broad polytechnic implementation along with Provost Jenn Capps, and will remain deeply involved in specific projects including the new brand and marketing effort. She will bring additional expertise to budget planning, development of the new campus master plan, major new facilities projects both on- and off-campus, and efforts to expand housing and health care services.
+          </mj-text>
+       
+          <mj-text>
+            “I would like to thank Dr. Jackson for his tremendous support and confidence in my leadership. I am honored and grateful to serve at this transformational moment in Cal Poly Humboldt’s history,” Gordon said. “I look forward to continuing to work alongside an incredibly talented and dedicated group of individuals and other campus stakeholders to provide a stellar experience for our students.”
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Gordon has served as Chief of Staff in the President’s Office since 2019, where she was responsible for coordinating important campus-wide initiatives, engaging with internal and external constituents, and working closely with strategic initiatives and operations.  The Chief of Staff role is currently filled on an interim basis by Timothy Downs, who was most recently President of Northern State University in South Dakota.
+          </mj-text>
+          <mj-text>
+            Gordon came to Humboldt in 2019 from Albany State University in Georgia, where she was Director of Athletics for that Division II program. Prior to her time at Albany State University, she served at the Central Intercollegiate Athletic Association in Charlotte, North Carolina as the Senior Associate Commissioner for External & Business Administration. She has also held senior management positions at Norfolk State University in Virginia. She was recognized for her leadership by Chambers of Commerce in both Albany and Charlotte.
+          </mj-text>
+          <mj-text>
+            She has strong experience related to project management, engagement of internal and external stakeholders, corporate relations, strategic planning, and student success. In previous roles and now at Humboldt, she has demonstrated success in creating community partnerships, managing fiscal affairs, and creating new revenue streams.
+          </mj-text>
+          <mj-text>
+            Gordon earned a master’s degree in Sport and Recreation Administration from Temple University in Philadelphia and a bachelor’s degree in Physical Education from Morgan State University in Baltimore.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
