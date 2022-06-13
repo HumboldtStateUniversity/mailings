@@ -1,0 +1,135 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Inaugural Juneteenth Symposium | June 15 - 16, 2022</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="1.4" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        li {
+          line-height: 1.4;
+          margin-bottom: 14px;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              June 13, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Inaugural Juneteenth Symposium | June 15 - 16, 2022
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-image src="iMwH-ylhUYll_4Qmoe1MpeBpaGTkym7kDAiguZm5XdUDewCeiUxsLo4lVIl7w7V4lX8aq5naRLTEnytGPUV7u3fscjuLJpcRhC7jHhRzdzERIYkHDIVqZZ7lyGDbmGAH.png" padding="0"/>
+          <mj-text padding-top="30px">
+            You’re invited to attend the California State University’s inaugural <a href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth">Juneteenth Symposium</a> on <strong>
+            June 15th & 16th</strong>. Watch the livestream at the<strong>
+             Native American Forum from 8 a.m. to 5 p.m.
+          </strong> or <a href="https://execuconnect.regfox.com/csu-juneteenth-virtual">
+            register for the event online</a>.
+          </mj-text>
+          <mj-text>
+            This two-day event celebrates African American history and achievement while promoting and sustaining the anti-racism work underway across the CSU’s 23 campuses.
+          </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-size="20px" font-weight="bold">
+            HONORING THE VOICES OF<br>
+            OUR ANCESTORS AND EVERYDAY PEOPLE
+          </mj-text>
+          <mj-text>
+            The CSU has created a timeline in which we acknowledge the milestones and exceptional people who have helped to make the California State University what it is today: a place of academic rigor, exceptional achievement, and pioneering inclusiveness.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-button href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth/Pages/agenda.aspx">Timeline</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth/Pages/csu-acts-acknowledges-commits-and-transforms-initiative.aspx">The CSU ACTs</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text>
+            In conjunction with the two-day Juneteenth Symposium, the California State University will launch its CSU ACTs—Acknowledges, Commits, and Transforms initiative.
+          </mj-text>
+          <mj-text>
+            Following the Juneteenth Symposium and throughout the year, Cal Poly Humboldt will integrate the theme and lessons from the Symposium into the implementation of Cal Poly Humboldt’s Institutional Anti-Racism Action Plan and the emerging work around Truth, Racial Healing, and Transformation led by the <a href="https://diversity.humboldt.edu/">
+            Office of Diversity, Equity & Inclusion</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text>
+            Watch for upcoming campus-wide activities that will highlight African-American history and achievement; foster authentic intercultural dialogue; advance anti-racism efforts in a sustainable manner; and reinforce an unwavering commitment to building inclusive and diverse campus communities that empower students and employees with the ability to pursue lives of curiosity, prosperity, and self-fulfillment. More information to come.
+          </mj-text>
+          <
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
