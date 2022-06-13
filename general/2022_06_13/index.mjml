@@ -74,10 +74,10 @@
 
       <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
         <mj-column>
-          <mj-image src="iMwH-ylhUYll_4Qmoe1MpeBpaGTkym7kDAiguZm5XdUDewCeiUxsLo4lVIl7w7V4lX8aq5naRLTEnytGPUV7u3fscjuLJpcRhC7jHhRzdzERIYkHDIVqZZ7lyGDbmGAH.png" padding="0"/>
+          <mj-image src="https://mailings.humboldt.edu/general/2022_06_13/iMwH-ylhUYll_4Qmoe1MpeBpaGTkym7kDAiguZm5XdUDewCeiUxsLo4lVIl7w7V4lX8aq5naRLTEnytGPUV7u3fscjuLJpcRhC7jHhRzdzERIYkHDIVqZZ7lyGDbmGAH.png" padding="0"/>
           <mj-text padding-top="30px">
             You’re invited to attend the California State University’s inaugural <a href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth">Juneteenth Symposium</a> on <strong>
-            June 15th & 16th</strong>. Watch the livestream at the<strong>
+            June 15 & 16</strong>. Watch the livestream at the<strong>
              Native American Forum from 8 a.m. to 5 p.m.
           </strong> or <a href="https://execuconnect.regfox.com/csu-juneteenth-virtual">
             register for the event online</a>.
@@ -101,7 +101,7 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding-bottom="0" padding-top="0">
         <mj-column>
-          <mj-button href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth/Pages/agenda.aspx">Timeline</mj-button>
+          <mj-button href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth/Pages/timeline.aspx">Timeline</mj-button>
         </mj-column>
         <mj-column>
           <mj-button href="https://www.calstate.edu/impact-of-the-csu/community/juneteenth/Pages/csu-acts-acknowledges-commits-and-transforms-initiative.aspx">The CSU ACTs</mj-button>
