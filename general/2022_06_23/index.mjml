@@ -59,7 +59,15 @@
       <mj-section css-class="light-wrap">
         <mj-column>
           <mj-text padding-top="0">
-       
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              June 23, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Important Message to CSU Community from Interim Chancellor Koester
+            </p>
           </mj-text>
           <mj-divider border-color="#FFC629" padding="0"></mj-divider>
         </mj-column>
