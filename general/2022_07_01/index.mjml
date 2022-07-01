@@ -1,0 +1,129 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Welcoming New Interim Leadership in Administrative Affairs</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              July 1, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Welcoming New Interim Leadership in Administrative Affairs
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Dear Campus Community,
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Administrative Affairs has recently undergone some staffing changes, and I would like to introduce new members of the campus community. 
+          </mj-text>
+          <mj-text>
+           As our polytechnic working groups continue to work collaboratively to develop and implement plans to transform into a polytechnic institution, our safety, risk, and clery infrastructure must evolve to support the physical transformation and expansion of our campus. A critical component to the success of our physical growth is ensuring we are proactively planning and executing on both a short and long-term basis for safety, parking and transportation with internal and external stakeholders while still maintaining our commitment to 21st-century policing and sustainability.
+
+          </mj-text>
+          <mj-text>
+            To ensure we can sustain University Police Department (UPD) day-to-day operations, support the polytechnic transformation planning, and continue our 21st-century policing efforts, I felt it was essential to immediately bolster our leadership staffing within UPD while our national recruitment is underway for a Chief of Police. Fernando Solorzano has been appointed interim Associate Vice President for Campus Safety & Well Being.  Fernando began his appointment on June 6. In this capacity, Solorzano shall be responsible for University Police, Security, and Parking. Solorzano has over 30 years of experience in CSU law enforcement. He has an extensive understanding of campus culture. He has demonstrated a commitment to students, been instrumental in creating community-based policing models, and been a strong leader and communicator in crisis and beyond.  
+          </mj-text>
+          </mj-text>
+          <mj-text>
+            These high-demand programs emphasize the importance of building out our STEM offerings and our liberal arts programs. Both are crucial to the success of our students and Humboldt’s future. Our academic expansion also highlights the amazing expertise of our faculty. Those faculty include members of the Curriculum & Academic Programs Working Group. The team is responsible for planning and executing new curricula and content for new academic programs, and ensuring resources are thoughtfully allocated. 
+          </mj-text>
+          <mj-text>
+            He received a Bachelor of Science in Criminal Justice from California State University, Long Beach, in 2000 and graduated from the FBI National Academy in 2007. He has worked for the CSU Long Beach Police since 2005 and most recently worked as the CSULB Chief of Police from 2011 to 2022. Peter Cress will return to his role as the UPD Lieutenant. I am so grateful for Cress’ commitment, leadership, can-do approach, and commitment to keeping our campus safe, supporting our students and the team with intentionality and care. He has been instrumental in leading UPD through the pandemic, maintaining a commitment to community policing, recruiting our first Community Service Specialist, and expanding relationships with local agencies. I look forward to Peter continuing his great work for our university community.
+
+          </mj-text>
+          <mj-text>
+Last but not least, I want to acknowledge our entire UPD team. The team has been through significant change but continues to show up and serve our campus and local community with pride and care.
+          </mj-text>
+          <mj-text>
+Additionally, Deb Doel Hammond has been appointed to Interim Associate Vice President and Chief Human Resources Officer. Hammond specializes in interim roles and has more than 5 years of experience in scientific research environments, and more than 8 years of experience as top HR leader at organizations with more than 2,500 employees. 
+          </mj-text>
+          <mj-text>
+            Hammond received a Doctorate of Education in Organizational Leadership with an emphasis in STEM from Pepperdine. Most recently, Hammond was owner/organization development and human resources consultant of Align Your Minds, which offers HR leadership consultation and other services. 
+          </mj-text>
+         
+          <mj-text>
+           Hammond has a stated personal commitment to environment, conservation, and sustainability. She will begin her new role today.  Details related to the national recruitment will be forthcoming. 
+            </mj-text>
+        <mj-text>
+        I would like to thank Bruce Curl for his support and interim leadership as interim Associate Vice President of Human Resources.
+        </mj-text>
+        <mj-text>
+        Sincerely,
+        </mj-text>
+            <mj-image src="https://mailings.humboldt.edu/general/signatures/sherieGordon_signature.png" width="75px" alt="Sherie Gordon's signature" align="left"/>
+          <mj-text padding-bottom="20px" padding-top="0px">
+            <strong>Sherie Cornish Gordon</strong><br/>Chief of Staff
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
