@@ -71,7 +71,7 @@
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
           <mj-text>
-            As you may know, nine new degree programs have been approved by the California State University Board of Trustees.
+            Cal Poly Humboldt has taken another important step in our polytechnic transition: All nine new bachelor’s and master’s degree programs have been approved by the California State University Board of Trustees.
           </mj-text>
           <mj-text padding-bottom="0">
             Beginning in Fall 2023, these programs build on strong existing faculty expertise in natural resources management and environmental sustainability, and are aligned with the state of California’s goals regarding areas like climate resilience and wildfire mitigation. They will also create access to impacted degree programs in the California State University system that correlate with huge workforce gains.
@@ -149,7 +149,6 @@
           <mj-text padding-bottom="20px" padding-top="0px">
             <strong>Jenn Capps</strong><br/>Provost and Vice President for Academic Affairs
             </mj-text>
-            <mj-image src="https://mailings.humboldt.edu/general/signatures/sherieGordon_signature.png" width="75px" alt="Sherie Gordon's signature" align="left"/>
         </mj-column>
       </mj-section>
 
