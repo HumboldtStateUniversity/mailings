@@ -1,0 +1,162 @@
+  <mjml>
+    <mj-head>
+      <mj-title>New Academic Programs Approved for Fall 2023</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              August 23, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              New Academic Programs Approved for Fall 2023
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            As you may know, nine new degree programs have been approved by the California State University Board of Trustees.
+          </mj-text>
+          <mj-text padding-bottom="0">
+            Beginning in Fall 2023, these programs build on strong existing faculty expertise in natural resources management and environmental sustainability, and are aligned with the state of California’s goals regarding areas like climate resilience and wildfire mitigation. They will also create access to impacted degree programs in the California State University system that correlate with huge workforce gains.
+          </mj-text>
+          <mj-text>
+            Many of the new programs are highly interdisciplinary by design. They align with Humboldt’s strategic objectives of being rooted in place and meeting the needs of the region’s rural communities, with particular emphasis on underserved populations. A large emphasis will be placed on authentic engagement and collaboration with Indigenous communities to leverage their expertise and community practices.
+          </mj-text>
+          <mj-text>
+            This is what a 21st century education looks like: programs where students build the skills to have meaningful careers and a nuanced understanding of society’s complex issues so they can make the world a better place.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            <strong>Applied Fire Science & Management</strong>, Bachelor of Science, provides practical knowledge and skills to become fire science or management professionals. It will also include a breadth of perspectives and Indigenous knowledge (also known as Traditional Ecological Knowledge), with an emphasis on incorporating Indigenous practices.
+          </mj-text>
+          <mj-text>
+            <strong>Cannabis Studies</strong>, Bachelor of Art, prepares students to act as socially engaged, historically informed stewards of an unprecedented sea-change in local, national, and global cannabis laws and policies related to cannabis legalization.
+          </mj-text>
+          <mj-text>
+            <strong>Data Science</strong>, Bachelor of Science, focuses on working with data that relates to local issues, such as rising sea level, weaving a theme throughout several classes to give students a holistic perspective of local challenges and solutions.
+          </mj-text>
+          <mj-text>
+            <strong>Energy Systems Engineering</strong>, Bachelor of Science, incorporates elements commonly included in civil, environmental, mechanical, and electrical engineering disciplines.
+          </mj-text>
+          <mj-text>
+            <strong>Engineering & Community Practice</strong>, Master of Science, develops future engineering leaders who will sustain, restore, and protect natural resources and the environment.
+          </mj-text>
+          <mj-text>
+            <strong>Geospatial Information Science & Technology</strong>, Bachelor of Science, prepares students for careers as Geographic Information System (GIS) analysts and specialists, remote sensing analysts, cartographers, photogrammetrists, and geographers.
+          </mj-text>
+          <mj-text>
+            <strong>Marine Biology</strong>, Bachelor of Science, explores the diversity of marine life, its evolutionary history, the importance to our planet, and how it is impacted by human activities.
+          </mj-text>
+          <mj-text>
+            <strong>Mechanical Engineering</strong>, Bachelor of Science, covers areas in dynamics, materials, thermal/fluids, vibrations, controls, computer aided engineering, design, and manufacturing.
+          </mj-text>
+          <mj-text>
+            <strong>Software Engineering</strong>, Bachelor of Science, applies engineering concepts to software development. It encompasses the development, operation, and maintenance of programs.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            Three certificate programs are also being developed with the intention of offering them starting Fall 2023. These programs will be offered through the Office of Extended Education & Global Engagement.
+          </mj-text>
+          <mj-text>
+            <strong>Cybersecurity Certificate</strong> aligns well with cybersecurity job requirements, workforce development, or employed adults seeking to upskill and advance in their careers.
+          </mj-text>
+          <mj-text>
+            <strong>Equitable & Sustainable Future Certificate</strong> is designed for professionals in the educational workforce and prepares administrators, faculty, and staff to be sustainability leaders and foster social and environmental responsibility in educational settings.
+          </mj-text>
+          <mj-text>
+            <strong>Information Technology Certificate</strong> offers a range of learning experiences that connect student learning in cohorts and projects that culminate in a portfolio team-based project, with learners accumulating various industry certificates.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0">
+        <mj-column>
+          <mj-text>
+            This effort would not have been possible without faculty members of the polytechnic Curriculum & Academic Programs Working Group, the Integrated Curriculum Committee, and the University Senate. Together, they planned, created, reviewed, and approved new curricula. Program curricula were also reviewed and approved by the California State University chancellor and the board of trustees.
+          </mj-text>
+          <mj-text>
+            It’s quite an achievement—and it’s only the beginning! Our sincerest gratitude to the campus community and the CSU for bringing to life the University’s polytechnic vision of creating inspiring educational experiences for our students.
+          </mj-text>
+          <mj-text>
+            <a href="https://www.humboldt.edu/new-programs-coming-fall-2023">Read more about each program</a> and continue to check the <a href="https://www.humboldt.edu/polytechnic">
+            polytechnic website
+          </a> for more information and updates.
+          </mj-text>
+            <mj-image src="https://mailings.humboldt.edu/general/signatures/capps-sig.png" width="175px" alt="Sherie Gordon's signature" align="left" padding-top="20px"/>
+          <mj-text padding-bottom="20px" padding-top="0px">
+            <strong>Jenn Capps</strong><br/>Provost and Vice President for Academic Affairs
+            </mj-text>
+            <mj-image src="https://mailings.humboldt.edu/general/signatures/sherieGordon_signature.png" width="75px" alt="Sherie Gordon's signature" align="left"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
