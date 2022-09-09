@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Share Your Voice and Shape the Cal Poly Humboldt of Tomorrow</mj-title>
+      <mj-title>Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -60,7 +60,7 @@
               September 9, 2022
             </p>
             <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
-              Share Your Voice and Shape the Cal Poly Humboldt of Tomorrow
+              Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow
             </p>
           </mj-text>
           <mj-divider border-color="#FFC629" padding="0"></mj-divider>
@@ -72,7 +72,7 @@
         <mj-column>
           <mj-text>Cal Poly Humboldt wants to hear your ideas for the future of the University!</mj-text>
           <mj-text>Cal Poly Humboldt is developing a Physical Campus Plan, a powerful tool that captures the future vision of the University and outlines near, medium, and long-term capital improvements.</mj-text>
-          <mj-text>With assistance from SmithGroup and Brailsford & Dunlavey, Humboldt will assess and recommend improvements to academic life, sustainability, campus life, infrastructure, mobility, housing, and open space. The plan will guide the physical development of campus, providing a framework that is visionary and implementable.</mj-text>
+          <mj-text>With assistance from SmithGroup and Brailsford & Dunlavey, Humboldt will assess and recommend improvements to academic life, sustainability, campus life, infrastructure, mobility, housing, and open space. The plan will guide the physical development of campus, providing a framework that is visionary and implementable. </mj-text>
           <mj-text>Cal Poly Humboldt is committed to a process that is driven by extensive engagement, and your voice matters. The University wants to understand your aspirations and challenges that will cultivate a better future and make the campus even more dynamic, connected, usable, and enriching. </mj-text>
           <mj-text>In the coming weeks, the campus and local community are invited to a series of in-person and virtual open forums to learn more about the plan and the process, and to help weigh in on the future of the University. Plus, be on the lookout for future surveys.</mj-text>
           <mj-text>
@@ -90,8 +90,8 @@
 
           </mj-text>
       
-          <mj-text>The University previously developed a facilities plan in 2004 and housing plan in 2017. The intent of the new Physical Campus Plan is to guide the University in development and decision making for future campus needs as it relates to the various planning efforts currently underway and the University’s transformation into California's third polytechnic. </mj-text>
-          <mj-text>The objectives of the plan include supporting the academic and research purpose of the University, highlighting the campus as a living laboratory, establishing the connection between the University and the Indigenous land on which it resides, optimizing campus facilities and land, creating a welcoming environment for surrounding communities, delivering quality housing, and more. </mj-text>
+          <mj-text>The University previously developed a facilities plan in 2004 and housing plan in 2017. The intent of the new Physical Campus Plan is to guide the University in development and decision making for future campus needs as it relates to the various planning efforts currently underway and the University’s transformation into California's third polytechnic.</mj-text>
+          <mj-text>The objectives of the plan include supporting the academic and research purpose of the University, highlighting the campus as a living laboratory, establishing the connection between the University and the Indigenous land on which it resides, optimizing campus facilities and land, creating a welcoming environment for surrounding communities, delivering quality housing, and more.</mj-text>
           <mj-text>Ongoing information about the Physical Campus Plan process can be found at <a href="https://physicalplan.humboldt.edu/">physicalplan.humboldt.edu</a>.</mj-text>
         </mj-column>
       </mj-section>
