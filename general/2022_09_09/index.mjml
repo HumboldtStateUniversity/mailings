@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow</mj-title>
+      <mj-title>CORRECTION: Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -60,7 +60,7 @@
               September 9, 2022
             </p>
             <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
-              Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow
+              CORRECTION: Open Forums: Help Shape the Cal Poly Humboldt of Tomorrow
             </p>
           </mj-text>
           <mj-divider border-color="#FFC629" padding="0"></mj-divider>
@@ -70,6 +70,9 @@
 
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
+          <mj-text font-size="14px">
+          <em><strong>Please note: A previous version of this email had the wrong time for the Open Forum. The date and time have been corrected below.</strong></em>
+          </mj-text>
           <mj-text>Cal Poly Humboldt wants to hear your ideas for the future of the University!</mj-text>
           <mj-text>Humboldt is developing a Physical Campus Plan, a powerful tool that captures the future vision of the University and outlines near, medium, and long-term capital improvements. </mj-text>
           <mj-text>With assistance from SmithGroup and Brailsford & Dunlavey, the University will assess and recommend improvements to academic life, sustainability, campus life, infrastructure, mobility, housing, and open space. The plan will guide the physical development of campus, providing a framework that is visionary and implementable.  </mj-text>
@@ -78,7 +81,7 @@
           <mj-text>
        <ul>
          <li>
-           <strong>Wednesday, Sept. 14, noon–1 p.m. Open Forum, Nelson Hall East Goodwin Forum</strong>
+           <strong>Wednesday, Sept. 14, 1-2 p.m Open Forum, Nelson Hall East Goodwin Forum</strong>
          </li>
          <li>
            <strong>Monday, Sept. 19, 2–3 p.m. <a href="https://humboldtstate.zoom.us/j/84942315807?pwd=QmIxYUpxclh1R29UVW8vMTZwc3JjZz09">Virtual Forum</a></strong>
