@@ -1,0 +1,109 @@
+  <mjml>
+    <mj-head>
+      <mj-title>2022 Annual Security and Fire Safety Reports</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              September 15, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              2022 Annual Security and Fire Safety Reports
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text font-size="14px">
+          Please refer any media inquiries to <a href="mailto:news@humboldt.edu">news@humboldt.edu</a>. For questions about the annual reports, contact Nicki Viso, Title IX Investigator, Clery Director, <a href="mailto:nicki.viso@humboldt.edu">nicki.viso@humboldt.edu</a>.
+          </mj-text>
+          <mj-text><strong>2022 Annual Security Report</strong><br />
+Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, the 2022 Annual Security Report (ASR) is now available for viewing at <a href="https://clery.humboldt.edu/sites/default/files/cal_poly_humboldt_2022_annual_security_report.pdf">clery.humboldt.edu/sites/default/files/cal_poly_humboldt_2022_annual_security_report.pdf.</a> The ASR contains the current security and safety-related policy statements, emergency preparedness and evacuation information, crime prevention and sexual assault prevention information, and information about drug and alcohol prevention programming. The ASR also contains statistics of Clery crimes for Cal Poly Humboldt for 2019, 2020, and 2021. A paper copy of the ASR is available upon request by contacting the Title IX & DHR Prevention Office located at:
+</mj-text>
+          <mj-text>
+            212 Siemens Hall
+            1 Harpst Street<br />
+            Arcata, CA, 95521<br />
+            (707) 826-5177<br />
+            <a href="mailto:titleix@humboldt.edu">titleix@humboldt.edu</a>
+          </mj-text>
+          <mj-text>Additional information regarding the Clery Act Compliance can be found on <a href="https://clery.humboldt.edu">clery.humboldt.edu</a>.</mj-text>
+          <mj-text><strong>2022 Annual Fire Safety Report</strong><br />
+Pursuant to the Higher Education Opportunity Act, the 2022 Annual Fire Safety Report (AFSR) is now available for viewing at <a href="https://housing.humboldt.edu/sites/default/files/2022_annual_fire_safety_report.pdf">housing.humboldt.edu/sites/default/files/2022_annual_fire_safety_report.pdf</a>. The purpose of this report is to disclose statistics for fires that occurred within Cal Poly Humboldt's housing facilities for 2019, 2020, and 2021, and to distribute fire safety policies and procedures intended to promote safety on campus. A paper copy of the AFSR is available upon request by contacting the Housing & Residence Life Department located at:</mj-text>
+          <mj-text>
+            355 Granite Ave<br />
+            Arcata, CA 95521<br />
+            (707) 826-3451<br />
+            <a href="mailto:housing@humboldt.edu">housing@humboldt.edu</a>
+          
+          </mj-text>
+          <mj-text>
+          Additional information regarding safety in the residence halls can be found on the Housing website, under the <a href="https://housing.humboldt.edu/resident-resources/forms-and-documents">Forms & Documents" tab</a>.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
