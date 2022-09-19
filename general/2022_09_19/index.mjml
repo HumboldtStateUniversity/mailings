@@ -1,0 +1,130 @@
+  <mjml>
+    <mj-head>
+      <mj-title>2022-23 Budget</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-left.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              September 19, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              2022-23 Budget
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>Dear Campus Community,
+          </mj-text>
+          <mj-text>I hope the start of the semester is going well thus far. It has been exciting to see students back on campus attending classes, events and many more activities. Likewise, it has been great meeting new colleagues and reconnecting with many people face-to-face in the last three weeks. </mj-text>
+          <mj-text>As the semester gets underway, I wanted to provide a brief overview of some of the critical fiscal planning priorities for the academic year while also providing a broad overview of the University’s 2022-23 budget. During the 2022-23 academic year, we will be focused on the following planning efforts in collaboration with many campus partners:</mj-text>
+          <mj-text>
+            <ul>
+              <li>Enhance communication regarding University financial resources</li>
+              <li>Implement an evolved University budget planning timeline for budget supervisors and the campus</li>
+              <li>Initiate multi-year budget planning</li>
+              <li>Develop a new resource allocation funding model</li>
+              <li>Implement audit recommendations related to student fees</li>
+              <li>Assess the institution's cost allocation model</li>
+            </ul>
+          </mj-text>
+          <mj-text>
+            Cal Poly Humboldt has made strides in improving our financial position due to collective planning of many past and current leaders. We have many things to be proud of such as the polytechnic endeavor, the infusion of funds to support the transformation, and historic growth in philanthropic and research support.
+          </mj-text>
+          <mj-text>While these are great moments to celebrate, we are still more than 30% below our system-funded enrollment target of 7,603 annual resident full-time equivalent students (FTES), our budget is heavily reliant on state funding, the economy is showing mixed signals, we are experiencing a rise in unfunded/partially funded mandates, cost escalation, and inflation. </mj-text>
+          <mj-text><strong>
+            <a href="https://hsu.openbook.questica.com/#/visualization/6a2bf0b7-135f-438e-b1d2-1ef741be43fd?displayMode=1&tab=2">2022-23 Operating Fund Revenue Budget</a></strong></mj-text>
+          <mj-text>Humboldt’s 2022-23 Operating Fund Revenue Budget is $149.6 million, reflecting an increase of $16 million from the prior year due to additional funding from the state, the majority of which is earmarked for our polytechnic transformation. </mj-text>
+          <mj-text><strong><a href="https://hsu.openbook.questica.com/#/visualization/4dcad83f-b8df-4baa-9ad4-1d1d5edf7fa0?displayMode=1&tab=2">2022-23 Operating Fund Expenditure Budget</a></strong></mj-text>
+          <mj-text>Cal Poly Humboldt’s 2022-23 Operating Fund Expenditure Budget is $149.6 million. The majority of the University’s budget continues to be salary and benefit costs at almost $120 million combined, 80% of the budget. Financial Aid is the next highest budgeted cost at $11.5 million, 8% of the budget. All other budgeted activities, such as utilities, insurance, equipment, information technology costs, miscellaneous operating expenses, and pending allocations due to timing (compensation funding for general salary increases, polytechnic allocations, etc.) comprise the remaining 12% of the budget.</mj-text>
+          <mj-text><strong><a href="https://hsu.openbook.questica.com/">OpenBook Budget Dashboards</a></strong></mj-text>
+          <mj-text>Detailed information about the University’s Operating Fund and all other budgeted funds is available on the University Budget Office website on OpenBook (Humboldt’s public facing budget dashboards). The dashboards provide different views of budget information, with the ability to drill into additional detail. For example, the <a href="https://hsu.openbook.questica.com/#/visualization/4dcad83f-b8df-4baa-9ad4-1d1d5edf7fa0?displayMode=1&tab=2">
+            University Operating Fund Expenditure Budget
+          </a> dashboard provides several different views of the expenditure budget, including by type of spending, by organizational structure, and by FIRMS (NACUBO) classification.</mj-text>
+          <mj-text>I encourage everyone to check out the OpenBook dashboards to learn more about our budget. For reference, this <a href="https://budget.humboldt.edu/sites/default/files/budget/Questica/cal_poly_humboldt_openbook_guide.pdf">OpenBook Overview</a> document provides an overview of OpenBook and available views by dashboard.</mj-text>
+          <mj-text><strong>Polytechnic Resources</strong></mj-text>
+          <mj-text>I wanted to provide a quick update on our polytechnic transformation. As a reminder, the funding is held at the Chancellor’s Office (CO) and we have to submit a request to the CO to access these funds. To date, $8,875,000 of the $25 million ongoing and $50 million in one-time funding has been allocated to the campus to support polytechnic implementation. We recently submitted our <a href="https://budget.humboldt.edu/sites/default/files/budget/documents/FY17-18/polytechnicfunding_july2022update.pdf">
+            July 2022 Polytechnic Financial Planning Update
+          </a> highlighting our progress, and significant campus planning work will continue this fall to further solidify needed investments to successfully launch our new polytechnic academic programs in Fall 2023. As shared above, we will keep you informed on progress and planning efforts throughout the year.</mj-text>
+          <mj-text><strong>Graduation Initiative 2025 (GI2025)</strong></mj-text>
+          <mj-text>The CSU allocates resources to each campus to aid in supporting strategies to meet their GI2025 goals and the equity priorities. Humboldt received $512,000 in funding. </mj-text>
+          <mj-text>In closing, I look forward to a great year ahead and hope this marks the first of many years of positive budget news to come. Thank you again for all of your collective efforts to get us to this place and for your successful advocacy in positioning us for an exciting future.</mj-text>
+          <mj-text>Sincerely,</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
+          <mj-text>Sherie Cornish Gordon <br>
+            Vice President for Administration and Finance</mj-text>
+          <mj-text>
+            <strong>Resources</strong>: <br>
+            <a href="https://budget.humboldt.edu/">University Budget Office</a> <br>
+            <a href="https://hsu.openbook.questica.com/">OpenBook</a> <br>
+            <a href="https://budget.humboldt.edu/urpc">URPC Website</a> <br>
+            <a href="https://www.humboldt.edu/polytechnic/implementation-working-groups">Polytechnic Website</a> <br>
+            <a hreft="https://www.calstate.edu/csu-system/why-the-csu-matters/graduation-initiative-2025/Pages/default.aspx">GI2025</a>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
