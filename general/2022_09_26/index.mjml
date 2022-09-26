@@ -1,0 +1,104 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Polytechnic Implementation Update: Brand Initiative</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #5C8021;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E8EFDE">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+              September 26, 2022
+            </p>
+            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+              Polytechnic Implementation Update: Brand Initiative
+            </p>
+          </mj-text>
+          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>At the beginning of our polytechnic implementation journey, the University engaged marketing firm SimpsonScarborough to help build awareness of Cal Poly Humboldt on the state and national stage through a long-term branding initiative. </mj-text>
+          <mj-text>In the first phase, extensive audience research was conducted to inform the brand. A broad range of participants were engaged, both on campus and in the community. After we defined our brand strategy, we developed our updated brand platform which includes new logos as well as other visual and verbal elements. </mj-text>
+          <mj-text>We are excited to share that this first portion of the brand work is complete, and on Sept. 1 we debuted the new Cal Poly Humboldt logo on hats and stickers given out at College Colors Day. We are now in the activation phase of the initiative, which means we are ready to broadly roll out the new brand to campus. Our priorities in the coming weeks are:</mj-text>
+          <mj-text>
+            <ol>
+              <li><strong>Recruitment Materials</strong>–develop and distribute prospective student marketing collateral, with a focus on providing initial materials for Fall Preview on Nov. 5.</li>
+              <li><strong>Training</strong>–provide training to designated brand ambassadors on campus who will learn how to use the various visual and verbal elements to deliver the Cal Poly Humboldt experience to faculty, staff, students, and the community. </li>
+              <li><strong>Logo Access</strong>–make the new Cal Poly Humboldt logo and visual elements available for day-to-day operations, including letterhead, business cards, name badges, etc.</li>
+              <li><strong>Website Redesign</strong>–debut a refreshed digital presence and web templates for the main humboldt.edu website set to launch at the end of the Fall semester.</li>
+            </ol>
+          </mj-text>
+          <mj-text>
+            A digital and print media campaign has been launched as a part of the student recruitment and brand awareness efforts in areas outside our community. We are also working to develop new wayfinding signage and branding across physical spaces on and off campus. Implementation of the new web templates and content strategy will be ongoing for many months.
+          </mj-text>
+          <mj-text>We know that this is a busy time for everyone and we appreciate your patience as we continue to transition to our new look and the broader implementation of the brand. The University Brand website will be updated in the coming weeks with brand guidelines and logos for download, so be on the lookout for more details soon.  </mj-text>
+          <mj-text>This is an important milestone for our polytechnic implementation. We appreciate your support of, and shared excitement for, our continued transformation.</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature" width="145px" align="left"/>
+          <mj-text>Jenn Capps<br>
+            Provost and Vice President for Academic Affairs</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
+          <mj-text>Sherie Cornish Gordon <br>
+            Vice President for Administration and Finance</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
