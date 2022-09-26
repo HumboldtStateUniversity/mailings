@@ -23,7 +23,7 @@
         }
 
         .dark-wrap {
-          background: #5C8021;
+          background: #004C45;
           color: #fff;
         }
 
@@ -38,7 +38,7 @@
         }
       </mj-style>
     </mj-head>
-    <mj-body background-color="#E8EFDE">
+    <mj-body background-color="#E9E3D0">
       <mj-section padding="40px 0 0">
         <mj-column>
 
@@ -53,17 +53,17 @@
       <mj-section css-class="light-wrap">
         <mj-column>
           <mj-text padding-top="0">
-            <h1 style="font-family:georgia, serif;color:#202020;font-size:18px;font-weight:normal;margin:0;">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;">
               A Message from Cal Poly Humboldt
             </h1>
-            <p id="date" style="font-family:georgia, serif;color:#202020;font-size:14px;font-weight:normal;margin:10px 0 20px 0;">
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;">
               September 26, 2022
             </p>
-            <p style="font-family:georgia, serif;color:#202020;font-size:22px;font-weight:normal;margin:10px 0 20px 0; line-height:28px">
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
               Polytechnic Implementation Update: Brand Initiative
             </p>
           </mj-text>
-          <mj-divider border-color="#FFC629" padding="0"></mj-divider>
+          <mj-divider border-color="#F2A900" padding="0"></mj-divider>
         </mj-column>
       </mj-section>
 
@@ -97,7 +97,7 @@
 
       <mj-section padding="0 0 40px 0">
         <mj-column>
-          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/footer.png" alt="circle H graphic element" padding="0" />
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
         </mj-column>
       </mj-section>
     </mj-body>
