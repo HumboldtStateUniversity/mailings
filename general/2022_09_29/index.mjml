@@ -87,14 +87,14 @@
           <mj-text>
             A digital and print media campaign has been launched as a part of the student recruitment and brand awareness efforts in areas outside our community. We are also working to develop new signage and branding across physical spaces on and off campus. Implementation of the new web templates and content strategy will be ongoing for many months.
           </mj-text>
-          <mj-text>We know that this is a busy time for everyone and we appreciate your support as we continue to transition to our new look and the broader implementation of the brand. The University Brand website will be updated in the coming weeks with brand guidelines and logos for download, so be on the lookout for more details soon.  </mj-text>
+          <mj-text>We know that this is a busy time for everyone and we appreciate your support as we continue to transition to our new look and the broader implementation of the brand. <strong>The University Brand website will be updated in the coming weeks with brand guidelines and logos for download, so be on the lookout for more details soon</strong>.</mj-text>
           <mj-text>This is an important milestone for our polytechnic implementation and we appreciate your  shared excitement for our continued transformation.</mj-text>
           <mj-image src="https://mailings.humboldt.edu/general/2021_09_17/capps-sig.png" alt="Jenn Capps' signature" width="145px" align="left"/>
           <mj-text>Jenn Capps<br>
             Provost and Vice President for Academic Affairs</mj-text>
           <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
           <mj-text padding-bottom="40px">Sherie Cornish Gordon <br>
-            Vice President for Administration and Finance</mj-text>
+            Vice President for Administration &amp; Finance</mj-text>
         </mj-column>
       </mj-section>
 
