@@ -70,8 +70,6 @@
 
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
-        <!-- @todo grab coral sea photo from magazine-->
-          <mj-image src="https://mailings.humboldt.edu/general/2022_09_29/nib_stok070822_0066.jpg"/>
 
           <mj-text>At the beginning of our polytechnic implementation journey, the University engaged marketing firm SimpsonScarborough to help build awareness of Cal Poly Humboldt on the state and national stage through a long-term branding initiative. </mj-text>
           <mj-text>In the first phase, extensive audience research was conducted to inform the brand. A broad range of participants were engaged, both on campus and in the community. After we defined our brand strategy, we developed our updated brand platform, which includes new logos as well as other visual and verbal elements. </mj-text>
@@ -93,8 +91,12 @@
           <mj-text>Jenn Capps<br>
             Provost and Vice President for Academic Affairs</mj-text>
           <mj-image src="https://mailings.humboldt.edu/general/2021_1_08b/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
-          <mj-text padding-bottom="40px">Sherie Cornish Gordon <br>
+          <mj-text padding-bottom="20px">Sherie Cornish Gordon <br>
             Vice President for Administration &amp; Finance</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/2022_09_29/nib_stok070822_0066.jpg"/>
+          <mj-text padding-top="0" color="#666" font-size="14px">
+            <em>The R/V Coral Sea got a makeover this summer, which includes the new logos and a fresh coat of paint.
+            </em></mj-text>
         </mj-column>
       </mj-section>
 
