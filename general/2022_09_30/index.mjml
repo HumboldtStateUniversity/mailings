@@ -1,0 +1,104 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Suspicious Packages Sent to Faculty</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              September 30, 2022
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Suspicious Packages Sent to Faculty
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+
+          <mj-text>Dear Campus Community:</mj-text>
+          <mj-text>On Thursday afternoon three faculty members from the Critical Race, Gender & Sexuality Studies program received packages, each containing the same book with hateful, misogynistic, homophobic, and other negative content. The packages were collected by the Dean of the College of Arts Humanities & Social Sciences and handed over to the University Police Department (UPD). </mj-text>
+          <mj-text>UPD analyzed the packages and determined that there is no imminent or immediate threat to the campus community. UPD is currently investigating the incident and will share the packages with federal agencies for further review.</mj-text>
+          <mj-text>
+            If you see or receive packages with the Supreme Court or Chief Justice John Roberts as the return address, please leave the package where it is and immediately contact UPD officer Andy Martin at <a href="mailto:jam1855@humboldt.edu">
+            jam1855@humboldt.edu
+          </a> or <a href="tel:(707) 826-5555">(707) 826-5555</a>. Faculty may also contact their respective dean, chair, or supervisor to ensure they are aware of the situation.
+          </mj-text>
+          <mj-text>
+            We do not tolerate acts of hatred and bigotry. We are deeply committed to standing beside and with our colleagues who are doing the difficult work of teaching and leading in these crucial disciplines.
+          </mj-text>
+          <mj-text>Incidents like these can be deeply distressing. Staff or faculty seeking additional support may utilize the <a href="https://hraps.humboldt.edu/employee-assistance-program">
+            Employee Assistance Program, LifeMatters</a>, offered through Empathia 24 hours a day, seven days a week. <a href="https://counseling.humboldt.edu/">
+            Counseling &amp; Psychological Services (CAPS)
+          </a> has more information on counseling for students.</mj-text>
+          <mj-text>If  you have concerns or questions feel free to contact us directly. We will keep you apprised as we learn more. </mj-text>
+          <mj-text>Sincerely, <br><br>
+            Jenn Capps<br>
+            Provost and Vice President for Academic Affairs</mj-text>
+          <mj-text padding-bottom="20px">Jeff Crane, Ph.D. <br>
+            Dean of the College of Arts, Humanities &amp; Social Sciences</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
