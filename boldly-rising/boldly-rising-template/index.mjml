@@ -1,0 +1,79 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Campus Physical Plan Needs Your Help</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">	
+        <mj-column  background-color="#004C46">
+
+          <mj-image src="../assets/brMark.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="25px 20px" width="250px" align="left"/>
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column  background-color="#00856A">
+
+          <mj-image src="../assets/boldlyrising-hero.jpg" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="0 0 8px" padding-top/>
+
+        </mj-column>
+        
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="10px">
+        <mj-column>
+          <mj-text>Salutation,</mj-text>
+          <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet arcu quis nisi fermentum tincidunt. Praesent rutrum mi eget nisi pulvinar, sed convallis dolor tincidunt. Integer gravida elit ipsum, vel mattis arcu tempor at. In dignissim sed magna in tempor. Duis dui magna, convallis a mauris pretium, suscipit luctus tortor. Suspendisse accumsan massa ut nisi auctor, ut bibendum quam aliquam. Praesent ac sem neque. Fusce elit nisi, faucibus nec est nec, varius commodo elit. Nunc mattis erat sem.</mj-text>
+          <mj-text>Sincerely,</mj-text>
+            <mj-image src="../assets/signature.png" width="250px" alt="TKTKTK's signature" align="left"/>
+          <mj-text padding-bottom="20px" padding-top="0px">
+            <strong>NAME</strong><br/>TITLE
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">	
+        <mj-column  background-color="#004C46">
+
+          <mj-image src="../assets/calpoly-humboldt-logo.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="20px" width="200px" align="center"/>
+
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
