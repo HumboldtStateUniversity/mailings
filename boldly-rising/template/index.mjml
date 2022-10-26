@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Campus Physical Plan Needs Your Help</mj-title>
+      <mj-title>Boldly Rising - The Campaign for Cal Poly Humboldt</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -42,14 +42,14 @@
       <mj-section padding="40px 0 0">	
         <mj-column  background-color="#004C46">
 
-          <mj-image src="../assets/brMark.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="25px 20px" width="250px" align="left"/>
+          <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/brMark.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="25px 20px" width="250px" align="left"href="https://boldlyrising.humboldt.edu/"/>
 
         </mj-column>
       </mj-section>
       <mj-section padding="0">
         <mj-column  background-color="#00856A">
 
-          <mj-image src="../assets/boldlyrising-hero.jpg" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="0 0 8px" padding-top/>
+          <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/boldlyrising-hero.jpg" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="0 0 8px" href="https://boldlyrising.humboldt.edu/" />
 
         </mj-column>
         
@@ -61,7 +61,7 @@
           <mj-text>Salutation,</mj-text>
           <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet arcu quis nisi fermentum tincidunt. Praesent rutrum mi eget nisi pulvinar, sed convallis dolor tincidunt. Integer gravida elit ipsum, vel mattis arcu tempor at. In dignissim sed magna in tempor. Duis dui magna, convallis a mauris pretium, suscipit luctus tortor. Suspendisse accumsan massa ut nisi auctor, ut bibendum quam aliquam. Praesent ac sem neque. Fusce elit nisi, faucibus nec est nec, varius commodo elit. Nunc mattis erat sem.</mj-text>
           <mj-text>Sincerely,</mj-text>
-            <mj-image src="../assets/signature.png" width="250px" alt="TKTKTK's signature" align="left"/>
+            <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/signature.png" width="250px" alt="TKTKTK's signature" align="left"/>
           <mj-text padding-bottom="20px" padding-top="0px">
             <strong>NAME</strong><br/>TITLE
           </mj-text>
@@ -71,7 +71,7 @@
       <mj-section padding="0">	
         <mj-column  background-color="#004C46">
 
-          <mj-image src="../assets/calpoly-humboldt-logo.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="20px" width="200px" align="center"/>
+         <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/calpoly-humboldt-logo.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="20px" width="200px" align="center" href="https://humboldt.edu"/>
 
         </mj-column>
       </mj-section>
