@@ -1,0 +1,168 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Message on Title IX to the Cal Poly Humboldt Community</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+        li {
+          padding-bottom:8px;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              November 4, 2022
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Message on Title IX to the Cal Poly Humboldt Community
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text><strong>Personal Message from President Jackson</strong></mj-text>
+          <mj-text>Students and Colleagues,</mj-text>
+          <mj-text><em>I have heard from many students, staff, and faculty that my choice of words during the Fall Welcome presentation was heard and perceived differently than I intended. My goal had been to illustrate the complexity of laws and policies regarding confidentiality and privacy, and to stress that the campus was obligated to abide by these laws and policies while managing Title IX investigations. I referred to these as “secrets” and I now understand that many who have been harmed by the misconduct of others heard this as my not caring or as the campus seeking to hide these incidents to protect its image. Nothing could be further from the truth. I have spent my entire career in higher education focused on the healthy development of students and worked diligently to ensure campuses are supportive and function as positive communities. That said, I failed in articulating my true message of support, and because of that, I am sorry. I want everyone on our campus to thrive, to feel supported, and to know that I care about you and your University cares about you.
+            <br><br>
+            - President Tom Jackson, Jr.
+          </em></mj-text>
+          <mj-text><strong>Open Letter from Campus Leaders</strong></mj-text>
+          <mj-text>
+            Dear Cal Poly Humboldt Community,
+          </mj-text>
+          <mj-text>
+            We write to you in the humble and heartfelt hope that we can meaningfully address concerns we have heard and that we can enlist your participation in continuing to create a more positive and supportive culture on our campus. We know that Humboldt, at its best, embraces both students and employees and changes lives for the better. We also know there is much work to do to ensure that all members of our community have a positive experience.
+          </mj-text>
+          <mj-text>We want a campus where people thrive. A campus that is safe and embraces diversity of people and ideas. A campus free of crime and sexualized violence. A campus that genuinely supports each other, particularly when most in need. We want a campus that reflects the best in each of us.</mj-text>
+          <mj-text>Humboldt has made positive strides in recent years in addressing challenges related to misconduct by employees and students. In particular, we have increased staffing from one person to three in our Title IX Office, and we have also made changes to investigation processes, as recommended by experts. We will soon be adding additional staffing in the Title IX office to ensure we can continue to be supportive and responsive when incidents and complaints are brought to our attention. The university offers several areas of support to assist survivors.</mj-text>
+          <mj-text>Recent news coverage has raised questions about how the campus responds to reports of misconduct, including those that may be handled through the <a href="#">Title IX process</a>. Like all campuses, we often have Title IX and other misconduct investigations underway. Investigations begin when reports are made; as a result, those who have been harmed are provided various types of support based on their preferences. Investigations are carried out, findings are made, and corrective actions are taken. We strive to provide impactful outcomes.</mj-text>
+          <mj-text>We encourage a level of patience, understanding and grace for those on campus who are charged with the daily implementation of these efforts. They are working to overcome significant past inertia and historical challenges. Even with the additional staffing and resources recently committed, this work takes substantial time to resolve. In our aggressive efforts to hold people accountable, we must be careful to follow the guiding laws, policies, and procedures. Not doing so is not only unfair to all involved but can result in diminishing the credibility of our systems and actions.</mj-text>
+          <mj-text>In these efforts, there are difficult questions that we need to work through together. For example: What does it mean to become a “survivor-centered” campus? And, how do we achieve that? Are we sure that we are offering enough support and guidance to those who are reporting misconduct? Are our prevention and educational outreach programs sufficient and effective enough? How can we as a campus evaluate the effectiveness and judgments that occur within these confidential processes? How do we eliminate personal biases to not influence investigations and outcomes? How do we measure whether we, as a campus, are making progress in creating a safer and more inclusive community? How do we continually improve the process?</mj-text>
+          <mj-text>Cal Poly Humboldt will soon have a campus visit from the group that is conducting a California State University (CSU) systemwide assessment of Title IX with the goal of advancing Title IX practices and other civil rights training, awareness, prevention, intervention, compliance, accountability, and support systems. They will gather a great deal of data and documentation as they develop recommendations for the CSU. We encourage you to participate as you are able to share your perspectives and thoughts. We welcome their recommendations and are committed to openly sharing information and dedicating the resources necessary to continuously improve our support programs and investigative practices.
+          </mj-text>
+          <mj-text>We know our campus faces challenges. Every instance of unprofessional conduct, bullying, and lack of collegiality erodes our community and diminishes the experience of being a student or member of our University. Conversely, each time we prevent or successfully confront these behaviors, we become stronger together.</mj-text>
+          <mj-text>Any member of the campus community who would like to report a Title IX violation or seek support can contact the Title IX Office at 707-826-5177 or:</mj-text>
+          <mj-text>
+            <ul>
+              <li>File a report online at this link:
+                <a href="https://hsu.link/TitleIXReport">https://hsu.link/TitleIXReport</a></li>
+              <li>Complete this Formal Complaint Form and email to the Title IX and DHR Prevention Office:
+                <a href="https://hsu.link/TitleIXFormalComplaint">https://hsu.link/TitleIXFormalComplaint</a>
+              </li>
+            </ul>
+          </mj-text>
+          <mj-text>Some may feel more comfortable talking with a confidential resource about what they have experienced. Below is a list of people and services that are considered privileged reporters.</mj-text>
+          <mj-text>
+            <ul>
+              <li>
+                <strong>Campus Advocate Team (CAT)</strong><br>
+                24-Hour Hotline: (707) 445-2881
+              </li>
+              <li>
+                <strong>North Coast Rape Crisis Team</strong><br>
+                24-Hour hotline: (707) 445-2881<br>
+                <a href="https://www.ncrct.org/">NCRCT Website</a>
+              </li>
+              <li>
+                <strong>Humboldt Domestic Violence Services</strong><br>
+                24-Hour Hotline: (707) 443-6042<br>
+                <a href="https://hdvs.org/">HDVS Website</a>
+              </li>
+              <li>
+                <strong>Counseling & Psychological Services (CAPS)</strong><br>
+                24-Hour Phone: (707) 826-3236<br>
+                <a href="https://counseling.humboldt.edu/">CAPS Website</a>
+              </li>
+            </ul>
+          </mj-text>
+          <mj-text>We are committed to doing the work, with integrity and compassion. It is our sincere hope that the campus community will support and affirm the spirit and content of this letter, further confirming that we all desire to sustain a positive and supportive learning community.
+          </mj-text>
+          <mj-text>
+          Sincerely,
+          </mj-text>
+
+          <mj-text>
+            Juan Guerrero<br>
+            President, Associated Students
+          </mj-text>
+
+          <mj-text>
+            Janessa Woolley<br>
+            President, Staff Council
+          </mj-text>
+
+          <mj-text>
+            Monty Mola<br>
+            Professor of Physics<br>
+            President, General Faculty<br>
+            Chair, University Senate
+          </mj-text>
+
+          <mj-text>
+            Tom Jackson, Jr.<br>
+            President, Cal Poly Humboldt
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
