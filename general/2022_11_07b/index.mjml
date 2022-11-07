@@ -1,0 +1,93 @@
+  <mjml>
+    <mj-head>
+      <mj-title>‘Wiyot Plaza’ is New Name for Space Near BSS Building</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+        li {
+          padding-bottom:8px;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              November 7, 2022
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              ‘Wiyot Plaza’ is New Name for Space Near BSS Building
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Cal Poly Humboldt is proud to share that the space between the Behavioral & Social Sciences Building, Native American Forum, and Food Sovereignty Lab has been given the name of “Wiyot Plaza.”
+          </mj-text>
+          <mj-text>
+            The naming follows close consultation with Wiyot Tribal leadership, which endorsed the idea.
+          </mj-text>
+          <mj-text>"Ha wa lou, I would like to say hou' to everyone that made this name change happen,” says Wiyot Tribal Chair Ted Hernandez. “I remember the first time I heard the students and faculty call it Wiyot Plaza. It was at the opening of the Food Sovereignty Lab. When I listened to this name, I said, yes, it fits. I am excited to see this change and how everyone here at Cal Poly Humboldt recognizes they are on Wiyot Land. I wish other universities would respect the lands their schools sit on as Cal Poly Humboldt is doing."</mj-text>
+          <mj-text>Wiyot Plaza includes the area between the Native American Forum and the Behavioral and Social Sciences building bordered to the west by the main stairs and to the east by the parking stairs and inclusive of the gathering area directly west of the Food Sovereignty Lab. The naming idea came about in recent years due to the many programs and facilities with an Indigenous focus at that location, including the Native American Forum and the Goudi’ni Native American Arts Gallery. The newest is the innovative Food Sovereignty Lab & Cultural Workshop Space, which is currently under construction.</mj-text>
+          <mj-text>The name for Wiyot Plaza had been suggested by a number of individuals, and a proposal was put forth by a group from Native American Studies and the Food Sovereignty Lab. After review by campus leadership, and within the guidelines set out by the California State University, the naming of the designated space was recently approved.</mj-text>
+          <mj-text>“I hope that our whole campus community recognizes what an honor this is,” says Cal Poly Humboldt President Tom Jackson Jr. “This name is a gift that was given to the University by the Wiyot Tribe. It’s important, and I'm very grateful to Chair Herndandez for the partnership and friendship that this represents.”.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
