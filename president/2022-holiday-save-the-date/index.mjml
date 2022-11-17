@@ -1,0 +1,75 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Save the Date for the Faculty & Staff Holiday Party!</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" />
+      <mj-attributes>
+        <mj-text font-family="poppins, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="poppins" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+				
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F5F3E7;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#98B8AD">
+      
+      <mj-section padding="40px 0 0">	
+        <mj-column  background-color="#004C46">
+
+         <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="20px" width="180px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column  background-color="#00856A">
+
+          <mj-image src="https://mailings.humboldt.edu/president/2022-holiday-save-the-date/save-the-date.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="0"/>
+
+        </mj-column>
+        
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          
+          <mj-text padding="20px 30px 0" font-size="19px" line-height="25px" align="center">Please save the date to join President and Mrs. Jackson at the Faculty and Staff Holiday Party, which will be held <strong>Friday, December 9</strong> from <strong>4–6 p.m.</strong> in the <strong>West Gym</strong>. </mj-text>
+          <mj-text padding="20px 30px 30px" font-size="19px" line-height="25px" align="center">
+Enjoy food, drinks, and music with your colleagues at this event that honors your contributions to our campus community and welcomes the holiday season!
+</mj-text>
+ 
+          <mj-image src="https://mailings.humboldt.edu/president/2022-holiday-save-the-date/footer.png" alt="footer with diamond h" padding="0" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+
+     
+    </mj-body>
+  </mjml>
