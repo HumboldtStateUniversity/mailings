@@ -64,11 +64,16 @@
           <mj-text padding="20px 30px 30px" font-size="19px" line-height="25px" align="center">
 Enjoy food, drinks, and music with your colleagues at this event that honors your contributions to our campus community and welcomes the holiday season!
 </mj-text>
- 
-          <mj-image src="https://mailings.humboldt.edu/president/2022-holiday-save-the-date/footer.png" alt="footer with diamond h" padding="0" align="center" href="https://humboldt.edu"/>
+               
 
         </mj-column>
       </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2022-holiday-save-the-date/footer.png" alt="footer with diamond h" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+               
 
      
     </mj-body>
