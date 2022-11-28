@@ -72,9 +72,10 @@
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
           <mj-text>
-            Thank you to the Cal Poly Community for all of your wonderful interactions during our campus interactions in September and October. For those that were unable to attend our in person sessions, please consider making your voice heard by <a href="https://mapmy.smithgroup.com/Humboldt/">taking the survey</a>! The survey will be available through December.
+            Thank you to the Cal Poly Humboldt Community for the wonderful feedback gathering during the open forums, workshops, focus groups, and tabling events that took place over the last few months. For those who were unable to attend the in-person sessions, you still have time to make your voices heard by <a href="https://mapmy.smithgroup.com/Humboldt/">taking the MapMyHumboldt interactive survey</a>. The survey will be available through December.
           </mj-text>
-          <mj-button href="https://mapmy.smithgroup.com/Humboldt/">Take the Survey</mj-button>
+          <mj-button href="https://mapmy.smithgroup.com/Humboldt/" >Take the Survey</mj-button>
+          <mj-text padding-bottom="30px">For information on the Campus Physical Planning Effort please visit <a href="https://physicalplan.humboldt.edu">physicalplan.humboldt.edu</a>.</mj-text>
         </mj-column>
       </mj-section>
 
