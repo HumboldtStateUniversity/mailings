@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Cozen O’Connor Campus Visit December 6-8</mj-title>
+      <mj-title>Cozen O’Connor Campus Visit December 8</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -63,7 +63,7 @@
               December 1, 2022
             </p>
             <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-              Cozen O’Connor Campus Visit December 6-8
+              Cozen O’Connor Campus Visit December 8
             </p>
           </mj-text>
           <mj-divider border-color="#F2A900" padding="0" />
@@ -77,7 +77,7 @@
           <mj-text>Next week (December 6-8), Institutional Response Group members <a href="https://www.cozen.com/people/bios/holland-maureen">Maureen
             Holland
           </a> and <a href="https://www.cozen.com/people/bios/sawyer-cara">Cara Sawyer</a> will be on campus to meet with stakeholders and implementers whose work intersects with Title IX and DHR Prevention efforts. Maureen and Cara will also be meeting with students, faculty, and staff to share more about the assessment or learn more about their perspectives. </mj-text>
-          <mj-text>Students are invited to meet and interact with the Cozen Team in an Open Forum for Students on Thursday, December 8th, from 11:00 AM until noon in the Great Hall.  Students are encouraged to provide input and share their experiences or observations regarding Cal Poly Humboldt’s Title IX & DHR Prevention programs during this session. (*)</mj-text>
+          <mj-text>Students are invited to meet and interact with the Cozen Team in an open forum for Students on Thursday, December 8th, from 11:00 a.m. until noon in the Great Hall.  Students are encouraged to provide input and share their experiences or observations regarding Cal Poly Humboldt’s Title IX & DHR Prevention programs during this session. (*)</mj-text>
           <mj-text>Information shared in this open forum, and in other meetings with campus stakeholders and constituents will be maintained as private by Cozen O’Connor and will not be shared with Cal Poly Humboldt or CSU leadership with personal attribution.  Instead, Cozen O’Connor will seek to identify aggregate themes about our strengths and challenges in our approach to prevention efforts and our response to reports of discrimination, harassment, retaliation, and sexual misconduct.</mj-text>
           <mj-text>Later this fall, you will have an additional opportunity to participate in a survey where you can share information anonymously or request the opportunity to speak directly with a member of the Cozen O’Connor team. You may also share your feedback by sending an email to <a href="mailto:CalStateReview@cozen.com">
             CalStateReview@cozen.com</a>.</mj-text>
