@@ -50,9 +50,9 @@
       <mj-section background-url="https://mailings.humboldt.edu/president/2022-holiday-invite/plaid.png"
               background-size="cover"
               background-repeat="no-repeat">
-        <mj-column padding="0">
+        <mj-column padding="0 0 30px;">
 
-          <mj-text color="#F5F3E7" font-weight="900" padding="0 15px 30px" font-size="34px" line-height="38px" align="center" letter-spacing="1.5px" text-transform="uppercase">	Let<span style="letter-spacing: -2px;">’</span>s get together<br />and celebr<span style="letter-spacing: -2px;">a</span>te!</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/president/2022-holiday-invite/text.png" alt="Let's get together and celebrate" padding="0" align="center" width="300px" />
 
         </mj-column>
         
