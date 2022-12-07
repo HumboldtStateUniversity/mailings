@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>SUBJECT</mj-title>
+      <mj-title>Reminder: Polytechnic Implementation Working Group Open Forum</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -63,7 +63,7 @@
               December 7, 2022
             </p>
             <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-              SUBJECT
+              Reminder: Polytechnic Implementation Working Group Open Forum
             </p>
           </mj-text>
           <mj-divider border-color="#F2A900" padding="0" />
