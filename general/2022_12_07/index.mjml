@@ -1,0 +1,87 @@
+  <mjml>
+    <mj-head>
+      <mj-title>SUBJECT</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #004C46;
+        }
+
+        a.dark {
+          color: #004C46;
+        }
+        li {
+          padding-bottom:8px;
+        }
+
+        .dark-wrap {
+          background: #004C46;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              December 7, 2022
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              SUBJECT
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Please join the polytechnic implementation steering team tomorrow, Thursday, December 8 from 2–3:30 p.m. in the College Creek Great Hall for an open forum to learn about updates related to the University’s polytechnic implementation plans. The forum will provide a brief overview of <a href="https://www.humboldt.edu/polytechnic/implementation-working-groups">Polytechnic Implementation Working Group</a> activities as well as answer your questions. This will be an in-person forum only, however, the forum will be recorded and distributed following the event.
+          </mj-text>
+          <mj-text>As always, you can get additional information and updates on our polytechnic transformation by visiting the <a href="http://www.humboldt.edu/polytechnic">Polytechnic website</a>, emailing <a href="mailto:poly@humboldt.edu">poly@humboldt.edu</a>, or calling <a href="7078263300">(707) 826-3300</a>.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
