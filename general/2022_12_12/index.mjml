@@ -1,0 +1,97 @@
+  <mjml>
+    <mj-head>
+      <mj-title>2022 National Rugby Champions!</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #004C46;
+        }
+
+        a.dark {
+          color: #004C46;
+        }
+        li {
+          padding-bottom:8px;
+        }
+
+        .dark-wrap {
+          background: #004C46;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              December 12, 2022
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              2022 National Rugby Champions!
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-image href="https://mailings.humboldt.edu/general/2022_12_12/IMG_1133opt.jpg" alt="Rubgy team post win" />
+          <mj-text>
+            It’s a great day to be a Lumberjack!  Cal Poly Humboldt is excited to share that the Jacks are national rugby champions for the first time in the club’s nearly 50-year history.
+          </mj-text>
+          <mj-text>On Sunday, the men’s team surprised rugby powerhouse Wayne State College, beating the odds to win  the 2022 National Collegiate Rugby Small College National Championship.</mj-text>
+          <mj-text>Their victory marks the end of an extraordinary season for the Jacks.</mj-text>
+          <mj-text>Heading into the championship match, Wayne State College was undefeated with a record of 16-0. The team had beaten  every team in the postseason by 30 points or more before its semifinals victory over the Catholic University Cardinals on Friday. </mj-text>
+          <mj-text>The Jacks also remained undefeated heading into the national championship match and took down Endicott College of Beverly, Massachusetts in the semifinals, 41-28.</mj-text>
+          <mj-text>The first half of the title match saw nothing but defensive pressure and dominance from the Jacks as they jumped out to a 15-0 lead. </mj-text>
+          <mj-text>"We knew it was going to be a battle. We would have to keep to the details and keep our fitness up in the next 40 minutes to close it out," Head Coach Greg Pargee said.  </mj-text>
+          <mj-text>The second half saw an attempted comeback from the Wildcats, but the Jacks prevailed and held on to win with a final score of 20-15.</mj-text>
+          <mj-text>This year was the 49th season the men's rugby team has played. The club will look forward to defending their title next season as they look to make another championship run.</mj-text>
+          <mj-text>"The coaching staff was confident the team was prepared and was going to surprise Wayne State in the final. We were big underdogs in the eyes of most but we knew our team was special,” Assistant Coach Vincent Celotto said. “Confident, loose, and prepared was the team vibe. Also, when we woke up to rain on Championship day we all knew it was going to be a special day."</mj-text>
+          <mj-text padding-bottom="30px">Please join in congratulating our national champions!</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
