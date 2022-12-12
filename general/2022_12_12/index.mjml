@@ -71,7 +71,7 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
-          <mj-image href="https://mailings.humboldt.edu/general/2022_12_12/IMG_1133opt.jpg" alt="Rubgy team post win" />
+          <mj-image src="https://mailings.humboldt.edu/general/2022_12_12/IMG_1133opt.jpg" alt="Rubgy team post win" />
           <mj-text>
             It’s a great day to be a Lumberjack!  Cal Poly Humboldt is excited to share that the Jacks are national rugby champions for the first time in the club’s nearly 50-year history.
           </mj-text>
