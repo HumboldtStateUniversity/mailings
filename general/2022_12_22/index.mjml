@@ -74,12 +74,12 @@
           <mj-text>
             <em>Interim Chancellor Jolene Koester has shared a video offering warm holiday greetings and appreciation for faculty, staff, and students.</em>
           </mj-text>
-          <mj-image src="https://mailings.humboldt.edu/general/2022_12_22/image003.jpg" alt="Happy Holidays" />
+          <mj-image src="https://mailings.humboldt.edu/general/2022_12_22/csu-playbutton.jpg" alt="Happy Holidays" />
           <mj-text>During this season of celebration and reflection, my thoughts turn gratefully to those who have made our progress possible.</mj-text>
           <mj-text>With deepest thanks, warmest greetings and best wishes for the new year!</mj-text>
+          <mj-image padding-top="20px" padding-bottom="0" src=https://mailings.humboldt.edu/general/2022_12_22/chancellorKoestersignature.png" alt="Jolene Koester Signature" width="200px" align="left"/>
+          <mj-text padding-top="0">Interim Chancellor Jolene Koester</mj-text>
           <mj-button>Watch the Video</mj-button>
-          <mj-image src=https://mailings.humboldt.edu/general/2022_12_22/chancellorKoestersignature.png" alt="Jolene Koester Signature"/>
-          <mj-text>Interim Chancellor Jolene Koester</mj-text>
         </mj-column>
       </mj-section>
 
