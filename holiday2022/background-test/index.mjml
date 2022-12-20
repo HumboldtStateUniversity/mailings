@@ -1,0 +1,92 @@
+  <mjml>
+    <mj-head>
+      <mj-title>background test</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
+      <mj-attributes>
+        <mj-text font-family="poppins, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="poppins" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#00856A" font-size="16px" line-height="30px" padding="20px 0 40px" border-radius="30px" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+				
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F5F3E7;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#98B8AD">
+      
+     <mj-section>
+      
+      </mj-section>
+      <mj-section background-url="https://mailings.humboldt.edu/holiday2022/background-test/bg.jpg"
+              background-size="cover"
+              background-repeat="no-repeat">
+        <mj-column padding="0 0 30px">
+
+          <mj-image src="https://mailings.humboldt.edu/holiday2022/background-test/text.png" alt="Here's to new dream, new adventures, and new chances to shine. H. Best Wishes for 2023 from Cal Poly Humboldt" padding="30px 0 0 40px" align="left" width="300px" />
+
+<mj-button padding-top="30px"  href="#">
+        Watch the Video
+        </mj-button>
+        </mj-column>
+        
+      </mj-section>
+
+<mj-section padding-top="20px">
+      <mj-column>
+
+        <mj-social font-size="18px" icon-size="36px" mode="horizontal" padding-top="10px">
+          <mj-social-element name="hsu-facebook" href="https://www.facebook.com/Humboldtcalpoly" src="https://mailings.humboldt.edu/holiday2021/card/facebook.png"  padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-twitter" href="https://twitter.com/humboldtcalpoly" src="https://mailings.humboldt.edu/holiday2021/card/twitter.png"  padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="flickr" href="https://www.flickr.com/photos/calpolyhumboldt" src="https://mailings.humboldt.edu/holiday2021/card/flickr.png"  padding="5px" padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="yotube" href="https://www.youtube.com/user/HumboldtOnline" src="https://mailings.humboldt.edu/holiday2021/card/youtube.png"  padding="5px">
+
+          </mj-social-element>
+          <mj-social-element name="hsu-linkedin" href="https://www.linkedin.com/company/cal-poly-humboldt" src="https://mailings.humboldt.edu/holiday2021/card/linkedin.png"  padding="5px">
+          </mj-social-element>
+
+          <mj-social-element name="hsu-instagram" href="https://www.instagram.com/humboldtpolytechnic/" src="https://mailings.humboldt.edu/holiday2021/card/instagram.png"  padding="5px">
+          </mj-social-element>
+
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+      
+     
+               
+
+     
+    </mj-body>
+  </mjml>
