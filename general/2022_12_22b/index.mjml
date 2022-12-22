@@ -7,7 +7,7 @@
         <mj-all font-family="Arial" />
         <mj-section padding="30px 0 0 0" />
         <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
-        <mj-divider border-width="2px" />
+        <mj-divider border-width="1px" />
       </mj-attributes>
       <mj-style inline="inline">
         h2 {
@@ -70,10 +70,14 @@
         </mj-column>
       </mj-section>
       <mj-section css-class="light-wrap" padding-bottom="0">
+
         <mj-column>
+          <mj-text font-size="14px"><em>This version corrects the day for Informal Time Off.</em></mj-text>
+          <mj-divider></mj-divider>
+
           <mj-text>Dear Colleagues:</mj-text>
           <mj-text>
-            In celebration of the holiday season, Governor Newsom authorized four hours of Informal Time Off (ITO) on Thursday, December 23, 2022.  I authorized an additional four hours of ITO. The campus will be closed December 23, 2022.
+            In celebration of the holiday season, Governor Newsom authorized four hours of Informal Time Off (ITO) on Friday, December 23, 2022.  I authorized an additional four hours of ITO. The campus will be closed December 23, 2022.
           </mj-text>
           <mj-text>To maintain critical campus functions, some team members will work on December 23. Team members who work may make arrangements with their supervisor for an alternative informal day off to be used before June 30, 2023.</mj-text>
           <mj-text>Thank you for your many contributions in 2022. Relax and refresh. I look forward to working with you all in the new year.</mj-text>
