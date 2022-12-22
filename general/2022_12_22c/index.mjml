@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Full Day off on December 23</mj-title>
+      <mj-title>CSU Messages Regarding Cozen O’Connor Assessment</mj-title>
       <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
       <mj-attributes>
         <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -60,10 +60,10 @@
               A Message from Cal Poly Humboldt
             </h1>
             <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
-              December 22, 2022
+              December 21, 2022
             </p>
             <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-              Full Day off on December 23
+              CSU Messages Regarding Cozen O’Connor Assessment
             </p>
           </mj-text>
           <mj-divider border-color="#F2A900" padding="0" />
@@ -72,9 +72,13 @@
       <mj-section css-class="light-wrap" padding-bottom="0">
 
         <mj-column>
-
-          <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" padding-bottom="0" padding-top="30px" />
-          <mj-text padding-bottom="30px">Tom Jackson, Jr., President</mj-text>
+          <mj-text padding-bottom="30px">Attached are letters regarding the Cozen O’Connor systemwide assessment, including a solicitation for members of campus community to provide additional feedback, from Interim Chancellor Koester and Acting Vice Chancellor for Human Resources Leora Freedman. </mj-text>
+          <mj-text>
+            <a href="https://mailings.humboldt.edu/general/2022_12_22c/An Update re Cozen Systemwide Assessment - Final[26].pdf">Letter from Interim Chancellor Koester</a> <br>
+          </mj-text>
+          <mj-text padding-bottom="30px">
+            <a href="https://mailings.humboldt.edu/general/2022_12_22c/Cozen Assessment_Opportunities to share feedback with Cozen and learn more.pdf">Letter from Acting Vice Chancellor for Human Resources Freedman</a></mj-text>
+        </mj-column>
         </mj-column>
       </mj-section>
 
