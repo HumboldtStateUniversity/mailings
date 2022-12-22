@@ -60,7 +60,7 @@
               A Message from Cal Poly Humboldt
             </h1>
             <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
-              December 21, 2022
+              December 22, 2022
             </p>
             <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
               CSU Messages Regarding Cozen O’Connor Assessment
@@ -78,7 +78,6 @@
           </mj-text>
           <mj-text padding-bottom="30px">
             <a href="https://mailings.humboldt.edu/general/2022_12_22c/Cozen Assessment_Opportunities to share feedback with Cozen and learn more.pdf">Letter from Acting Vice Chancellor for Human Resources Freedman</a></mj-text>
-        </mj-column>
         </mj-column>
       </mj-section>
 
