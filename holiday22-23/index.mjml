@@ -45,17 +45,17 @@
       </mj-section>
       <mj-section >
         <mj-column padding="0">
-          <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/background-test/intro.jpg" alt="Here’s to new dreams, new adventures, and new chances to shine." align="left" width="600px" />
+          <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/intro.jpg" alt="Here’s to new dreams, new adventures, and new chances to shine." align="left" width="600px" />
         </mj-column>
       </mj-section>
         <mj-section padding="0">
             <mj-column>
-                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/background-test/H.jpg" alt="H."/>
+                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/H.jpg" alt="H."/>
             </mj-column>
         </mj-section>
         <mj-section padding="0">
             <mj-column>
-                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/background-test/best.jpg" alt="Best Wishes for 2023 from Cal Poly Humboldt"/>
+                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday22-23/best.jpg" alt="Best Wishes for 2023 from Cal Poly Humboldt"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="white" padding="0">
