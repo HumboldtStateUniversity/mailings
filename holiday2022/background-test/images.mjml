@@ -43,18 +43,27 @@
      <mj-section>
       
       </mj-section>
-      <mj-section background-url="https://mailings.humboldt.edu/holiday2022/background-test/bg.jpg"
-              background-size="cover"
-              background-repeat="no-repeat">
+      <mj-section >
         <mj-column padding="0 0 0px">
-
-          <mj-image src="https://mailings.humboldt.edu/holiday2022/background-test/text.png" alt="Here's to new dream, new adventures, and new chances to shine. H. Best Wishes for 2023 from Cal Poly Humboldt" align="left" width="600px" />
-
-<mj-button padding-top="30px"  href="https://youtu.be/ubOcOAWTJxM">
-        Watch the Video
-        </mj-button>
+          <mj-image src="https://mailings.humboldt.edu/holiday2022/background-test/intro.jpg" alt="Here’s to new dreams, new adventures, and new chances to shine." align="left" width="600px" />
         </mj-column>
-        
       </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/holiday2022/background-test/H.jpg" alt="H."/>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://mailings.humboldt.edu/holiday2022/background-test/best.jpg" alt="Best Wishes for 2023 from Cal Poly Humboldt"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="0">
+            <mj-column>
+                <mj-button padding="20px 0"  href="https://youtu.be/ubOcOAWTJxM">
+                    Watch the Video
+                </mj-button>
+            </mj-column>
+        </mj-section>
     </mj-body>
   </mjml>
