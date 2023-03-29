@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-title>More Off-campus Housing for Cal Poly Humboldt Students</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            March 29, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            More Off-campus Housing for Cal Poly Humboldt Students
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>We’re excited to share that Cal Poly Humboldt is continuing to expand its off-campus housing options for continuing and transfer students for Fall 2023. .</mj-text>
+        <mj-text>Starting today, continuing and transfer students now have <a href="https://housing.humboldt.edu/apply/how-to-apply">the option to select</a> the Ramada Inn in Arcata as another option for accommodations on their Humboldt housing application. This is in addition to the College Creek residence hall on campus and the Comfort Inn, Super 8, and Motel 6 in Arcata. </mj-text>
+        <mj-text>The Ramada Inn, Comfort Inn, Super 8, and Motel 6 amenities include: </mj-text>
+        <mj-text padding-top="0">
+          <ul >
+            <li>Housekeeping services, daily breakfast, cable TV, WiFi, limited parking, and more </li>
+            <li>Nearby public transit service to campus and additional transportation support from Cal Poly Humboldt 7 days a week with extended evening hours </li>
+            <li>Resident Advisors who live full-time in each hotel with professional Residence Life Coordinator staff oversight </li>
+            <li>Enhanced programming such as a faculty lecture series and special catered dinner events</li>
+            <li>University Police and hotel staff patrol the property regularly</li>
+            <li>Shared kitchens that students can use to prepare their own food, and one staffed by Dining services that will offer grab-and-go items that can be purchased with a meal plan </li>
+          </ul>
+        </mj-text>
+        <mj-text padding-top="0">You may be wondering how we arrived at these off-campus housing solutions. In any given year,  an estimated 3,000-4,000 students choose to live off campus in private rentals in the community. Even so, there simply is not enough quality, affordable housing—a serious challenge faced by college students across the state.</mj-text>
+        <mj-text>Leasing hotels is a short-term solution as we move forward with plans for building five housing facilities. One new housing facility,  the <a href="https://now.humboldt.edu/news/student-housing-transformation">Craftsman Student Housing project</a>, is slated to open as early as 2025, and will accommodate 964 students. After <a href="https://www.humboldt.edu/polytechnic/infrastructure-projects">additional planned on- and off-campus housing facilities </a> are completed, there will be space for about 4,100 students in University-owned housing.</mj-text>
+        <mj-text padding-bottom="0">We’re  optimistic about the road ahead as we grow as a polytechnic. Right now, we’re offering more off-campus housing than ever before: a total of 430 students will be housed in the University-managed hotels.
+        </mj-text>
+        <mj-text>Current students will receive a separate communication about the room selection process and waitlist information. Please continue to <a href="https://housing.humboldt.edu/faq">check the FAQ</a>, which is updated when there’s more information to share. </mj-text>
+        <mj-text>Also, remember that our Off-Campus Housing office assists students with finding a place to live in the local community. We’re expanding staffing for this office to provide additional support for students. Our <a href="https://basicneeds.humboldt.edu/resources/housing">Emergency Housing program
+        </a> is for students who are unable to find permanent housing or abruptly lose their housing. </mj-text>
+        <mj-text padding-bottom="30px">We’re deeply grateful for the constructive feedback from students, families, and other members of the campus community. It’s input that we take to heart and oftentimes brings to our attention concerns that we consider as we move forward with housing projects. We encourage you to email <a href="mailto:housingfeedback@humboldt.edu">housingfeedback@humboldt.edu</a> or call (707) 826-3451. You can also contact the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
