@@ -83,11 +83,11 @@ As requested, Cal Poly Humboldt has formed an Implementation Team made up of adm
         <mj-text>
         The message to this new Implementation Team contains extensive detail about <a href="https://mailings.humboldt.edu/general/2023_04_13/initial-email-to-team-members.pdf">their charge and the remaining steps</a>.
           </mj-text>
-        <mj-text padding-bottom="10px">
+        <mj-text>
 The Implementation Team is:
         </mj-text>
         <mj-text>
-        <ul>
+        <ul style="margin-top:0px; margin-bottom:0px;">
           <li>David Hickcox, Title IX Coordinator & DHR Prevention Administrator (Co-Chair)</li>
 <li>Kimberly White, Interim AVP for Faculty Affairs</li>
 <li>Deborah Doel-Hammond, Interim AVP & Chief Human Resources Officer (CHRO) </li>
