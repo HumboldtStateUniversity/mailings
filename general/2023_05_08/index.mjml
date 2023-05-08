@@ -71,7 +71,7 @@
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
         <mj-text>
-       As part of the Brand Initiative work with partner agency SimpsonScarborough, Cal Poly Humboldt has been undergoing a comprehensive update to the design and structure of the University's primary web presence at <strong><a href="https://humboldt.edu">humboldt.edu</a></strong>. This redesign touches almost every element of the site, from front-end design and organization, to back-end content management system and code. The website update is in its final stages, and is scheduled to launch in June. 
+       As part of the Brand Initiative work with partner agency SimpsonScarborough, Cal Poly Humboldt has been undergoing a comprehensive update to the design and structure of the University's primary web presence at <a href="https://humboldt.edu">humboldt.edu</a>. This redesign touches almost every element of the site, from front-end design and organization, to back-end content management system and code. The website update is in its final stages, and is scheduled to launch in June. 
         </mj-text>
         <mj-text>
           Along with the extensive brand research conducted initially, students and other campus audiences were consulted about what they wanted most from the website and to help identify pain points with the current site. Those insights were then paired with what prospective students and families are looking for in their college search journey.
