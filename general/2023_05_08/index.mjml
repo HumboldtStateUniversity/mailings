@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-title> Please share your feedback on the new humboldt.edu website</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            May 5, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+             Please share your feedback on the new humboldt.edu website
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>
+       As part of the Brand Initiative work with partner agency SimpsonScarborough, Cal Poly Humboldt has been undergoing a comprehensive update to the design and structure of the University's primary web presence at humboldt.edu. This redesign touches almost every element of the site, from front-end design and organization to back-end content management system and code. The website update is in its final stages, and is scheduled to launch in June. 
+        </mj-text>
+        <mj-text>
+          Along with the extensive brand research conducted initially, students and other campus audiences were consulted about what they wanted most from the website and to help identify pain points with the current site Those insights were then paired with what prospective students and families are looking for in their college search journey.
+        </mj-text>
+        <mj-text>
+          The primary audience for the website is prospective students, so the site is designed to make  the content that they’re looking for easily accessible and give them a great experience when exploring all the University has to offer. Because the campus community uses the site to access various tools, those links are still present in the internal resources menu in the navigation bar.
+        </mj-text>
+        <mj-text>
+          In preparation for launch, you are invited to take a sneak peek of the <strong><a href="https://beta.humboldt.edu/">beta site</a></strong> and <strong><a href="https://forms.gle/veAKrjxSYuHdyyRs5">send feedback</a></strong>. Please take some time to explore the new site and provide any feedback you have by May 19. Any comments or suggestions are welcome. 
+        </mj-text>
+        <mj-text>
+          Feedback on colors, fonts, or other graphic elements is not needed as the website design is based on the new brand standards. Instead, you’re encouraged to use the website as you normally would, focusing on the general usability of the site and your ability to find what you are looking for. Explore the new menu structure and note whether you find any broken links or if there are things you find confusing. During the site review period, the website search is not fully functional and will return very limited results.
+        </mj-text>
+        <mj-text>
+          Remember, websites are meant to be iterative, and refinements will be made before and after the new site launches. 
+        </mj-text>
+        <mj-text>
+          Once the website launches, all other University sites will be updated with the new Cal Poly Humboldt logo, colors, and fonts that are part of the new brand standards. Then as part of Phase 2 of the website refresh, all other sites will begin the transition to the updated Drupal 9 content management system. 
+        </mj-text>
+        <mj-text>
+          Your feedback is invaluable to ensuring the website is the best that it can be. There is much more to come, and your partnership is appreciated as we continue our Cal Poly Humboldt brand transition!
+
+        </mj-text>
+        
+        <mj-text>
+          <br>
+          <strong>Frank Whitlatch</strong> <br>
+            Vice President for University Advancement
+             <br><br>
+          <strong>Kristen Gould</strong> <br>
+               Director of Marketing, Marketing & Communications
+        </mj-text>
+            
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
