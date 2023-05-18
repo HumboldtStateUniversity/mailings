@@ -47,22 +47,20 @@
 
         </mj-column>
       </mj-section>
-      <mj-section background-url="https://mailings.humboldt.edu/general/2023-staff-appreciation/ballon-bg.png"
-              background-size="cover"
-              background-repeat="no-repeat">
-        <mj-column padding="0 0 30px">
-
-          <mj-image src="https://mailings.humboldt.edu/general/2023-staff-appreciation/text.png" alt="Let's get together and celebrate" padding="0" align="center" width="300px" />
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/general/2023-staff-appreciation/ballon-bg.png" alt="balloon background" padding="0"/>
 
         </mj-column>
-        
+
       </mj-section>
 
 
       <mj-section css-class="light-wrap">
         <mj-column>
-           
-          <mj-text padding="20px 25px 0" font-size="20px" line-height="27px" align="center">
+          <mj-image src="https://mailings.humboldt.edu/general/2023-staff-appreciation/text.png" alt="Let's get together and celebrate" padding="0" align="center" width="300px" />
+
+          <mj-text padding="30px 25px 0" font-size="20px" line-height="27px" align="center">
             Staff Council invites you to the Cal Poly Humboldt <br>
             <strong>Staff Appreciation Event on Thursday, May 25 from 4:00-7:00 p.m. at the Arcata Community Center</strong>. </mj-text>
           
