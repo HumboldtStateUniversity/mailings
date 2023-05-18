@@ -47,7 +47,7 @@
 
         </mj-column>
       </mj-section>
-      <mj-section background-url="ballon-bg.png"
+      <mj-section background-url="https://mailings.humboldt.edu/general/2023-staff-appreciation/ballon-bg.png"
               background-size="cover"
               background-repeat="no-repeat">
         <mj-column padding="0 0 30px">
