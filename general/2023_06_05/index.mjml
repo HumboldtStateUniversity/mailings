@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cal Poly Humboldt Women’s Rowing Team Wins Third National Championship</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+           June 5, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Cal Poly Humboldt Women’s Rowing Team Wins Third National Championship
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          Cal Poly Humboldt is excited to announce that the Women’s Rowing team brought home another National Championship. The team was crowned the 2023 NCAA Division II Rowing National Champs, ending their season and the regattas on Saturday, May 27 with a perfect score and trophies in hand at Cooper River Park in New Jersey. </mj-text>
+
+          <mj-text>This marks the Women’s Rowing team’s third national title following championship wins in 2012 and 2014, and now 2023. </mj-text>
+
+  <mj-text>The Jacks earned the title after bringing home the gold in both the Fours and Eights grand finals, dominating over opponents including University of Central Oklahoma University (UCO) and Seattle Pacific. In the final moments of the Fours Grand Final race, Humboldt snagged the lead, taking a six-second victory over UCO and fishing with a time of 8:06.762.</mj-text>
+
+  <mj-text>In the Eights Grand Final, the Jacks finished with a time of 7:15.143., pulling across the finish line almost five seconds before UCO.</mj-text>
+
+  <mj-text>“This group kept their heads today, they executed the plan and didn't change anything or try to do too much on a bigger stage," said head coach Matt Weise. "We talk about doing all the work all the time. The dark mornings, the cold rain, it's all paid off. I'm really proud of what they accomplished today and proud of our great coaching staff as well."</mj-text>
+
+  <mj-text>The Lumberjacks athletics season ended on a high note—in addition to the Women’s Rowing National Championship, Aris Valerio earned All-American honors at the NCAA Division II Outdoor Track & Field Championships hosted by CSU Pueblo Thunderbowl in Colorado. Valerio now ranks ninth in the nation in the 800-meter run. </mj-text>
+
+  <mj-text>In celebration of their championship title, the team has been invited to attend an exclusive event for NCAA national champs in Washington D.C. on June 12 as part of the White House’s College Athlete Day, which celebrates national champions across the NCAA’s 24 sports and three divisions. </mj-text>
+
+  <mj-text padding-bottom="40px" >Please join us in congratulating our national champions and stellar athletes!</mj-text>
+
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
