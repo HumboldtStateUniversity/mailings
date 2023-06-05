@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Cal Poly Humboldt Women’s Rowing Team Wins Third National Championship</mj-title>
+    <mj-title>Cal Poly Humboldt Women’s Rowing Team Heads to White House After Winning National Championship</mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -62,7 +62,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
            June 5, 2023</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            Cal Poly Humboldt Women’s Rowing Team Wins Third National Championship
+            Cal Poly Humboldt Women’s Rowing Team Heads to White House After Winning National Championship
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -70,6 +70,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/general/2023_06_05/rowingChamps_IMG-3814.jpg" alt="Women's rowing team accept award" />
         <mj-text>
           Cal Poly Humboldt is excited to announce that the Women’s Rowing team brought home another National Championship. The team was crowned the 2023 NCAA Division II Rowing National Champs, ending their season and the regattas on Saturday, May 27 with a perfect score and trophies in hand at Cooper River Park in New Jersey. </mj-text>
 
