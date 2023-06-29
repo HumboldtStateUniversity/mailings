@@ -60,7 +60,7 @@
             A Message from Cal Poly Humboldt
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
-            June 27, 2023</p>
+            June 29, 2023</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
             Update: Cozen O’Connor Systemwide Title IX and DHR Assessment
           </p>
@@ -89,7 +89,8 @@ Thank you for your patience and understanding. For more information about the Co
         </mj-text>
   <mj-text padding-bottom="0">Best,</mj-text>
           <mj-image src="https://mailings.humboldt.edu/general/signatures/freedman-sig.jpg" alt="Leora D. Freedman" width="120px" align="left"/>
-          <mj-text>Leora D. Freedman</mj-text>
+          <mj-text padding-top="5px"><strong>Leora D. Freedman</strong><br/>Vice Chancellor for Human Resources<br />
+CSU Office of the Chancellor</mj-text>
           <mj-text>
        
         
