@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-title>Next Steps in Cozen Title IX Review</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            June 27, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Update: Cozen O’Connor Systemwide Title IX and DHR Assessment
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text padding-bottom="30px" padding-top="0"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text>
+        <mj-text>
+        Dear Members of the CSU Community, 
+          </mj-text>
+        <mj-text>
+I write to provide an update on the completion of the Cozen O’Connor Systemwide Title IX and DHR Assessment. At the May 24 meeting of the Board of Trustees, Cozen O’Connor gave a public, oral report about the assessment during the Committee on University and Faculty Personnel. A <a href="https://www.youtube.com/watch?v=37GVdhqjn5o&t=20s">recording of the presentation</a> (Cozen section begins at 23:15 in video) and a <a href="https://www.calstate.edu/titleix/documents/cozen-presentation-bot-52423.pdf">copy of the PowerPoint</a> are publicly accessible.
+        </mj-text>
+        <mj-text>
+Cozen O’Connor is actively working to complete its written report, which will include a systemwide report of common observations and recommendations for enhanced system oversight, as well as individual reports for each of CSU’s universities and the Chancellor’s Office.
+
+        </mj-text>
+        <mj-text>
+At the time of the Board meeting, we anticipated the written reports would be completed in June. Cozen O’Connor has informed the Chancellor that an additional period of time is necessary to complete the written reports, which collectively span hundreds of pages in length. Given the complexity of the issues and the enormity of the assessment, the writing and synthesis process is understandably very time consuming. We anticipate releasing the written report (with 23 campus and Chancellor’s Office reports attached) no later than July 17, 2023.
+          </mj-text>
+        <mj-text>
+Thank you for your patience and understanding. For more information about the Cozen O’Connor assessment, please visit our <a href="https://www.calstate.edu/titleix/Pages/cozen-title-ix-assessment.aspx">web page dedicated to the assessment</a> and our <a href="https://www.calstate.edu/titleix/Pages/systemwide-title-ix-and-dhr-assessment-faqs.aspx">FAQs</a>.        
+        </mj-text>
+  <mj-text padding-bottom="0">Best,</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/signatures/freedman-sig.jpg" alt="Leora D. Freedman" width="120px" align="left"/>
+          <mj-text>Leora D. Freedman</mj-text>
+          <mj-text>
+       
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
