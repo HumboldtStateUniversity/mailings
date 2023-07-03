@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>New humboldt.edu Website Launches July 5
+    <mj-title> New Cal Poly Humboldt Website Launches July 5
     </mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
@@ -63,7 +63,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             July 3, 2023</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            New humboldt.edu Website Launches July 5
+            New Cal Poly Humboldt Website Launches July 5
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -72,7 +72,7 @@
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
         <mj-text>
-          Cal Poly Humboldt’s newly redesigned <a href="https://humboldt.edu">humboldt.edu</a> website will launch on Wednesday, July 5.
+          Cal Poly Humboldt’s newly redesigned humboldt.edu website will launch on Wednesday, July 5.
         </mj-text>
         <mj-text>
           The comprehensive update to the design and structure of the University's primary web presence is part of the Brand Initiative work with partner agency SimpsonScarborough.
