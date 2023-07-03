@@ -1,0 +1,115 @@
+<mjml>
+  <mj-head>
+    <mj-title>New humboldt.edu Website Launches July 5
+    </mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            July 3, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            New humboldt.edu Website Launches July 5
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text padding-bottom="30px" padding-top="0"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text>
+        <mj-text>
+          Cal Poly Humboldt’s newly redesigned <a href="https://humboldt.edu">humboldt.edu</a> website will launch on Wednesday, July 5.
+        </mj-text>
+        <mj-text>
+          The comprehensive update to the design and structure of the University's primary web presence is part of the Brand Initiative work with partner agency SimpsonScarborough.
+        </mj-text>
+        <mj-text>
+          Built with a primary focus on enhancing the digital experience for prospective students, the website makes the content they’re looking for easily accessible. It showcases our academic programs, research initiatives, campus life, and other resources. With streamlined menus, improved functionality, and a responsive layout that works well on all devices, the updated design creates a visually engaging experience that aligns with our new brand standards.
+        </mj-text>
+        <mj-text>
+          After the redesigned humboldt.edu launches, all other University sites will be updated with the new Cal Poly Humboldt logo, colors, and fonts that are part of the new brand. Then as part of Phase 2 of the website refresh, other sites will begin the transition to the updated content management system.
+        </mj-text>
+        <mj-text>
+          Thank you to all who provided feedback during the most recent review period in May. Many updates and changes were made reflecting that input.
+        </mj-text>
+        <mj-text>
+          This new website is the culmination of many months of work and opens exciting possibilities to share our story and showcase how our institution shapes futures. The site is meant to be iterative, and we invite you to explore the platform and continue to <a href="https://forms.gle/EBroSfV5Hqi3DHXh8">
+          provide feedback</a>.
+        </mj-text>
+        <mj-text>
+          There is much more to come. Your ideas and participation are appreciated as we further develop the new Cal Poly Humboldt brand.
+        </mj-text>
+          <mj-text padding-top="25px"><strong>Frank Whitlatch</strong><br/>Vice President <br />
+            University Advancement</mj-text>
+          <mj-text>
+              <strong>Kristen Gould</strong><br>
+              Director of Marketing<br>
+              Marketing & Communications
+            </mj-text>
+       
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
