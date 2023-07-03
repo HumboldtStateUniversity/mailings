@@ -71,7 +71,6 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
-        <mj-text padding-bottom="30px" padding-top="0"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text>
         <mj-text>
           Cal Poly Humboldt’s newly redesigned <a href="https://humboldt.edu">humboldt.edu</a> website will launch on Wednesday, July 5.
         </mj-text>
