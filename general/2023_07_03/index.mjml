@@ -72,7 +72,7 @@
     <mj-section css-class="light-wrap" padding-bottom="0">
       <mj-column>
         <mj-text>
-          Cal Poly Humboldt’s newly redesigned humboldt.edu website will launch on Wednesday, July 5.
+          Cal Poly Humboldt’s newly redesigned <a href="https://humboldt.edu">humboldt.edu</a> website <strong>will launch on Wednesday, July 5</strong>.
         </mj-text>
         <mj-text>
           The comprehensive update to the design and structure of the University's primary web presence is part of the Brand Initiative work with partner agency SimpsonScarborough.
@@ -81,7 +81,7 @@
           Built with a primary focus on enhancing the digital experience for prospective students, the website makes the content they’re looking for easily accessible. It showcases our academic programs, research initiatives, campus life, and other resources. With streamlined menus, improved functionality, and a responsive layout that works well on all devices, the updated design creates a visually engaging experience that aligns with our new brand standards.
         </mj-text>
         <mj-text>
-          After the redesigned humboldt.edu launches, all other University sites will be updated with the new Cal Poly Humboldt logo, colors, and fonts that are part of the new brand. Then as part of Phase 2 of the website refresh, other sites will begin the transition to the updated content management system.
+          After the redesigned <a href="https://humboldt.edu">humboldt.edu</a> launches, all other University sites will be updated with the new Cal Poly Humboldt logo, colors, and fonts that are part of the new brand. Then as part of Phase 2 of the website refresh, other sites will begin the transition to the updated content management system.
         </mj-text>
         <mj-text>
           Thank you to all who provided feedback during the most recent review period in May. Many updates and changes were made reflecting that input.
