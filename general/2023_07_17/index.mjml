@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-title>Mildred García Appointed 11th CSU Chancellor</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            July 12, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Mildred García Appointed 11th CSU Chancellor
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text padding-bottom="30px" padding-top="0"><em>This message is being sent on behalf of the California State University Board of Trustees.</em></mj-text>
+        <mj-text>
+        Dear California State University Community:
+          </mj-text>
+        <mj-text>
+          On behalf of the California State University Board of Trustees, it is my honor and great pleasure to announce the appointment of Dr. Mildred García, president of the American Association of State Colleges and Universities (AASCU), as the next chancellor to lead the CSU system.
+        </mj-text>
+        <mj-text>
+          This marks a return to the CSU for Chancellor-select García. She previously served as president of Cal State Fullerton from 2012 to 2018 and as president of CSU Dominguez Hills from 2007 to 2012. At both universities, Chancellor-select García’s principled and student-centered leadership led to advances in student achievement and educational equity, as well as increases in philanthropic support and community partnerships.  
+        </mj-text>
+        <mj-text>
+          As AASCU president since 2018, she has been a strong advocate for public higher education at the national level, working to influence federal policy and regulations on behalf of nearly 400 member colleges and universities that hold students and community at the heart of their mission.
+        </mj-text>
+        <mj-text>
+          Throughout her long and distinguished career, Chancellor-select García has been a champion for students of all backgrounds, particularly those from underrepresented communities. As a first-generation student and the first in her family to earn a degree, she has devoted her professional life to the social mobility and transformational opportunities that a college degree offers. Her unwavering commitment to furthering student achievement, dynamic leadership and visionary perspective will chart a new and exciting path forward for the entire California State University community.
+        </mj-text>
+        <mj-text>
+          We welcome Chancellor-select García back to the CSU and anticipate that she will officially begin her tenure on October 1.       
+        </mj-text>
+        <mj-text>
+        Please read the press release announcement <a href="https://www.calstate.edu/csu-system/news/Pages/CSU-11th-Chancellor-Appointed-2023.aspx">here</a>.
+        </mj-text>
+        <mj-text padding-bottom="0">Sincerely,</mj-text>
+          <mj-image src="https://mailings.humboldt.edu/general/signatures/fong-sig.png" alt="Leora D. Freedman" width="200px" align="left"/>
+          <mj-text padding-top="5px"><strong>Wenda Fong</strong><br/>Chair, CSU Board of Trustees<br />
+Chair, Implementation Committee for the Selection of the Chancellor</mj-text>
+          <mj-text>
+       
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
