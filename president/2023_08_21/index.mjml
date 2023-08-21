@@ -1,117 +1,110 @@
-<mjml>
-  <mj-head>
-    <mj-title>Welcome to the Fall semester</mj-title>
-    <mj-style inline="inline">
-      body {
-        padding-top: 10px;
-        padding-left: 5px;
-        padding-right: 5px;
-        padding-bottom: 20px;
-      }
-      a {
-        color: #004C46;
-        text-decoration: underline;
-      }
-      .circleh {
-      background:url('https://mailings.humboldt.edu/president/0_img/circleh-footer.png') center center no-repeat;
-      height: 50px;
-      width: 50px;
-      padding: 0px;
-      background-size: contain;
-      
-      }
-      .invisible {
-      display:none;
-      height: 50px;
-      }
-      .light-wrap {
-      
-      }
-    </mj-style>
-     <mj-style>
-      // @media all and (max-width: 480px) { // div { // font-size:16px !important; // } // }
-    </mj-style>
-    
-    
-    
-    <mj-attributes>
-      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" align="left" padding-top="0" padding-left="30px" padding-right="30px" padding-bottom="20px"/>
-        <mj-all font-family="Arial, sans-serif" />
-      <mj-section padding="0" />
-      <mj-column background-color="#FFF" />
-      <mj-divider border-width="1px" />
-      <mj-body background-color="#F5F3E7" />
-    </mj-attributes>
-  
-  
-  
-  </mj-head>
-  
-  <mj-body >
-    <!-- Header -->
-    <mj-section border-top="20px solid #004C46">
-      <mj-column padding-top="25px">
-        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/pres-seal-green.png" alt="Presidential Seal with founders graphic - California Polytechnic University, Humboldt - 1913" />
-     
-      </mj-column>
-      
-    </mj-section>
-    <mj-section>
-      <mj-column>
-				<mj-text align="center" font-size="14px" color="#004C46"  padding-top="25px" padding-bottom="25px">
-          August 21, 2023
-        </mj-text>
-        <mj-text align="center" font-size="24px" line-height="30px" color="#004C46" padding-bottom="20px" font-weight="bold" >
-          Welcome to the Fall semester</p>
-        </mj-text>
-        <mj-divider border-color="#F2A900" padding="0" />
-      </mj-column>
-    </mj-section>
-    
-    <mj-section>
-      <mj-column>
-    		<mj-text padding-top="40px">
-          Dear colleagues,
-        </mj-text>
-        <mj-text>
-I hope you had a wonderful summer and are enthusiastic about the start of the new academic year. This is an exciting and busy time for our campus, with new academic programs getting started and new facilities underway. I deeply appreciate all that you have done as part of Humboldt’s polytechnic transformation, and all you do to provide a positive, meaningful educational experience for our students.
-        </mj-text>
-        <mj-text>
-We all share a strong commitment to higher education. You make a difference in the lives of our students and the broader community. You challenge and support our students to achieve their academic and personal goals, and to create a brighter future. You contribute to the advancement of knowledge, you innovate, and you inspire. 
-        </mj-text>
-        <mj-text>
-At Humboldt, we value high quality education and hands-on learning, interdisciplinary collaboration, and community engagement. We learn from our amazing natural environment and we embrace the intersection of art and science. We are committed to diversity, equity, and inclusion as core principles of our institution. You bring these philosophies and concepts to life in very practical ways.
-        </mj-text>
-        <mj-text>
-        We have a shared commitment to provide our students with a high-quality education that prepares them for the challenges and opportunities they will face. We also have a shared responsibility to uphold our standards of excellence, integrity, and accountability. I am grateful for your collaboration and cooperation in fulfilling our very important institutional purpose.
+  <mjml>
+    <mj-head>
+      <mj-title>Welcome to the Fall semester</mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
 
-        </mj-text>
-        <mj-text>
-Thank you for your dedication and for your passion. I hope you are as excited as I am about the possibilities and potential that lie ahead. I wish you a successful and rewarding semester, and I look forward to seeing you on campus. 
-        </mj-text>
-        <mj-text padding-top="25px" padding-bottom="0">
-        Respectfully,
-        </mj-text>
-        
-      </mj-column>
-    </mj-section>
-    
-      <mj-section>
-      <mj-column>
-        <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/president/0_img/presidentJackson_officialSignature.png" alt="Tom Jackson Jr. signature" />
-        <mj-text>
-        <strong>Tom Jackson, Jr.</strong><br/>
-President
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-        <mj-column>	
-          <mj-image src="https://mailings.humboldt.edu/president/0_img/footer.png" alt="footer with diamond h" padding="0" align="center" href="https://humboldt.edu"/>
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+        li {
+          padding-bottom:8px;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+          <!-- wordmark on right -->
+          <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+          <!-- wordmark on left -->
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
         </mj-column>
       </mj-section>
-    
-    
-    
-  </mj-body>
-  <mjml>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from the Office of the President
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              August 21, 2023
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Welcome to the Fall Semester
+            </p>
+          </mj-text>
+          <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            Dear Colleagues,
+          </mj-text>
+          <mj-text>
+            Welcome to the Fall Semester!</mj-text>
+          <mj-text>
+            I hope you had a wonderful summer and are enthusiastic about the start of the new academic year. This is an exciting and busy time for our campus, with new academic programs getting started and new facilities underway. I deeply appreciate all that you have done as part of Humboldt’s polytechnic transformation, and all you do to provide a positive, meaningful educational experience for our students.
+          </mj-text>
+          <mj-text>
+            We all share a strong commitment to higher education. You make a difference in the lives of our students and the broader community. You challenge and support our students to achieve their academic and personal goals, and to create a brighter future. You contribute to the advancement of knowledge, you innovate, and you inspire. 
+          </mj-text>
+          <mj-text>
+             At Humboldt, we value high quality education and hands-on learning, interdisciplinary collaboration, and community engagement. We learn from our amazing natural environment and we embrace the intersection of art and science. We are committed to diversity, equity, and inclusion as core principles of our institution. You bring these philosophies and concepts to life in very practical ways.
+          </mj-text>
+          <mj-text>
+          We have a shared commitment to provide our students with a high-quality education that prepares them for the challenges and opportunities they will face. We also have a shared responsibility to uphold our standards of excellence, integrity, and accountability. I am grateful for your collaboration and cooperation in fulfilling our very important institutional purpose.
+          </mj-text>
+          <mj-text>
+          Thank you for your dedication and for your passion. I hope you are as excited as I am about the possibilities and potential that lie ahead. I wish you a successful and rewarding semester, and I look forward to seeing you on campus.
+          </mj-text>
+          <mj-text padding-top="20px">
+            Respectfully,
+          </mj-text>
+          <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/general/signatures/presidentJackson_officialSignature.png" alt="Tom Jackson, Jr." />
+          <mj-text>Tom Jackson, Jr., President<br>
+            Cal Poly Humboldt
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+          <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
