@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>Loss of President Emeritus Alistair McCrone</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            August 21, 2023</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+           Loss of President Emeritus Alistair McCrone
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>
+          Dear University Community,          
+        </mj-text>
+        <mj-text>
+          We are sad to share news of the loss of President Emeritus Alistair McCrone. Dr. McCrone passed away in Lynnwood, Washington on August 17 at the age of 91. He leaves behind his wife Judith, of 65 years, and two sons Bruce and Craig.
+        </mj-text>
+        <mj-text>
+          An accomplished scholar and Cal Poly Humboldt's longest serving president (1974-2002), he leaves a lasting impact on the University and the North Coast.        </mj-text>
+        <mj-text>
+          Dr. McCrone was born on Oct. 7, 1931, in Saskatchewan, Canada. He did geologic field work in Canada during the summers while he was completing a B.S. at the University of Saskatchewan, an M.S. at the University of Nebraska, and his Ph.D. at the University of Kansas—graduating in 1961. After teaching and serving in administrative roles for eleven years at New York University, and four years as the Academic Vice President at the University of the Pacific, Dr. McCrone became the Humboldt State University president in 1974. In keeping with his passion and enthusiasm for teaching, and to remain connected with the students, he also taught several Geology classes while he was President.
+        </mj-text>
+        <mj-text >
+          During his presidency, Dr. McCrone guided the University through enrollment declines and budget constraints, oversaw the expansion of academic programs and cultural resources, led the construction of many now-familiar buildings and facilities, including Alistair McCrone Hall, and worked to improve community-university relations.
+        </mj-text>
+        <mj-text>His focus on academic quality was evident, as was his commitment to strengthening connections between the University and the broader community. He was particularly known for walking the campus to engage with students and faculty, an aspect of his role that he relished.</mj-text>
+        <mj-text>The McCrones have been long-time supporters of various areas throughout the University—including the Geology department, the Library, Youth Educational Services, and others. </mj-text>
+        <mj-text>He helped establish the McCrone Promising Faculty Scholars Award and the Alistair and Judith McCrone Graduate Fellowship, which have benefited more than 50 faculty members and 20 graduate students. </mj-text>
+        <mj-text>Dr. McCrone helped shape the University into the outstanding institution it is today and extended educational opportunities to countless people in Northern California and beyond. </mj-text>
+        <mj-text>An intimate family gathering will be held in Washington to celebrate his life and achievements.  </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
