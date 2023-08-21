@@ -1,7 +1,6 @@
 <mjml>
   <mj-head>
     <mj-title>Welcome to the Fall semester</mj-title>
-         <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
     <mj-style inline="inline">
       body {
         padding-top: 10px;
@@ -36,8 +35,8 @@
     
     
     <mj-attributes>
-      <mj-text font-family="poppins, Arial, sans-serif" align="left" font-size="14px" line-height="22px"  color="#004C46" padding-top="0" padding-left="30px" padding-right="30px" />
-        <mj-all font-family="poppins, Arial, sans-serif" />
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" align="left" padding-top="0" padding-left="30px" padding-right="30px" padding-bottom="20px"/>
+        <mj-all font-family="Arial, sans-serif" />
       <mj-section padding="0" />
       <mj-column background-color="#FFF" />
       <mj-divider border-width="1px" />
@@ -51,19 +50,19 @@
   <mj-body >
     <!-- Header -->
     <mj-section border-top="20px solid #004C46">
-      <mj-column padding-top="30px">
-        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/pres-seal-yellow.png" alt="Presidential Seal with founders graphic - Humboldt State University - 1913" />
+      <mj-column padding-top="25px">
+        <mj-image width="120px" src="https://mailings.humboldt.edu/president/0_img/pres-seal-green.png" alt="Presidential Seal with founders graphic - California Polytechnic University, Humboldt - 1913" />
      
       </mj-column>
       
     </mj-section>
     <mj-section>
       <mj-column>
-				<mj-text align="center" font-size="14px" color="#0C4301"  padding-top="25px" padding-bottom="25px">
+				<mj-text align="center" font-size="14px" color="#004C46"  padding-top="25px" padding-bottom="25px">
           August 21, 2023
         </mj-text>
-        <mj-text align="center" font-size="24px" line-height="30px" color="#0C4301" >
-          Welcome to the Fall semester
+        <mj-text align="center" font-size="24px" line-height="30px" color="#004C46" padding-bottom="20px" font-weight="bold" >
+          Welcome to the Fall semester</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
@@ -71,7 +70,7 @@
     
     <mj-section>
       <mj-column>
-    		<mj-text padding-top="25px">
+    		<mj-text padding-top="40px">
           Dear colleagues,
         </mj-text>
         <mj-text>
