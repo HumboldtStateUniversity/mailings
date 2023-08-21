@@ -95,8 +95,8 @@
             Respectfully,
           </mj-text>
           <mj-image width="175px" align="left" src="https://mailings.humboldt.edu/general/signatures/presidentJackson_officialSignature.png" alt="Tom Jackson, Jr." />
-          <mj-text>Tom Jackson, Jr., President<br>
-            Cal Poly Humboldt
+          <mj-text>Tom Jackson, Jr.<br>
+            President
           </mj-text>
         </mj-column>
       </mj-section>
