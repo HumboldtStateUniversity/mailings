@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>A Video Message from Interim Chancellor Koester
+    <mj-title>An Important Video Message from Interim Chancellor Koester
 
     </mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
@@ -64,9 +64,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             August 28, 2023</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            A Video Message from Interim Chancellor Koester
-
-
+            An Important Video Message from Interim Chancellor Koester
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
