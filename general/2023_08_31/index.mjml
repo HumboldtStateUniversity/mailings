@@ -16,6 +16,7 @@
 
       a {
         color: #004C46;
+        text-decoration: underline;
       }
 
       a.dark {
