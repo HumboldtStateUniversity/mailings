@@ -62,7 +62,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             September 13, 2023</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-           Jeanne Clery Act
+           Cal Poly Humboldt 2023 Annual Security and Fire Safety Reports
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -70,8 +70,8 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-     
-        <mj-text>
+     <mj-text><strong>Jeanne Clery Act</strong></mj-text>
+        <mj-text padding-top="0px">
           Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Higher Education Opportunity Act, the 2023 Annual Security Report (ASR) and Annual Fire Safety Report (AFSR) combined report is now available for viewing at <a href="https://clery.humboldt.edu/sites/default/files/2023_cal_poly_humboldt_annual_security_report_and_annual_fire_safety_report.pdf">clery.humboldt.edu/sites/default/files/2023_cal_poly_humboldt_annual_security_report_and_annual_fire_safety_report.pdf</a>. The ASR contains the current security and safety-related policy statements, emergency preparedness and evacuation information, crime prevention and sexual assault prevention information, and information about drug and alcohol prevention programming. The ASR also contains statistics of Clery crimes for Cal Poly Humboldt for 2020, 2021, and 2022. The AFSR report discloses statistics for fires that occurred within Cal Poly Humboldt housing facilities for 2020, 2021, and 2022 and contains fire safety policies and procedures intended to promote safety on campus.
         </mj-text>
         <mj-text>
@@ -87,7 +87,8 @@ Arcata, CA, 95521<br />
         <mj-text >
           <i>Please note: we anticipate republishing and redistributing the Annual Security and Annual Fire Safety reports once the US Department of Education’s amended regulations that implement Title IX of the Education Amendments of 1972 (“Title IX”) are released.</i>
         </mj-text>
-        <mj-text><strong>Campus-Recognized Sorority and Fraternity Transparency Act</strong><br />
+        <mj-text><strong>Campus-Recognized Sorority and Fraternity Transparency Act</strong></mj-text>
+        <mj-text padding-top="0px">
 The Campus-Recognized Sorority and Fraternity Transparency Act (<a href="https://urldefense.com/v3/__https:/leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB524__;!!MWueTNF2!XjCg-VoNSmuhTn4iryaTynTgteM-9cRhX-LWgBtSgxTBIZo3xyKFItHN6ghlhthWZp1qLc4jZltFbKSHoioa$">AB 524; Sections 66310-66312 of California Education Code)</a> requires each institution of higher education to provide all students with an annual report regarding campus sororities and fraternities members and their conduct. Please refer to the <a href="https://clubs.humboldt.edu/sites/default/files/cal_poly_humboldt_campus_recognized_sorority_and_fraternity_transparency_act_22-23.pdf">Clubs website</a> to access the report for Cal Poly Humboldt 22-23 Academic Year.</mj-text>
       </mj-column>
     </mj-section>
