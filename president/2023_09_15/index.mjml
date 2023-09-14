@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>Updated Land Acknowledgement</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+      <mj-divider border-width="2px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #006432;
+      }
+
+      a.dark {
+        color: #5C8021;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C45;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Office of the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            September 15, 2023
+          </p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Updated Land Acknowledgement
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          In consultation with and approval from Wiyot Tribal Leadership, Cal Poly Humboldt and College of the Redwoods have adopted an updated land acknowledgement. The spoken and written versions of this acknowledgement should be used consistently across campus.
+        </mj-text>
+        <mj-text>
+          <strong>Updated Spoken Version</strong> <br>
+          “We acknowledge that &lt;Insert Campus&gt; is located on the unceded lands of the Wiyot people. We honor them and all neighboring tribes by our ongoing commitment to developing trusting, reciprocal, and long lasting partnerships.”
+        </mj-text>
+        <mj-text>
+          <strong>Updated Printed Version</strong> <br>
+          We acknowledge that &lt;Insert Campus&gt; is located on the unceded lands of the Wiyot people, where they have resided from time immemorial. We encourage all to gain a deeper understanding of their history and thriving culture. As an expression of our gratitude we are genuinely committed to developing trusting, reciprocal, and long lasting partnerships with the Wiyot people as well as all of our neighboring tribes.
+        </mj-text>
+        <mj-text>
+          The <strong>Printed Version</strong> should be used on institutional materials such as brochures and websites, or at institutional activities when a video, slide deck, or similar is displayed. The printed version should not be read aloud.
+        </mj-text>
+        <mj-text>
+          The <strong>Spoken Version</strong> should be used at events when acknowledgement is warranted. Even if there is a printed version projected or printed, the spoken version should be used by any speakers.          </mj-text>
+        <mj-text>
+          Cal Poly Humboldt and College of the Redwoods have used a shared land acknowledgement since 2020, following discussions with Wiyot Tribal Leadership. It is occasionally reviewed and updated, with adoption of any changes requiring agreement among the three parties.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
