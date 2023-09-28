@@ -132,7 +132,7 @@ I would be remiss not to mention the changes that have occurred since the Spring
           <mj-text>
           I sincerely appreciate you taking the time to stay informed about the campus budget and for your continuing dedication to deliver a quality education for our students. 
           </mj-text>
-          <mj-text>With gratitude,</mj-text>
+          <mj-text padding-top = "40px">With gratitude,</mj-text>
           <mj-image src="https://mailings.humboldt.edu/general/signatures/sherieGordon_signature.png" alt="Sherie Gordons' Signature" width="100px" align="left"/>
           <mj-text>Sherie Cornish Gordon <br>
             Vice President for Administration &amp; Finance</mj-text>
