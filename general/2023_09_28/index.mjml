@@ -82,7 +82,7 @@
           <mj-text>
           The 2023-24 Operating Fund Budget is reflective of several milestones:
           </mj-text>
-          <mj-text>
+           <mj-text padding-top= "0">
             <ul style="margin-bottom: 0px;" >
               <li>The budget is balanced.</li>
               <li>A healthy and manageable 2-3 percent growth in enrollment this year. </li>
@@ -98,7 +98,7 @@ I would be remiss not to mention the changes that have occurred since the Spring
           <mj-text>
             At a campus level, we have three major factors that will continue to shift our financial trajectory over the next few years that will require thoughtful planning and strategizing as we move forward:
           </mj-text>
-          <mj-text>
+          <mj-text padding-top= "0">
             <ul style="margin-bottom: 0px;">
               <li>
                 <strong>Cost escalation</strong> continues with utilities costs up 60%—a $1.4 million increase this year.
