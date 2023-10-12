@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+    <mj-title>Supporting The Lumberjack Community During Difficult Times</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">
+        <mj-column>
+
+         <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-text padding-top="0">
+            <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+              A Message from Cal Poly Humboldt
+            </h1>
+            <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              October 12, 2023
+            </p>
+            <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+             Supporting The Lumberjack Community During Difficult Times
+            </p>
+          </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="20px">
+        <mj-column>
+          <mj-text>
+            Dear Campus Community,
+          </mj-text>
+   
+          <mj-text>We are deeply saddened by the horrific violence and loss of life in Israel and Gaza, and our sympathies go out to those who have been impacted by the conflict.
+
+          </mj-text>
+          <mj-text>The intent of this message is to acknowledge that significant world events and crises often hit close to home for members of our campus and local communities.
+ 
+          </mj-text>
+          <mj-text>As a community, we are committed to keeping safe our students, staff, and faculty of all religions, ethnicities,  gender and gender identity, and other protected groups.  There is no place at the University for acts of hate or discrimination, and we will continue to work together to foster a learning and working environment where we can all feel safe, included, and respected.  
+
+          </mj-text>
+          <mj-text>We understand this may be a distressing time. Should you need additional support, please know that resources are available. 
+
+          </mj-text>
+          <mj-text>
+          <strong>Students:</strong>
+            <ul style="margin-bottom: 0px;" >
+              <li>If you need to speak to a counselor, you can contact Counseling & Psychological Services at (707) 826-3236 during business hours. Telehealth (including an immediate “TalkNow” session) is available 24/7 through <a href="https://counseling.humboldt.edu/">TimelyCare</a>. Additional information about counseling services and self-help resources can be found at the <a href="https://counseling.humboldt.edu/">Counseling & Psychological Services’ website</a>.</li>  
+
+
+              <li>If you need help connecting to these resources,  contact the <a href="https://deanofstudents.humboldt.edu/CARE">CARE team</a>. </li>
+            </ul>
+          </mj-text>
+          
+           <mj-text>
+          <strong>Employees:</strong>
+            <ul style="margin-bottom: 0px;" >
+              <li>Staff or faculty seeking support can access the <a href="https://hraps.humboldt.edu/employee-assistance-program">Employee Assistance Program, LifeMatters</a>, offered through Empathia 24 hours a day, seven days a week.</li>
+
+            </ul>
+          </mj-text>
+          <mj-text>
+          Maintaining open, respectful dialogue and offering support is not only healthy but also encouraged. It’s also important to show compassion for one another during this difficult time. Listening and learning with empathy makes us stronger as individuals and as a community.
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px 0">
+        <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+</mjml>
+
