@@ -1,0 +1,150 @@
+<mjml>
+  <mj-head>
+    <mj-title>Progress Toward Improving our Title IX Process</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            October 16, 2023
+          </p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Progress Toward Improving our Title IX Process
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>
+          Since last spring, a team of Cal Poly Humboldt community members has been laying the foundation for implementing recommendations highlighted in an assessment of California State University Title IX processes.
+        </mj-text>
+
+        <mj-text>Released in July, the report by Cozen O’Connor identifies core observations for improvements, both at the system level and for each of the 23 CSU campuses. In response to the assessment, each campus formed an implementation team.  The University’s team broadly represents all corners of campus, bringing with them their expertise and range of experiences and perspectives that will be critical to accomplishing its core priorities.
+
+        </mj-text>
+        <mj-text padding-bottom="0"><strong>Members of the Implementation Team are:</strong>
+          <ul>
+            <li style="padding-bottom:0;">Sherie C. Gordon, VP of Administration & Finance (Co-Chair)</li>
+            <li style="padding-bottom:0;">David Hickcox, Title IX Coordinator & DHR Prevention Administrator (Co-Chair)</li>
+            <li style="padding-bottom:0;">Anthony Casas, AVP & Chief Human Resources Officer</li>
+            <li style="padding-bottom:0;">Donyet King, Senior Director of Housing & Residence Life</li>
+            <li style="padding-bottom:0;">Grant Landy, Head Women's Soccer Coach</li>
+            <li style="padding-bottom:0;">Mitch Mitchell, Dean of Students & AVP of Student Success</li>
+            <li style="padding-bottom:0;">Samuel Parker, Associated Students President</li>
+            <li style="padding-bottom:0;">Xena Pastor-Nulia, Safety Services Coordinator</li>
+            <li style="padding-bottom:0;">James F. Woglom, University Senate Chair</li>
+            <li style="padding-bottom:0;">Kimberly White, Interim AVP for Faculty Affairs</li>
+          </ul>
+
+        </mj-text>
+        <mj-text>Over the last few months, team representatives have collaborated with the Chancellor’s Office and Cozen O’Connor to review recommendations in depth. The team launched a website that outlines all Title IX implementation work plus a list of team members and minutes from team meetings. The site also serves as a clearinghouse for Title IX implementation related work and updates. To ensure the campus community receives timely and accurate information, representatives from the group have also been providing updates at every University Senate meeting since the start of the fall semester.
+        </mj-text>
+        <mj-text>The team is currently focused on meeting two key benchmarks: developing comprehensive plans for communicating progress and updates to the campus community, and developing a robust implementation plan. The communication plan is due to the CSU on or before Oct. 27. This communication plan will be vetted through the University Senate Executive Committee and University Senate prior to that submission, and campus-wide messaging will be forthcoming with an invitation to join that meeting and provide feedback. The implementation plan is due to the CSU on or before Dec. 15.
+
+
+        </mj-text>
+        <mj-text>
+          The committee is finalizing plans for development, engagement, and completion of the implementation. The draft plan will be vetted by the University’s leadership team, University Senate, and other stakeholder groups during the engagement process. The plan must be approved by the President before final submission to the Chancellor’s Office. <a href="https://titleix.humboldt.edu/cozen">
+          See the website for the timeline</a>.
+        </mj-text>
+
+        <mj-text padding-bottom="0"><strong>Title IX Reporting and Resources</strong> <br>
+          Timely reporting and investigations of misconduct are crucial to maintaining a safe workplace, and Cal Poly Humboldt encourages people to come forward with any concerns about equity, safety, and harassment. Any members of the campus community who would like to report a Title IX violation or seek support can:
+          <ul>
+            <li style="padding-bottom: 0;">Contact the Title IX Office at 707-826-5177; or</li>
+            <li style="padding-bottom: 0;">File a report online at this link: <a href="File a report online at this link: https://hsu.link/TitleIXReport. ">https://hsu.link/TitleIXReport</a>. </li>
+          </ul>
+        </mj-text>
+        <mj-text>
+          Some may feel more comfortable talking with a confidential resource about what they experienced. Below are support options that do not have a reporting obligation to the university.
+        </mj-text>
+        <mj-text>
+          Campus Advocate Team (CAT) <br>
+          24-Hour Hotline: (707) 445-2881 <br>
+          <a href="https://titleix.humboldt.edu/hsu-cat">Campus Advocate Team Website</a>
+        </mj-text>
+        <mj-text>
+          North Coast Rape Crisis Team <br>
+          24-Hour hotline: (707) 445-2881 <br>
+          <a href="https://www.ncrct.org/">NCRCT Website</a>
+        </mj-text>
+        <mj-text>
+          Humboldt Domestic Violence Services <br>
+          24-Hour Hotline: (707) 443-6042 <br>
+          <a href="https://hdvs.org/">HDVS Website</a>
+        </mj-text>
+        <mj-text>
+          Counseling & Psychological Services (CAPS) <br>
+          24-Hour Phone: (707) 826-3236 <br>
+          <a href="https://counseling.humboldt.edu/">CAPS Website</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
