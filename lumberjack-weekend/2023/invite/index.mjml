@@ -17,7 +17,7 @@
           <mj-image src="https://mailings.humboldt.edu/lumberjack-weekend/2023/invite/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="20px" width="180px" align="center" href="https://humboldt.edu" />
         </mj-column>
       </mj-section>
-      <mj-section background-url="https://mailings.humboldt.edu/lumberjack-weekend/2023/invite/plaid.png" background-size="cover" background-repeat="no-repeat" padding="0">
+      <mj-section background-url="https://mailings.humboldt.edu/lumberjack-weekend/2023/invite/plaid.png" background-size="cover" background-repeat="no-repeat" background-color="#004c46" padding="0">
         <mj-column padding="0">
           <mj-divider border-color="#F2A900" padding="0" />
           <mj-image src="https://mailings.humboldt.edu/lumberjack-weekend/2023/invite/logo.png" alt="Lumberjack Weekend - Homecoming 2023" padding="20px 0" align="center" width="270px" />
@@ -31,22 +31,22 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding-bottom="0">
         <mj-column>
-          <mj-text align="center" font-size="18px" line-height="24px"><strong>Get ready to show your Green and Gold spirit for Humboldt's <a href="https://homecoming.humboldt.edu/">Lumberjack Weekend</a>, formerly known as Homecoming & Family Weekend.</strong>.</mj-text>
+          <mj-text align="center" font-size="18px" line-height="24px"><strong>Get ready to show your Green and Gold spirit for Humboldt's <a href="https://homecoming.humboldt.edu/">Lumberjack Weekend</a>, formerly known as Homecoming & Family Weekend.</strong></mj-text>
           <mj-text align="center" font-size="24px" line-height="28px">
-            <strong>Thursday, Oct. 19–22</strong>
+            <strong>October 19–22</strong>
           </mj-text>
           <mj-text>This weekend is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends. </mj-text>
           <mj-text>While students are not required to register, we kindly request alumni, family, and friends to register.</mj-text>
           <mj-text font-size="20px" padding-top="20px" padding-bottom="0" font-weight="bold">Event Highlights</mj-text>
-          <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Kick-Off Party at 6 p.m.</strong> at the University Quad followed by the Lumber-Snatched Drag Show, 8 - 10 p.m., in the Gutswurrak Student Activities Center.</mj-text>
-          <mj-text>Other highlights include the <strong>Fall Maker’s Market on Friday, 11 a.m. - 3 p.m.</strong>, at the University Quad, featuring student and staff craft vendors, and a Forever Humboldt Arcata Marsh Walk on Sunday morning at 10 a.m.</mj-text>
-          
+          <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Kick-Off Party</strong>  at 6 p.m. at the University Quad followed by the <strong>Lumber-Snatched Drag Show</strong> at 8 p.m., in the Gutswurrak Student Activities Center.</mj-text>
+          <mj-text>Other highlights include the <strong>Fall Maker’s Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. - 3 p.m. at the University Quad, and a <strong>Forever Humboldt Arcata Marsh Walk</strong> on Sunday morning at 10 a.m.</mj-text>
+
           </mj-column>
       </mj-section>
       <mj-section css-class="light-wrap" padding="20px 25px 0">
         <mj-column css-class="dark-box" padding="10px 5px" >
-          <mj-text color="#fff" font-size="20px" padding-top="10px" padding-bottom="0" >Main Event</mj-text>
-          <mj-text color="#fff">Don’t miss the <strong>Lumberjack Weekend Block Party Saturday at 1:30 - 8 p.m.</strong> in the G11 and FS9 parking lots.</mj-text> <mj-text color="#fff">Live music by Remi Wolf, Sage The Gemini, The Altons, The California Poppies, and the Soul Party Crew. There will be activities for the whole family, including face painting, live screen printing, axe throwing, food trucks, and more.</mj-text>
+          <mj-text color="#fff" font-size="20px" padding-top="10px" padding-bottom="0" >Lumberjack Weekend Block Party</mj-text>
+          <mj-text color="#fff">Saturday from 1:30 - 8 p.m. in the <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf" style="color:#fff;">G11 and FS9 parking lots</a>.</mj-text> <mj-text color="#fff">Live music by Remi Wolf, Sage The Gemini, The Altons, The California Poppies, and the Soul Party Crew. There will be activities for the whole family, including face painting, live screen printing, axe throwing, food trucks, and more.</mj-text>
           </mj-column>
       </mj-section>
      <mj-section css-class="light-wrap" padding="10px 0">
