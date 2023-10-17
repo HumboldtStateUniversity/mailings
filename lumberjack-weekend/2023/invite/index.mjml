@@ -36,7 +36,7 @@
             <strong>October 19–22</strong>
           </mj-text>
           <mj-text>This weekend is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends. </mj-text>
-          <mj-text>While students are not required to register, we kindly request alumni, family, and friends to register.</mj-text>
+          <mj-text>While students and employees are not required to register, we kindly request alumni, family, and friends to register.</mj-text>
           <mj-text font-size="20px" padding-top="20px" padding-bottom="0" font-weight="bold">Event Highlights</mj-text>
           <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Kick-Off Party</strong>  at 6 p.m. at the University Quad followed by the <strong>Lumber-Snatched Drag Show</strong> at 8 p.m., in the Gutswurrak Student Activities Center.</mj-text>
           <mj-text>Other highlights include the <strong>Fall Maker’s Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. - 3 p.m. at the University Quad, and a <strong>Forever Humboldt Arcata Marsh Walk</strong> on Sunday morning at 10 a.m.</mj-text>
@@ -60,11 +60,15 @@
               <li padding-bottom="0px">Lot G11—The east part of the lot will be closed from 5 p.m. Friday, Oct. 20, to 1 p.m. on Sunday, Oct. 22. While you may still park in the west section of the lot, if you move your car during the event, you won’t be able to return until Saturday after 8 p.m.</li>
             </ul> Consider alternative modes of transportation or park in a different lot on Friday, Oct. 20, and Saturday, Oct. 21.
           </mj-text>
-          
+          <mj-text font-size="20px" padding-top="20px" padding-bottom="0" font-weight="bold">Commemorative T-Shirt</mj-text>
+          <mj-text>
+            A limited quantity of Lumberjack Weekend t-shirts will be available to purchase for $20 at the check-in tent in the University Quad on Friday and in the G11 parking lot on Saturday while supplies last.
+          </mj-text>
+
            <mj-text font-size="20px" padding-top="20px" padding-bottom="10px" align="center">Find the full schedule and registration details:</mj-text>
           <mj-button font-size="18px" background-color="#00856A" color="#fff" font-weight="normal" href="https://homecoming.humboldt.edu">Lumberjack Weekend website</mj-button> 
            <mj-text font-size="20px" padding-top="10px" padding-bottom="20px" line-height="30px" align="center">Don't miss out on this memorable weekend! <br />We look forward to celebrating with you. </mj-text>
-          <mj-text><strong>Note:</strong> Sound equipment will be tested in the afternoon on Friday, October 20. This may impact activities in the nearby area, including SBS, Gist Hall, and campus apartments. </mj-text>
+          <mj-text><strong>Note:</strong> Sound equipment will be tested in the afternoon on Friday, Oct. 20. This may impact activities in the nearby area, including SBS, Gist Hall, and campus apartments. </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0 0 40px 0">
