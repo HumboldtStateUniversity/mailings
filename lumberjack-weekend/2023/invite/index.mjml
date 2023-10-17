@@ -51,7 +51,7 @@
       </mj-section>
      <mj-section css-class="light-wrap" padding="10px 0">
         <mj-column>
-          <mj-button href="#">Full Schedule</mj-button>
+          <mj-button href="https://homecoming.humboldt.edu/#hfw-events">Full Schedule</mj-button>
           <mj-text font-size="20px" padding-top="20px" padding-bottom="0" font-weight="bold">Parking</mj-text>
           <mj-text padding-bottom="0px">As part of the Lumberjack Weekend Block Party, <strong>some parking lots will be closed on Friday, Oct. 20 and Saturday, Oct. 21:</strong></mj-text>
           <mj-text>
