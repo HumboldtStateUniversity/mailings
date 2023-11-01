@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Update on student support and parking enforcement</mj-title>
+    <mj-title>Update on Student Support and Parking Enforcement</mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -64,7 +64,7 @@
             November 1, 2023
           </p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-             Update on student support and parking enforcement
+             Update on Student Support and Parking Enforcement
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
