@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-title>Update on student support and parking enforcement</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            November 1, 2023
+          </p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+             Update on student support and parking enforcement
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>This is to share an update and additional information about support being provided as the University enforces parking regulations related to overnight camping.</mj-text>
+
+         <mj-text>The challenges of affordable housing can be particularly acute for students, and the University is invested in supporting them. Related to the parking enforcement, numerous staff are actively working with affected students on a case-by-case basis to understand their unique needs and help them arrange alternative housing options. County staff have also been on campus providing information about resources. </mj-text>
+
+  <mj-text>The University is offering the students free temporary housing in the residence halls through the end of fall semester, using the Dean of Students’ basic needs funding. Students are also being offered free towing of non-functioning vehicles, and other RV parking options are being explored.</mj-text>
+
+  <mj-text>Any of the students who choose to live in free temporary campus housing may make arrangements to park their vehicle in University lots through the end of the semester. Otherwise all overnight campers have been notified that they must vacate by noon on Sunday, Nov. 12.</mj-text>
+
+  <mj-text>The University has had a long-standing parking regulation, <a href="https://parking.humboldt.edu/sites/default/files/approved_parking_rules_regs_effective_160125.pdf">PCSCR Article 5 - 2515(a)</a>, which was updated in 2016 and prohibits overnight camping on University property. For the health and safety of the campus community, University parking lots are not intended for overnight camping and are not equipped with the sanitation and other facilities that are necessary to support RVs or other vehicles overnight. The enforcement of this University policy was temporarily suspended during the height of the COVID pandemic, leading to an increase in the number of vehicles camping overnight in campus parking. </mj-text>
+
+  <mj-text>If you are a student in need of assistance with housing, please use the resources that are available to you, listed below. If you know a student in need of housing assistance, please refer them to these resources.</mj-text>
+
+        <mj-text>
+          <ul>
+            <li>Temporary Housing: Temporary accommodations will be offered to all students known to be living out of their vehicles on campus. Temporary housing is coordinated by the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a> or (707) 826-3504.</li>
+            <li>Off-campus Housing: Housing & Residence Life has resources to help students find housing in the local community. Contact Amanda Masse-Bachelier, assistant director for Off-campus Services, at (707) 826-3451 or <a href="mailto:am659@humboldt.edu">am659@humboldt.edu</a>.</li>
+            <li>Parking Options: Housing & Residence Life is currently exploring alternative parking options at local RV parks and campsites.  </li>
+            <li>Towing Help: For a limited time, the University will be providing financial assistance to tow any inoperable vehicles to an off-campus location up to 5 miles from campus.</li>
+            </ul>
+          </mj-text>
+
+        <mj-text>For general questions related to on- and off-campus housing, please call (707) 826-3451 or email <a href="mailto:housing@humboldt.edu">housing@humboldt.edu</a>. For help accessing on- and off-campus resources related to basic needs and health and wellbeing services, call the Campus Assistance, Response & Engagement (CARE) program at (707) 826-3504 or email the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</mj-text>
+
+  <mj-text>Updates about parking regulations and other changes related to parking will be posted on the <a href="https://parking.humboldt.edu/">Transportation & Parking Services website</a>. </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
