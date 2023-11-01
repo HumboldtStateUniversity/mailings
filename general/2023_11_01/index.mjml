@@ -84,7 +84,7 @@
 
   <mj-text>The University has had a long-standing parking regulation, <a href="https://parking.humboldt.edu/sites/default/files/approved_parking_rules_regs_effective_160125.pdf">PCSCR Article 5 - 2515(a)</a>, which was updated in 2016 and prohibits overnight camping on University property. For the health and safety of the campus community, University parking lots are not intended for overnight camping and are not equipped with the sanitation and other facilities that are necessary to support RVs or other vehicles overnight. The enforcement of this University policy was temporarily suspended during the height of the COVID pandemic, leading to an increase in the number of vehicles camping overnight in campus parking. </mj-text>
 
-  <mj-text>If you are a student in need of assistance with housing, please use the resources that are available to you, listed below. If you know a student in need of housing assistance, please refer them to these resources.</mj-text>
+  <mj-text padding-bottom="0">If you are a student in need of assistance with housing, please use the resources that are available to you, listed below. If you know a student in need of housing assistance, please refer them to these resources.</mj-text>
 
         <mj-text>
           <ul>
