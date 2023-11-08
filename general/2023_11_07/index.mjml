@@ -33,7 +33,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text align="center"><span style="font-size:24px;font-weight:bold;line-height:34px">Calling all Lumberjacks!</span></mj-text>
+        <mj-text><span style="font-size:24px;font-weight:bold;line-height:34px">Calling all Lumberjacks!</span></mj-text>
         <mj-text>Support the Women’s Soccer team as they head to the semifinal CCAA playoff match versus the Cal Poly Pomona Mustangs.</mj-text>
         <mj-text>The Jacks are fresh off of a 2-1 victory over Stanislaus State, setting a program record for most wins in a single season (at 13 wins!), and marking their first-ever CCAA tournament win! </mj-text>
         <mj-text>To make their journey even more memorable, we're calling on all Lumberjacks to join us in supporting our incredible team. </mj-text>
