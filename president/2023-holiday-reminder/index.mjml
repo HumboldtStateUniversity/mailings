@@ -1,0 +1,103 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Reminder: Faculty & Staff Holiday Party</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
+      <mj-attributes>
+        <mj-text font-family="poppins, Arial, sans-serif" align="center" font-size="16px" color="#004C46" line-height="24px" />
+        <mj-all font-family="poppins" />
+        <mj-section padding="30px 0 0 0" />
+       <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+				
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #F5F3E7;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#98B8AD">
+      
+      <mj-section padding="40px 0 0">	
+        <mj-column>
+
+         
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2023-holiday-reminder/plaid.png"
+              background-size="cover"
+              background-repeat="no-repeat">
+        <mj-column padding="30px 0">
+
+         <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0" width="180px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+        
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap">
+        <mj-column>
+           
+          <mj-text padding="20px 60px 0" font-size="34px" line-height="40px" font-weight="bold">
+            Let’s wrap up the year with a cup of good cheer!
+          </mj-text>
+          <mj-text>
+            The Office of the President invites you to the
+          </mj-text>
+          <mj-text font-size="22px" font-weight="bold">
+            Faculty and Staff Holiday Party
+          </mj-text>
+          <mj-text font-weight="bold">
+            Friday, December 8 from 4-7pm
+          </mj-text>
+           <mj-text>
+            Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
+          </mj-text>
+          <mj-text padding="20px 40px 10px">
+          Enjoy food, drinks, and music with your colleagues at this event that honors your contributions to our campus community and welcomes the holiday season!</mj-text>
+<mj-text>We hope you can join us!</mj-text>
+<mj-text padding="30px 0 20px" font-weight="bold">Please RSVP by Friday, November 22</mj-text>
+      
+
+          
+  <mj-button padding="10px 0 20px" href="https://goccaa.org/tournaments/?id=120&path=wsoc&bbeml=tp-kYh76efQwk2lvjMidehRmA.j12fJCKk18kGEsConY_XWkw.r4DAwhH4YrEuKWOtNxHT3mg.l430rzwPBWUWX8RZ-2FnJUQ">Submit your RSVP  </mj-button>
+        
+     
+               
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+               
+
+     
+    </mj-body>
+  </mjml>
