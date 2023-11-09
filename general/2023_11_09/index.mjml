@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-title>Teamsters Notice of Strike on Nov. 14</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+      
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #004C46; } a.dark { color: #004C46; } li { padding-bottom:8px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> November 9, 2023 </p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px"> Teamsters Notice of Strike on Nov. 14 </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Cal Poly Humboldt has been informed that Teamsters Local 2010, which represents approximately 1,000 employees systemwide in the CSU including plumbers, electricians, and other skilled trades workers, intends to conduct a one-day strike on Tuesday, Nov. 14.</mj-text>
+        <mj-text>Contracts with the various unions are negotiated at the CSU system level in Long Beach. At this time, the California State University and the Teamsters have reached an impasse in their contract negotiations but are still engaged in the bargaining process under state law.</mj-text>
+        <mj-text>If the strike on Nov. 14 occurs, Cal Poly Humboldt and other CSU universities will remain open. Each has contingency plans in place to maintain full operations with as minimal disruption as possible for students, faculty, staff, and visitors. Any changes to scheduled activities will be communicated.</mj-text>
+        <mj-text>Employees engaging in a strike are not entitled to be paid while they’re on strike. Employees who are scheduled to work on Nov. 14 but do not report to work are not permitted to use time off accruals to cover their absences while they are on strike. This applies to all absences unless they were pre-approved by the supervisor, or medical certification is provided documenting the employee was unable to work, or the employee already has a medical certification on file. If an employee’s absence on Nov. 14 is not approved or cleared by medical documentation, that time will be designated as unapproved leave without pay.</mj-text>
+        <mj-text>Retaliation by any member of the campus community for one’s personal position regarding the labor dispute is inappropriate and unlawful and should be reported to the campus <a href="https://titleix.humboldt.edu/">
+          Title IX coordinator</a>. If you have any questions, please contact your supervisor or <a href="https://hraps.humboldt.edu/">Human Resources</a>.
+        </mj-text>
+        <mj-text>During any strike or other activity related to contract negotiations, please remain respectful and patient. As a university community, we share a commitment to providing a positive educational experience for our students, and Cal Poly Humboldt values the important work our employees do every day to make this possible.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
