@@ -80,11 +80,11 @@
           <mj-text padding="20px 40px 10px">
           Enjoy food, drinks, and music with your colleagues at this event that honors your contributions to our campus community and welcomes the holiday season!</mj-text>
 <mj-text>We hope you can join us!</mj-text>
-<mj-text padding="30px 0 20px" font-weight="bold">Please RSVP by Friday, November 22</mj-text>
+<mj-text padding="20px 0 20px" font-weight="bold">Please RSVP by Friday, November 22</mj-text>
       
 
           
-  <mj-button padding="10px 0 20px" href="https://goccaa.org/tournaments/?id=120&path=wsoc&bbeml=tp-kYh76efQwk2lvjMidehRmA.j12fJCKk18kGEsConY_XWkw.r4DAwhH4YrEuKWOtNxHT3mg.l430rzwPBWUWX8RZ-2FnJUQ">Submit your RSVP  </mj-button>
+  <mj-button padding="0" href="https://goccaa.org/tournaments/?id=120&path=wsoc&bbeml=tp-kYh76efQwk2lvjMidehRmA.j12fJCKk18kGEsConY_XWkw.r4DAwhH4YrEuKWOtNxHT3mg.l430rzwPBWUWX8RZ-2FnJUQ">Submit your RSVP  </mj-button>
         
      
                
