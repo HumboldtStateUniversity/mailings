@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Reminder: Faculty & Staff Holiday Party</mj-title>
+      <mj-title>You’re Invited: Faculty & Staff Holiday Party</mj-title>
       <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
       <mj-attributes>
         <mj-text font-family="poppins, Arial, sans-serif" align="center" font-size="16px" color="#004C46" line-height="24px" />
@@ -47,12 +47,12 @@
 
         </mj-column>
       </mj-section>
-      <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2023-holiday-reminder/plaid.png"
+      <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2023-holiday-invite/plaid.png"
               background-size="cover"
               background-repeat="no-repeat">
         <mj-column padding="30px 0">
 
-         <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0" width="180px" align="center" href="https://humboldt.edu"/>
+         <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-invite/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0" width="180px" align="center" href="https://humboldt.edu"/>
 
         </mj-column>
         
@@ -93,7 +93,7 @@
       </mj-section>
       <mj-section padding="0 0 40px 0">
         <mj-column css-class="light-wrap">
-          <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
+          <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-invite/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
         </mj-column>
       </mj-section>
                
