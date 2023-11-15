@@ -54,8 +54,7 @@
           </mj-text>
           
           <mj-text>
-            As the holiday party will be held off campus this year, we strongly encourage you to RSVP. 
-This information will be used to determine catering, event layout and more!
+           As the holiday party will be held off campus this year, RSVP's are strongly encouraged. This information will be used to determine catering, event layout, and more!
 
           </mj-text>
           <mj-text font-size="20px" font-weight="bold">
@@ -68,14 +67,15 @@ This information will be used to determine catering, event layout and more!
           <mj-text font-size="28px" line-height="32px">
           Event Details
           </mj-text>
+          <mj-text padding="0 0 15px">
+            Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
+          </mj-text>
           <mj-text font-weight="bold" padding="0">
             Friday, December 8<br />4–7 p.m.
           </mj-text>
-           <mj-text>
-            Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
-          </mj-text>
+           
           
-<mj-text padding-top="10px" font-weight="bold" >We hope you can join us!</mj-text>
+<mj-text padding-top="10px" padding-bottom="10px">We hope you can join us!</mj-text>
 
           
 
