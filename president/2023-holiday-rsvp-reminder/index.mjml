@@ -47,7 +47,7 @@
         <mj-column>
            
           <mj-text padding="20px 60px 0" font-size="28px" line-height="32px" >
-           Faculy & Staff Holiday Party 
+           Faculty & Staff Holiday Party 
           </mj-text>
           <mj-text padding="20px 60px 0" font-size="28px" line-height="32px" font-weight="bold">
           RSVP Reminder
@@ -65,17 +65,17 @@ This information will be used to determine catering, event layout and more!
         
         <mj-divider border-color="#F2A900" padding="10px 60px" />
           
-          <mj-text>
+          <mj-text font-size="28px" line-height="32px">
           Event Details
           </mj-text>
-          <mj-text font-weight="bold" padding="">
+          <mj-text font-weight="bold" padding="0">
             Friday, December 8<br />4–7 p.m.
           </mj-text>
            <mj-text>
             Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
           </mj-text>
           
-<mj-text padding-top="40px" font-weight="bold" >We hope you can join us!</mj-text>
+<mj-text padding-top="10px" font-weight="bold" >We hope you can join us!</mj-text>
 
           
 
