@@ -72,7 +72,7 @@ Parking at Baywood is limited. Carpooling to this event is strongly encouraged!<
         <mj-column>
           <mj-text font-weight="bold" padding="0 0 0">Nametags</mj-text>
           <mj-text padding="7px 0 20px">
-Please wear your University name tag if you have one.
+Please wear your University nametag if you have one.
 
           </mj-text>
           </mj-column>
@@ -80,7 +80,7 @@ Please wear your University name tag if you have one.
       <mj-section css-class="light-wrap">
         <mj-column>
           <mj-divider border-color="#F2A900" padding="10px 20px 10px" />
-            <mj-text font-weight="bold" align="left" padding="20px 30px 0">Oh Shap! Donations</mj-text>
+            <mj-text font-weight="bold" align="left" padding="20px 30px 0">Oh Snap! Donations</mj-text>
             <mj-text align="left" padding="7px 30px 0">
               In lieu of donating to <a href="http://hsuohsnap.org/">Oh Snap!</a> at the holiday party this year, please consider dropping off items at the Rec & Wellness Center, Room 122. Coats and cozy winter clothing are the most needed items and these will be collected as part of a Warm Clothing Drive during the following hours: </mj-text>
            <mj-text align="left" padding="7px 30px 0">
@@ -88,7 +88,7 @@ Please wear your University name tag if you have one.
 
               <strong>Wednesdays:</strong> 12:30–1:45 p.m. &amp; 3:00–5:30 p.m.<br />
 
-              <strong>Fridays:</strong> 10:30 a.m.–12:30 a.m. &amp; 1:30–5 p.m.<br />
+              <strong>Fridays:</strong> 10:30 a.m.–12:30 p.m. &amp; 1:30–5 p.m.<br />
 
               <strong>Saturdays:</strong> 11:30 a.m.–4:00 p.m.<br />
               </mj-text>
