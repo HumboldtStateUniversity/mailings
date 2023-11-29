@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>RSVP for the Holiday Party by Wednesday, November 22!</mj-title>
+      <mj-title>Faculty & Staff Holiday Party - Event Details</mj-title>
       <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
       <mj-attributes>
         <mj-text padding="15px " font-family="poppins, Arial, sans-serif" align="center" font-size="16px" color="#004C46" line-height="22px" />
@@ -50,7 +50,7 @@
            Faculty & Staff Holiday Party 
           </mj-text>
           <mj-text padding="10px 30px 0" font-size="24px" line-height="32px" font-weight="bold">
-          Event Detail Reminder
+          Event Details
           </mj-text>
           
           <mj-text padding="20px 30px 15px">
@@ -65,13 +65,13 @@
       </mj-section>
       <mj-section css-class="light-wrap" padding="0 30px">
         <mj-column>
-          <mj-text font-weight="bold" align="left" padding="0 0 0">Parking/Carpooling</mj-text>
-          <mj-text align="left" padding="7px 0 20px">
+          <mj-text font-weight="bold" padding="0 0 0">Parking/Carpooling</mj-text>
+          <mj-text padding="7px 0 20px">
 Parking at Baywood is limited. Carpooling to this event is strongly encouraged!</mj-text>
           </mj-column>
         <mj-column>
-          <mj-text font-weight="bold" align="left" padding="0 0 0">Nametags</mj-text>
-          <mj-text align="left" padding="7px 0 20px">
+          <mj-text font-weight="bold" padding="0 0 0">Nametags</mj-text>
+          <mj-text padding="7px 0 20px">
 Please wear your University name tag if you have one.
 
           </mj-text>
@@ -80,10 +80,9 @@ Please wear your University name tag if you have one.
       <mj-section css-class="light-wrap">
         <mj-column>
           <mj-divider border-color="#F2A900" padding="10px 20px 10px" />
-            <mj-text font-weight="bold" align="left" padding="20px 30px 0">Oh Snap! Clothing Donations</mj-text>
+            <mj-text font-weight="bold" align="left" padding="20px 30px 0">Oh Shap! Donations</mj-text>
             <mj-text align="left" padding="7px 30px 0">
-              Donation collections are not being held at the event this year because of the location but we encourage you to donate items to the Rec & Wellness Center, Room 122 on the days and times below. </mj-text>
-          <mj-text align="left" padding="7px 30px 0">Coats and cozy winter clothing are the most needed.</mj-text>
+              In lieu of donating to <a href="http://hsuohsnap.org/">Oh Snap!</a> at the holiday party this year, please consider dropping off items at the Rec & Wellness Center, Room 122. Coats and cozy winter clothing are the most needed items and these will be collected as part of a Warm Clothing Drive during the following hours: </mj-text>
            <mj-text align="left" padding="7px 30px 0">
               <strong>Mondays:</strong> 12:30-5:30 p.m.<br />
 
@@ -93,7 +92,7 @@ Please wear your University name tag if you have one.
 
               <strong>Saturdays:</strong> 11:30 a.m.–4:00 p.m.<br />
               </mj-text>
-          <mj-text align="left" padding="20px 30px 0"> <strong>Financial donations</strong> are also welcome and can be made to OhSnap! through the Cal Poly Humboldt Foundation using the button below. 
+          <mj-text align="left" padding="20px 30px 0"> Voluntary financial donations are also welcome and can be made to OhSnap! through the Cal Poly Humboldt Foundation using the button below. 
           </mj-text>
         
           <mj-button padding="15px 30px" href="https://giving.humboldt.edu/oh-snap-student-food-program">Donate to OhSnap!</mj-button>
