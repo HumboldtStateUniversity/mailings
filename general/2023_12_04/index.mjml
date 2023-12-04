@@ -34,7 +34,7 @@
       <mj-column>
         <mj-text>As you may have heard, the California Faculty Association (CFA)—which is the union that represents faculty, librarians, coaches, and mental health counselors in the California State University—has announced plans to strike for one day each at four other CSU campuses Dec. 4-7.</mj-text>
 
-        <mj-text>While we don’t have any information to suggest there will be a strike on our campus, Cal Poly Humboldt remains committed to the continuation of instruction and student services if faculty chose to attend a strike on another campus.</mj-text>
+        <mj-text>While we don’t have any information to suggest there will be a strike on our campus, Cal Poly Humboldt remains committed to the continuation of instruction and student services if faculty chose to attend a strike at another campus.</mj-text>
 
         <mj-text>The University will remain open, and we anticipate faculty will continue to provide instruction during regularly scheduled class times and at regularly scheduled class locations. Students may check with their instructors about their individual class schedules. We also expect that counselors, librarians, and coaches at Humboldt will remain available as usual.</mj-text>
 
@@ -46,7 +46,7 @@
 
         <mj-text>During any strike or other activity related to contract negotiations, please remain respectful and patient. As a University community, we share a commitment to providing a positive educational experience for our students, and Cal Poly Humboldt values the important work our employees do every day to make this possible.</mj-text>
 
-        <mj-text>If you have any concerns surrounding strike activities, please contact <a href="https://hraps.humboldt.edu/academic-employees-home">Academic Personnel</a> Services at <a href="mailto:aps@humboldt.edu">aps@humboldt.edu</a>.</mj-text>
+        <mj-text>If you have any concerns surrounding strike activities, please contact <a href="https://hraps.humboldt.edu/academic-employees-home">Academic Personnel Services</a> at <a href="mailto:aps@humboldt.edu">aps@humboldt.edu</a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
