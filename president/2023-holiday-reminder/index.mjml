@@ -1,0 +1,115 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Faculty & Staff Holiday Party - Friday, December 8!</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
+      <mj-attributes>
+        <mj-text padding="15px " font-family="poppins, Arial, sans-serif" align="center" font-size="16px" color="#004C46" line-height="22px" />
+        <mj-all font-family="poppins" />
+        <mj-section padding="0" />
+       <mj-button align="left" background-color="#FFF" color="#004C46" border="1px solid #004C46" font-size="14px" border-radius="15px" font-weight="normal" letter-spacing="1px" />
+        	<mj-divider border-width="1px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+
+        a {
+          color: #004C46;
+          text-decoration: underline;
+        }
+        
+        .light-wrap {
+          background: #F5F3E7;
+        }
+
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#98B8AD">
+      
+      <mj-section padding="40px 0 0">	
+        <mj-column>
+
+         
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2023-holiday-reminder/plaid.png"
+              background-size="cover"
+              background-repeat="no-repeat">
+        <mj-column padding="30px 0">
+
+         <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0" width="180px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+        
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding="20px 0">
+        <mj-column>
+           
+          <mj-text padding="20px 60px 0" font-size="24px" line-height="32px" >
+           Faculty & Staff Holiday Party 
+          </mj-text>
+          <mj-text padding="10px 30px 0" font-size="24px" line-height="32px" font-weight="bold">
+        Friday, December 8<br />4-7 p.m.
+          </mj-text>
+          
+          <mj-text padding="20px 30px 15px">
+            We hope you are able to join us for the Faculty & Staff Holiday Party this Friday, December 8 from 4-7 p.m. at <strong>Baywood Golf & Country Club</strong>, 3600 Buttermilk Lane in Arcata. 
+</mj-text>
+          <mj-button background-color="#004C46" color="#FFF" border="1px solid #000" align="center" padding="10px 30px 25px" href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">Get Directions</mj-button>
+          <mj-divider border-color="#F2A900" padding="10px 20px 5px" />
+          </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="0 30px">
+        <mj-column>
+          <mj-text font-weight="bold" padding="0 0 0">Parking/Carpooling</mj-text>
+          <mj-text padding="7px 0 20px">
+Parking at Baywood is limited. Carpooling to this event is strongly encouraged!</mj-text>
+          </mj-column>
+        <mj-column>
+          <mj-text font-weight="bold" padding="0 0 0">Nametags</mj-text>
+          <mj-text padding="7px 0 20px">
+Please wear your University nametag if you have one.
+
+          </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap">
+        <mj-column>
+          <mj-divider border-color="#F2A900" padding="10px 20px 10px" />
+            <mj-text font-weight="bold" align="left" padding="20px 30px 0">Oh SNAP! Donations</mj-text>
+            <mj-text align="left" padding="7px 30px 0">
+              In lieu of donating to <a href="http://hsuohsnap.org/">Oh SNAP!</a> at the holiday party this year, please consider dropping off items at the Rec & Wellness Center, Room 122. Coats and cozy winter clothing are the most needed items and these will be collected as part of a Warm Clothing Drive during the following hours: </mj-text>
+           <mj-text align="left" padding="7px 30px 0">
+              <strong>Mondays:</strong> 12:30-5:30 p.m.<br />
+
+              <strong>Wednesdays:</strong> 12:30–1:45 p.m. &amp; 3–5:30 p.m.<br />
+
+              <strong>Fridays:</strong> 10:30 a.m.–12:30 p.m. &amp; 1:30–5 p.m.<br />
+
+              <strong>Saturdays:</strong> 11:30 a.m.–4 p.m.<br />
+              </mj-text>
+          <mj-text align="left" padding="20px 30px 0"> Voluntary financial donations are also welcome and can be made to Oh SNAP! through the Cal Poly Humboldt Foundation using the button below. 
+          </mj-text>
+        
+          <mj-button padding="15px 30px" href="https://giving.humboldt.edu/oh-snap-student-food-program">Donate to Oh SNAP!</mj-button>
+      <mj-divider border-color="#F2A900" padding="20px 20px 10px" />    
+<mj-text padding-top="30px" padding-bottom="0">Thank you all for the many ways you contribute to our campus community and we look forward to celebrating with you! </mj-text>
+
+          
+
+     
+               
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2023-holiday-reminder/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+               
+
+     
+    </mj-body>
+  </mjml>
