@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>Information about Faculty Strike at Four Other CSU Campuses</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+      
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #004C46; } a.dark { color: #004C46; } li { padding-bottom:8px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> December 4, 2023 </p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Information about Faculty Strike at Four Other CSU Campuses</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>As you may have heard, the California Faculty Association (CFA)—which is the union that represents faculty, librarians, coaches, and mental health counselors in the California State University—has announced plans to strike for one day each at four other CSU campuses Dec. 4-7.</mj-text>
+
+        <mj-text>While we don’t have any information to suggest there will be a strike on our campus, Cal Poly Humboldt remains committed to the continuation of instruction and student services if faculty chose to attend a strike on another campus.</mj-text>
+
+        <mj-text>The University will remain open, and we anticipate faculty will continue to provide instruction during regularly scheduled class times and at regularly scheduled class locations. Students may check with their instructors about their individual class schedules. We also expect that counselors, librarians, and coaches at Humboldt will remain available as usual.</mj-text>
+
+        <mj-text>The strike days should not interfere with students at any CSU campus being able to complete their courses or to graduate on time.</mj-text>
+
+        <mj-text>We do not expect any interruption to residence hall services, food services, or other services on campus.</mj-text>
+
+        <mj-text>In the event any courses, health service appointments including mental health counseling, athletics practices, library services, or activities are canceled or made unavailable during the strike, students and employees may use <a href="https://app.smartsheet.com/b/form/0ff18c2bf3a3447e95a17de9eb10e126">this reporting form</a> to provide details about the course or service that was canceled. Using this link is voluntary and responses may be submitted anonymously. Submissions will go to Humboldt’s Associate Vice President for Faculty Affairs.</mj-text>
+
+        <mj-text>During any strike or other activity related to contract negotiations, please remain respectful and patient. As a University community, we share a commitment to providing a positive educational experience for our students, and Cal Poly Humboldt values the important work our employees do every day to make this possible.</mj-text>
+
+        <mj-text>If you have any concerns surrounding strike activities, please contact <a href="https://hraps.humboldt.edu/academic-employees-home">Academic Personnel</a> Services at <a href="mailto:aps@humboldt.edu">aps@humboldt.edu</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
