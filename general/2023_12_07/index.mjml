@@ -9,7 +9,7 @@
       <mj-divider border-width="1px" />
       
     </mj-attributes>
-    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #004C46; } a.dark { color: #004C46; } li { padding-bottom: 5px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 5px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
   </mj-head>
   <mj-body background-color="#E9E3D0">
     <mj-section padding="40px 0 0">
