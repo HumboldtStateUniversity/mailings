@@ -17,19 +17,6 @@
         a {
           color: #006432;
         }
-				
-        a.dark {
-          color: #5C8021;
-        }
-
-        .dark-wrap {
-          background: #004C45;
-          color: #fff;
-        }
-
-        .light-wrap {
-          background: #F5F3E7;
-        }
 
         @media only screen and (max-width: 420px) {
           .caption div {
@@ -60,14 +47,14 @@
         </mj-section>
         <mj-section background-color="#f4f3e7" padding="0">
             <mj-column>
-                <mj-button padding="20px 0"  href="#">
+                <mj-button padding="20px 0 0" href="https://youtu.be/fw9QWVUvpa8">
                     Watch the Video
                 </mj-button>
             </mj-column>
         </mj-section>
-        <mj-section>
+        <mj-section padding="0">
             <mj-column>
-                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024/footer.png" alt="Here’s to beautiful beginnings!"/>
+                <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024/footer.png" alt="Here’s to beautiful beginnings!" padding-top="0"/>
             </mj-column>
         </mj-section>
     </mj-body>
