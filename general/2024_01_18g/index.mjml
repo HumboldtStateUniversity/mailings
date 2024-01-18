@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>Information about Planned Strike, Jan. 22-26</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+      
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 5px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> January 18, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Information about Planned Strike, Jan. 22-26
+
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text><em>The following provides information from the CSU Chancellor’s Office.
+        </em></mj-text>
+         <mj-text>As you may be aware, the California Faculty Association (CFA), representing professors, lecturers, coaches, librarians, and counselors at the CSU, has called for a work-stoppage strike between January 22 and January 26, 2024 at CSU campuses. The Teamsters have similarly announced that they will be on strike during that week. Not all faculty or Teamsters employees are expected to strike. Cal Poly Humboldt will remain open and operational to support our students during this time.
+           </mj-text>
+        <mj-text>Our colleagues who are engaged in concerted activity have a right to participate in such activities.  While they do so, we want to ensure they are respected, and you are also supported in your continued role at Cal Poly Humboldt.  As such, we want to provide you with reminders of your work expectations:</mj-text>
+        <mj-text>
+          <ul>
+            <li>Non-striking employees are expected to continue to perform their  job duties and come to work each scheduled workday, at their  regular time, unless they  are granted leave time. If they fail to come to work and have not been granted leave time, they  are not entitled to be paid. It is a misuse of taxpayer dollars to compensate any employee who withholds work.  </li>
+            <li>Your collective bargaining agreement may prevent non-striking employees from participating in a sympathy strike with other unions, and if so, you will not be compensated if you withhold work. If you have questions about sympathy strikes, please contact your union.</li>
+            <li>There may be picket lines at the entrance to the campus. You may choose an entrance that does not have a picket line or you can cross the picket line to enter the campus if it is safe to do so. You are not obligated to provide the members of a picket line with any personal information including your name, your classification, or your job location. If a member of the picket line harasses you or if you contend that crossing the line is unsafe, report this incident immediately to <a href="https://hraps.humboldt.edu/">Human Resources
+            </a> at <a href="mailto:hr@humboldt.edu">hr@humboldt.edu</a>.</li>
+            <li><strong>Campus Mail/Freight</strong> <br>
+              If there is a strike, mail and freight deliveries to campus departments may be delayed. The University is working with routine major carriers (FedEx, UPS, USPS) to support normal receipt of freight and mail to campus Shipping & Receiving building. If time-sensitive or priority items are expected, please contact the mail room at 707-826-3932 to coordinate a pickup or special delivery.
+            </li>
+            <li><strong>Building Maintenance</strong> <br>
+              If there is a strike, Facilities Management Work Requests can be submitted but will be prioritized based on urgency.
+            </li>
+            <li><strong>Key and Access Control</strong> <br>
+              Key and keycard production will be impacted if there is a strike. Expect delays in new access issuances. Call the Facilities Management front desk at 707-826-3646 for urgent access requests.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text>During a strike or other activity related to contract negotiations, striking and non-striking employees are asked to remain respectful and patient. As a University community, we share a commitment to providing a positive educational experience for our students, and Cal Poly Humboldt values the important work you do every day to make this possible.  We also want to remind you of resources available to you such as the <a href="https://hraps.humboldt.edu/employee-assistance-program">Employee Assistance Program</a>. Please check <a href="https://humboldt.edu">humboldt.edu</a> and your campus email for more information. Contact your immediate supervisor or <a href="https://hraps.humboldt.edu/">Human Resources</a> at <a href="mailto:hr@humboldt.edu">hr@humboldt.edu</a> if you have any questions about strike activities. </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
