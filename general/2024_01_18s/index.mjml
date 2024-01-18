@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-title>Information about Planned Strike, Jan. 22-26</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+      
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 5px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> January 18, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Information about Planned Strike, Jan. 22-26
+
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text><em>The following provides information from the CSU Chancellor’s Office.
+        </em></mj-text>
+        <mj-text>Dear Students, </mj-text>
+        <mj-text>The California Faculty Association (CFA), representing professors, lecturers, coaches, librarians, and counselors at the CSU, has called for a work-stoppage strike between January 22 and January 26, 2024 at CSU campuses. The Teamsters union, which represents our skilled trades employees, has also announced a strike at this same time. <strong>
+          Cal Poly Humboldt will remain OPEN and operational to support all our students during this time.
+        </strong> </mj-text>
+        <mj-text>Both CFA and Teamsters have demanded a general salary increase that would result in cuts to programs and potentially layoffs at CSU campuses. Despite this, the CSU is  committed to fairly compensating employees in a financially sustainable manner. To that end, the CSU has provided professors, lecturers, coaches, librarians, and counselors with a 5% general salary increase. This is the amount the CSU offered and is providing to the other employee groups with whom the CSU has reached agreement. The CSU has not concluded its bargaining process with Teamsters.</mj-text>
+        <mj-text>Cal Poly Humboldt  is taking steps to lessen the impacts of the work-stoppage on students. The strike should not interfere with your ability to complete courses and graduate on time. Some faculty will continue to hold classes, so you should check with your instructors about individual class schedules and assignments. If a class or service is canceled, you are welcome to <a href="https://app.smartsheet.com/b/form/0ff18c2bf3a3447e95a17de9eb10e126">
+          share that information here </a> to help assure continuity and fulfillment of instruction.  </mj-text>
+        <mj-text>The campus will be OPEN. Students who live in residence halls will continue to be provided with all the usual services. The Gutswurrak Student Activities Center, Dining Services, Academic Advising Center, Library, Retention & Academic Advising Program (RAMP), Student Health Center, Counseling & Psychological Services,  and other student services will also remain available.  </mj-text>
+        <mj-text>There may be picket lines, and it may  feel uncomfortable to cross them. You are welcome to choose an entrance that does not have one. If asked, please know that you are not obligated to provide a member of a picket line with your name or any other information.</mj-text>
+        <mj-text>Cal Poly Humboldt remains committed to providing you with the highest quality educational experience. Your understanding, cooperation, and patience are greatly appreciated, and we will notify you if there are any changes. </mj-text>
+        <mj-text>If you have any questions or concerns surrounding strike activity, please contact the Dean of Students’ Office at <a href="mailto:dos@humboldt.edu">
+          dos@humboldt.edu</a>. </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
