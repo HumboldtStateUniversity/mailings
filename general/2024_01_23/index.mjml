@@ -39,9 +39,9 @@
             will return to regular work responsibilities today.
           </strong></mj-text>
         <mj-text><a href="https://www.calstate.edu/csu-system/news/Pages/CSU-agreement-faculty-union-jan2024.aspx">CSU message about the agreement</a></mj-text>
-        <mj-text><strong>Students</strong></mj-text>
-        <mj-text>Please check your email and Canvas for specific information from your faculty and instructors about classes. Some students may have difficulty returning Tuesday, and faculty are being encouraged to be understanding about individual situations. If you have questions, please reach out to your professors or to the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</mj-text>
-        <mj-text>Additional information will be shared in coming days. </mj-text>
+
+        <mj-text><strong>Students</strong>: Please check your email and Canvas for specific information from your faculty and instructors about classes. Some students may have difficulty returning Tuesday, and faculty are being encouraged to be understanding about individual situations. If you have questions, please reach out to your professors or to the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</mj-text>
+        <mj-text>Additional information will be shared in the coming days. </mj-text>
 
       </mj-column>
     </mj-section>
