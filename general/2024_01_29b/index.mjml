@@ -54,11 +54,12 @@
         <mj-text>Thank you for all you are doing to keep Cal Poly Humboldt a great place to learn and work.</mj-text>
         <mj-text>Sincerely,
         <br><br>
-          Carla Hoʻā<br>
+          <strong>Carla Hoʻā</strong><br>
           Interim CFO and VP for Administration & Finance
           <br><br>
-          Jenn Capps <br>
-          Provost and VP for Academic Affairs, and Co-Chair, University Resources & Planning Committee
+          <strong>Jenn Capps</strong> <br>
+          Provost and VP for Academic Affairs <br>
+          Co-Chair, University Resources & Planning Committee
         </mj-text>
 
       </mj-column>
