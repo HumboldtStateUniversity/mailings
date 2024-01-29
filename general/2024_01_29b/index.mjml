@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-title>2024-25 Budget Planning</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+      
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 5px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> January 29, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">2024-25 Budget Planning
+
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Cal Poly Humboldt faculty and staff:</mj-text>
+        <mj-text>We hope this message finds you well. Today, we want to share an update on our budget planning for next fiscal year. </mj-text>
+        <mj-text>Cal Poly Humboldt—like many universities in the CSU system—is facing difficult budgetary challenges due to increased cost pressures, including compensation costs, outpacing revenue growth. These challenges will likely extend into the future and will require creativity, resilience, and shared solutions for us to effectively address them. We ask for understanding, patience, and support for each other to continue serving our students and meeting our public purpose. We will be asking everyone across the campus to help us in meeting these challenges, for it is only through our combined efforts that we will be able to make the most progress as we move forward.   </mj-text>
+        <mj-text>It is important to highlight that Cal Poly Humboldt is in the midst of incredible achievements and momentum, and we have a solid foundation that positions us well to successfully navigate these challenges. We have two consecutive years of enrollment growth, we launched several new academic programs last fall, and our research grants and philanthropic gifts are at record levels—to name a few of our many recent successes. </mj-text>
+        <mj-text>As a campus, we are preparing for a range of budgetary scenarios for fiscal year 2024-25, depending on state funding, enrollment projections for the coming year, and increases to compensation and other operating expenses. While we wait for more clarity on these planning inputs, we are beginning the process of developing budget reduction scenarios in light of current estimates. This budget reduction scenario planning will provide leadership with the tools and insights to make strategic decisions as we enter into the upcoming fiscal year. As this process proceeds, we want to be as thoughtful and strategic as possible in our collective budget planning, while moving quickly to prepare for the upcoming fiscal year. We will be scheduling meetings this spring with division- and college-level groups to gather input for our planning.</mj-text>
+        <mj-text>In addition, and in parallel with reduction planning efforts, an abbreviated budget request process has been developed to capture high priority needs for consideration. This request cycle will focus on critical existing budget gaps and polytechnic investment priorities needed to support our polytechnic transformation.</mj-text>
+        <mj-text padding-bottom="0">Decisions will be informed by the <a href="https://budget.humboldt.edu/sites/default/files/budget/documents/FY17-18/urpc_balanced_budget_principles_2023-2024.pdf">guiding principles</a> developed by the University Resources & Planning Committee (URPC):</mj-text>
+        <mj-text padding-top="0" padding-bottom="0">
+          <ul>
+            <li>Students First</li>
+            <li>Value Personnel</li>
+            <li>Financial Resiliency</li>
+            <li>Campus Engagement</li>
+          </ul>
+        </mj-text>
+        <mj-text>Our enrollment projections, cost estimates, and state funding scenarios will take clearer shape in the coming months. With this in mind, we have asked division leaders to submit scenarios to the URPC by the end of February. The URPC will review and make recommendations to President Jackson in April. </mj-text>
+        <mj-text>This is a challenging moment for us all, but it is also a defining one. We have a unique opportunity to deeply consider how we serve our students and continue to meet our mission, while also assessing what we must stop, start, or continue to do as we move forward as a university. </mj-text>
+        <mj-text>Thank you for all you are doing to keep Cal Poly Humboldt a great place to learn and work.</mj-text>
+        <mj-text>Sincerely,
+        <br><br>
+          Carla Hoʻā<br>
+          Interim CFO and VP for Administration & Finance
+          <br><br>
+          Jenn Capps <br>
+          Provost and VP for Academic Affairs, and Co-Chair, University Resources & Planning Committee
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
