@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>TKTKTK</mj-title>
+    <mj-title>Time, Place, and Manner Policy and Free Speech Activities</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -25,16 +25,54 @@
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> February 7, 2024</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">TKTK
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Time, Place, and Manner Policy and Free Speech Activities
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text>
-          Placeholder
-        </mj-text>
+        
+          <mj-text>As a state institution, public campus, and place of teaching and learning, Cal Poly Humboldt  supports free speech and freedom of assembly for all. We are proud of our campus community’s commitment to addressing issues they care about in a manner that supports civil discourse.</mj-text> 
+
+
+            <mj-text>To create a safe environment that promotes and supports the free exchange of ideas, the University encourages you to review the <a href="https://policy.humboldt.edu/time-place-and-manner-free-speech-and-expression-commercial-activity-and-use-university-buildings">Time, Place, and Manner Policy</a>. This longstanding University policy is in place to inspire dialogue that respects the rights of all individuals. The policy also ensures that activities don’t disrupt classes, University operations, or University sponsored and approved events. </mj-text>
+
+
+  <mj-text>In no uncertain terms, the University will not tolerate discrimination, physical, or emotional harassment or intimidation of any kind. </mj-text>
+
+
+  <mj-text>Below are highlights of the Time, Place, and Manner Policy.</mj-text> 
+
+
+          <mj-text><strong>Free speech and assembly activities should not:</strong></mj-text>
+
+<mj-text>
+  <ul>
+    <li>Engage in physically abusive, threatening, or intimidating conduct toward any person;</li>
+
+      <li>Knowingly and willfully interfere with the peaceful conduct of campus activities or any campus facility by intimidating, harassing, or obstructing any University employee, student, or any other person having lawful business with the University;</li>
+
+  <li>Obstruct pedestrian or vehicular traffic, or otherwise endanger persons or property;</li>
+
+  <li>Use sound amplification or create noise that disrupts University activities or interferes with the exercise of free speech by others, except as expressly permitted in the Time, Place, and Manner Policy;</li> 
+
+  <li>Create or cause unsafe congestion around stairs and elevators such as blocking fire lanes;</li>
+
+
+  <li>Be conducted in or on-campus parking lots, parking structures, driveways, crosswalks, streets, roadways, and paths of pedestrian travel, inside university buildings and within 20 feet of any location in which instruction, education and/or official business activities are being conducted;</li>
+    </ul>
+
+<mj-text><strong>To host a protest, rally, or other similar activity:</strong></mj-text>
+ <mj-text>
+   <ol>
+     <li>If you want to reserve the University Quad for a University approved department or organization, please make requests through <a href="https://25live.collegenet.com/humboldt">25Live</a>. If you want to host a protest, rally, or other similar activity independently from a University approved department or organization, you can  work with the Dean of Students’ Office by emailing <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</li>
+     <li>Activities that involve <strong>amplified sound</strong>. (e.g. music, speech, drumming) may only occur between <strong>noon and 1 p.m., Monday – Friday, on the University Quad</strong>. If you want amplified sound outside those hours, you must get approval from the Dean of Students’ Office (<a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>) at least five business days before the event.</li>
+</ol>
+</mj-text> 
+<mj-text>You can read the full <a href="https://policy.humboldt.edu/time-place-and-manner-free-speech-and-expression-commercial-activity-and-use-university-buildings">Cal Poly Humboldt Time, Place, and Manner Policy</a> for more information. If you have questions about the policy, please contact the Dean of Students’ Office at <a href="tel:17078263504">707-826-3504</a> or  <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</mj-text>
+
+  
 
       </mj-column>
     </mj-section>
