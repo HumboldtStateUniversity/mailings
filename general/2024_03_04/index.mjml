@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-title>Spring 2024 Enrollment Update</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> March 4, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Spring 2024 Enrollment Update</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+
+        <mj-text>Campus colleagues,</mj-text>
+
+
+        <mj-text>As we approach the midpoint of the semester, I want to continue the tradition I began last fall of sharing enrollment progress with our campus once census passes. Today, I am thrilled to share the good news once again!</mj-text>
+
+
+        <mj-text>Student enrollment at Cal Poly Humboldt increased for the second consecutive spring, in addition to the last two summer and fall semesters of growth, providing further evidence that we have turned the tide of declining enrollments. <strong>
+          Enrollment is 2.5% percent higher than last spring, bringing the total semester headcount to 5,476</strong>, a one-year increase of 134 students. We also saw an increase of 3.6% in resident full-time equivalent students, which is the measure that matters most in our goal to meet our state-funded enrollment target. This level of growth is higher than we saw in the fall and tells a story of continuing moderate yet sustainable growth that sets the stage for the next phase of our polytechnic transformation.</mj-text>
+
+
+        <mj-text>These statistics are only one piece of the enrollment picture, and I encourage you to review the <a href="https://irar.humboldt.edu/Viz.Student_Spring">semester
+          student snapshot</a> developed by Institutional Research, Analytics &amp; Reporting (IRAR). Last fall,  <a href="https://now.humboldt.edu/news/2023-24-enrollment-update">I shared with you</a> details of the strategic work underway within Enrollment Management &amp; Student Success (EMSS) in support of our enrollment and retention efforts, and I am pleased to say there are now strong early indicators of our likely continued success this coming fall. If you have not, I invite you to review <a href="https://drive.google.com/file/d/11QZwk_BodsNYaiNRK-8nXPxBF3iRF__a/view?usp=drive_link">the most recent</a> of the monthly status reports our Enrollment Target Progress team provides via various channels, including within a President’s Administrative Team-submitted Senate report each month. These reports provide not only monthly numbers and pacing analysis, but context regarding efforts allowing us to further impact those numbers in the coming months.</mj-text>
+
+
+
+        <mj-text>We know last year brought historic application growth, and while many  students showed interest in our newly designated polytechnic University, they did not commit to enrolling. We refined various efforts to enhance yield this cycle, but until recently, we were not sure whether last year’s application volume was a fluke, or an indicator of our new reality.
+        </mj-text>
+        <mj-text>
+          <strong>I am happy to report that this year, our total application volume for fall is very similar to last year
+          </strong> (19,429 as of 3/2), with increased applications from upper-division transfer students, returning stop-outs, and graduate students to date. While first-time undergraduate applications are closely mirroring last year with a very slight decline, we have made a significant change this cycle that we believe will drive ultimate numbers higher than last year. <strong>
+          Our first-time undergraduate application will remain open until at least March 31</strong>, and we have actively pursued late SAT/ACT testers in both California and neighboring states, even within the past few weeks. Generally, we have not sought new high school senior prospects this late in the cycle, but more seniors than normal are entering the search funnel late this year.
+        </mj-text>
+        <mj-text>We anticipate this strategy will introduce students to Humboldt who should yield at higher rates, as their late entry to college search means they are likely not actively recruited by as many schools. Another key indicator increasing my confidence in our enrollment success this fall is the response to date by students confirming their intent to enroll by paying our enrollment deposit. The only other year in which we had a deposit was 2019. <strong>
+          As of 3/2, 952 undergraduate students have deposited, compared with 677 at this time in 2019
+        </strong>  - and we know our 2019 enrollment was much higher than recent years.</mj-text>
+        <mj-text>How can you help us ensure that all this work results in enrollment gains for fall and beyond? By encouraging students to consider Humboldt, and interacting with both prospective and current students in ways that reinforce their connection to campus. A few examples of what you can do:
+          <ol>
+            <li>
+              <strong>Do you know a high school sophomore or junior who should consider Humboldt?</strong> Talk to them about our campus, why you love it, and think they would too – then encourage them to fill out our <a href="https://connect.humboldt.edu/register/inquiryform">online inquiry form</a>, so we can begin building a relationship with them and their family. If you know a senior who is still deciding, talk to them as well!aco</li>
+            <li>
+              <strong>Are you or your department willing to help with yield outreach to admitted students for fall</strong>, providing
+              another connection point as they make their final college decision?
+              Are you willing to interact with deposited students in late spring or summer, so they continue to feel like part of our campus, and show up on campus in August? We are working now with various departments to do just that via call and postcard campaigns. If you haven’t signed up to help but want to, contact Associate Director of Strategic Student Communications Chelsea Mooney at
+              <a href="mailto:cmm246@humboldt.edu">cmm246@humboldt.edu.</a></li>
+            <li>
+              <strong>Do you have other connections that can help our efforts?</strong> This could be youth or special interest organizations, high school or community college contacts, or other community members that you believe we should be collaborating with in some way. If so, share that information with me (<a href="mailto:ceh118@humboldt.edu">ceh118@humboldt.edu</a>) or Admissions Director Aolany Navas (<a href="mailto:amn98@humboldt.edu">amn98@humboldt.edu</a>).</li>
+            <li>
+              <strong>Do you know a current student who should be making plans now to re-enroll for summer or fall?</strong> Maybe they are a neighbor or family member, or maybe you work alongside students here on campus who would benefit from your support. Mark your calendars now for March 22, when the schedules go live, and April 8, when priority registration begins. Ask them about their plan for next semester, and if you learn about barriers to their progress, help connect them to resources on campus. </li>
+          </ol>
+        </mj-text>
+        <mj-text>While I and other members of the EMSS team may be the most visible members of Cal Poly Humboldt’s enrollment and retention efforts, we are not the only ones doing this work. Together, we can drive the growth our campus needs and support the success of our current students.
+        </mj-text>
+        <mj-text>Last fall, I told you I was optimistic about all that lies ahead of us, and I am even more so today. Cal Poly Humboldt is an incredible place to work, and I am grateful for all you do each day to make it special for all of us, and our students. I look forward to continuing our work together.</mj-text>
+        <mj-text>Sincerely, <br><br>
+
+          Chrissy Holliday <br>
+          Vice President for Enrollment Management & Student Success
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
