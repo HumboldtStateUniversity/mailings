@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>There’s still time to sign-up for Giving Day - Deadline March 18</mj-title>
+    <mj-title>There’s still time to sign up for Giving Day—Deadline March 18</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -24,15 +24,15 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> March 5, 2024</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">There’s still time to sign-up for Giving Day - Deadline March 18</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> March 6, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">There’s still time to sign up for Giving Day—Deadline March 18</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text>Be a part of Cal Poly Humboldt’s Second Annual Giving Day on Wednesday, April 3! This is an opportunity to give to programs you care about and also to raise funds for your area on campus with double the impact. All giving up to $1,000 per donor will be doubled on Giving Day! The first $150,000 raised will be matched by the Cal Poly Humboldt Foundation and members of the Foundation Board and Boldly Rising Campaign Cabinet.</mj-text>
+        <mj-text>Be a part of Cal Poly Humboldt’s Second Annual Giving Day on Wednesday, April 3! This is an opportunity to give to programs you care about and also to raise funds for your area on campus with double the impact. When you give, your first $1,000 will be matched, which doubles your impact! The first $150,000 raised will be matched by the Cal Poly Humboldt Foundation and members of the Foundation Board and Boldly Rising Campaign Cabinet.</mj-text>
         <mj-text>Cal Poly Humboldt Giving Day is a 24-hour fundraising event that brings together students, alumni, family, friends, faculty, and staff in support of Cal Poly Humboldt. Last year on Giving Day, 1,003 donors gave over $140,000 dollars in support of 112 programs across campus. This year, with your participation, let’s do even more!</mj-text>
         <mj-text>If you would like to have your college, department, team, or club highlighted on the Giving Day Website, <strong>
           complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmhk2Ryb_PCS5fGJv2HHqfHRWw5auxM7NzawMpcJsqFVexQQ/viewform">Giving Day Registration form</a> by March 18</strong>.  More information on Giving Day can be found on the <a href="https://giving.humboldt.edu/giving-day/fundraiser-info">
