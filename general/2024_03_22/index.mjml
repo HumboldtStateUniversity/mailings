@@ -36,7 +36,12 @@
         </mj-text>
         <mj-text>I hope you are returning energized from Spring Break. I am excited to share with you the plans for the Summer 2024 academic session.</mj-text>
         <mj-text>I know that undergraduates who enroll in a summer term are better able to manage their course loads, are more likely to graduate on time, and can register in unique academic opportunities like field studies courses and faculty-led study abroad. The University wants to support your ability to take advantage of these summer course and program opportunities.</mj-text>
-        <mj-text>This summer, when you enroll and stay in six units, the University will cover the tuition costs for up to four of those units. If you already qualify for financial aid, you may get more units covered. If you enroll in a field studies or faculty-led study abroad program, scholarships are available to help with those costs, too. </mj-text>
+
+          <mj-text><strong>This summer, when you enroll and stay in six units, the University will cover the tuition costs for
+            up to four of those units</strong>. If you already qualify for financial aid, you may get more units covered. If you
+            enroll in a field studies or faculty-led study abroad program, scholarships are available to help with those
+            costs, too.
+          </mj-text>
         <mj-text>The Summer 2024 course schedule will go live on the <a href="https://registrar.humboldt.edu/summer-term">Office of the Registrar’s website</a> on March 22, 2024 and all continuing students can begin registering for the summer on April 8, 2024. </mj-text>
         <mj-text padding-bottom="0">Summer 2024 session dates are:</mj-text>
         <mj-text padding-top="0">
