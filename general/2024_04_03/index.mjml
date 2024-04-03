@@ -32,11 +32,11 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text>Tomorrow, April 3, is Cal Poly Humboldt Giving Day! This 24-hour fundraising campaign is the perfect time to support students who are fundraising for their programs, teams, and clubs. Every donation matters! All giving up to $1,000 per donor will be doubled. The first $150,000 raised will be matched by the Cal Poly Humboldt Foundation and members of the Foundation Board and Boldly Rising Campaign Cabinet.</mj-text>
+        <mj-text><strong>Tomorrow, April 3, is Cal Poly Humboldt Giving Day!</strong> This 24-hour fundraising campaign is the perfect time to support students who are fundraising for their programs, teams, and clubs. Every donation matters! All giving up to $1,000 per donor will be doubled. The first $150,000 raised will be matched by the Cal Poly Humboldt Foundation and members of the Foundation Board and Boldly Rising Campaign Cabinet.</mj-text>
         <mj-text>
-          <strong>Swing by the Fundraising Fair on the University Quad between 11 a.m. and 1 p.m.</strong> and talk to the students who are fundraising for their projects. Over 60 groups will be ready to tell you about the impact you can make on their experience at Cal Poly Humboldt.</mj-text>
+          <strong>Swing by the Fundraising Fair on the University Quad between 11 a.m. and 1 p.m.</strong> and talk to the students who are fundraising for their projects, and then make a donation. Over 60 groups will be ready to tell you about the impact you can make on their experience at Cal Poly Humboldt.</mj-text>
 
-          <mj-text>When you’re ready, <a href="https://giving.humboldt.edu/giving-day">visit the Giving Day website</a> and choose a student-led project that inspires you to give. Let's come together as a community to back Cal Poly Humboldt students and maximize our collective impact.</mj-text>
+          <mj-text>You can also <a href="https://giving.humboldt.edu/giving-day">visit the Giving Day website</a> and choose a student-led project that inspires you to give. Let's come together as a community to back Cal Poly Humboldt students and maximize our collective impact.</mj-text>
         <mj-text>Thank you for your commitment to Cal Poly Humboldt students!</mj-text>
 
 
