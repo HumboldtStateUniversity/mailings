@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-title>A Message to the Campus Community</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">May 1, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">A Message to the Campus Community</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Students and Colleagues,</mj-text>
+        <mj-text>As we all come to terms with the recent events on campus, it is important to recognize the emotional impact they have taken on us, individually and collectively. We want to acknowledge that this has been an extremely challenging week for Cal Poly Humboldt. We are hurting within our campus community and beyond, and we have much work in front of us to reset, rebuild, and heal. This will take time. We will do this together.</mj-text>
+          <mj-text>The unlawful actions that took place this past week stand in contrast to our values and beliefs—and can never happen again. We unequivocally support the rights of students and others to assemble peacefully, to protest, and to have their voices heard. We must also recognize the difference between free speech and unlawful activities that put others and protesters themselves at risk. This is something we simply cannot tolerate. As we call for peace, we must all practice it.</mj-text>
+        <mj-text>It is often the case that in extreme challenges communities come together. We have been deeply moved by the hundreds of staff and faculty who went well beyond their standard roles on campus in order to support the extensive needs of our community, and to the many organizations, state agencies, tribal governments, and law enforcement agencies who advised us and rushed to our aid in our time of great need. We are very grateful. This is who we are as a community—one that has a shared commitment and dedication to those we serve: our students.</mj-text>
+        <mj-text>As we get to the difficult work of reckoning with what has happened, we must also look to the future. We have already begun assessing the state of the campus and working to clean up the buildings and grounds. The campus will certainly remain closed through the end of the semester, likely much longer. Modified plans are being made for Commencement ceremonies at off-campus locations. We will continue to share updates, and more information will be available in the coming days.</mj-text>
+        <mj-text>We want to encourage you all to care for yourselves and others during this time—and to continue to use intellect and reason to challenge the status quo and make the world a better place. Our hope is that you are able to engage in meaningful dialogue with respect, empathy, and humanity. Lastly, let us use this opportunity to remind ourselves, our community and beyond of our shared vision at Cal Poly Humboldt: to be a campus for those who seek above all else to improve the global human condition and our relationship with the environment.
+        </mj-text>
+        <mj-text>We know we will get there—together.</mj-text>
+        <mj-text>Sincerely,</mj-text>
+        <mj-text>
+          <strong>Tom Jackson, Jr.</strong> <br>
+          President
+        </mj-text>
+          <mj-text>
+            <strong>Jenn Capps</strong> <br>
+            Provost and Vice President of Academic Affairs
+          </mj-text>
+
+          <mj-text>
+            <strong>Sherie Gordon</strong> <br>
+            Vice President for Administrative Affairs
+          </mj-text>
+
+          <mj-text>
+            <strong>Chrissy Holliday</strong> <br>
+            Vice President for Enrollment Management & Student Success
+          </mj-text>
+
+          <mj-text>
+            <strong>Frank Whitlatch</strong> <br>
+            Vice President for University Advancement
+          </mj-text>
+
+          <mj-text>
+            <strong>Mark Johnson</strong> <br>
+            Chief of Staff</mj-text>
+
+          <mj-text>
+            <strong>Adrienne Colegrove-Raymond</strong> <br>
+            Special Assistant for Tribal Relations & Community Engagement
+          </mj-text>
+
+          <mj-text>
+            <strong>Nick Pettit</strong> <br>
+            Executive Director of Intercollegiate Athletics & Campus Recreation</mj-text>
+
+          <mj-text>
+            <strong>Connie Stewart</strong> <br>
+            Executive Director of Initiatives
+          </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
