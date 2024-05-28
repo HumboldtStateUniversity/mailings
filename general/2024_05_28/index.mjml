@@ -1,0 +1,56 @@
+<mjml>
+  <mj-head>
+    <mj-title>Loss of Professor Marisol Cortes-Rincon</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">May 28, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Loss of Professor Marisol Cortes-Rincon</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear University Community, </mj-text>
+        <mj-text>We are saddened to share news of the loss of Anthropology Professor Marisol Cortes-Rincon.</mj-text>
+          <mj-text>Marisol’s death is a loss for the Cal Poly Humboldt community, and our thoughts are with all of those who are close to her.</mj-text>
+        <mj-text>Marisol joined the Humboldt Anthropology faculty in 2010 after completing her Ph.D. in Anthropology, with a concentration in Archaeology and Geographic Information Systems (GIS), from the University of Texas, Austin. </mj-text>
+        <mj-text>She spent the next 14 years heading Humboldt’s archaeology program. To name just a few of her many accomplishments, she envisioned and oversaw the development of the Geospatial Archaeology Research Lab and the on-campus simulated archaeological site, served as both director and co-director of the Cultural Resources Facility, and, driven by her passion for fieldwork and Maya archaeology, directed an archaeology field program as part of the Programme for Belize Archaeological Project. </mj-text>
+        <mj-text>Her research in Belize focused on the settlement patterns between three large ancient Maya centers. She addressed a variety of interpretive issues including sociopolitical organization, demography, subsistence, environmental management, economic structure, and warfare studies. Many students, faculty, and staff had the unforgettable opportunity to join Marisol by participating in the Belize Archaeology Field School.</mj-text>
+        <mj-text>Common words used by Professor Cortes-Rincon’s colleagues and students to describe her include fierce, resilient, strong, brilliant, inspiring, giving, and, frankly, bada**. She was a champion for inclusivity and a strong advocate and mentor for her staff. Her dedication to her students and her field is a source of enduring inspiration to those who had the privilege to know and work with her. In her final days, students were in her thoughts as she dedicated funds for scholarships. She had a zest for life and will be sorely missed.</mj-text>
+        <mj-text>Psychological support services are available for students through our on-campus <a href="https://counseling.humboldt.edu/">Counseling and Psychological Services, CAPS</a>, and via telehealth at <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare
+        </a> (for both immediate and scheduled care). If you have not yet registered for telehealth through TimelyCare, you may register at <a href="https://timelycare.com/calpolyhumboldt">timelycare.com/calpolyhumboldt
+        </a> with your name and your University email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop. </mj-text>
+        <mj-text>Psychological support services are available for faculty and staff through the <a href="https://hraps.humboldt.edu/employee-assistance-program">Employee Assistance           Program (EAP)
+        </a> which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week. </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
