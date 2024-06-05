@@ -24,7 +24,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">June 4, 2024</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">June 5, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Loss of Cashier Elissa Henning</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -35,8 +35,8 @@
         <mj-text>Dear University Community, </mj-text>
         <mj-text>We are saddened to share news of the loss of Elissa Henning, Cashier and Student Account Specialist. Elissa’s death is a loss for the Cal Poly Humboldt community, and our thoughts are with all of those who are close to her.</mj-text>
           <mj-text>Elissa, who received a Multiple Subject Credential in Elementary Education from Cal Poly Humboldt in 2005, joined the Cashier's Office in 2013. Colleagues say she was always ready to help, whether it was at the cashier window, a campus sporting event, or Commencement.  </mj-text>
-        <mj-text>Elissa is remembered as a fun and vibrant person who had a great sense of humor and always had a smile on her face. Elissa was a fan of Taylor Swift, 49ers and Warriors, and comedy shows. Her warmth showed in her kindness and genuine curiosity about others. Elissa will be missed.</mj-text>
-        <mj-text>Psychological support services are available for faculty and staff through the Employee Assistance Program (EAP) which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.</mj-text>
+        <mj-text>Elissa is remembered as a fun and vibrant person who had a great sense of humor and always had a smile on her face. Elissa was a fan of Taylor Swift, the 49ers and Warriors, and comedy shows. Her warmth showed in her kindness and genuine curiosity about others. Elissa will be missed.</mj-text>
+        <mj-text>Psychological support services are available for faculty and staff through the Employee Assistance Program (EAP), which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.</mj-text>
         <mj-text>Psychological support services are available for students through Counseling & Psychological Services (CAPS) and via telehealth at TimelyCare (for both immediate and scheduled care). If you have not yet registered for telehealth through TimelyCare, you may register at <a href="https://timelycare.com/calpolyhumboldt">
           timelycare.com/calpolyhumboldt</a> with your name and your University email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop.</mj-text>
 
