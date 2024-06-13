@@ -41,15 +41,16 @@
     <mj-section css-class="light-wrap">
       <mj-column>
 
-        <mj-text font-size="20px" line-height="26px" font-weight="bold" align="center">The Office of the President is hosting two opportunities this summer to come together and connect with your colleagues. 
+        <mj-text font-size="18px" line-height="24px" align="center">The Office of the President is hosting two opportunities this summer to come together and connect with your colleagues. 
         </mj-text>
-        <mj-text align="center"><strong>Summer Kick-Off</strong><br />Join us for food, drinks, and music on  from  in the Art Quad.<br /><strong>Wednesday,  June 26<br />4 - 6 p.m.<br /></strong>
+        <mj-text font-size="20px" line-height="27px" align="center"><strong>Summer Kick-Off</strong><br />Wednesday,  June 26<br />4 - 6 p.m.<br /> Art Quad
           </mj-text>
-        <mj-text align="center"><strong>End of Summer BBQ</strong><br />
-          Redwood Bowl/Redwood Plaza</br />
-          <strong>Friday, August 2<br />12 - 1:30 p.m.</strong>
+        <mj-text font-size="20px" line-height="27px" align="center"><strong>End of Summer BBQ</strong><br />
+       
+         Friday, August 2<br />12 - 1:30 p.m.<br />
+             Redwood Bowl/Redwood Plaza
         </mj-text>
-        <mj-text  align="center" font-size="20px" ><strong>Hope you can join us!</strong>
+        <mj-text padding-top="20px" font-size="18px" line-height="24px" align="center" ><strong>Hope you can join us for food, drinks, and music!</strong>
     </mj-text>
            <mj-image src="https://mailings.humboldt.edu/general/2024_06_13/bbq-2024.jpg" alt="bbq grill with food and people in the backgound" />  
       </mj-column>
