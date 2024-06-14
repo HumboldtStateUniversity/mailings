@@ -45,12 +45,12 @@
         </mj-text>
         <mj-text font-size="20px" line-height="27px" align="center"><strong>Summer Kick-Off</strong><br />Wednesday,  June 26<br />4 - 6 p.m.<br /> Art Quad
           </mj-text>
-        <mj-text font-size="20px" line-height="27px" align="center"><strong>End of Summer BBQ</strong><br />
+        <mj-text font-size="20px" line-height="27px" align="center"><strong>Summer BBQ</strong><br />
        
          Friday, August 2<br />12 - 1:30 p.m.<br />
              Redwood Bowl/Redwood Plaza
         </mj-text>
-        <mj-text padding-top="20px" font-size="18px" line-height="24px" align="center" ><strong>Hope you can join us for food, drinks, and music!</strong>
+        <mj-text padding-top="20px" font-size="18px" line-height="24px" align="center" ><strong>Hope you can join us for food, music and fun!</strong>
     </mj-text>
            <mj-image src="https://mailings.humboldt.edu/general/2024_06_13/bbq-2024.jpg" alt="bbq grill with food and people in the backgound" />  
       </mj-column>
