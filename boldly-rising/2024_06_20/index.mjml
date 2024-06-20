@@ -1,0 +1,145 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Boldly Rising Campaign Surpasses $50 million Goal
+      </mj-title>
+      <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#006432" font-size="14px" border-radius="0" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        a.dark {
+          color: #5C8021;
+        }
+
+        .dark-wrap {
+          background: #004C45;
+          color: #fff;
+        }
+
+        .light-wrap {
+          background: #FFFFFF;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#E9E3D0">
+      <mj-section padding="40px 0 0">	
+        <mj-column  background-color="#004C46">
+
+          <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/brMark.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="25px 20px" width="250px" align="left"href="https://boldlyrising.humboldt.edu/"/>
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column  background-color="#00856A">
+
+          <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/boldlyrising-hero-housing.jpg" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="0 0 8px" href="https://boldlyrising.humboldt.edu/" />
+
+        </mj-column>
+        
+      </mj-section>
+
+
+      <mj-section css-class="light-wrap" padding-bottom="10px">
+        <mj-column>
+          <mj-text font-size="28px" line-height="1.2">Boldly Rising Campaign Surpasses $50 million Goal
+          </mj-text>
+          <mj-text>Cal Poly Humboldt’s first comprehensive fundraising campaign has surpassed its goal of at least $50 million, with thousands of people giving at record levels to support dramatic growth in student scholarships and campus programs. The campaign goal was reached more than a year early.
+          </mj-text>
+          <mj-text>During the Campaign, there have been gifts to start new scholarships and bolster existing ones. Other donors created new research opportunities for students, as well as additional internships, paid research, and other hands-on experiences. Donors have funded new specialized equipment, and supported intercollegiate athletics, field trips, travel to conferences, and much, much more.</mj-text>
+          <mj-text>Due to the success of the Campaign, the number of students receiving donor-funded scholarships each year has grown from about 500 to more than 800. That includes a big increase in scholarships focused on local students from the North Coast, which has grown from 55 to 270.</mj-text>
+          <mj-text>Learn more about the Campaign at<a href="https://boldlyrising.humboldt.edu/">Boldly Rising: The Campaign for Cal Poly Humboldt</a></mj-text>
+          <mj-text>“This is an exciting milestone in Cal Poly Humboldt journey with the first fundraising campaign in its history. The response and support from our alumni and our community have been amazing,” says Dan Phillips, a Humboldt alum and Chair of the Campaign Cabinet. “Most important is the profound impact that the Boldly Rising campaign is having for our students, providing greater access to higher education, and elevating the excellence in Cal Poly Humboldt programs. We are truly making a difference.” </mj-text>
+          <mj-text>The Boldly Rising Campaign will continue through the end of June. Volunteer leaders on the Campaign Cabinet and the Cal Poly Humboldt Foundation Board are encouraging continued giving to provide as much support for students as possible.</mj-text>
+          <mj-text>A series of events celebrating the success of the Boldly Rising Campaign will be held in October during Lumberjack Weekend, Oct. 17-20, and the total amount raised will be announced at that time.</mj-text>
+          <mj-text>“The Foundation Board congratulates Cal Poly Humboldt on the successful completion of its first ever comprehensive fundraising campaign. This was a longtime aspirational goal of the University and the Foundation,” says Robin Smith, a Humboldt alum who serves as Chair of the Cal Poly Humboldt Foundation and a Vice Chair of the Campaign Cabinet. “We are grateful to all of the donors who supported this comprehensive effort, and we are thrilled for all of the students who will benefit in the years to come.” </mj-text>
+          <mj-text>Boldly Rising was conceived more than four years ago as a way to support Humboldt’s aspirational vision for its future. Volunteers and campus leaders prioritized making a Humboldt education possible for more students through scholarships and other financial support, hands-on learning and applied research, acquisition of new and emerging technology, enhancement of academic programs, and creating more equitable communities.</mj-text>
+          <mj-text>Donor response to the effort was enthusiastic, and the initial goal was reached before the effort was publicly announced. The revised goal of at least $50 million over five years was met in less than four years.</mj-text>
+          <mj-text>Over the course of the Campaign, more than 10,000 individuals with a variety of different connections to Cal Poly Humboldt have become donors. They range in age from 18 to 102, and include alumni from many eras, parents and other family members, faculty and staff, community members, and many others.</mj-text>
+          <mj-text>“We are incredibly grateful to everyone who has been a part of this very successful campaign. Humboldt has a global community of alumni and other friends, and with this Campaign, they’ve come together to truly lift Humboldt up and carry it boldly forward,” said Humboldt President Tom Jackson Jr. </mj-text>
+          <mj-text>In the very early part of the Campaign, multiple donors led by St. Joseph Health Humboldt County created a new endowment to enable the launch of the Nursing program. </mj-text>
+          <mj-text>Gifts from hundreds of donors, along with multiple major gifts, helped create the new Rou Dalagurr Food Sovereignty Lab. Humboldt’s first endowed professorship and a new student research program were created in Psychology. An endowment was created to establish a new Visiting Artist program. Another endowment was created to support the Cal Poly Humboldt Press and Special Collections in the Library.</mj-text>
+          <mj-text>During the initial very challenging months of the pandemic, hundreds of donors gave more than $150,000 for student basic needs and to help ensure access to technology and specialized materials. Donor support during the Campaign has also been instrumental in expanding emergency housing, providing funds for the campus food pantry, and helping fund programs to help students dealing with unexpected adversity or health challenges.</mj-text>
+          <mj-text>The first endowed scholarship in Intercollegiate Athletics was created, supporting students on the Women’s Rowing Team. Other donors came together to create more scholarships for basketball athletes, giving enough to also name Tom Wood Court. New donations also support the Athletics weight room, the training room, and club sports at Humboldt.</mj-text>
+          <mj-text>The Campaign also saw the creation of an annual Giving Day at Humboldt, taking place during the first week of April. In its second year in 2024, Giving Day saw about 1,400 donors give more than $325,000 to a variety of programs across campus.</mj-text>
+          <mj-text>The Campaign was publicly launched in Fall 2022. It officially reached $50 million in February 2024 when members of the Campaign Cabinet and Foundation Board came together to give more than $100,000 in matching funds for Giving Day.</mj-text>
+          <mj-text>Over the course of the Campaign, donor support consistently exceeded previous records. The four years of the Campaign represent the four highest years of donor support ever for the University. </mj-text>
+          <mj-text>There were more than 10,500 individuals who made gifts at all levels during the Campaign. Of these donors, 51% made their first gift ever to support Cal Poly Humboldt. Gifts came in on every single day of the Campaign. </mj-text>
+          <mj-text>Also during the Campaign, the overall endowment in the Cal Poly Humboldt Foundation saw significant growth, from about $30 million to $45 million. Many people made significant long-term commitments in their estate plans through more than $17 million in planned gifts. </mj-text>
+          <mj-text>Nearly 300 donors gave $10,000 or more, and the average gift during the Campaign was four times higher than the average during the years leading up to it.</mj-text>
+          <mj-text>“It’s been inspiring to see how much passion there is for Cal Poly Humboldt, and it’s been a privilege to experience how meaningful and emotional it can be for individuals to make a significant gift,” said Frank Whitlatch, Vice President for University Advancement and Executive Director of the Cal Poly Humboldt Foundation.
+          </mj-text>
+          <mj-text>The Boldly Rising Campaign was led by volunteers on the Campaign Cabinet and the Cal Poly Humboldt Foundation Board, who not only gave significant time but also made significant financial contributions. They are:</mj-text>
+          <mj-text>
+            <strong>Campaign Cabinet</strong>
+            Dan Phillips ‘91, Chair <br>
+            Philip Anton ‘98, Vice Chair<br>
+            Carin Kaltschmidt ‘90, Vice Chair <br>
+            Jack McGurk ‘66, Vice Chair <br>
+            Robin Smith ‘78, Vice Chair <br>
+
+            John Ballard ’80<br>
+            Ed Bowler ‘79 <br>
+            Ceva Courtemanche ‘07 <br>
+            Jacob Furgatch ‘82<br>
+            Sherie Cornish Gordon <br>
+            Jenny Harris<br>
+            Tom Jackson, Jr.<br>
+            Amine Khechfé, Parent <br>
+            Robert Miller, ‘85<br>
+            Rebecca Pardoe ‘93<br>
+            Barbara Perry-Lorek, Parent <br>
+            Robin Quigley ‘11 <br>
+            Sharon Redd <br>
+            Dan Sealy ’75 <br>
+            Robin Venuti ‘79<br>
+            Frank Whitlatch <br>
+          </mj-text>
+          <mj-text>
+            <strong>Foundation Board</strong>
+            Robin Smith ‘78, Board Chair <br>
+            Jack McGurk ‘66, Vice Chair <br>
+            Jason Carlson, Treasurer <br>
+            Frank Whitlatch, Executive Director & Secretary <br>
+
+            Philip Anton ‘98 <br>
+            Eden Donahue ‘09 <br>
+            Kenneth Fulgham ‘70 <br>
+            Sherie Gordon <br>
+            Scott Hunt <br>
+            Tom Jackson, Jr. <br>
+            Carin Kaltschmidt ‘90 <br>
+            Jennifer Keller <br>
+            Jordan Kemme <br>
+            Robin Quigley ‘11 <br>
+          </mj-text>
+          <mj-text>More details about the Campaign, stories about some of the Campaign gifts, and information on becoming a donor to the Cal Poly Humboldt Foundation, are available on the <a href="https://boldlyrising.humboldt.edu/">Boldly Rising website</a>.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">	
+        <mj-column  background-color="#004C46">
+
+         <mj-image src="https://mailings.humboldt.edu/boldly-rising/assets/calpoly-humboldt-logo.png" alt="Boldly Rising - The Campaign for Cal Poly Humboldt" padding="20px" width="200px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
