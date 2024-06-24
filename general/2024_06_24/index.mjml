@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Summer Kick-Off on Wednesday, June 26</mj-title>
+    <mj-title>Summer Kick-Off this Wednesday, June 26</mj-title>
 <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -32,7 +32,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             June 24, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            Summer Kick-Off on Wednesday, June 26
+            Summer Kick-Off this Wednesday, June 26
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -41,7 +41,7 @@
     <mj-section css-class="light-wrap">
       <mj-column>
         
-                <mj-text font-size="18px" line-height="24px" align="center">Join your colleagues for food, drinks and music!
+                <mj-text font-size="18px" line-height="24px" align="center">Join your colleagues for food, music, and fun!
           </mj-text>
         <mj-text font-size="24px" line-height="32px" align="center"><strong>Wednesday, June 26</strong><br />4–6 p.m. on the Art Quad
         </mj-text>
