@@ -40,14 +40,20 @@
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column>
-
-        <mj-text font-size="18px" line-height="24px" align="center">Join your colleagues for food, drinks and music this Wednesday, June 26 from 4 - 6 p.m. in the Art Quad. Hope to see you there!
-</mj-text>
         
-           <mj-image src="https://mailings.humboldt.edu/general/2024_06_13/bbq-2024.jpg" alt="bbq grill with food and people in the backgound" /> 
-        <mj-text color="#666"><em>
-         Please note, employees are encouraged by administration to attend this event and will not be required to use their leave balances to cover time away during normal working hours. Employees should work with their appropriate administrators to ensure coverage for required campus operations. </em>
+                <mj-text font-size="18px" line-height="24px" align="center">Join your colleagues for food, drinks and music!
+          </mj-text>
+        <mj-text font-size="24px" line-height="32px" align="center"><strong>Wednesday, June 26</strong><br />4–6 p.m. on the Art Quad
         </mj-text>
+        
+        
+        <mj-text align="center">
+        All employees are encouraged to attend this event, and are not required to use leave balances to cover time away during normal working hours. Work with your appropriate administrators to ensure coverage for required campus operations.
+        </mj-text>
+        <mj-text font-size="18px" line-height="24px" align="center" padding-bottom="25px">Hope to see you there!
+</mj-text>
+           <mj-image src="https://mailings.humboldt.edu/general/2024_06_13/bbq-2024.jpg" alt="bbq grill with food and people in the backgound" /> 
+        
       </mj-column>
     </mj-section>
 
