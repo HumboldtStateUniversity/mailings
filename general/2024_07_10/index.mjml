@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>Loss of Professor Frank Shaughnessy</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">July 10, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Loss of Professor Frank Shaughnessy</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community, </mj-text>
+        <mj-text>We are saddened to share news of the loss of Botany Professor Frank Shaughnessy. Frank’s death is a loss for the Cal Poly Humboldt community, and our thoughts are with all of those who are close to him.</mj-text>
+          <mj-text>Frank began his career at Cal Poly Humboldt In 1996 as an Assistant Professor of Botany. A marine botanist and ecologist, Frank primarily taught courses in General Botany, Phycology, and Marine Macrophyte Ecology, which engaged first-time students, senior undergraduates, and graduate students. That these courses serve students at different stages of their education speaks to Frank’s ability to connect with, inspire, and mentor students of all levels. </mj-text>
+        <mj-text>Frank was also an accomplished scholar and scientist.  In 2021, he was named Outstanding Professor. An expert in eelgrass ecology in Humboldt Bay, he was a founding scientist of the Humboldt Bay Central and Northern California Ocean Observing System. </mj-text>
+        <mj-text>
+          One of Frank’s proudest accomplishments was collaborating on the design of the Cal Poly Humboldt Place-Based Learning Communities (PBLCs). A primary goal of the PBLCs is to foster a sense of belonging for first-time STEM students and the confidence to engage in the research activities of their discipline and for students to learn the relationship of scientific inquiry to environmental, cultural, and civic issues. With the help of Frank’s scientific expertise in addition to his talent for creating accessible educational materials, the University launched its first PBLC, Klamath Connection.
+        </mj-text>
+
+        <mj-text>Frank made a profound impact on the lives of many at Cal Poly Humboldt and he will be greatly missed.</mj-text>
+        <mj-text>Psychological support services are available for students through <a href="https://counseling.humboldt.edu/">Counseling & Psychological
+          Services</a>, and via telehealth at <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare</a> (for both immediate and scheduled care). If you have not yet registered for telehealth through TimelyCare, you may register at <a href="https://timelycare.com/calpolyhumboldt">
+          timelycare.com/calpolyhumboldt </a> with your name and your University email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop.</mj-text>
+        <mj-text>Psychological support services are available for faculty and staff through the <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Employee Assistance
+          Program
+        </a> which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
