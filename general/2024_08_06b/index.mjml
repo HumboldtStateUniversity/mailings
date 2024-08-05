@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2024_08_06b/image002.jpg" width="400" alt="The California State University Office of the Chancellor" />
+        <mj-image src="https://mailings.humboldt.edu/general/2024_08_06b/image002.jpg" width="400px" alt="The California State University Office of the Chancellor" />
           <mj-text>Dear California State University Community,</mj-text>
         <mj-text>I am writing to announce an exciting new phase of the work to support of student success across the California State University system. As we approach the finish line of Graduation Initiative 2025 (GI 2025), we have the unique opportunity to build upon the significant progress we have made and to establish a new and visionary framework that will elevate student success and equity to even greater heights. In order to accelerate this effort, the Chancellor’s Office will partner with Deloitte Consulting’s Higher Education Practice to facilitate a Year of Engagement to reimagine our Graduation Initiative efforts.</mj-text>
         <mj-text>
@@ -46,7 +46,7 @@
         </mj-text>
         <mj-text>Thank you for all you continue to do for the CSU community and the students we are so privileged to serve.</mj-text>
         <mj-text>Warmly,</mj-text>
-        <mj-image src="https://mailings.humboldt.edu/general/2024_08_06b/image001.png" width="200" align="left" alt="Mildred García's signature" />
+        <mj-image src="https://mailings.humboldt.edu/general/2024_08_06b/image001.png" width="200px" align="left" alt="Mildred García's signature" />
 
         <mj-text>Mildred García, Ed.D. <br>
           Chancellor</mj-text>
