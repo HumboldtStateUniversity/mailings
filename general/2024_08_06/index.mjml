@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>CenterArts Renamed ‘Cal Poly Humboldt Presents’</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 6, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">CenterArts Renamed ‘Cal Poly Humboldt Presents’ </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+          <mj-text>CenterArts is being renamed Cal Poly Humboldt Presents to more directly connect the University with a cultural institution of the North Coast. Since its founding in 1980, CenterArts has been a leading presenter of diverse performances in Humboldt County. Cal Poly Humboldt Presents will build on this legacy while showcasing contemporary artists and performers.
+          </mj-text>
+        <mj-text>The program will continue to offer a wide variety of live music, dance, theater, family-friendly shows, and comedy to North Coast audiences. Cal Poly Humboldt Presents will expand offerings for University students and coordinate major events like the annual Lumberjack Weekend Block Party, held on the third Saturday in October. Additionally, the Artists & Schools program will keep providing thousands of local children with access to cultural events.</mj-text>
+        <mj-text>
+          Cal Poly Humboldt Presents offers student employees valuable real-world experience in the arts. Alumni have gone to work in professional theaters or toured around the world with acts like The National.
+        </mj-text>
+
+        <mj-text>Cal Poly Humboldt Presents collaborates with faculty to provide opportunities for students to work with and perform alongside musical masters. For example, students will have the chance to perform with Jason Marsalis when he leads the Cal Poly Humboldt Jazz Orchestra in a special end-of-year event.</mj-text>
+        <mj-text>The Cal Poly Humboldt Presents’ 2024-25 season has been announced and tickets are now on sale. The lineup features the legendary Peking Acrobats; Emmy Award-winning comedian David Cross, Grammy-nominated country music star Elle King, local favorites Pink Martini, the Broadway hit "A Year With Frog and Toad," and the comedic ballet troupe Les Ballets Trockadero de Monte Carlo.</mj-text>
+
+        <mj-text>
+          “The new name makes clearer the connection to the campus while still honoring the legacy of performing arts on the North Coast," says Michael Moore, Jr., associate director of the Gutswurrak Student Activities Center who also directs programming for Cal Poly Humboldt Presents.
+        </mj-text>
+        <mj-text>See the full Cal Poly Humboldt Presents’ 2024-2025 season <a href="https://tickets.humboldt.edu/calpolyhumboldt-presents">here</a>. </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
