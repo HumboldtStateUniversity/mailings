@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2024_08_06b/image002.jpg" width="400px" alt="The California State University Office of the Chancellor" />
+        <mj-text><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
         <mj-text>Dear California State University Community,</mj-text>
         <mj-text>As you may have read in my email earlier this week, the California State University is partnering with Deloitte Consulting’s Higher Education Practice to facilitate a Year of Engagement that will engage our community in meaningful dialogue centered on student success. The outcome of this consultation will be a holistic framework that addresses student success, equity, social mobility, and career and workforce development for undergraduate and graduate students. This framework will build on both the progress achieved and insights gained from Graduation Initiative 2025, which concludes next year. </mj-text>
         <mj-text>
