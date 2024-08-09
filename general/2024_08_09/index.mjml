@@ -30,13 +30,22 @@
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
+    <mj-section css-class="light-wrap" >
+       <mj-column> <mj-text padding-bottom="40px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text></mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column width="60%">
+
+        <mj-text>California State University (CSU) Chancellor Mildred García has appointed CSU Dominguez Hills provost and vice president for Academic Affairs Michael E. Spagna as acting president of Cal Poly Humboldt effective August 26, 2024. </mj-text>
+
+        <mj-text>Prior to Spagna’s start date, Executive Vice Chancellor and General Counsel Andy Jones will be on campus and serve as Executive in Charge during the week of August 12, and during the week of August 19, Executive Vice Chancellor and CFO Steve Relyea will be on campus and serve as Executive in Charge.</mj-text>
+      </mj-column>
+      <mj-column width="40%"> <mj-image src="https://mailings.humboldt.edu/general/2024_08_09/Spagna-Spotlight.jpg"  alt="Spagna Picture" /></mj-column>
+    </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
+
       <mj-column>
 
-        <mj-text padding-bottom="40px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text>
-        <mj-image src="https://mailings.humboldt.edu/general/2024_08_09/Spagna-Spotlight.jpg" width="200px" align="left" alt="Spagna Picture" />
-        <mj-text>California State University (CSU) Chancellor Mildred García has appointed CSU Dominguez Hills provost and vice president for Academic Affairs Michael E. Spagna as acting president of Cal Poly Humboldt effective August 26, 2024. </mj-text>
-        <mj-text>Prior to Spagna’s start date, Executive Vice Chancellor and General Counsel Andy Jones will be on campus and serve as Executive in Charge during the week of August 12, and during the week of August 19, Executive Vice Chancellor and CFO Steve Relyea will be on campus and serve as Executive in Charge.</mj-text>
 
         <mj-text>At its September meeting, the CSU Board of Trustees will be asked to approve Spagna as interim president for approximately 12 months while the board conducts a national search for the university’s next regularly appointed president. </mj-text>
         <mj-text>“I want to thank Chancellor García for the opportunity to serve Cal Poly Humboldt,” said Spagna. “I’m excited by the prospect of working collaboratively with the university’s dedicated faculty and staff and the greater North Coast community to continue advancing Cal Poly Humboldt’s vision as a center for interdisciplinary study that prepares students seeking to make a difference in our world.”</mj-text>
