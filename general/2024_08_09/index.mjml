@@ -24,7 +24,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 7, 2024</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 9, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Michael E. Spagna Appointed Acting President of Cal Poly Humboldt</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -42,7 +42,7 @@
       </mj-column>
       <mj-column width="40%"> <mj-image src="https://mailings.humboldt.edu/general/2024_08_09/Spagna-Spotlight.jpg"  alt="Spagna Picture" /></mj-column>
     </mj-section>
-    <mj-section css-class="light-wrap" padding-bottom="20px">
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="0">
 
       <mj-column>
 
