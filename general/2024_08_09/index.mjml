@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+    <mj-title>Michael E. Spagna Appointed Acting President of Cal Poly Humboldt</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 7, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Michael E. Spagna Appointed Acting President of Cal Poly Humboldt</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+
+        <mj-text padding-bottom="40px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/2024_08_09/Spagna-Spotlight.jpg" width="200px" align="left" alt="Spagna Picture" />
+        <mj-text>California State University (CSU) Chancellor Mildred García has appointed CSU Dominguez Hills provost and vice president for Academic Affairs Michael E. Spagna as acting president of Cal Poly Humboldt effective August 26, 2024. </mj-text>
+        <mj-text>Prior to Spagna’s start date, Executive Vice Chancellor and General Counsel Andy Jones will be on campus and serve as Executive in Charge during the week of August 12, and during the week of August 19, Executive Vice Chancellor and CFO Steve Relyea will be on campus and serve as Executive in Charge.</mj-text>
+
+        <mj-text>At its September meeting, the CSU Board of Trustees will be asked to approve Spagna as interim president for approximately 12 months while the board conducts a national search for the university’s next regularly appointed president. </mj-text>
+        <mj-text>“I want to thank Chancellor García for the opportunity to serve Cal Poly Humboldt,” said Spagna. “I’m excited by the prospect of working collaboratively with the university’s dedicated faculty and staff and the greater North Coast community to continue advancing Cal Poly Humboldt’s vision as a center for interdisciplinary study that prepares students seeking to make a difference in our world.”</mj-text>
+        <mj-text>
+          Spagna succeeds President Tom Jackson Jr., who in July announced his decision to step down and transition to a faculty role.
+        </mj-text>
+        <mj-text>“Dr. Spagna has personified the mission and core values of the CSU for more than three decades,” said Chancellor García. “He is an extraordinarily skilled and innovative educational leader with a demonstrated and unwavering commitment to improving access, retention and success for diverse students through the deployment of data-informed practices. In addition, he has a remarkable ability to cultivate collaboration across university operations and to inspire external partnerships and support. Dr. Spagna is the ideal leader to guide Cal Poly Humboldt through this time of transition.”</mj-text>
+
+        <mj-text>As provost and vice president for Academic Affairs at CSU Dominguez Hills since 2017, Spagna has provided strategic leadership and oversight for the university’s academic vision. He also serves at the system level as provost representative on the CSU Admission Advisory Council and as commissioner for the CSU Commission of Professional and Continuing Education. </mj-text>
+        <mj-text>Prior to joining CSUDH, Spagna held several positions at California State University, Northridge (CSUN) over a 25-year period, including professor and dean of the Michael D. Eisner College of Education, where he cultivated a $7 million gift to the university’s Center for Teaching and Learning. </mj-text>
+        <mj-text>From 2008 to 2023, Spagna also served as chair of the L.A. Compact’s Institutions of Higher Education Collaborative, where he led a consortium workgroup dedicated to improving educational and career outcomes for the youth of Los Angeles. </mj-text>
+        <mj-text>Prior to his service at CSUN, Spagna served as consultant to the California State Department of Education; coordinator of the Services to Students with Learning Disabilities program at University of California, Berkeley; learning disabilities specialist and lecturer at Chabot College in Livermore, California; and special education teacher at Landmark West School in Culver City, and at the Resnick Neuropsychiatric Hospital at UCLA.</mj-text>
+        <mj-text>Spagna is a scholar in educator preparation and special education. He received a Ph.D. in special education from the UC Berkeley and San Francisco State University joint doctoral program. He earned a master’s in special education from UCLA and a bachelor's in communicative disorders from Northwestern University.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
