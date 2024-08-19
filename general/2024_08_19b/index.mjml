@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+    <mj-title>CSU Systemwide Interim Time, Place, and Manner (TPM) Policy</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 19, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">CSU Systemwide Interim Time, Place, and Manner (TPM) Policy</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+
+
+        <mj-text>To foster freedom of expression while protecting the rights of campus communities to learn and work in a safe environment, the California State University Office of the Chancellor has created systemwide standards to determine the “time, place, and manner” (when, where, and how) in which free speech activities may be conducted on University property. Given that campuses across the system are unique in size and location, the policy also provides an <a href="https://www.humboldt.edu/free-speech/humboldt-addendum">
+          addendum of regulations
+        </a> that are specific to each CSU campus.
+        </mj-text>
+        <mj-text>While Cal Poly Humboldt and most CSU campuses have had long standing TPM policies in place, the CSU policy provides a consistent framework for implementation and enforcement of TPM for all 23 CSU campuses.
+        </mj-text>
+        <mj-text>
+          This <a href="https://www.calstate.edu/csu-system/transparency-accountability/Pages/campus-climate.aspx">interim systemwide policy</a> fulfills a new requirement enacted by the California Legislature and is <strong>
+          in effect immediately for all students and non-represented employees</strong>.
+        </mj-text>
+        <mj-text>The University’s <a href="https://policy.humboldt.edu/time-place-and-manner-free-speech-and-expression-commercial-activity-and-use-university-buildings">existing campus Time, Place, and Manner policy</a> will continue to apply to represented employees until bargaining is complete for the interim Time, Place, and Manner policy.
+        </mj-text>
+
+        <mj-text>The CSU is committed to fostering an inclusive CSU community. As a part of this commitment, we uphold freedom of speech and expression as essential to our educational mission. Institutions of higher education have a special obligation to encourage and support the free expression of ideas, values, and opinions, even where they may be unpopular or controversial.
+        </mj-text>
+        <mj-text>Freedom of expression, however, coexists with other rights such as the need to preserve public order and safety and to maintain the ability of the CSU to fulfill its educational mission. The exercise of freedom of expression and assembly rights must still comply with all applicable federal, state and local laws, as well as University policies.</mj-text>
+        <mj-text>The Office of the Chancellor has created a systemwide <a href="https://www.calstate.edu/tpm">website</a> that serves as a hub of information. This website includes all CSU campus-based policies and resources meant to foster healthy discourse and bring together community members with different viewpoints, as well as educational activities and programs that support the balance of free speech activities, our educational mission and campus safety.</mj-text>
+        <mj-text>You are encouraged to review the system-wide TPM policy as well as the <a href="https://www.humboldt.edu/sites/default/files/marketing-communications/2024-08/Cal%20Poly%20Humboldt%20Addendum.pdf">Addendum for Cal Poly
+          Humboldt</a> and the <a href="https://www.humboldt.edu/free-speech">University’s Free Speech website</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
