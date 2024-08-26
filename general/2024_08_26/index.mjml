@@ -1,0 +1,59 @@
+<mjml>
+  <mj-head>
+    <mj-title>You’re Invited to Join the Community Engagement Team</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 36, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">You’re Invited to Join the Community Engagement Team</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+
+
+        <mj-text>Dear Lumberjack community:</mj-text>
+        <mj-text>Faculty, staff, administrators, and students are invited to join the Community Engagement Team (CET) at Cal Poly Humboldt! </mj-text>
+        <mj-text>The CET helps foster a peaceful, safe, and respectful campus environment and guides the campus community through the free speech process in accordance with <a href="https://www.humboldt.edu/free-speech/csu-systemwide-time-place-and-manner-policy">
+          California State University’s new interim Time, Place, and Manner policy</a>. The CET also plays a crucial role in providing support as needed during free speech activities on campus, including helping to de-escalate tense situations.</mj-text>
+        <mj-text>As a member of the CET, you will be required to attend a one-hour training session (virtual or in-person). You will also be required to serve in a rotational, on-call capacity, which may include some nights and evenings. Additional training will be provided throughout the academic year.</mj-text>
+
+        <mj-text>To apply to become a member of the CET, please  <a href="https://forms.gle/4fPgFDv4B4EXGzMq7">submit an application</a> by Wednesday, August 28. In addition to 24 individuals who will be selected, the University will choose alternate members, who will also receive training and may be asked to participate when a regular member is unavailable.  Once all team members have been trained, we will continue to provide de-escalation training for the broader campus community that expresses interest.</mj-text>
+        <mj-text>We greatly value your experience, expertise, and perspective. This is your opportunity to help maintain a positive, constructive atmosphere where everyone’s voices are heard.</mj-text>
+        <mj-text>If you have any questions, please email Dean of Students Dr. Mitch Mitchell at <a href="mailto:mitch.mitchell@humboldt.edu">
+          <strong> mitch.mitchell@humboldt.edu</strong></a>. For more information about the CSU’s TPM policy, free speech, and more, go to <a href="https://humboldt.edu/free-speech">
+          humboldt.edu/free-speech</a>.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
