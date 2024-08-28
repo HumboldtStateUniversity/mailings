@@ -23,7 +23,7 @@
     <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text padding-top="0">
-          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from the President</h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 28, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Welcome to the Start of the New Semester</p>
         </mj-text>
@@ -55,7 +55,7 @@
         <mj-text>To that end, the California State University has established a new, interim systemwide “Time,
           Place, and Manner” (TPM) policy relating to freedom of expression on campus. The new TPM
           policy applies to all 23 campuses and outlines standards as to when, where, and how activities may
-          be conducted on university property. The <a href="https://calstate.policystat.com/policy/16412929/latest/">TPM policy</a> is in place to support your right to express
+          be conducted on university property. The <a href="https://www.humboldt.edu/free-speech/csu-systemwide-time-place-and-manner-policy">TPM policy</a> is in place to support your right to express
           your views freely without disrupting university operations or infringing on the rights of others.</mj-text>
         <mj-text>I’ll be on campus as much as possible, engaging with members of the campus community while
           exploring this beautiful place and—hopefully—getting used to the hills and stairs! So, if you see me,
