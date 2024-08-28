@@ -34,7 +34,7 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
 
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2024_08_28b/cphp2532298_LJWeekend_EmailHeaders_B.jpg"/>
+        <mj-image src="https://mailings.humboldt.edu/general/2024_08_28b/cphp2532298_LJWeekend_EmailHeaders_B.jpg" alt="Lumberjack Weekend - Homecoming - Featuring The Beach Boys" />
         <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend!</mj-text>
         <mj-text padding-top="0px"><strong>October 17–20</strong></mj-text>
         <mj-text>Lumberjack Weekend is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.
