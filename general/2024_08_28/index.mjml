@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-title>Welcome to the Start of the New Semester</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 28, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Welcome to the Start of the New Semester</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+
+
+        <mj-text>Dear Lumberjacks,</mj-text>
+        <mj-text>It’s my first official week at Cal Poly Humboldt as your acting president, and I&#39;m excited to be on
+          campus!</mj-text>
+        <mj-text>A little bit about me: I’ve been an educator for most of my career, including teaching middle and
+          high school students with special needs. From that experience, I know education can provide the
+          intellectual and personal spark to inspire students to pursue their dreams while uplifting others.</mj-text>
+        <mj-text>I also believe knowledge goes both ways. Part of my commitment to you is supporting your
+          success. Throughout the semester, I’ll be focused on learning about the important work you’re
+          doing, whether that’s volunteering your time, conducting research, or expanding hands-on
+          learning experiences. Among my priorities is listening. Your experiences are valuable to us all and
+          I want to hear what’s on your mind and in your hearts.</mj-text>
+
+        <mj-text>While our perspectives are unique, there is a common denominator we all share: a long-standing
+          commitment to having our voices heard—an ethos echoed on campuses across the nation. You
+          should speak out about the issues you care about because free speech is a fundamental right that’s
+          critical for a healthy society.</mj-text>
+        <mj-text>To that end, the California State University has established a new, interim systemwide “Time,
+          Place, and Manner” (TPM) policy relating to freedom of expression on campus. The new TPM
+          policy applies to all 23 campuses and outlines standards as to when, where, and how activities may
+          be conducted on university property. The <a href="https://calstate.policystat.com/policy/16412929/latest/">TPM policy</a> is in place to support your right to express
+          your views freely without disrupting university operations or infringing on the rights of others.</mj-text>
+        <mj-text>I’ll be on campus as much as possible, engaging with members of the campus community while
+          exploring this beautiful place and—hopefully—getting used to the hills and stairs! So, if you see me,
+          don’t hesitate to introduce yourself. I’ll also be at College Colors Day, where I’ll say a few words.
+          Please drop by, say hi, and enjoy some great food and games.</mj-text>
+        <mj-text>To be acting president of the first polytechnic university in Northern California is an honor. To
+          lead this unique campus community is a privilege. And I look forward to strengthening this premier
+          university together.</mj-text>
+        <mj-text>With very best wishes, <br><br>
+          Michael E. Spagna <br>
+          Acting President</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
