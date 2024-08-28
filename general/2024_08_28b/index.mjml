@@ -35,8 +35,7 @@
 
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2024_08_28b/cphp2532298_LJWeekend_EmailHeaders_B.jpg" alt="Lumberjack Weekend - Homecoming - Featuring The Beach Boys" />
-        <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend!</mj-text>
-        <mj-text padding-top="0px"><strong>October 17–20</strong></mj-text>
+        <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend! <br>October 17–20</mj-text>
         <mj-text>Lumberjack Weekend is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.
         </mj-text>
         <mj-text><strong>New this year, all participants must register</strong>. Students, staff and faculty have the option to register for free or for a fee with a t-shirt. Space is limited so be sure to register ASAP!</mj-text>
@@ -50,7 +49,7 @@
         <mj-text><strong>Lumberjack Weekend Block Party</strong></mj-text>
         <mj-text>Saturday from 4:00 p.m. - 8 p.m. in the <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf">G11 and FS9 parking lots</a>.</mj-text>
         <mj-text>This year’s block party will feature The Beach Boys as our headliner, followed by a dazzling drone show by Skyworx! Enjoy a variety of food trucks and beverages, with beer and wine available for those with valid ID.</mj-text>
-        <mj-button href="https://www.google.com/url?q=https://host.nxt.blackbaud.com/registration-form/?formId%3D92af488a-99d1-4001-b40e-03da03810a9b%26envId%3Dp-kYh76efQwk2lvjMidehRmA%26zone%3Dusa&sa=D&source=docs&ust=1724859723978101&usg=AOvVaw3mG1bI2n3TPipBXBjjOgM9">Register Now</mj-button>
+        <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=92af488a-99d1-4001-b40e-03da03810a9b&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
         <mj-text font-size="18px" align="center">Find the full schedule and registration details:</mj-text>
         <mj-button href="https://homecoming.humboldt.edu">Lumberjack Weekend website</mj-button>
         <mj-text font-size="18px" align="center">Don't miss out on this memorable weekend! </mj-text>
