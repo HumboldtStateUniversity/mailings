@@ -17,7 +17,8 @@
         <!-- wordmark on right -->
         <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
         <!-- wordmark on left -->
-        <mj-image src="officeChancellor.png" alt="The California State University - Office of the Chancellor" padding="0" />
+        <mj-image src="https://mailings.humboldt.edu/general/2024_08_29/officeChancellor.png" alt="The California State University - Office of the Chancellor" padding="10px 0 10px 10px" container-background-color="white" width="267px" align="left"/>
+        <mj-divider border-color="#CC0B2A" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap">
@@ -53,7 +54,7 @@
           </ul>
         </mj-text>
 
-        <mj-text>This directive is in effect immediately for all students and employees, and all other members of the community, including represented employees. Violation of these directives (or any other illegal activity) is a violation of the law and will be enforced accordingly. As the largest university system in the state of California and the country, it is incumbent on us to lead the way, protect free speech, and make sure that all members of our campus community feel safe and are safe.  If you have any questions, please contact [insert campus contact]</mj-text>
+        <mj-text>This directive is in effect immediately for all students and employees, and all other members of the community, including represented employees. Violation of these directives (or any other illegal activity) is a violation of the law and will be enforced accordingly. As the largest university system in the state of California and the country, it is incumbent on us to lead the way, protect free speech, and make sure that all members of our campus community feel safe and are safe.  Faculty may contact <a href="mailto:aps@humboldt.edu">aps@humboldt.edu</a> and staff may contact <a href="mailto:hr@humboldt.edu">hr@humboldt.edu</a> with any questions.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
