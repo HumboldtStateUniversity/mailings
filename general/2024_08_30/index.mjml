@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reflecting on the Past Week in Humboldt</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from the Acting President</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 29, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Reflecting on the Past Week in Humboldt</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text>Dear Colleagues,</mj-text>
+        <mj-text>As I wrap up my first week at Cal Poly Humboldt, it has become clear that among the strengths of this University is the community of faculty and staff. I want to take a moment to thank you all for nurturing the potential in all our students.</mj-text>
+        <mj-text>Because you are essential to the success of students and the University, I believe in communicating with employees as much as possible, especially when it comes to significant matters that affect our campus community and the California State University. Those topics include the CSU’s interim Time, Place, and Manner policy. Please take time to read this <a href="">important message
+        </a> from Chancellor García, which helps to clarify some points in the policy that are applicable for all represented and non-represented faculty and staff.</mj-text>
+        <mj-text>In my previous message, I talked about the importance of listening to and learning from you. So many of you are now sharing your stories and sharing some laughs—interactions that I truly appreciate as I get to know the campus community.</mj-text>
+        <mj-text>Thank you for your warm welcome to Humboldt. I hope you have a fun and safe holiday weekend, and I can’t see you at College Colors Day on Sept. 13!</mj-text>
+        <mj-text>Sincerely, <br><br>
+          Michael E. Spagna <br>
+          Acting President</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
