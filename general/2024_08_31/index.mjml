@@ -1,0 +1,98 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cal Poly Humboldt College Colors Day: </mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            August 31, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Cal Poly Humboldt College Colors Day:
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/general/2023_08_31/evnt090122_0579.jpg" alt="People in photo booth" />
+        <mj-text>Put on your green and gold, bring your families, and join students, staff, faculty and alumni for College Colors Day on Wednesday, September 6 from 3-7 p.m. at the
+          <a href="https://www.google.com/maps/place/Arcata+Community+Center/@40.8693555,-124.0849296,15z/data=!4m6!3m5!1s0x54d1570f5271f97f:0x5c4b31600dc79e18!8m2!3d40.8644297!4d-124.0804667!16s%2Fg%2F1tf5pzds?entry=tts&shorturl=1">Arcata Community Center</a>. Hosted by President Jackson and his Administrative Team, College Colors Day is an expansion of the annual campus picnic offered in alignment with
+          <a href="https://nationaltoday.com/college-colors-day/">National College Colors Day</a>. It is an opportunity to come together to show school spirit and enjoy food, music, face painting, bounce houses, games, a staff and faculty kickball tournament, giveaways and more!
+        </mj-text>
+
+        <mj-text>
+          The staff and faculty kickball tournament is a new addition to the event this year and will include all divisions. In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Please feel free to bring signs to cheer on your team and chairs or blankets to sit outside and enjoy the games!
+        </mj-text>
+        <mj-text>
+          The
+          <a href="https://www.google.com/maps/place/Arcata+Community+Center/@40.8693555,-124.0849296,15z/data=!4m6!3m5!1s0x54d1570f5271f97f:0x5c4b31600dc79e18!8m2!3d40.8644297!4d-124.0804667!16s%2Fg%2F1tf5pzds?entry=tts&shorturl=1">Arcata Community Center</a> is less than a mile from campus; parking will be limited. We encourage walking, biking or carpooling to this event. Hope to see you there!
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
