@@ -1,0 +1,65 @@
+<mjml>
+  <mj-head>
+    <mj-title>Chancellor’s Directive on Prohibited Activities</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from the Chancellor's Office</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 30, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Chancellor’s Directive on Prohibited Activities</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+
+
+        <mj-text>Dear Employees,</mj-text>
+        <mj-text>As the fall 2024 term is underway, we want to remind you that the California State University (CSU) is committed to free expression, free speech and free assembly as an essential component of its educational mission, while maintaining a safe and peaceful campus climate. To support and achieve this mission, the CSU must maintain an environment where its work can be conducted without disruption, in accordance with the highest standards of institutional integrity, safety, and with recognition of the rights, privileges and responsibilities of all university community members and members of the public.  We must constantly strive to foster healthy discourse and bring campus community members together, where all are welcomed and included, even when viewpoints are ideologically different, to best promote the educational mission of the CSU in a safe and peaceful manner.  </mj-text>
+        <mj-text>To that end, the Chancellor has issued a directive that the following activities are strictly prohibited on university property:</mj-text>
+        <mj-text>
+          <ul>
+            <li><strong>Encampments and camping.</strong> No person shall camp, occupy camping facilities, use camping paraphernalia, or store personal property for camping, whether indoors or outdoors. No one may erect a tent or other temporary housing or occupy any tent or temporary housing structure. No person shall set up a campsite, or bring, leave or maintain furniture or other large household or camping items.</li>
+            <li><strong>Unauthorized structures and barriers.</strong> No person shall build, construct, erect, place, set up, move, deliver or maintain any temporary or permanent tent, platform, bench, building, building materials, wall, barrier, barricade, fencing, structure, sculpture, bicycle rack or furniture.</li>
+            <li><strong>Restricting free movement.</strong>  No person shall restrict the movement of another person or persons by any means, including blocking or obstructing their ingress or egress, or otherwise deny a person access to normally unrestricted areas.</li>
+            <li>
+              <strong>Masking to conceal identity with intent to violate laws or policies.</strong>  No person shall wear a mask or personal disguise for the purpose of concealing their identity with the intent of intimidating any person or group, or for the purpose of evading or escaping discovery, recognition, or identification in the commission of violations of the law or policy.</li>
+            <li>
+              <strong>Occupation of buildings and facilities.</strong> No person shall occupy buildings and facilities or engage in trespass or any other violation of applicable law.</li>
+            <li>
+              <strong>Vandalism and other damage.</strong> No person shall vandalize, damage or destroy university property.</li>
+          </ul>
+        </mj-text>
+
+        <mj-text>This directive is in effect immediately for all students and employees, and all other members of the community, including represented employees. Violation of these directives (or any other illegal activity) is a violation of the law and will be enforced accordingly. As the largest university system in the state of California and the country, it is incumbent on us to lead the way, protect free speech, and make sure that all members of our campus community feel safe and are safe.  Faculty may contact <a href="mailto:aps@humboldt.edu">aps@humboldt.edu</a> and staff may contact <a href="mailto:hr@humboldt.edu">hr@humboldt.edu</a> with any questions.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
