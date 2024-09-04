@@ -72,12 +72,13 @@
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2024_09_04/evnt090623_0332.jpg" alt="Marching Lumberjacks with instruments" />
-        <mj-text>Put on your green and gold, bring your families, and join students, staff, faculty, and alumni for College Colors Day on Friday, Sept. 13 from noon to 4 p.m. in Redwood Bowl and the Upper Playing Field.</mj-text>
+        <mj-text>Put on your green and gold, bring your families, and join students, staff, faculty, and alumni for <strong>
+          College Colors Day on Friday, Sept. 13 from noon to 4 p.m. in Redwood Bowl and the Upper Playing Field</strong>.</mj-text>
         <mj-text>
           Hosted by President Spagna and his administrative team, College Colors Day is an opportunity to come together to show your Lumberjack spirit and enjoy food, music, face painting, games, a staff and faculty kickball tournament, giveaways and more.
         </mj-text>
-        <mj-text>President Spagna will kick off the festivities at noon with a few words.</mj-text>
-        <mj-text>Get ready to cheer on your favorite division in the second annual staff and faculty kickball tournament! In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Please feel free to bring signs to cheer on your team and chairs or blankets to sit outside and watch the games!</mj-text>
+        <mj-text>President Spagna will kick off the festivities at noon in Redwood Bowl with a few words.</mj-text>
+        <mj-text>Then, head up to the Upper Playing Field to cheer on your favorite division in the second annual staff and faculty kickball tournament! In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Feel free to bring signs to cheer on your team and chairs or blankets to sit outside and watch the games.</mj-text>
         <mj-text>Hope to see you there!</mj-text>
       </mj-column>
 
