@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Cal Poly Humboldt College Colors Day: </mj-title>
+    <mj-title>You’re Invited to College Colors Day, September 13 </mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -61,9 +61,9 @@
             A Message from Cal Poly Humboldt
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
-            August 31, 2024</p>
+            September 4, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            Cal Poly Humboldt College Colors Day:
+            You’re Invited to College Colors Day, September 13
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -71,19 +71,14 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2023_08_31/evnt090122_0579.jpg" alt="People in photo booth" />
-        <mj-text>Put on your green and gold, bring your families, and join students, staff, faculty and alumni for College Colors Day on Wednesday, September 6 from 3-7 p.m. at the
-          <a href="https://www.google.com/maps/place/Arcata+Community+Center/@40.8693555,-124.0849296,15z/data=!4m6!3m5!1s0x54d1570f5271f97f:0x5c4b31600dc79e18!8m2!3d40.8644297!4d-124.0804667!16s%2Fg%2F1tf5pzds?entry=tts&shorturl=1">Arcata Community Center</a>. Hosted by President Jackson and his Administrative Team, College Colors Day is an expansion of the annual campus picnic offered in alignment with
-          <a href="https://nationaltoday.com/college-colors-day/">National College Colors Day</a>. It is an opportunity to come together to show school spirit and enjoy food, music, face painting, bounce houses, games, a staff and faculty kickball tournament, giveaways and more!
-        </mj-text>
-
+        <mj-image src="https://mailings.humboldt.edu/general/2023_09_04/evnt090623_0332.jpg" alt="Marching Lumberjacks with instruments" />
+        <mj-text>Put on your green and gold, bring your families, and join students, staff, faculty, and alumni for College Colors Day on Friday, Sept. 13 from noon to 4 p.m. in Redwood Bowl and the Upper Playing Field.</mj-text>
         <mj-text>
-          The staff and faculty kickball tournament is a new addition to the event this year and will include all divisions. In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Please feel free to bring signs to cheer on your team and chairs or blankets to sit outside and enjoy the games!
+          Hosted by President Spagna and his administrative team, College Colors Day is an opportunity to come together to show your Lumberjack spirit and enjoy food, music, face painting, games, a staff and faculty kickball tournament, giveaways and more.
         </mj-text>
-        <mj-text>
-          The
-          <a href="https://www.google.com/maps/place/Arcata+Community+Center/@40.8693555,-124.0849296,15z/data=!4m6!3m5!1s0x54d1570f5271f97f:0x5c4b31600dc79e18!8m2!3d40.8644297!4d-124.0804667!16s%2Fg%2F1tf5pzds?entry=tts&shorturl=1">Arcata Community Center</a> is less than a mile from campus; parking will be limited. We encourage walking, biking or carpooling to this event. Hope to see you there!
-        </mj-text>
+        <mj-text>President Spagna will kick off the festivities at noon with a few words.</mj-text>
+        <mj-text>Get ready to cheer on your favorite division in the second annual staff and faculty kickball tournament! In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Please feel free to bring signs to cheer on your team and chairs or blankets to sit outside and watch the games!</mj-text>
+        <mj-text>Hope to see you there!</mj-text>
       </mj-column>
 
     </mj-section>
