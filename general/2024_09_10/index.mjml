@@ -74,13 +74,13 @@
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2024_09_04/evnt090623_0332.jpg" alt="Marching Lumberjacks with instruments" />
         <mj-text>Put on your green and gold and join students, staff, faculty, and alumni for <strong>
-          College Colors Day this Friday, Sept. 13 from noon to 4 p.m. in Redwood Bowl and the Upper Playing Field.</strong> Families are welcome too!</mj-text>
+          College Colors Day this Friday, Sept. 13, from noon to 4 p.m. in Redwood Bowl and the Upper Playing Field.</strong> Families are welcome too!</mj-text>
         <mj-text>
           Hosted by President Spagna and his administrative team, College Colors Day is an opportunity to come together to show your Lumberjack spirit and enjoy food, music, face painting, games, a staff and faculty kickball tournament, giveaways and more.
         </mj-text>
         <mj-text>President Spagna will kick off the festivities at noon in Redwood Bowl with a few words.</mj-text>
         <mj-text>Then, head up to the Upper Playing Field to cheer on your favorite division in the second annual staff and faculty kickball tournament! In addition to a trophy for the winning team, a special prize will be given to the division with the most spirit and fan support. Feel free to bring signs to cheer on your team and chairs or blankets to sit outside and watch the games.</mj-text>
-        <mj-text>Hope to see you there!</mj-text>
+        <mj-text padding-bottom="40px">Hope to see you there!</mj-text>
         <mj-text><em>Employees are encouraged to attend the event and will not be required to use leave balances to cover time away during normal working hours. Work with your appropriate administrator to ensure coverage for required campus operations.</em></mj-text>
       </mj-column>
 
