@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-title>Coming Together as a Community</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #004C46;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #004C46;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            September 11, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Coming Together as a Community
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Students and Colleagues,</mj-text>
+        <mj-text>
+          One of the perks of being a college president is having the opportunity to meet a wide range of people in a wide range of settings.  In fact, just last week, I attended an Arcata Chamber of Commerce mixer, a monthly event for local business leaders. To my surprise, Cal Poly Humboldt students from the Entrepreneurs Club were there as volunteers to help run the event and network.
+        </mj-text>
+        <mj-text>I was impressed by their enthusiasm—an energy I’ve felt from the students, faculty, staff, and community members I have met since stepping foot on this campus. At that moment I found myself at the intersection of classroom and community, where students are applying what they learn through volunteer work, internships, and conducting research. </mj-text>
+        <mj-text>Hands-on learning opportunities are not unique to Humboldt. What makes Humboldt special, however, is the very palpable feeling that I’m part of a close-knit ecosystem of people who genuinely love this place and the University. </mj-text>
+        <mj-text>What I’m referring to is community—a word you’ll hear me use often. As we know, that sense of community was tested last spring during the protests. While the University has been focused on helping our campus community heal, I want to acknowledge that the emotional impact of the protests cannot be understated. And although the events of April seem long ago, for many, it still feels raw. </mj-text>
+        <mj-text>Continuing news coverage of the protests may serve as constant reminders of a painful moment in University history and may raise questions that you’ll naturally want answers to. The University is committed to transparency, though, as a matter of law and policy we cannot comment on personnel matters, ongoing investigations, or specific student conduct cases. However, we can clear up misunderstandings about decision-making and leadership during emergency situations.</mj-text>
+        <mj-text>Our Emergency Operations Center (EOC) is a legally mandated structure used by government organizations nationwide. Those who serve on the EOC are trained employees who represent departments from across campus. Under this structure, they are tasked with making recommendations on operations, planning, logistics, administration, and communications to the decision-making body called the Policy Management Group (PMG).</mj-text>
+        <mj-text>The PMG includes the President, Vice Presidents, Chief of Staff, Special Assistant to the President for Tribal & Community Engagement, the Athletics Director, University Counsel, and Government Relations. The PMG is responsible for strategic decision-making and overall leadership of the University during an emergency. At the same time, we often collaborate with local, state, tribal and federal partners, leaning on their resources and broad expertise in various areas to support us during crises.</mj-text>
+        <mj-text>What’s important is learning from each situation, and over the last few months, the University conducted a rigorous review—facilitated by the California Governor’s Office of Emergency Services—of how the events in April were handled and what could have been done differently. Based on that review, called the “After Action Review” (AAR), we have been refining and improving University processes. The University will provide more details from the review to the campus community in the near future.</mj-text>
+        <mj-text>Humboldt, like many universities, now finds itself navigating the balance between individual rights and the rights of the campus community as a whole; between self-expression and personal responsibility. You have the right to express your beliefs freely, but in a way that is lawful and constructive. Your message is powerful, if not more so when we stand together to advocate for what you believe without vandalism, disruption, or infringing upon the rights of other members of our community.</mj-text>
+        <mj-text>I encourage you to understand freedom of expression on campus and to read more about free speech at Cal Poly Humboldt <a href="https://www.humboldt.edu/free-speech">       here</a>. At the same time, understand your responsibilities—teach one another about effective advocacy that doesn’t disrupt or detract from the educational purpose of this institution for which we all care so much. </mj-text>
+        <mj-text>In the coming weeks, members of my administration and I will be meeting with various groups and holding open forums to discuss the lessons learned. We’ll discuss the AAR and share changes the University has implemented as a result of the review, such as the creation of a Community Engagement Team. We’ll also review University processes during a crisis and, most importantly, listen to your concerns.</mj-text>
+        <mj-text>In the meantime, if you need additional support, the following resources are available to the campus community --</mj-text>
+        <mj-text>
+          <strong>Students:</strong></mj-text>
+        <mj-text padding-left="50px">Students: If you need to speak to a counselor, you can contact Counseling & Psychological Services at (707) 826-3236 during business hours. Telehealth (including an immediate “TalkNow” session) is available 24/7 through TimelyCare. Additional information about counseling services and self-help resources can be found at the <a href="https://counseling.humboldt.edu/">
+          Counseling & Psychological Services’ website</a>. If you need help connecting to these resources, contact the <a href="https://www.humboldt.edu/dean-of-students/care">
+          CARE team</a>.</mj-text>
+        <mj-text><strong>Employees:</strong></mj-text>
+        <mj-text padding-left="50px">Staff or faculty seeking support can access the <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Employee Assistance Program</a>, LifeMatters, offered through Empathia 24 hours a day, seven days a week.</mj-text>
+        <mj-text>I know there’s still work to be done in repairing relationships and rebuilding trust, all of which will take time.  Respect your colleagues and fellow students. Be open to opinions that may run counter to your worldview, which can be uncomfortable. We’re all in this together, and every leader on this campus is committed to having courageous conversations.</mj-text>
+        <mj-text>
+          Sincerely,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Acting President <br>
+          Cal Poly Humboldt
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
