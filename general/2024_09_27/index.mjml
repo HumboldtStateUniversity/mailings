@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-title>Free Speech and the Value of Civil Dialogue</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            September 27, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Free Speech and the Value of Civil Dialogue
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>
+          A remarkable thing happened this week that illustrated the purpose of the <a href="https://www.humboldt.edu/free-speech/csu-systemwide-time-place-and-manner-policy">California State University’s interim Time, Place, and Manner</a> (TPM) policy in protecting free speech, and that demonstrated the willingness of our campus community to engage in meaningful dialogue on polarizing issues.
+        </mj-text>
+        <mj-text>A person on the University Quad expressed strong viewpoints that were offensive to many of his listeners. The content of his speech and his presence on campus also raised questions about the TPM policy, about free speech, and about the rights of an individual versus the rights of the community as a whole.
+        </mj-text>
+        <mj-text>The TPM policy was established to reinforce the First Amendment protection of what’s deemed “free speech,” which includes viewpoints that may or may not be aligned with the values and viewpoints of our campus community. The TPM ensures all voices are heard in a safe environment that doesn't infringe upon the rights of others.</mj-text>
+        <mj-text>This particular individual was allowed to remain on campus for a few reasons. He was in a designated public space. He was not disrupting campus operations or a pre-scheduled event on the Quad. And, going back to the First Amendment, the content of his messages was within the accepted bounds of constitutionally protected speech. </mj-text>
+        When, where, and how his free speech activity took place was in keeping with TPM policy, whether you agreed with him or not. In short, the speaker has the right to be seen and heard. You have the right to support or challenge what’s being said. You have the right to be offended and you have the right to express your own views.
+        <mj-text>The doors of dialogue can open when free speech flourishes. On the Quad, for example, people who were talking at each other began talking with one another when members of the campus community asked questions and engaged in respectful discussions.</mj-text>
+        <mj-text>You may have noticed members of the Free Speech Response Team were on the scene. Trained in de-escalation techniques, they were there to answer questions about the TPM policy, to ensure that all those on the Quad followed the policy, and to encourage dialogue and mutual understanding in keeping with our basic educational purpose. As difficult as I know that moment was for some of you, the TPM and the Free Speech Response Team did what they were created to do: protect everyone’s right to free speech.
+        </mj-text>
+        <mj-text>Still, there are many nuances of the TPM that we’re continuing to navigate, especially as we near the presidential election and the anniversary of the horrors that unfolded starting on Oct. 7. The University is preparing to provide resources that students, faculty, and staff may need to have tough, thoughtful conversations about emotionally-charged topics like the ones we heard this week. Those opportunities will be detailed in future announcements.</mj-text>
+        <mj-text>At the same time, please feel free to refer to our <a href="https://www.humboldt.edu/free-speech">Free Speech page</a>, which links to the CSU’s TPM. The page provides helpful clarity on hate speech versus free speech, your right to unscheduled free speech activities, how to schedule any event and more. For questions about the TPM and for support in planning a successful and safe event, I encourage you to contact the Dean of Students office at (707) 826-3504 or <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a>.</mj-text>
+        <mj-text>While it’s easy to view this week’s experience in a negative light, what we saw on the Quad is a reminder of the civil discourse that our world needs. It was a proud moment that represents the best of us, reinforcing my belief that with respect and civility we can learn from one another and advance our shared purpose of creating a more just world.</mj-text>
+
+        <mj-text>
+          Sincerely,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President <br>
+          Cal Poly Humboldt
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
