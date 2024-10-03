@@ -58,7 +58,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
-            A Message from Cal Poly Humboldt
+            A Message from the Chancellor's Office
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             October 3, 2024</p>
@@ -71,14 +71,11 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of CSU Chancellor's Office</em></mj-text>
+        <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of the CSU Chancellor's Office</em></mj-text>
         <mj-text>Dear Campus Community, </mj-text>
         <mj-text>Prior to the start of the fall semester, a message from Chancellor Mildred García was sent to you regarding a CSU systemwide effort to develop a holistic framework that addresses student success, equity, social mobility, and career and workforce development for undergraduate and graduate students. As the first step in this work, the chancellor asked for your participation in a <strong>Year of Engagement Survey</strong>. Today, I write to ask that if you have not done so already if you would please complete the survey. Your feedback is crucial in understanding firsthand the perspectives of the student success ecosystem at the CSU.</mj-text>
         <mj-text>Please use this <a href="https://deloittesurvey.deloitte.com/Community/se/3FC11B265C50E1E8">link</a> to complete the survey which should take 20-25 minutes. Your participation is an essential component of the CSU’s work to understand the progress made in supporting students, and to begin to define a future vision for the CSU.  Thank you for taking the time to provide your valuable insights. </mj-text>
         <mj-text>Sincerely,</mj-text>
-
-
-
 
         <mj-text>Dilcie D. Perez, Ed.D. <br>
 
