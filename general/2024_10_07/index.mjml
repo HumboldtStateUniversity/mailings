@@ -1,0 +1,107 @@
+<mjml>
+  <mj-head>
+    <mj-title>Statement from Chancellor García on Oct. 7 anniversary</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Chancellor's Office
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            October 7, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Statement from Chancellor García on Oct. 7 anniversary
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
+        <mj-text>Dear CSU Community,</mj-text>
+        <mj-text>I join you today in pausing to reflect on this very somber anniversary of the tragic events of October 7, 2023, in the Middle East and the ongoing conflict that continues to impact our global community. Our students, faculty, staff, families and communities have all been impacted by this conflict; and no matter our background or our beliefs, grief over loss of life and a desire for peace is universal.</mj-text>
+        <mj-text>Our most powerful tool to drive change in a democratic society is the use of our voice; to exercise our freedom of speech and the right to engage in peaceful protest. The CSU has a long and proud history of lively debate and civic engagement that have led to significant and meaningful changes.</mj-text>
+        <mj-text>And as we call for peace, we must also practice it. </mj-text>
+        <mj-text>Passion can be exercised with empathy, and difficult discourse with respect. We are committed to an inclusive and equitable community that values diversity and fosters mutual respect, as stated in the <a href="https://calstate.policystat.com/policy/12891658/latest">
+          CSU’s Nondiscrimination Policy</a>.  </mj-text>
+        <mj-text>I invite you to refer to the following resource for support: <a href="https://www.calstate.edu/attend/student-services/Pages/mental-health-services.aspx">Campus mental health & counseling
+          services</a>.</mj-text>
+        <mj-text>
+          I also invite you to refer to the following links on the CSU’s Time, Place, and Manner policy to better understand your rights as you express your beliefs and opinions:
+          <ul>
+            <li><a href="https://www.calstate.edu/tpm">Time, Place, and Manner policy</a></li>
+          <li>
+            <a href="https://www.calstate.edu/tpm">Individual university addenda to CSU’s Time, Place, and Manner policy</a></li>
+          </ul>
+        </mj-text>
+        <mj-text>Please take this time to care for yourself and for one another. I hope on this day and in the days ahead we can model peace in the face of tragedy. </mj-text>
+        <mj-text>Warmly,</mj-text>
+
+        <mj-text>Mildred García, Ed.D. <br>
+          Chancellor</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
