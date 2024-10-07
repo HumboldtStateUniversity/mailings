@@ -80,7 +80,7 @@
           CSU’s Nondiscrimination Policy</a>.  </mj-text>
         <mj-text>I invite you to refer to the following resource for support: <a href="https://www.calstate.edu/attend/student-services/Pages/mental-health-services.aspx">Campus mental health & counseling
           services</a>.</mj-text>
-        <mj-text>
+        <mj-text padding-bottom="0">
           I also invite you to refer to the following links on the CSU’s Time, Place, and Manner policy to better understand your rights as you express your beliefs and opinions:
           <ul>
             <li><a href="https://www.calstate.edu/tpm">Time, Place, and Manner policy</a></li>
@@ -90,6 +90,7 @@
         </mj-text>
         <mj-text>Please take this time to care for yourself and for one another. I hope on this day and in the days ahead we can model peace in the face of tragedy. </mj-text>
         <mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="" width="200px" align="left"/>
 
         <mj-text>Mildred García, Ed.D. <br>
           Chancellor</mj-text>
