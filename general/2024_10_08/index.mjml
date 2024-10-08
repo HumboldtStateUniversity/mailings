@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reminder: Presidential Search Open Forum</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            October 8, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Reminder: Presidential Search Open Forum
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>The California State University (CSU) Board of Trustees is beginning the search for the next regularly appointed president of Cal Poly Humboldt. </mj-text>
+        <mj-text>Faculty, staff, students, alumni, and members of the North Coast community are invited to attend an in-person open forum from <strong>11 a.m. to 1 p.m. on Thursday, Oct. 10, in the Van Duzer Theatre</strong> [<a href="https://www.humboldt.edu/sites/default/files/home/2024-09/campusmap.pdf">map</a>]. During this time, the Trustees’ Committee for the Selection of the President will outline the search process, and listen and learn from the campus community about the professional qualifications, experiences, and personal attributes they feel the next president must possess to be successful.</mj-text>
+        <mj-text>We welcome and encourage all members of our campus and local community to participate. The open forum will also be live-streamed and archived on the <a href="https://www.humboldt.edu/president-search">
+          President Search website</a>, where individuals may also provide their input via written submission. </mj-text>
+        <mj-text>Pre-registration is not required to attend and to provide comments in person before the committee. If you wish to provide comments virtually during the open forum, you will need to register <a href="https://calstate.zoom.us/meeting/register/tZ0scOuspzsvE9SRtga8cNa0mllGN0-WnXXe#/registration">
+          in advance here</a>. The registration deadline for virtual participation is <strong>noon on Tuesday, Oct.
+          8</strong>. Confirmed registrants will receive details about how to participate.</mj-text>
+        <mj-text>CSU Trustee Leslie Gilbert-Lurie will chair the search committee. The other trustee members who will serve on the committee are Jack B. Clarke, Jr., Chair, Board of Trustees; Trustee Larry L. Adamson; Trustee Lillian Kimbell, and Trustee Anna Ortiz-Morfit. CSU Chancellor Mildred García and Soraya M. Coley, President of Cal Poly Pomona, will represent the CSU on the committee. </mj-text>
+
+        <mj-text>In addition, the CSU Board of Trustees has appointed a Search Advisory Committee composed of Cal Poly Humboldt faculty, staff, student, and alumni representatives, as well as members of our North Coast community. The Search Advisory Committee will include James Woglom, Chair of the University Senate; Daniel Barton and Marissa Ramsier, faculty representatives; Wysdem Singleton and Mara Kravitz, student representatives; Daniel Sealy, Alumni representative; Carmen Bustos-Works, administration representative; Miles Slattery, community advisory representative; Bella Gray, staff representative; and Betty Chinn and Virgil Moorehead, community representatives. Both committees function as one unified group.</mj-text>
+        <mj-text>Over the next several months, the committee will review candidates and conduct interviews, with the announcement of Cal Poly Humboldt’s next president made during the Board of Trustees meeting in March of 2025.</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
