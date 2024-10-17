@@ -38,10 +38,12 @@
         <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend! <br>October 17–20</mj-text>
         <mj-text>Lumberjack Weekend is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.
         </mj-text>
-        <mj-text><strong>Online registration is now closed but attendees can still register in person at the Check-In times and locations below.</strong>. Students, staff and faculty have the option to register for free or for a fee with a t-shirt. Space is limited so be sure to register ASAP!</mj-text>
+        <mj-text><strong>Online registration is now closed but attendees can still register in person at the Check-In
+          times and locations below</strong>. Students, staff, and faculty have the option to register for free or for a fee with a t-shirt. Wristbands and pre-purchased Lumberjack Weekend t-shirts will be available for pick up at Check-In. Please be sure to check in as early as possible in the week so you don't have to wait in lines.</mj-text>
+
 
         <mj-text padding-bottom="0">
-          <strong>Check-In times and locations:</strong></mj-text>
+          <strong>Check-In times and locations</strong></mj-text>
         <mj-text padding-top="0">
           <ul>
             <li>Thursday, Oct. 17 | 9 a.m. - 4 p.m. | University Quad
