@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            October 28, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>I am excited to share with you an important development that marks a transformational moment for our California State University system. As of September, we have launched our system-wide strategic plan, aimed at positioning the CSU for long-term impact, success, and sustainability. This initiative reflects our commitment to serve America’s new majority—first-generation students, students of color, low-income students, and adults seeking a brighter future.</mj-text>
+        <mj-text><strong>What’s in Store?</strong></mj-text>
+        <mj-text>Over the next year, we will engage in a comprehensive, inclusive planning process that will shape our collective future. This strategic plan is not just a document; it’s a roadmap that will guide us through the challenges ahead, ensuring we prioritize our unique campus needs while aligning with our overarching vision.</mj-text>
+        <mj-text>As Chancellor García stated, “Together, we can reimagine the CSU’s future and chart a bold and innovative path forward.” Your voices are vital in this journey.</mj-text>
+
+        <mj-text><strong>Get Involved!</strong></mj-text>
+        <mj-text>We want you to be an active participant in this process. Here are a few ways you can engage:</mj-text>
+        <mj-text>
+          <ol>
+            <li><strong>Attend a Town Hall</strong>: Join us in November and December <a href="https://www.calstate.edu/Strategic-Planning-for-the-CSU/Pages/attend-a-town-hall.aspx">for discussions on the strategic plan</a>. Your insights are invaluable.</li>
+            <li><strong>Submit Your Questions and Comments</strong>: We value your input! Share your thoughts and questions via this <a href="https://urldefense.com/v3/__https:/forms.gle/4bu9RuHHZgiUbZDi7__;!!MWueTNF2!WfvuKiIExkHRt2uF5PiOi5MvblSGTCKACP_L3-gjxAN4_bGhTbwUWtGyL9daUSzh7jqu9AfCREQgcb3tNRLBhNa4qA$">
+              contact form</a>.</li>
+            <li><strong>Stay Informed</strong>: Regular updates will be provided through the <a href="https://www.calstate.edu/strategic-planning">strategic plan
+              website</a>, ensuring you have access to resources and engagement opportunities.</li>
+          </ol>
+        </mj-text>
+        <mj-text>This strategic plan is not only a response to our current realities but also an opportunity for us to lead the way in higher education. Let’s work together to build a brighter future for our students and communities.</mj-text>
+        <mj-text>Thank you for your commitment and enthusiasm as we embark on this important journey.</mj-text>
+        <mj-text>
+          Sincerely,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
