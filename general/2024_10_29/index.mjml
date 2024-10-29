@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Empowerment through Inclusivity, Transparency, Communication</mj-title>
+    <mj-title>Empowerment through Inclusivity, Transparency, and Communication</mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -63,7 +63,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             October 29, 2024</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            Empowerment through Inclusivity, Transparency, Communication
+            Empowerment through Inclusivity, Transparency, and Communication
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -73,7 +73,7 @@
       <mj-column>
         <mj-text>Over the last few weeks, members of our campus community have raised concerns about their personal safety, acts of discrimination, and feelings of bias. </mj-text>
         <mj-text>Let me be clear on this point: hatred or discrimination in any form is antithetical to our core values.  We unequivocally condemn acts of bigotry, violence, threats, or behaviors that harm our fellow human beings and tear at the bonds of this community that we share. This includes verbal or physical attacks on anyone based on their religious identity, ethnicity, gender, cultural practices, or political views. While the University can direct resources and support to harmed individuals, it takes all of us to reinforce our vision of a community where such acts are prevented.</mj-text>
-        <mj-text>I believe that Humboldt is a unique place of intellectual and personal growth, of dreams and aspirations. Indispensable to all of that—and at the very heart of our educational purpose—is exposure to ideas and different viewpoints, different philosophical perspectives, many of which challenge our own assumptions, opinions, and beliefs.  Ideas can and should be challenged and vigorously debated.  Disagreement is expected, if there is to be intellectual growth and a full flowering of our community’s potential to enrich the lives of its members. But what can never happen is the vilification and dehumanization of those with whom we might disagree. </mj-text>
+        <mj-text>I believe that Humboldt is a unique place of intellectual and personal growth, of dreams and aspirations. Indispensable to all of that—and at the very heart of our educational purpose—is exposure to ideas and different viewpoints, different philosophical perspectives, many of which challenge our own assumptions, opinions, and beliefs.  Ideas can and should be challenged and vigorously debated.  Disagreement is expected if there is to be intellectual growth and a full flowering of our community’s potential to enrich the lives of its members. But what can never happen is the vilification and dehumanization of those with whom we might disagree. </mj-text>
         <mj-text>We have work to do as a community to fulfill our potential. Some of that work is in progress, while much else remains to be done. To those who have expressed the need for more inclusive decision-making processes, we hear you. Over the last few weeks, we have been leaning on the collective expertise of our campus community, empowering students, faculty, and staff to help us reflect on and learn from the past and to build a safer, more supportive environment.
         </mj-text>
         <mj-text padding-bottom="0">Some of those efforts and initiatives include:</mj-text>
@@ -102,7 +102,7 @@
             </li>
           </ul>
         </mj-text>
-        <mj-text padding-top="0">I’m encouraged by the discussions that have been happening at all levels across campus since the summer.  I know these conversations have been rigorous, challenging and, at times, emotional, but the fact is, we are talking. That shows me how much our campus community cares about not only each other but also the educational purpose of Cal Poly Humboldt. In the end, our success as a community must be the result of action by our community and for our community.
+        <mj-text padding-top="0">I’m encouraged by the discussions that have been happening at all levels across campus since the summer.  I know these conversations have been rigorous, challenging and, at times, emotional, but the fact is, we are talking. That shows me how much our campus community cares about not only each other but also the educational purpose of Cal Poly Humboldt. In the end, our success as a community must be the result of action <em>by</em> our community and <em>for</em> our community.
         </mj-text>
 
         <mj-text>
