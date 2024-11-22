@@ -1,0 +1,112 @@
+
+      
+      
+               
+<mjml>
+  <mj-head>
+    <mj-title>Leadership Transition Updates</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#98b8ad">
+    <mj-section padding="40px 0 0">	
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+    <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2024-holiday-invite/plaid.png"
+              background-size="cover"
+              background-repeat="no-repeat">
+        <mj-column padding="30px 0">
+
+         <mj-image src="https://mailings.humboldt.edu/president/2024-holiday-invite/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0 0 0 25px" width="180px" align="left" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            November 22, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            You’re Invited: Faculty and Staff Holiday Party
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Colleagues,</mj-text>
+        <mj-text>
+          It’s that time of year to come together and celebrate all we’ve accomplished! I’m excited to invite you to the <strong>Faculty and Staff Holiday Party</strong>, which will be held on <strong>Thursday, December 12, from 4–7 p.m. at Baywood Golf & Country Club</strong>.
+        </mj-text>
+        <mj-text>
+          You are encouraged to join the celebration, and employees will not need to use their leave balances for time away during normal working hours. If you plan to attend, please coordinate with your appropriate administrator to ensure coverage for essential campus operations.
+        </mj-text>
+        <mj-text>
+          I look forward to celebrating the season with all of you and sharing in the joy and camaraderie that makes Cal Poly Humboldt such a special community. Let’s close out the year together with great company, festive cheer, and a shared sense of pride in all we’ve achieved.
+        </mj-text>
+
+        <mj-text>
+          Warmly,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/president/2024-holiday-invite/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2024-holiday-invite/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
+
