@@ -79,30 +79,32 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-      <mj-text padding="25px">
-           To assist with preparations for this event, RSVP's are strongly encouraged.
-        This information will be used to determine catering, event layout, and more!
-          </mj-text>
+      
           
-          <mj-text font-size="28px" line-height="32px" font-weight="">
+          <mj-text font-size="28px" line-height="32px">
           Event Details
           </mj-text>
           <mj-text padding="0 0 15px">
             Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
           </mj-text>
-          <mj-text font-weight="bold" padding="0 25px">
+           <mj-text font-weight="bold" padding="0 25px">
             Thursday, December 12<br />4–7 p.m.
           </mj-text>
            
-          <mj-text padding-top="10px" padding-bottom="10px">We hope you can join us!</mj-text>
+         
+        <mj-text padding="25px">
+           To assist with preparations for this event, RSVP's are strongly encouraged.
+        This information will be used to determine catering, event layout, and more!
+          </mj-text>
        <mj-divider border-color="#F2A900" padding="10px 60px" />
         
           <mj-text font-size="20px" font-weight="bold">
             Please RSVP by Wednesday, December 5.
           </mj-text>
-            <mj-button padding="15px 0 20px" href="https://forms.gle/94oY6tDrJFzb7Cyf7">Submit your RSVP  </mj-button>
         
+            <mj-button padding="15px 0 20px" href="https://docs.google.com/forms/d/e/1FAIpQLSfJJRYBgt2qMVHP1mgF3S8rmq4nsZT75mEU7bqW67zz7WSi3A/viewform?usp=sf_link">Submit your RSVP  </mj-button>
         
+         <mj-text padding-top="10px" padding-bottom="0">We hope you can join us!</mj-text>
 
       </mj-column>
 
