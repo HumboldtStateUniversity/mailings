@@ -81,7 +81,7 @@
       <mj-column>
       
           
-          <mj-text font-size="28px" line-height="32px" font-weight="">
+          <mj-text font-size="28px" line-height="32px">
           Event Details
           </mj-text>
           <mj-text padding="0 0 15px">
