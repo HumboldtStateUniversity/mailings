@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-title>Join the Conversation: CSU Strategic Plan Updates and Engagement Opportunities</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            December 3, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Join the Conversation: CSU Strategic Plan Updates and Engagement Opportunities          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Colleagues,</mj-text>
+          <mj-text>Dear Lumberjacks,</mj-text>
+        <mj-text>We are excited to continue the dialogue around the system-wide <a href="https://www.calstate.edu/Strategic-Planning-for-the-CSU/Pages/default.aspx">CSU Strategic Plan</a>, which is central to shaping the future of our university system. This collective effort depends on your input, creativity, and collaboration.</mj-text>
+        <mj-text><strong>Upcoming Town Halls: December 4, 5, and 6</strong><br>
+          I encourage you to participate in one of the three remaining virtual town halls. These sessions offer a valuable space to share your ideas and hear from others across the CSU. <a href="https://www.calstate.edu/Strategic-Planning-for-the-CSU/Pages/attend-a-town-hall.aspx">
+            Register here</a>. </mj-text>
+        <mj-text><strong>Explore Our Engagement Platform</strong><br>
+          To ensure everyone has a chance to contribute, we’ve launched an ongoing engagement platform available at <a href="https://csustrategicplan.mysocialpinpoint.com/">
+            csustrategicplan.mysocialpinpoint.com</a>. This platform allows you to:</mj-text>
+        <mj-text padding-top="0"  padding-bottom="0"><ul>
+          <li>Share your thoughts and feedback on the CSU’s strategic direction.</li>
+          <li>Interact and connect with other CSU stakeholders</li>
+          <li>Suggest documents or resources to inform the plan’s development.</li>
+        </ul></mj-text>
+        <mj-text padding-top="0">In particular, I encourage you to contribute to the social map for <strong>Regional Specialties</strong>: Highlight the unique strengths and characteristics of Cal Poly Humboldt and our surrounding community.</mj-text>
+        <mj-text><strong>Contribute, Share, and Revisit Often</strong><br>
+          We invite you to explore the engagement platform, add your insights, and share it widely with your colleagues, classmates, and friends. The platform is dynamic, with new content and opportunities for engagement added regularly—so be sure to check back often.</mj-text>
+        <mj-text>Thank you for your commitment to this important process. Together, we will create a strategic plan that drives success for our students, campuses, and communities across California.</mj-text>
+s
+        <mj-text>
+          Sincerely,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
