@@ -58,7 +58,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
-            A Message from Cal Poly Humboldt
+            A Message from the President
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             December 3, 2024</p>
@@ -70,7 +70,6 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text>Dear Colleagues,</mj-text>
           <mj-text>Dear Lumberjacks,</mj-text>
         <mj-text>We are excited to continue the dialogue around the system-wide <a href="https://www.calstate.edu/Strategic-Planning-for-the-CSU/Pages/default.aspx">CSU Strategic Plan</a>, which is central to shaping the future of our university system. This collective effort depends on your input, creativity, and collaboration.</mj-text>
         <mj-text><strong>Upcoming Town Halls: December 4, 5, and 6</strong><br>
