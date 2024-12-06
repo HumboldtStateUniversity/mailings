@@ -1,0 +1,115 @@
+<mjml>
+  <mj-head>
+    <mj-title>Prepare for Future Earthquakes and Tsunamis</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:16px;
+      }
+      ol {
+      margin-bottom: 0px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            December 6, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Prepare for Future Earthquakes and Tsunamis    </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+          <mj-text>Yesterday’s earthquake is a crucial reminder of the importance of being prepared for natural disasters, specifically earthquakes and tsunamis. As we know, California—Humboldt County, in particular—is susceptible to seismic activity, and having a plan in place can make all the difference.</mj-text>
+        <mj-text>Here are some key points to keep in mind:</mj-text>
+        <mj-text>
+          <ol>
+            <li><strong>Drop, Cover, and Hold On: </strong>During an earthquake, remember to stop what you’re doing <a href="https://www.shakeout.org/dropcoverholdon/">and drop, cover, and hold on</a>. Drop to your hands and knees, and cover your head and neck with your arms. If there is a sturdy table or desk nearby, crawl underneath it for shelter and hold on until the shaking stops. Be prepared for potential aftershocks.</li>
+            <li><strong>Tsunami Warnings: </strong>Strong earthquakes may generate a tsunami. Ground shaking, a loud ocean roar, or the water receding unusually far exposing the sea floor are all nature’s warnings that a tsunami may be coming. If you’re at the beach or near the bay and observe any of these warning signs, immediately walk to higher ground or inland. Stay away from coastal areas until officials permit you to return.
+<br />
+You may not feel a large earthquake from far away. Based on earthquake size and location, the National Tsunami Warning Center will issue alerts corresponding to the relative tsunami threat. Follow the directions of emergency personnel who may ask you to evacuate low-lying coastal areas.
+</li>
+            <li><strong>Earthquake Preparedness: </strong>Now is the time to take the steps to prepare for future earthquakes. Here are some steps to take: 
+            </li>
+              <ol>
+                <li>Secure your living space by identifying hazards and securing large, moveable items like bookshelves.</li>
+              <li>Create an emergency plan and decide how you will communicate with your family or roommates.</li>
+              <li>Assemble a “Go-Bag” filled with emergency items such as medications, first aid kit, spare eyeglasses or contact lenses and cleaning solution, bottled water, enough food for a few days, personal hygiene supplies, sturdy shoes, emergency cash, road maps, and important documents. Keep it in an easily accessible location in case you need to evacuate. 
+</li>
+              </ol>
+              
+            <li><strong>Tsunami Preparedness: </strong>Understand the tsunami risks in your area, find <a href="https://maps.conservation.ca.gov/cgs/informationwarehouse/ts_evacuation/">inundation maps</a>, determine if you reside in a tsunami hazard zone, and prepare an evacuation plan. Check out the <a href="https://rctwg.humboldt.edu/tsunami-hazard-maps">Redwood Coast Tsunami Work Group</a> as a tsunami preparedness resource.  
+</li>
+            <li><strong>Stay Informed: </strong>Follow trusted sources such as the <a href="https://humboldtgov.org/356/Office-of-Emergency-Services">Humboldt Office of Emergency Services (OES)</a>, the <a href="https://www.usgs.gov/programs/earthquake-hazards">U.S. Geological Survey (USGS)</a>, and the <a href="https://tsunami.gov/">National Tsunami Warning Center</a> for updates and alerts. Sign up for emergency notifications through <a href="https://humboldtgov.org/2014/Emergency-Notifications">Humboldt ALERT</a>, Humboldt County’s public alert and warning system. And ensure your contact information is current on MyHumboldt to receive campus notifications. From the MyHumboldt homepage, go to “Tools,” then “Account Settings,” and select “My Profile” to update any phone numbers and email addresses.</li>
+          </ol></mj-text>
+          <mj-text>Preparedness is key to keeping you and your community safe.</mj-text>
+        <mj-text>We know events like these can be distressing and bring up personal concerns. Psychological support services are available for students through <a href="https://counseling.humboldt.edu/">Counseling & Psychological Services</a>, and via telehealth at <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare</a> (for both immediate and scheduled care). If you have not yet registered for telehealth through TimelyCare, you may register at <a href="http://timelycare.com/calpolyhumboldt">timelycare.com/calpolyhumboldt</a> with your name and your university email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop.
+</mj-text>
+            <mj-text>Psychological support services are available for faculty and staff through the Employee Assistance Program, which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.</mj-text>
+        
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
