@@ -74,16 +74,17 @@
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
           <mj-text>Yesterday’s earthquake is a crucial reminder of the importance of being prepared for natural disasters, specifically earthquakes and tsunamis. As we know, California—Humboldt County, in particular—is susceptible to seismic activity, and having a plan in place can make all the difference.</mj-text>
-        <mj-text>Here are some key points to keep in mind:</mj-text>
-        <mj-text>
-          <ol>
-            <li><strong>Drop, Cover, and Hold On: </strong>During an earthquake, remember to stop what you’re doing <a href="https://www.shakeout.org/dropcoverholdon/">and drop, cover, and hold on</a>. Drop to your hands and knees, and cover your head and neck with your arms. If there is a sturdy table or desk nearby, crawl underneath it for shelter and hold on until the shaking stops. Be prepared for potential aftershocks.</li>
-            <li><strong>Tsunami Warnings: </strong>Strong earthquakes may generate a tsunami. Ground shaking, a loud ocean roar, or the water receding unusually far exposing the sea floor are all nature’s warnings that a tsunami may be coming. If you’re at the beach or near the bay and observe any of these warning signs, immediately walk to higher ground or inland. Stay away from coastal areas until officials permit you to return.
-<br />
+         <mj-text>Preparedness is key to keeping you and your community safe. Here are some key points to keep in mind:</mj-text>
+          <mj-text><strong>Drop, Cover, and Hold On </strong><br />During an earthquake, remember to stop what you’re doing <a href="https://www.shakeout.org/dropcoverholdon/">and drop, cover, and hold on</a>. Drop to your hands and knees, and cover your head and neck with your arms. If there is a sturdy table or desk nearby, crawl underneath it for shelter and hold on until the shaking stops. Be prepared for potential aftershocks.</mj-text>
+          
+          <mj-text><strong>Tsunami Warnings </strong><br />Strong earthquakes may generate a tsunami. Ground shaking, a loud ocean roar, or the water receding unusually far exposing the sea floor are all nature’s warnings that a tsunami may be coming. If you’re at the beach or near the bay and observe any of these warning signs, immediately walk to higher ground or inland.
+</mj-text>
+          <mj-text>
 You may not feel a large earthquake from far away. Based on earthquake size and location, the National Tsunami Warning Center will issue alerts corresponding to the relative tsunami threat. Follow the directions of emergency personnel who may ask you to evacuate low-lying coastal areas.
-</li>
-            <li><strong>Earthquake Preparedness: </strong>Now is the time to take the steps to prepare for future earthquakes. Here are some steps to take: 
-            </li>
+</mj-text>
+          <mj-text><strong>Earthquake Preparedness </strong><br />Now is the time to take the steps to prepare for future earthquakes. Here are some steps to take: 
+</mj-text>
+          <mj-text>
               <ol>
                 <li>Secure your living space by identifying hazards and securing large, moveable items like bookshelves.</li>
               <li>Create an emergency plan and decide how you will communicate with your family or roommates.</li>
@@ -91,14 +92,13 @@ You may not feel a large earthquake from far away. Based on earthquake size and 
 </li>
               </ol>
               
-            <li><strong>Tsunami Preparedness: </strong>Understand the tsunami risks in your area, find <a href="https://maps.conservation.ca.gov/cgs/informationwarehouse/ts_evacuation/">inundation maps</a>, determine if you reside in a tsunami hazard zone, and prepare an evacuation plan. Check out the <a href="https://rctwg.humboldt.edu/tsunami-hazard-maps">Redwood Coast Tsunami Work Group</a> as a tsunami preparedness resource.  
-</li>
-            <li><strong>Stay Informed: </strong>Follow trusted sources such as the <a href="https://humboldtgov.org/356/Office-of-Emergency-Services">Humboldt Office of Emergency Services (OES)</a>, the <a href="https://www.usgs.gov/programs/earthquake-hazards">U.S. Geological Survey (USGS)</a>, and the <a href="https://tsunami.gov/">National Tsunami Warning Center</a> for updates and alerts. Sign up for emergency notifications through <a href="https://humboldtgov.org/2014/Emergency-Notifications">Humboldt ALERT</a>, Humboldt County’s public alert and warning system. And ensure your contact information is current on MyHumboldt to receive campus notifications. From the MyHumboldt homepage, go to “Tools,” then “Account Settings,” and select “My Profile” to update any phone numbers and email addresses.</li>
-          </ol></mj-text>
-          <mj-text>Preparedness is key to keeping you and your community safe.</mj-text>
-        <mj-text>We know events like these can be distressing and bring up personal concerns. Psychological support services are available for students through <a href="https://counseling.humboldt.edu/">Counseling & Psychological Services</a>, and via telehealth at <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare</a> (for both immediate and scheduled care). If you have not yet registered for telehealth through TimelyCare, you may register at <a href="http://timelycare.com/calpolyhumboldt">timelycare.com/calpolyhumboldt</a> with your name and your university email address. This will enable you to schedule visits (including a “TalkNow” session) from any web-enabled device, smartphone, laptop, or desktop.
+         </mj-text>
+          <mj-text padding="0px 25px 16px 25px "><strong>Tsunami Preparedness </strong><br />Understand the tsunami risks in your area, find <a href="https://maps.conservation.ca.gov/cgs/informationwarehouse/ts_evacuation/">inundation maps</a>, determine if you reside in a tsunami hazard zone, and prepare an evacuation plan. Check out the <a href="https://rctwg.humboldt.edu/tsunami-hazard-maps">Redwood Coast Tsunami Work Group</a> as a tsunami preparedness resource.  
 </mj-text>
-            <mj-text>Psychological support services are available for faculty and staff through the <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Employee Assistance Program</a>, which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.</mj-text>
+          <mj-text><strong>Stay Informed </strong><br />Follow trusted sources such as the <a href="https://humboldtgov.org/356/Office-of-Emergency-Services">Humboldt Office of Emergency Services (OES)</a>, the <a href="https://www.usgs.gov/programs/earthquake-hazards">U.S. Geological Survey (USGS)</a>, and the <a href="https://tsunami.gov/">National Tsunami Warning Center</a> for updates and alerts. <br /><br />Sign up for emergency notifications through <a href="https://humboldtgov.org/2014/Emergency-Notifications">Humboldt ALERT</a>, Humboldt County’s public alert and warning system. And ensure your contact information is current on MyHumboldt to receive campus notifications. From the MyHumboldt homepage, go to “Tools,” then “Account Settings,” and select “My Profile” to update any phone numbers and email addresses.
+        </mj-text>
+         
+ 
         
 
       </mj-column>
