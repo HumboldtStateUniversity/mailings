@@ -26,6 +26,7 @@
         padding-bottom:16px;
       }
       ol {
+      margin-top: 0px;
       margin-bottom: 0px;
       }
 
@@ -82,7 +83,7 @@
           <mj-text>
 You may not feel a large earthquake from far away. Based on earthquake size and location, the National Tsunami Warning Center will issue alerts corresponding to the relative tsunami threat. Follow the directions of emergency personnel who may ask you to evacuate low-lying coastal areas.
 </mj-text>
-          <mj-text><strong>Earthquake Preparedness </strong><br />Now is the time to take the steps to prepare for future earthquakes. Here are some steps to take: 
+          <mj-text><strong>Earthquake Preparedness </strong><br />Now is the time to take the steps to prepare for future earthquakes:
 </mj-text>
           <mj-text>
               <ol>
