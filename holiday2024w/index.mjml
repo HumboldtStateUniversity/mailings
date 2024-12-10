@@ -26,9 +26,9 @@
       </mj-style>
     </mj-head>
     <mj-body background-color="#98B8AD">
-      
+
      <mj-section>
-      
+
       </mj-section>
       <mj-section >
         <mj-column padding="0">
@@ -40,19 +40,19 @@
                 <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024w/studentsDog.jpg" alt="Image of students and a Golden Retriever"/>
             </mj-column>
         </mj-section>
-        <mj-section background-color="#f4f3e7" padding="0">
+        <mj-section background-color="#ffffff" padding="20px 0">
             <mj-column>
-                <mj-text align="center">As we look ahead to the New Year, students get into the holiday spirit by sharing their warmest, fuzziest thoughts with warm and fuzzy friends.
+                <mj-text align="center" font-size="16px" line-height="1.4">As we look ahead to the New Year, students get into the holiday spirit by sharing their warmest, fuzziest thoughts with warm and fuzzy friends.
                 </mj-text>
-                <mj-text align="center"> Here’s to spreading kindness, lifting each other up, and making the world a little brighter for everyone. 
+                <mj-text align="center" font-size="16px" line-height="1.4"> Here’s to spreading kindness, lifting each other up, and making the world a little brighter for everyone. 
                 </mj-text>
-                <mj-text align="center">Wishing you a joyful and uplifting 2025!</mj-text>
-                <mj-button padding="20px 0 0" href="">
+                <mj-text align="center" font-size="16px" line-height="1.4">Wishing you a joyful and uplifting 2025!</mj-text>
+                <mj-button padding="20px 0 20px" href="" font-size="16px">
                     Unleash some holiday cheer
                 </mj-button>
             </mj-column>
         </mj-section>
-        <mj-section padding="0">
+        <mj-section padding="0" background-color="#ffffff">
             <mj-column>
                 <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024w/footerH.jpg" alt="H." padding-top="0"/>
             </mj-column>
