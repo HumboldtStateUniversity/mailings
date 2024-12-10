@@ -98,7 +98,7 @@
         <mj-text padding="0 35px 10px">
            In the spirit of giving, Oh SNAP! is seeking donations. Students are specifically in need of hygiene items.</mj-text>
        
-        <mj-text padding="0 25px 0" >Location: Rec & Wellness Center, Room 122 and 123 <br />Hours: M-F 10-4 p.m. or call <a href="tel: 17078265228">(707) 826-5228</a> for pick up</mj-text>
+        <mj-text padding="0 25px 0" >Location: Recreation & Wellness Center, Room 122 and 123 <br />Hours: M-F 10-4 p.m. or call <a href="tel: 17078265228">(707) 826-5228</a> for pick up</mj-text>
         <mj-text>Oh SNAP! also accepts cash donations through the Cal Poly Humboldt Foundation.
           </mj-text>
          <mj-button padding="0 25px 20px" href="https://giving.humboldt.edu/oh-snap-student-food-program">Oh SNAP! Cash Donation</mj-button>
