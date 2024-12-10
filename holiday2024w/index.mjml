@@ -1,6 +1,6 @@
   <mjml>
     <mj-head>
-      <mj-title>Happy Holidays from Cal Poly Humboldt</mj-title>
+      <mj-title>Happy Holidays from Cal Poly Humboldt!</mj-title>
       <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
       <mj-attributes>
         <mj-text font-family="poppins, Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -32,7 +32,7 @@
       </mj-section>
       <mj-section >
         <mj-column padding="0">
-          <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024w/happyHolidays.jpg" alt="Happy Holidays from Cal Poly Humboldt" align="left" width="600px" />
+          <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2024w/happyHolidays.jpg" alt="Happy Holidays from Cal Poly Humboldt!" align="left" width="600px" />
         </mj-column>
       </mj-section>
         <mj-section padding="0">
@@ -47,7 +47,7 @@
                 <mj-text align="center" font-size="16px" line-height="1.4"> Here’s to spreading kindness, lifting each other up, and making the world a little brighter for everyone. 
                 </mj-text>
                 <mj-text align="center" font-size="16px" line-height="1.4">Wishing you a joyful and uplifting 2025!</mj-text>
-                <mj-button padding="20px 0 20px" href="" font-size="16px">
+                <mj-button padding="20px 0 20px" href="#" font-size="16px">
                     Unleash some holiday cheer
                 </mj-button>
             </mj-column>
