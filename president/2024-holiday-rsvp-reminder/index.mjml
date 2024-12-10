@@ -1,0 +1,127 @@
+
+      
+      
+               
+<mjml>
+  <mj-head>
+    <mj-title>RSVP for the Faculty and Staff Holiday Party</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="15px" border-radius="0" />
+      <mj-button background-color="#004C46" color="#FFF"font-size="14px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+       <mj-text padding="15px 25px" font-family="poppins, Arial, sans-serif" align="center" font-size="16px" color="#004C46" line-height="22px" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #F5F3E7;
+      }
+
+      .white-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#98b8ad">
+    <mj-section padding="40px 0 0">	
+        <mj-column>
+          
+        </mj-column>
+      </mj-section>
+    <mj-section padding="0" background-url="https://mailings.humboldt.edu/president/2024-holiday-invite/plaid.png"
+              background-size="cover"
+              background-repeat="no-repeat">
+        <mj-column padding="30px 0">
+
+         <mj-image src="https://mailings.humboldt.edu/president/2024-holiday-invite/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="0" width="180px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+    
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+      
+          <mj-text font-size="28px" line-height="36px"font-weight="bold">
+        
+           Faculty & Staff Holiday Party
+      
+        </mj-text>
+          <mj-text font-size="28px" line-height="36px">
+          Thursday, December 12<br />4–7 p.m.
+          </mj-text>
+          <mj-text padding="0 0 15px">
+            Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
+          </mj-text>
+           <mj-text padding="10px 25px">Parking at Baywood is limited; carpooling from campus to the event is very strongly encouraged.
+
+</mj-text>
+        <mj-text >
+            If you haven't already, please RSVP if you plan to attend.
+          </mj-text>
+        
+            <mj-button padding="15px 0 20px" href="https://docs.google.com/forms/d/e/1FAIpQLSfJJRYBgt2qMVHP1mgF3S8rmq4nsZT75mEU7bqW67zz7WSi3A/viewform?usp=sf_link">Submit your RSVP</mj-button>
+        <mj-divider border-color="#F2A900" padding="10px 60px" />   
+  
+        <mj-text font-size="20px" line-height="36px">
+          Holiday Donations
+          </mj-text>
+        <mj-text padding="0 35px 10px">
+           In the spirit of giving, <strong>Oh SNAP!</strong> is seeking donations. Students are specifically in need of hygiene items.</mj-text>
+        <mj-text font-size="20px" line-height="24px">
+        Donation Drop-off Location and Hours
+        </mj-text>
+        
+        <mj-text padding="0 25px 0" >Rec & Wellness Center, Room 122/123 <br />Drop-off Hours are M-F 10-4 p.m., or call 707-826-5228 for pick up.</mj-text>
+        <mj-text>Oh SNAP! also accepts cash donations throuh the Cal Poly Humboldt Foundation.
+          </mj-text>
+         <mj-button padding="0 25px 20px" href="https://giving.humboldt.edu/oh-snap-student-food-program">Oh SNAP! Cash Donation</mj-button>
+        
+       
+ 
+        <mj-divider border-color="#F2A900" padding="10px 60px" />  
+        
+   
+        <mj-text font-size="14px" padding="20px 25px 0"><em>Please note, employees are encouraged by administration to attend this event and will not be required to use their leave balances to cover time away during normal working hours. Employees should work with their appropriate administrators to ensure coverage for required campus operations.</em></mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2024-holiday-invite/footer.png" alt="footer with diamond h and decorations" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
+
