@@ -82,7 +82,7 @@
           <mj-text padding="0 0 15px">
             Baywood Golf & Country Club<br /><a href="https://maps.app.goo.gl/4t8nvYiGkjvyJctb9">3600 Buttermilk Lane, Arcata</a>
           </mj-text>
-           <mj-text padding="10px 25px">Parking at Baywood is limited; carpooling from campus to the event is very strongly encouraged.
+           <mj-text padding="10px 25px" font-weight="bold">Parking at Baywood is limited; carpooling from campus to the event is very strongly encouraged.
 
 </mj-text>
         <mj-text >
@@ -96,12 +96,9 @@
           Holiday Donations
           </mj-text>
         <mj-text padding="0 35px 10px">
-           In the spirit of giving, <strong>Oh SNAP!</strong> is seeking donations. Students are specifically in need of hygiene items.</mj-text>
-        <mj-text font-size="20px" line-height="24px">
-        Donation Drop-off Location and Hours
-        </mj-text>
-        
-        <mj-text padding="0 25px 0" >Rec & Wellness Center, Room 122/123 <br />Drop-off Hours are M-F 10-4 p.m., or call 707-826-5228 for pick up.</mj-text>
+           In the spirit of giving, Oh SNAP! is seeking donations. Students are specifically in need of hygiene items.</mj-text>
+       
+        <mj-text padding="0 25px 0" >Location: Rec & Wellness Center, Room 122/123 <br />Hours: M-F 10-4 p.m., or call 707-826-5228 for pick up.</mj-text>
         <mj-text>Oh SNAP! also accepts cash donations throuh the Cal Poly Humboldt Foundation.
           </mj-text>
          <mj-button padding="0 25px 20px" href="https://giving.humboldt.edu/oh-snap-student-food-program">Oh SNAP! Cash Donation</mj-button>
