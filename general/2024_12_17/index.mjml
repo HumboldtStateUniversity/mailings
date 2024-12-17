@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+    <mj-title>Budget Planning for FY 2025-2026</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            December 17, 2024</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Budget Planning for FY 2025-2026</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+          <mj-text>Dear Colleagues,</mj-text>
+        <mj-text>As we enter the final days of our fall semester and look toward the excitement of Commencement and the holidays, we also are looking ahead to next year and the work we will be doing together on our budget for 2025-26.
+        </mj-text>
+        <mj-text>We already understand the hard truths: state funding reductions, increasing University costs, and enrollment challenges will negatively impact The California State University and Cal Poly Humboldt in even deeper ways next year. 
+</mj-text>
+        <mj-text>As a system and a University, we will advocate strongly and together to urge the State to continue to prioritize investment in the CSU. At the same time, we face the difficult charge of planning for various scenarios, including potential budget reductions ranging from 5% to 9%. Watch the <a href="https://www.humboldt.edu/budget">Budget Office website</a> for more information and details on the various planning scenarios. 
+</mj-text>
+        <mj-text>I’m grateful to the University Resources & Planning Committee (URPC) for beginning this work in earnest to develop a budget recommendation for 2025-26. This work is vital for establishing priorities and guidelines for our budget planning, including how we apply reductions that are strategic and in line with our values and purpose of serving students. It is also crucial for promoting transparency and communication with our campus community.     
+</mj-text>
+        <mj-text>In November, the URPC affirmed its guiding principles for our budget planning and decisions, with a focus on decisions that are data-informed, incorporate an equity lens, promote efficiency, and align with the Purpose, Vision, Core Values, and Beliefs of our University. These principles include: 
+</mj-text>
+        <mj-text padding-top="0"  padding-bottom="0">
+          <ul>
+            <li><strong>Students First:</strong> prioritizing the needs of students and their education
+            </li>
+            <li><strong>Value Personnel:</strong> recognizing and minimizing impacts on employees
+            </li>
+            <li><strong>Financial Resiliency:</strong> balancing the budget to be sustainable into future years 
+            </li>
+            <li><strong>Campus Engagement:</strong> soliciting input from our campus community to make informed decisions  
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding-top="0">The URPC also affirmed planning parameters for budget reductions. These include approaching decisions strategically, requiring all divisions to participate in reductions, supporting each unit’s ability to plan by avoiding mid-year reductions, and timely communication and transparency.
+</mj-text>
+        <mj-text>Finally, times of scarcity also provide an opportunity to clarify our priorities. The URPC has put forward enrollment growth, academic planning, student experience, and essential services as four University priorities for budget allocations. 
+</mj-text>
+
+        <mj-text>The URPC’s work to date truly represents the beginning of our collaboration. Our University Budget Office team and URPC will be co-presenting at budget forums throughout the year to share information, receive input, and engage with our campus community to confront these challenges while continuing to do our very best to serve students. I encourage each of you to attend these forums, bring your ideas, and engage in the budget process so that it represents our entire community. 
+</mj-text>
+        <mj-text>Thank you for your commitment to Cal Poly Humboldt and your partnership in moving our University forward through these challenging times.
+</mj-text>
+        <mj-text>
+          Sincerely,
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
