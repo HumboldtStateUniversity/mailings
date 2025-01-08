@@ -66,13 +66,14 @@
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             January 7, 2025</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Let’s Kick Off the Semester Together!</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">You’re Invited: Spring Welcome Event</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
+        <mj-text font-size="18px"><strong>Let’s Kick Off the Semester Together!</strong></mj-text>
           <mj-text>We are excited to invite you to the Spring Welcome Event on January 15. Join President Spagna and University Leadership as we celebrate past achievements, share key updates, and look ahead to a promising semester.</mj-text>
          <mj-text align="center"><strong>January 15 <br>
            9:00 a.m. <br>
