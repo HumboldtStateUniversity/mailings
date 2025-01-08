@@ -73,13 +73,13 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
-        <mj-text font-size="18px"><strong>Let’s Kick Off the Semester Together!</strong></mj-text>
-          <mj-text>We are excited to invite you to the Spring Welcome Event on January 15. Join President Spagna and University Leadership as we celebrate past achievements, share key updates, and look ahead to a promising semester.</mj-text>
-         <mj-text align="center"><strong>January 15 <br>
+        <mj-text font-size="18px" align="center"><strong>Let’s Kick Off the Semester Together!</strong></mj-text>
+          <mj-text align="center">We are excited to invite you to the Spring Welcome Event on January 15. Join President Spagna and University Leadership as we celebrate past achievements, share key updates, and look ahead to a promising semester.</mj-text>
+         <mj-text font-size="18px" align="center"><strong>Wednesday, January 15 <br>
            9:00 a.m. <br>
-           Van Duzer Theatre</strong>
+           John Van Duzer Theatre</strong>
          </mj-text>
-          <mj-text>Let’s come together to connect, celebrate, and prepare for an exciting new semester. We look forward to seeing you there.</mj-text>
+          <mj-text align="center">Let’s come together to connect, celebrate, and prepare for an exciting new semester. We look forward to seeing you there.</mj-text>
 
       </mj-column>
 
