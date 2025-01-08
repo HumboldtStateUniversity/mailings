@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>Supporting Our Community During the Fires in Los Angeles</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            January 8, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Supporting Our Community During the Fires in Los Angeles</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+          <mj-text>Dear Faculty and Staff,</mj-text>
+        <mj-text>I was awake much of last night checking in on my family and friends who live in the LA area like over 20% of our students do. As my phone continues to send me alerts and warnings throughout the day, my thoughts are with all those impacted by the devastating fires in the Los Angeles area. The ongoing and rapidly changing situation may be deeply concerning or unsettling for some in our Cal Poly Humboldt community, including those with loved ones in the affected areas. As we prepare for the semester, let’s remain mindful of how these challenges may affect our colleagues and students.
+        </mj-text>
+        <mj-text>For students returning to campus from impacted regions, I encourage you to show flexibility at the start of the semester. A kind word or checking in to offer support can make a meaningful difference for students facing these challenges.
+
+</mj-text>
+        <mj-text>For those who may be navigating concerns for loved ones or the broader situation and supporting students, please remember there are resources available to assist:
+</mj-text>
+        <mj-text padding-top="0"  padding-bottom="0">
+          <ul>
+            <li><strong>Counseling & Psychological Services (CAPS):</strong> Students can contact CAPS at <a href="tel:+17078263236">(707) 826-3236</a> or access immediate support through TimelyCare’s “TalkNow” feature, available 24/7.
+            </li>
+          <li><strong>Dean of Students:</strong> For students needing additional resources, contact the Dean of Students office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a> or <a href="tel:+17078263504">(707) 826-3504</a>.
+</li>
+             <li><strong>Employee Assistance Program (EAP):</strong>  Faculty and staff can access confidential support through LifeMatters at <a href="tel:+18003677474">(800) 367-7474</a>, available 24/7.
+</li>
+        </ul></mj-text>
+        <mj-text padding-top="0">While our campus remains open and physically distant from the fires, our community is impacted. These times remind us of the importance of compassion and connection. The strength of our Humboldt community lies in our ability to support one another through moments of uncertainty and challenge. Thank you for all that you do to make this campus a place of care and unity.
+</mj-text>
+        <mj-text><strong>
+          Warmly,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
