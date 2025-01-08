@@ -94,14 +94,14 @@
         <mj-text>
         We are here for you, and we are proud of the resilience and care you bring to this campus every day.
         </mj-text>
-        <mj-text><strong>
+        <mj-text>
           Warmly,
 
         </mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
 
-        <mj-text><strong>Michael E. Spagna, Ph.D. <br>
-          Interim President</strong>
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
         </mj-text>
 
       </mj-column>
