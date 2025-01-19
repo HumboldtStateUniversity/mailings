@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-title>Campus Apartments Inspection and Relocation of Residents</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:16px;
+      }
+      ol {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            January 19, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Campus Apartments Inspection and Relocation of Residents</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community, </mj-text>
+          <mj-text>At the end of the Fall semester, the University was made aware of a potential mold issue in a recently vacated room of Campus Apartments, prompting the University to follow its mold investigation protocol. The results of air sampling, received in recent days, led the University to bring in a professional consultant who performed additional testing throughout the Campus Apartments on Friday, Jan. 17. </mj-text>
+         <mj-text>The consultant identified potential mold conditions, which could pose health concerns for individuals who may be sensitive to mold exposure, and collected samples. While we wait for the sample results, the University is erring on the side of caution and acting on the consultant’s suggestion to move a group of students who live in a section of the building to a different residence hall on campus.  </mj-text>
+          <mj-text>After finalizing room assignments and coordinating logistics for the move, Housing & Residence Life notified the students this morning, providing additional moving information, support, and resources, and has also been communicating with the other residents of Campus Apartments. Please know that we are taking steps to lessen the impacts of this need to relocate while prioritizing student safety.</mj-text>
+        <mj-text>As we all know, Humboldt’s rainy and humid environment makes the area more susceptible to mold than the drier environments that many students are used to. While it’s impossible to eliminate mold spores from indoor spaces, managing moisture and addressing visible mold promptly is key to preventing its growth.</mj-text>
+        <mj-text>All students living in campus housing receive information about cleaning and mold mitigation in their <a href="https://www.humboldt.edu/sites/default/files/housing-reslife/handbook.pdf">
+          ResLife & You Handbook</a>. When students report a concern about mold, Housing & Residence Life and Facilities Management work together to inspect the room and determine whether mold is indeed present. If an inspection reveals a structural or ventilation issue, Housing and Facilities will take prompt action to ensure the health and safety of all students.</mj-text>
+        <mj-text>Campus Apartments residents who are concerned that their health may have been impacted by potential mold exposure can contact Student Health & Wellbeing Services at (707) 826-3146 during <a href="https://wellbeing.humboldt.edu/hours-appointments">
+          available hours</a>. Medical care is also available 24/7 through <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">
+          TimelyCare</a>. </mj-text>
+        <mj-text>If staff or faculty are informed of additional student needs related to the move, feel free to contact the Dean of Students office at <a href="mailto:dos@humboldt.edu">
+          dos@humboldt.edu
+        </a> or (707) 826-3504. When our community comes together to care for each other, we can ensure that needs are addressed swiftly, and that students receive the support they need.</mj-text>
+        <mj-text>We understand that relocating at the beginning of the semester can be frustrating and stressful for our students. At the same time, their health and safety are our top priority, and we’re grateful to members of our campus community who are helping the student residents get settled in quickly and comfortably with as minimal disruption as possible. We will continue to provide updates as we learn more.</mj-text>
+        <mj-text>Sincerely,</mj-text>
+        <mj-text>Chrissy Holliday <br>
+          Vice President for Enrollment Management & Student Affairs
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
