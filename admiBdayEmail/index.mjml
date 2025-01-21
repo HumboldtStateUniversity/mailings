@@ -47,9 +47,9 @@
         </mj-style>
     </mj-head>
     <mj-body>
-        <mj-section padding="0px 0 0">
+        <mj-section>
             <mj-column>
-                <mj-image src="admiBdayHeader.jpg" alt="Happy Birthday from Cal Poly Humboldt" padding="0" />
+                <mj-image src="https://mailings.humboldt.edu/admiBdayEmail/admiBdayHeader.jpg" alt="Happy Birthday from Cal Poly Humboldt" padding="0" />
             </mj-column>
         </mj-section>
         <mj-section css-class="light-wrap" padding-bottom="20px">
@@ -62,7 +62,7 @@
 
         <mj-section padding="0" css-class="dark-wrap">
             <mj-column>
-                <mj-image src="admiBdayFooter.jpg" alt="Diamond H." padding="0" align="center"/>
+                <mj-image src="https://mailings.humboldt.edu/admiBdayEmail/admiBdayFooter.png" alt="Diamond H." padding="0" align="center"/>
             </mj-column>
         </mj-section>
         <mj-section padding-top="10px">
