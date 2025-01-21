@@ -1,0 +1,79 @@
+<mjml>
+    <mj-head>
+        <mj-title>Campus Apartments Inspection and Relocation of Residents</mj-title>
+        <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+        <mj-attributes>
+            <mj-text font-family="Arial, sans-serif" font-size="15px" color="#333" line-height="20px" />
+            <mj-all font-family="Arial" />
+            <mj-section padding="30px 0 0 0" />
+            <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+            <mj-divider border-width="1px" />
+        </mj-attributes>
+        <mj-style inline="inline">
+            h2 {
+                line-height: 28px;
+            }
+
+            a {
+                color: #864e27;
+                text-decoration: underline;
+            }
+
+            a.dark {
+                color: #864e27;
+            }
+            li {
+                padding-bottom:16px;
+            }
+            ol {
+                margin-top: 0px;
+                margin-bottom: 0px;
+            }
+
+            .dark-wrap {
+                background: #004C46;
+                color: #fff;
+            }
+
+            .light-wrap {
+                background: #CDDAD5;
+            }
+
+            @media only screen and (max-width: 420px) {
+                .caption div {
+                    text-align: center !important;
+                }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section padding="0px 0 0">
+            <mj-column>
+                <mj-image src="admiBdayHeader.jpg" alt="Happy Birthday from Cal Poly Humboldt" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section css-class="light-wrap" padding-bottom="20px">
+            <mj-column>
+                <mj-text font-size="18px">From all of us at Cal Poly Humboldt, we wish you a day full of joy and inspiration!</mj-text>
+                <mj-text font-size="18px">Cheers to your next year!</mj-text>
+            </mj-column>
+
+        </mj-section>
+
+        <mj-section padding="0" css-class="dark-wrap">
+            <mj-column>
+                <mj-image src="admiBdayFooter.jpg" alt="Diamond H." padding="0" align="center"/>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px">
+            <mj-column>
+                <mj-text align="center" font-size="14px">
+                    Privacy Policy | Unsubscribe <br>
+                    Cal Poly Humboldt <br>
+                    Copyright © 2022 | All Rights Reserved
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
+
