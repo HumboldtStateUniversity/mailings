@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+    <mj-title>Update: Relocation of Remaining Campus Apartment Residents</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; text-decoration: underline; } a.dark { color: #864e27; } li { padding-bottom:16px; } ol { margin-top: 0px; margin-bottom: 0px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;"> January 25, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Update: Relocation of Remaining Campus Apartment Residents</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+     
+        <mj-text>
+        Dear Campus Community, 
+        </mj-text>
+        
+        <mj-text>
+        As we mentioned in a message sent last Sunday, the University was made aware of a potential mold issue in a recently vacated room of Campus Apartments at the end of the Fall semester. The University brought in a professional consultant who conducted additional testing in a sample of rooms throughout the building on Friday, Jan. 17.  While the University waited for the sampling results, we relocated 27 students living in a section of the building out of an abundance of caution and at the suggestion of the consultant.
+
+        </mj-text>
+        
+        <mj-text>After reviewing test results on Friday, Jan. 24, our consultant recommended that the University relocate the remaining 137 students from Campus Apartments. The University immediately began the process of moving them to different residence halls on campus for the rest of the semester.  After finalizing room assignments and coordinating logistics, Housing & Residence Life notified the remaining students this morning, providing additional moving information, support, and resources. 
+        </mj-text>
+        
+        <mj-text>
+        Campus Apartments will no longer be used for student housing, as the building is scheduled for demolition as soon as the Hinarr Hu Moulik student housing complex is ready for occupancy this summer. 
+ </mj-text>
+        
+        <mj-text>
+We know relocating at the beginning of the semester can be frustrating and stressful for our students. But their health is a priority and we are working to make their transition as smooth as possible. 
+ </mj-text>
+        
+        <mj-text>
+Campus Apartments residents who are concerned their health may have been impacted by potential mold exposure can contact Student Health & Wellbeing Services at (707) 826-3146 during <a href="https://wellbeing.humboldt.edu/hours-appointments">available hours</a>. Medical care is also available 24/7 through <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare</a>. 
+ </mj-text>
+        
+        <mj-text>
+If staff or faculty are informed of additional student needs related to the move, feel free to contact the Dean of Students office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a> or <a href="tel:17078263504">(707) 826-3504</a>. 
+ </mj-text>
+        
+        <mj-text>
+I continue to be proud of the support and care our campus community has shown for our students during this difficult time and am grateful to all who have been part of these efforts to ensure their health and safety. Thank you for your continued patience and understanding. 
+     
+        </mj-text>
+              
+      <mj-text>Sincerely,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/chrissyHolliday_signature.png" alt="Chrissy Holliday signature" width="200px" align="left" />
+        <mj-text>Chrissy Holliday <br>
+          Vice President for Enrollment Management & Student Affairs
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
