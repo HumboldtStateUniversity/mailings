@@ -1,0 +1,99 @@
+<mjml>
+  <mj-head>
+    <mj-title>Federal Grants and Aid to Continue in California Following Office of Management and Budget Directive</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:16px;
+      }
+      ol {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            January 28, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Federal Grants and Aid to Continue in California Following Office of Management and Budget Directive</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Students, Faculty, and Staff:</mj-text>
+          <mj-text>On Monday, Jan. 27, the federal  Office of Management and Budget (OMB), referencing a number of President Trump’s recent Executive Orders, directed an immediate pause on federal grants, aid, and other forms of assistance, pending a review by the federal agencies issuing such aid. </mj-text>
+         <mj-text>News of these potentially sweeping changes is causing considerable anxiety and confusion, and rightly so, for Cal Poly Humboldt’s campus community members, especially our students—a significant number of whom rely on federal funding to pursue their education at Humboldt.</mj-text>
+          <mj-text>This afternoon the California State University submitted a declaration to support the California Attorney General’s participation in a federal lawsuit challenging the directive calling for a pause in federal funding. The lawsuit was filed by a coalition of states, led by the New York Attorney General and joined by California, Illinois, New Jersey, Rhode Island, Massachusetts, and other states.  </mj-text>
+        <mj-text>A federal judge in the District of Columbia today issued a ruling temporarily blocking the implementation of the OMB directive. The stay will be in effect until the court holds a further hearing.  </mj-text>
+        <mj-text>In the meantime,
+          <strong>federal funding of grants and loans, including Pell grants, federal work study or other funding will
+            continue. State aid, such as CalGrants, are unaffected.
+          </strong></mj-text>
+        <mj-text>The University is working closely with the CSU Chancellor’s Office to understand fully what this new directive means for students at Humboldt and across the state. We will provide updates when more definitive information is available.</mj-text>
+
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
