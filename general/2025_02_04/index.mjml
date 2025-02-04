@@ -72,7 +72,7 @@
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
         <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
-        <mj-text>Dear CSU Community,</mj-text>
+        <mj-text>Dear CSU Community Members,</mj-text>
         <mj-text>I am delighted to share with you that this week, at the CSU Board of Trustees meeting, the Office of the Chancellor announced a first-of-its kind public-private initiative to establish the CSU as the nation's first and largest AI-powered public university system to serve its entire community. This initiative will make learning, research, professional development and teaching tools—including ChatGPT—available to all students, faculty and staff across all 23 CSU universities. </mj-text>
 
 <mj-text>We expect that these tools will be available within the next few weeks. In the meantime, I want to share with you some key highlights:</mj-text>
@@ -95,7 +95,8 @@
         <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="" width="200px" align="left"/>
 
         <mj-text>Mildred García, Ed.D. <br>
-          Chancellor</mj-text>
+          Chancellor<br />
+          The California State University</mj-text>
       </mj-column>
 
     </mj-section>
