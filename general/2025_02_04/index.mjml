@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-title>California State University Announces Landmark AI Initiative</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Chancellor's Office
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            February 4, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            California State University Announces Landmark AI Initiative
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
+        <mj-text>Dear CSU Community,</mj-text>
+        <mj-text>I am delighted to share with you that this week, at the CSU Board of Trustees meeting, the Office of the Chancellor announced a first-of-its kind public-private initiative to establish the CSU as the nation's first and largest AI-powered public university system to serve its entire community. This initiative will make learning, research, professional development and teaching tools—including ChatGPT—available to all students, faculty and staff across all 23 CSU universities. </mj-text>
+
+<mj-text>We expect that these tools will be available within the next few weeks. In the meantime, I want to share with you some key highlights:</mj-text>
+ <mj-text padding-bottom="0">
+    <ul>
+<li>The CSU is collaborating with some of the world's leading tech companies, including Adobe, Alphabet (Google), AWS, IBM, Instructure, Intel, LinkedIn, Microsoft, NVIDIA and OpenAI, as well as the office of California Governor Gavin Newsom. </li>
+<li>We will provide a dedicated AI platform to all students, faculty and staff at no cost; enhanced AI learning tools, resources and professional development in consultation with faculty and staff; and AI workforce training opportunities for students.</li>
+<li>The CSU has established an AI Workforce Acceleration Board that will identify and advocate for AI skills needed in the workplace and will work alongside CSU students and faculty on pressing issues such as climate change and housing affordability, leveraging AI technologies to create impactful solutions. </li>
+</ul>
+</mj-text>
+<mj-text>This initiative, which surpasses any existing university model in both scale and impact, positions the CSU as a global leader among higher education systems in the impactful, responsible and equitable adoption of artificial intelligence.</mj-text>
+
+<mj-text>Additionally, this comprehensive strategy will elevate our students' educational experience across all fields of study, empower our faculty's teaching and research, and help provide the highly educated workforce that will drive California's future AI-driven economy. </mj-text>
+
+<mj-text>This initiative will be announced at a press conference at San José State University on February 4. We will be sharing additional details at the university level in the coming weeks. </mj-text>
+
+<mj-text>Thank you for all that you do for the CSU. I look forward to all that we will accomplish together under this partnership. </mj-text>
+
+<mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="" width="200px" align="left"/>
+
+        <mj-text>Mildred García, Ed.D. <br>
+          Chancellor</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
