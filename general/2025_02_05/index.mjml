@@ -1,0 +1,114 @@
+<mjml>
+  <mj-head>
+    <mj-title>California State University and Cal Poly Humboldt Budget Update</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            February 5, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            California State University and Cal Poly Humboldt Budget Update
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Colleagues,</mj-text>
+        <mj-text>We hope the semester is off to a productive start and that you're settling into your classes and campus life. As we look ahead to the rest of this year and beyond, we want to take a moment to share important updates on the University’s budget, including the challenges we face and the steps we’re taking to plan for the year ahead.</mj-text>
+
+<mj-text>On January 10, 2025, the Governor released the <a href="https://ebudget.ca.gov/">2025-26 Proposed Budget Summary</a> for the State of California. The Proposed Budget Summary included the Governor's goals and objectives for the forthcoming year and highlighted significant issues, policies, and initiatives reflected in the Governor's Budget. </mj-text>
+<mj-text>Specifically related to the California State University (CSU), the state indicated a commitment to the multi-year Compact Agreement, but deferred the 2025-26 $252 million ongoing General Fund increase to 2027-28. Additionally, as indicated in the 2024 Budget Act, the state communicated that the CSU should continue planning for a 7.95% reduction in ongoing General Fund support, equating to approximately $375 million beginning in fiscal year 2025-26.</mj-text>
+
+<mj-text>At this time, Cal Poly Humboldt will continue utilizing the Tier 2 budget planning scenario from the <a href="https://www.humboldt.edu/sites/default/files/budget/2024-12/2025-26-budget-planning-overview_0.pdf">
+  2025-26 Budget Planning Overview</a>, available on the University Budget Office (UBO) website. This scenario currently anticipates a $13.3 million deficit for 2025-26, with plans to reduce the operating budget by an estimated $9.5 million. To mitigate the immediate impact, the University intends to use up to $4 million in one-time funding, providing additional time for the campus to implement longer-term solutions. </mj-text>
+
+<mj-text>The UBO will refine the current budget planning scenarios as new information becomes available, ensuring a proactive approach to addressing these fiscal challenges.</mj-text>
+
+<mj-text>To provide clarity and transparency regarding the budget challenges outlined above, the UBO, in collaboration with the University Resources & Planning Committee (URPC), will host an open forum to present Budget 101 and share a budget update on February 6, 11:30 a.m. – 1 p.m. All members of the campus community are encouraged to attend and engage in this important dialogue. More information can be found on the <a href="https://www.humboldt.edu/budget/urpc">
+  URPC website</a>.
+</mj-text>
+
+<mj-text>In response to this anticipated deficit, each division on campus is actively engaged in budget reduction planning scenarios ranging from 5 to 9 percent. Some of the reduction strategies that divisions are currently exploring are restricting non-essential costs, deferring capital/maintenance projects, seeking alternative funding sources, restructuring departments, reducing service levels, and making programmatic changes. </mj-text>
+<mj-text>As an additional step to assist with budget reductions the campus will be initiating a temporary hiring chill for state-funded positions effective February 5, 2025. Under the hiring chill, all staff and administrator hiring requests will be approved by executive leadership with the intent of reducing recruitments, using more stringent criteria to ensure the alignment of hiring decisions with the University’s operational and strategic priorities. <a href="https://docs.google.com/document/d/1nA6tdQrZJxZV3cj6VGj4pjxRZfayTMd3J6o4hrjCaT4/edit?tab=t.0">
+  Hiring chill
+</a> guidelines have been provided to hiring managers across campus.</mj-text>
+        <mj-text>Leadership from each division will present their proposed reduction plans at two upcoming open forums on February 21, 1 - 3 p.m., and February 28, 12:30 - 3 p.m. These forums, hosted by URPC, will provide an opportunity for the campus community to better understand the planning efforts underway and engage in meaningful discussions about the strategies being considered. Additional details can be found on the <a href="https://www.humboldt.edu/budget/urpc">
+          URPC website</a>.</mj-text>
+        <mj-text>Thank you for all you do to support our students—your dedication makes a difference now and for the future. We recognize that budget reductions are necessary for a financially sustainable future. But even in challenging times, our strong sense of community and collective determination will help us find the best path forward.</mj-text>
+        <mj-text padding-top="30px">With appreciation,</mj-text>
+        <mj-text><strong>Michael E. Spagna, Ph.D.</strong> <br>
+          Interim President
+        </mj-text>
+        <mj-text><strong>Michael Fisher</strong> <br>
+          Acting Vice President for Administrative Affairs and Chief Financial Officer
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
