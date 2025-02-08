@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title>Moving Forward Together</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the President and Chancellor
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            February 7, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Moving Forward Together
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjack Community,</mj-text>
+        <mj-text>California State University Chancellor Mildred García’s message below to the CSU community affirms what we have always known—no matter the challenges we face, Cal Poly Humboldt remains steadfast in our commitment to our students, our values, and our educational purpose.</mj-text>
+
+<mj-text>At Cal Poly Humboldt, we embrace the principles of the Ethics of Care—ensuring that every member of our community feels supported, respected, and empowered to succeed. Many of you have reached out to me expressing your concerns about recent federal policy shifts. Please know we hear you and will continue to foster a welcoming and supportive environment for all students, faculty, and staff. <strong>Let me be clear on this point: you belong here, you are valued, and you are supported</strong>.</mj-text>
+<mj-text>Like the CSU as a whole, Humboldt will continue to remove barriers, champion student success, and ensure that every member of our community has the resources they need to thrive. We are actively working alongside system leaders to assess and respond to any impacts governmental policy changes may have on our students, faculty, and staff. In the coming weeks, we’ll share more specifics of ways we are growing our support for our community. Humboldt remains a place where students can pursue their education with confidence and security. If you need immediate assistance, please reach out:</mj-text>
+
+<mj-text>
+  <ul>
+    <li><strong>Students</strong>:</li>
+    <ul>
+      <li><strong>Counseling & Psychological Services (CAPS)</strong> is available at (707) 826-3236, and <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare’s “TalkNow”
+      </a> feature offers 24/7 support.</li>
+      <li><strong>Dean of Students</strong>: For students needing additional support, contact the Dean of Students office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a> or (707) 826-3504.</li>
+    </ul>
+    <li><strong>Faculty and Staff</strong>: Confidential support is available through the
+      <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Employee Assistance Program</a></li>
+  </ul>
+</mj-text>
+
+<mj-text>We are a community that cares for each other, and together, we will continue to provide an environment where students can learn, grow, and succeed. Thank you for all that you do to make this university a place of opportunity, understanding, and academic excellence.</mj-text>
+
+
+        <mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+        <mj-text><strong>Michael E. Spagna, Ph.D.</strong> <br>
+          Interim President
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="40px 0" />
+        <mj-text>Dear CSU Community,
+        </mj-text>
+        <mj-text>As you know, the recent administration change in Washington D.C. has brought with it an unprecedented number of executive orders and other actions – some announced and currently being implemented, others signaled. These policies and positions may have members of the CSU community feeling gravely concerned, disheartened or even threatened. Others may welcome them. Still others may feel entirely disillusioned, unseen, unheard and disconnected by our nation’s divided and acrimonious political landscape.</mj-text>
+        <mj-text>The CSU welcomes and celebrates freedom of expression and diversity of thought among all of our community members. Regardless of your viewpoint regarding these recent events, you continue to be a valued and respected member of the CSU family – and your work is appreciated and essential to our mission.</mj-text>
+        <mj-text>In the wake of these unparalleled policy shifts, the CSU finds itself in a moment of uncertainty and change never before seen in our 64-year history. This is understandably unsettling and unnerving for all of us.</mj-text>
+        <mj-text>I write to assure you that, in this moment, the CSU will do what all great institutions – and great people – do in times of uncertainty and change. We will turn to and uphold our core values. We will honor our purpose. We will fulfill our mission.</mj-text>
+        <mj-text>As the CSU’s chancellor, this is my responsibility – my obligation – to you, to our mission and, most importantly, to our current and future students. I will meet that obligation. Indeed, we will meet that obligation together.</mj-text>
+        <mj-text>We will continue to remove barriers to opportunity and success and bring the life-changing benefits of a Cal State degree to students from all backgrounds and walks of life. We will do everything we can, and we will work tirelessly and strategically to ensure the safety and well-being of all our students and employees. And we will fight to secure and protect the resources we need to fulfill our mission for our students, communities and our great state.</mj-text>
+        <mj-text>Please know that as this national situation continues to unfold, we are working diligently to assess the impacts to the CSU, our students and our employees, and we will be prepared to address these impacts and respond appropriately.  </mj-text>
+        <mj-text>To this end, I have personally held more than a dozen meetings with the governor’s administration and state and federal legislative leaders, often accompanied by the chair of the CSU Board of Trustees. I continue to meet almost daily with leaders from university systems and individual institutions across the country, as well as national associations and advocacy groups, to share information, strategies and data. Members of the Chancellor’s Office leadership team are marshalling resources, assessing impacts and conducting trainings with colleagues across the system in the areas of academic affairs, student affairs, human resources, business and finance, advancement, communications and legal services. Our state and federal relations teams are advocating tirelessly for the CSU and the interests of our students and employees.</mj-text>
+        <mj-text>More specifically, the CSU’s Office of General Counsel (OGC) has updated and distributed guidance and resources to each of our universities to ensure that our international students, scholars and employees, as well as our undocumented students and employees, have the necessary support and information to help them meet their academic and professional goals – and to ensure that those who are a part of our campus communities are prepared to protect their rights in the event of federal immigration enforcement action.</mj-text>
+        <mj-text>OGC is also working closely with the California Attorney General both in support of the CSU’s undocumented students and employees and in efforts to safeguard federal financial support in all its forms. And to this end, system leaders are also actively monitoring potential actions that would impact the CSU’s research enterprise and will offer regular guidance and support to help faculty and student researchers navigate this evolving landscape.</mj-text>
+        <mj-text>The landscape is indeed evolving – and it is vast. But please be assured that if federal action is taken that negatively impacts the CSU community, we will be prepared, and we will respond quickly and appropriately.</mj-text>
+        <mj-text>The CSU will never abandon its mission. Our students deserve it. Our core values demand it.</mj-text>
+        <mj-text>We will meet this moment – together.</mj-text>
+        <mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="Milred Garcia signature" width="200px" align="left"/>
+        <mj-text>
+          Mildred García <br>
+          Chancellor <br>
+          The California State University
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
