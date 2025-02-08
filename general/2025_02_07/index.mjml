@@ -96,7 +96,7 @@
         <mj-text>Warmly,</mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
         <mj-text><strong>Michael E. Spagna, Ph.D.</strong> <br>
-          Interim President
+          Interim President <br>
           Cal Poly Humboldt
         </mj-text>
         <mj-divider border-color="#F2A900" padding="20px 0" />
