@@ -97,8 +97,10 @@
         <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
         <mj-text><strong>Michael E. Spagna, Ph.D.</strong> <br>
           Interim President
+          Cal Poly Humboldt
         </mj-text>
-        <mj-divider border-color="#F2A900" padding="40px 0" />
+        <mj-divider border-color="#F2A900" padding="20px 0" />
+        <mj-text padding-bottom="20px"><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
         <mj-text>Dear CSU Community,
         </mj-text>
         <mj-text>As you know, the recent administration change in Washington D.C. has brought with it an unprecedented number of executive orders and other actions – some announced and currently being implemented, others signaled. These policies and positions may have members of the CSU community feeling gravely concerned, disheartened or even threatened. Others may welcome them. Still others may feel entirely disillusioned, unseen, unheard and disconnected by our nation’s divided and acrimonious political landscape.</mj-text>
@@ -117,7 +119,7 @@
         <mj-text>Warmly,</mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="Milred Garcia signature" width="200px" align="left"/>
         <mj-text>
-          Mildred García <br>
+          <strong>Mildred García</strong> <br>
           Chancellor <br>
           The California State University
 
