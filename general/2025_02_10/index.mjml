@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your Voice Matters: Register for Upcoming CSU Strategic Plan Town Halls</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Chancellor's Office
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            February 11, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Your Voice Matters: Register for Upcoming CSU Strategic Plan Town Halls
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text padding-bottom="30px"><em>The message below is being sent on behalf of the CSU Chancellor’s Office</em></mj-text>
+        <mj-text>As we continue shaping the future of the California State University through our systemwide strategic planning process, your insights and perspectives remain vitally important. We are entering the second phase of stakeholder engagement and invite and strongly encourage you to participate in one of our upcoming virtual town hall sessions to share your thoughts on the future direction of the CSU.</mj-text>
+
+<mj-text>These interactive sessions will provide an opportunity for faculty, staff, students and community members to contribute ideas, ask questions and engage in meaningful dialogue about our systemwide priorities.</mj-text>
+        <mj-text><strong>Upcoming Virtual Town Halls:</strong></mj-text>
+ <mj-text padding-bottom="0">
+    <ul>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_x4WDLQxGQ2ieAYAl1v1umA">Wednesday, February 12 | 10:00 – 11:00 AM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_SQcq5zqjQMymjHBpyIiM1g">Friday, February 14 | 9:30 – 10:30 AM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_EqsKdl5MT3GagqiYlJ9nKw">Thursday, February 20 | 2:00 – 3:00 PM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_pQ8LDCyWS6OPjjaMQDB1iw">Friday, February 21 | 9:00 – 10:00 AM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_iUQ5InKcTByRWnmtMO2g0A">Wednesday, February 26 | 12:00 – 1:00 PM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_gJrqv8DaQPGQcLDv32M1lA">Thursday, February 27 | 10:00 – 11:00 AM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_GognXUMKSDKwyIfAyUZthw">Wednesday, March 5 | 2:00 - 3:00 PM</a></li>
+      <li><a href="https://sova-org.zoom.us/webinar/register/WN_8ODKDPGqQCGcYQFi9b30zw">Thursday, March 6 | 11:00 AM - 12:00 PM</a></li>
+
+</ul>
+</mj-text>
+<mj-text>Please be sure to <a href="https://www.calstate.edu/Strategic-Planning-for-the-CSU/Pages/attend-a-town-hall.aspx">register</a> to secure your spot in an upcoming session.</mj-text>
+<mj-text>In addition to the town halls, we also encourage you to continue sharing your feedback through our <a href="https://csustrategicplan.mysocialpinpoint.com/">CSU Strategic Planning engagement platform</a>, where you can contribute ideas and stay informed about the systemwide strategic planning process.
+</mj-text>
+<mj-text>
+You are strongly encouraged to participate and thank you in advance for being a vital part of this effort. Your participation helps ensure that the CSU strategic plan reflects the diverse needs, aspirations and strengths of our university community.
+</mj-text>
+        
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
