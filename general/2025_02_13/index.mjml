@@ -67,9 +67,9 @@
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
-    <mj-section css-class="light-wrap" padding-bottom="20px">
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2025_02_13/alum2535451_EmailHeader_B.jpg" alt="Giving Day" padding="0" width="600px" align="center"/>
+        <mj-image src="https://mailings.humboldt.edu/general/2025_02_13/alum2535451_EmailHeader_B.jpg" alt="Giving Day" padding="0px 20px 10px" width="600px" align="center"/>
         <mj-text>Be a part of Cal Poly Humboldt’s Third <strong>Annual Giving Day</strong> on <strong>Wednesday, April 2</strong>! This is an opportunity to <stong>give or raise funds</stong> for the areas on campus you care about most. </mj-text>
         <mj-text>This 24-hour fundraising event brings together students, alumni, parents, faculty, staff, and friends in support of Cal Poly Humboldt. With strong participation, we can unlock more resources, amplify support, and create even greater opportunities for students.</mj-text>
         <mj-text>Want to <strong>fundraise</strong> and have your <strong>college, department, team, or club</strong> featured on the Giving Day website? <strong>
