@@ -1,0 +1,159 @@
+<mjml>
+  <mj-head>
+    <mj-title>Immigration: Your Rights and University Resources</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            February 14, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Immigration: Your Rights and University Resources
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjack Community,</mj-text>
+        <mj-text>With the uncertainty and unease surrounding immigration, I want to take a moment to share specific guidance from the California State University Chancellor’s Office related to possible immigration actions.  </mj-text>
+        <mj-text>The resources and information below are intended to help you navigate interactions with immigration enforcement officials in the event they come to campus. Specifically, there’s guidance for employees who may need to interact with immigration enforcement officers on behalf of Cal Poly Humboldt and guidance for students and employees who may be the target of immigration enforcement actions.</mj-text>
+<mj-text>These details are also included in the <a href="https://www.humboldt.edu/immigration">University’s new Immigration website</a>, a clearinghouse of key immigration and Dreamer Student information. I know immigration is a complex topic, so I encourage you to stay informed by reviewing the site. Know your rights and familiarize yourself with legal services and the campus groups who are here to support you. </mj-text>
+        <mj-text><strong>Guidance for Employees Who May Need to Interact With Immigration Enforcement Officers</strong></mj-text>
+        <mj-text>
+          <ol>
+            <li>CSU is a public university and a large portion of CSU property is open to the general public. The areas on campus that are open to the general public, like the campus quad and walkways, are also open to federal immigration enforcement officers.
+<br><br>
+              However, immigration officers cannot enter areas that are not open to the general public, such as residence halls, classrooms while class is in session, confidential meeting rooms and spaces, or employee offices unless the officer presents a valid judicial warrant or declares that exigent circumstances exist. Exigent circumstances are emergency situations that would allow immigration officers to enter a location without a judicial warrant (<a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/faqs-about-federal-immigration-enforcement-actions-on-university-property.pdf">
+                see FAQ No. 2</a>).</li>
+            <li>Cal Poly Humboldt has designated Anthony Casas, Associate Vice President and Chief Human Resources Officer, reachable at (707) 826-5177 or <a href="mailto:anthony.casas@humboldt.edu">
+              anthony.casas@humboldt.edu</a>, and David Hickcox, Title IX Coordinator & DHR Prevention Administrator reachable at (707) 826-5177 or <a href="mailto:david.hickcox@humboldt.edu">
+              david.hickcox@humboldt.edu</a> to review all immigration enforcement documents.
+              <br>
+              <br>
+              If an immigration enforcement officer approaches you to gain access to a nonpublic area of the campus, or to obtain confidential student or employee records, do not voluntarily grant access; respectfully inform the officer that you lack authority but will immediately contact Casas. If neither of these administrators is available, contact the University Police Department (UPD) at (707) 826-5555.
+            </li>
+            <li>If immigration enforcement officers declare exigent circumstances, or enter nonpublic spaces without permission, do not interfere or obstruct them. Immediately contact UPD at (707) 826-5555.</li>
+            <li>CSU has prepared the following resource materials to educate and assist employees concerning interactions with immigration enforcement officials:
+            <ul style="margin-top:10px;">
+              <li>
+                <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/faqs-about-federal-immigration-enforcement-actions-on-university-property.pdf">FAQs</a> for CSU Employees about Federal Immigration Enforcement Actions on University Property</li>
+              <li><a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/PPT_Responding-to-Immigration-Enforcement-Requests.pdf">Presentation Slides</a>: Responding to Immigration Enforcement Requests to Access Nonpublic Areas on Campus and/or Student or Employee Records; training posted to CSULearn</li>
+              <li><a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/quick-reference-re-immigration-enforcement-actions-on-campus.pdf">Quick Reference Guide</a>: What to Do If a Federal Immigration Enforcement Officer Requests Access to University Property or Records</li>
+              <li>
+                <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/california-attorney-general-higher-education-guidance.pdf">California Attorney General Guidance</a> and Model Policies to Assist Universities in Responding to Immigration Issues</li>
+            </ul></li>
+            <li>Additional Resources
+              <ul style="margin-top:10px;">
+                <li>
+                  <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Pages/default.aspx">Resources for Undocumented Students</a>
+                  <ul>
+                    <li>
+                      <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Pages/resources-guides-and-faqs.aspx">Resources, Guides and FAQs</a></li>
+                    <li>
+                      <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Pages/legal-support-services.aspx">Free Legal Immigration Services</a></li>
+                    <li><a href="https://www.humboldt.edu/immigration/scholars-without-borders">Scholars Without Borders</a>, which hosts regular Know Your Rights workshops open to the campus community</li>
+
+                  </ul>
+                </li>
+<li><a href="https://www.humboldt.edu/immigration/free-immigration-legal-services">Coalition for Humane Immigrant Rights (CHIRLA)</a>, which makes regular visits to campus and provides free legal immigration services</li>
+              </ul>
+            </li>
+          </ol>
+        </mj-text>
+        <mj-text><strong>Guidance for Students/Employees Personally Impacted by Enforcement
+        </strong></mj-text>
+        <mj-text>CSU is dedicated to supporting all students, staff, and faculty. Many resources exist to support students, staff, and faculty concerning immigration enforcement activities:
+        </mj-text>
+        <mj-text>
+          <ol>
+            <li><strong>Talk to a Free Immigration Service Provider</strong>. Get free legal advice now and plan how to respond to potential immigration enforcement encounters. To schedule an appointment contact:  <a href="https://www.humboldt.edu/immigration/free-immigration-legal-services">
+              Coalition for Humane Immigrant Rights (CHIRLA)</a>, which makes regular visits to campus. </li>
+            <li><strong>Make a Plan</strong>. Access the <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/immigration-preparedness-toolkit.pdf">Immigration Preparedness Toolkit</a> and <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/family-preparedness-plan.pdf">
+              Family Preparedness Plan
+            </a> developed by the Immigrant Legal Resource Center to help immigrants with no legal status or in a mixed-status household create a strategy to protect themselves and their family members. </li>
+            <li><strong>Know Your Rights</strong>. Take time to figure out which documents you should and should not carry with you. Always carry a <a href="https://www.ilrc.org/red-cards">
+              red card
+            </a> documenting your immigration rights.  A limited supply of pre-printed cards is available from Associated Students on the second floor of Nelson Hall West.</li>
+            <li>University Support. If you are approached by Immigration and Customs Enforcement (ICE) or become aware of ICE presence on campus, contact Anthony Casas, Associate Vice President and Chief Human Resources Officer at (707) 826-5084 or <a href="mailto:anthony.casas@humboldt.edu">
+              anthony.casas@humboldt.edu</a>, or David Hickcox, Title IX Coordinator & DHR Prevention Administrator at (707) 826-5177 or <a href="mailto:david.hickcox@humboldt.edu">
+              david.hickcox@humboldt.edu</a>. If neither of these administrators is available, contact the University Police Department (UPD) at (707) 826-5555
+            </li>
+            <li><strong>Stay Informed</strong>. CSU promotes and posts free webinars presented by our Immigration Legal Resource Providers on its <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Pages/resources-guides-and-faqs.aspx">
+              webpage</a>, including a list of <a href="https://www.calstate.edu/attend/student-services/resources-for-undocumented-students/Documents/ild-2025-spring-webinars.pdf">upcoming webinars</a>. </li>
+          </ol>
+        </mj-text>
+        <mj-text>Like other universities and colleges, the University is often attempting to interpret the impact of policy changes at the federal level, and while we may not have immediate answers, the CSU and Cal Poly Humboldt will provide the campus community with updated information as quickly as possible.
+        </mj-text>
+        <mj-text>I want to reiterate that the University strives to cultivate an environment where everyone feels safe, included, and respected—regardless of immigration status. At Humboldt, we believe diversity is a source of strength for us all. The broad perspectives of our students, faculty, and staff inspire us to better understand ourselves and, in turn, the world around us.  </mj-text>
+        <mj-text>Sincerely,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
