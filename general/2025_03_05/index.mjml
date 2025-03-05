@@ -71,7 +71,8 @@
       <mj-column>
         <mj-text>Campus colleagues,</mj-text>
         <mj-text>As spring arrives, I want to continue the tradition of sharing enrollment progress with our campus once census is complete. This is the fourth semester I have been able to share excellent news about Cal Poly Humboldt’s growth with you, and I invite you all to celebrate this continued positive trend.</mj-text>
-        <mj-text>I’m excited to announce that there are <strong>110 more students enrolled this semester than last Spring, bringing the total to 5,586</strong>. This marks a 2% increase — our highest Spring enrollment since 2021 and larger growth than the 1.2% increase we saw in the Fall. (It is important to note that Spring enrollment is traditionally lower than the Fall’s, from 6-11% lower over the past 6 years, due to mid-year graduation and other factors). This Spring, we also saw 1.5% more full-time resident students, a measure that matters most in our drive to meet state-funded enrollment targets with budgetary impacts. This trajectory tells a story of continuing moderate growth that indicates we are rising to meet the challenges facing higher education institutions across the country.</mj-text>
+        <mj-text>I’m excited to announce that there are <strong>110 more students enrolled this semester than last Spring, bringing the total to 5,586</strong>. This marks a 2% increase — our highest Spring enrollment since 2021 and larger growth than the 1.2% increase we saw in the Fall. (<em>It is important to note that Spring enrollment is traditionally lower than the Fall’s, from 6-11% lower
+            over the past 6 years, due to mid-year graduation and other factors</em>). This Spring, we also saw 1.5% more full-time resident students, a measure that matters most in our drive to meet state-funded enrollment targets with budgetary impacts. This trajectory tells a story of continuing moderate growth that indicates we are rising to meet the challenges facing higher education institutions across the country.</mj-text>
 <mj-text><strong>Spring Enrollment Highlights</strong></mj-text>
           <mj-text>The University’s headcount and full-time enrollment statistics are only one piece of the enrollment picture, and I encourage you to review the <a href="https://www.humboldt.edu/irar/all-student-demographic-spring">
               semester student snapshot</a>. Here are a few other Spring enrollment highlights:</mj-text>
@@ -106,8 +107,6 @@
             <li>We will institute stronger measures to ensure completion of Spring applications. Of the 216 students who were not admitted this year, nearly 65% simply did not provide the information required for a decision. Improvements to better guide students throughout their admissions process can help more students complete their application.</li>
             <li>We will continue to focus on personalized outreach during the compressed Spring recruitment cycle and yielding higher numbers of admitted students.</li>
           </ul>
-        </mj-text>
-        <mj-text>Like other universities and colleges, the University is often attempting to interpret the impact of policy changes at the federal level, and while we may not have immediate answers, the CSU and Cal Poly Humboldt will provide the campus community with updated information as quickly as possible.
         </mj-text>
           <mj-text><strong>Revised Enrollment Targets
           </strong></mj-text>
