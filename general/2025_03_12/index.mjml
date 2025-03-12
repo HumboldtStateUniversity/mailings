@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-title>Refocusing Programming for Cal Poly Humboldt Presents</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              March 12, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Refocusing Programming for Cal Poly Humboldt Presents
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Cal Poly Humboldt Presents (formerly CenterArts) remains steadfast in its commitment to bringing the transformative power of the performing arts to both the University and the North Coast community.
+        </mj-text>
+        <mj-text>In keeping with that commitment, and in light of ongoing state budget challenges, the University is refocusing the 2025-26 season to more student-centered programming. This adjustment will enable us to continue offering the high-quality arts experiences that Cal Poly Humboldt Presents has proudly provided for decades, while operating within our financial means.</mj-text>
+        <mj-text>To understand this shift, it’s important to understand how Cal Poly Humboldt Presents is supported. While performances have generally been well attended, ticket sales alone do not cover the cost of programming for our performing arts series, and the gap between costs and ticket revenue is widening. As a result, those costs have been, by necessity, subsidized by state funding and by student fees. This arrangement is not sustainable in its current form and would require additional state resources that simply are not available in the current budget environment. </mj-text>
+<mj-text>We want to reassure the campus community there will be no staff layoffs or reorganization during this refocusing effort. Here are our immediate priorities:</mj-text>
+          <mj-text>
+              <ul>
+                  <li>Long-term planning for campus events in collaboration with student leaders, Cal Poly Humboldt Presents, faculty, and community members</li>
+                  <li>Develop a strategy for more student-centered concerts and events, featuring recording artists, DJs, and entertainment</li>
+                  <li>Ensure student fees remain dedicated to student programming and initiatives</li>
+                  <li>Maintain continuity for student employees</li>
+                  <li>Continue hosting performances at the John Van Duzer Theatre</li>
+                  <li>Explore opportunities to expand Cal Poly Humboldt Presents engagement with external events, in partnership with local organizations</li>
+              </ul>
+          </mj-text>
+        <mj-text>While this updated approach places greater emphasis on campus engagement in the short-term, we remain committed to serving our local community. The beloved Artists & Schools program, which serves more than 2,000 local students each year through these performances, will continue to inspire and nurture creativity in young people across the region as a hallmark of Cal Poly Humboldt Presents. A newly-formed advisory group that includes representation from faculty, staff, students, and the local community will help us chart the path forward for this program and identify new opportunities to ensure high-quality cultural experiences for the campus community and beyond.</mj-text>
+        <mj-text>Please know that, while we embark on this next chapter out of financial necessity, we will do so in collaboration with you, our community stakeholders. We will continue to seek alternative funding opportunities and partnerships to support the arts, and our dedication to fostering artistic expression within our community remains unwavering. Further details about these changes will be shared in upcoming department meetings and official University communications. Thank you for your continued support and for being such an integral part of our journey.</mj-text>
+
+        <mj-text>Sincerely,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/chrissyHOlliday_signature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+        <mj-text>Chrissy Holliday <br>
+            Vice President for Enrollment Management & Student Success</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
