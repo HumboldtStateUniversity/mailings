@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title>Home Stretch of Spring Semester</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              March 24, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Home Stretch of Spring Semester
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,
+        </mj-text>
+        <mj-text>Heading to the end of the Spring semester, I’m gearing up—as I imagine you are too—for, what’s safe to say, a very busy and inspiring time of year. No doubt you’re deep in class projects and wrapping up research projects. You’re keeping students on track. You’re working behind the scenes to support our campus. </mj-text>
+
+<mj-text>These are just a few reminders of what’s ahead: events that celebrate Cal Poly Humboldt and are the result of days, weeks, and months of hard work by students, faculty, and staff. </mj-text>
+
+<mj-text>I know many of you are as excited as I am for the return of long-celebrated events, some of which were put on hold last year. I’m especially looking forward to our <a href="https://www.humboldt.edu/admission-aid/events/spring-preview">Spring Previews</a>. On <strong>March 29 and April 19</strong>, hundreds of admitted students and their families who are in the process of considering colleges will be visiting Humboldt for a glimpse of the University’s academic programs and campus life. </mj-text>
+
+<mj-text>It’s one of our biggest recruitment initiatives that impact a student’s decision to attend Humboldt. Last year alone, more than 60% of those who attended Spring Preview ended up enrolling for Fall. A special thank you is in order to University faculty and students who participated in outreach campaigns that included sending postcards and calling more than 1,100 admitted students so far this semester—personal touches that significantly increased a student’s odds of attending. </mj-text>
+
+<mj-text>Our events are about more than bringing in new students. They’re about building a sense of belonging for our current students and taking pride in the vibrant community everyone has created together. As we enter the home stretch of the academic year, I want to highlight amazing annual and inaugural events, many of which are open to the public, so please mark your calendars.</mj-text>
+
+       <mj-text padding-top="0"  padding-bottom="0">
+<ul>
+<li><strong>April 5, <a href="https://www.humboldt.edu/itepp/california-indian-big-time-social-gathering">California Indian Big Time & Social Gathering</a></strong>: The 15th annual gathering to build community by celebrating California Native Traditions with songs, games, resources, and arts and crafts. Open to the public. (<a href="https://now.humboldt.edu/news/14th-annual-cal-poly-humboldt-california-big-time-and-social-gathering">Read more background</a>.)</li>
+
+<li><strong>April 21-25, Earth Week</strong>: Activities that celebrate and promote sustainability. Open to the public. Check <a href="https://www.humboldt.edu/featured-events">25Live</a> in the near future for more information.</li>
+
+
+<li><strong>April 24-27, <a href="https://www.humboldtfilmfest.com/">Humboldt International Film Festival</a></strong>: Billed as one of the world’s oldest student-run film festivals, the festival showcases a series of independent, short films. Open to the public.</li>
+
+
+<li><strong>April 25-26, <a href="https://www.humboldt.edu/student-research-competition">CSU Student Research Competition</a></strong>: For the first time, Cal Poly Humboldt will host the 39th annual competition, which includes research from 200 undergraduate and graduate students from across all 23 CSU campuses.</li>
+
+
+<li><strong>May 2, <a href="https://ideafest.humboldt.edu/">ideaFest</a></strong>: Hundreds of research and creative projects from students, staff, and faculty from the past year—in addition to live performances—will be on display. Open to the public.</li>
+
+
+<li><strong>May 17, <a href="https://commencement.humboldt.edu/">Commencement</a></strong>: And of course, there’s graduation at Redwood Bowl and a regional ceremony in L.A. on <strong>May 20</strong>! Thousands will be cheering on our undergraduate and graduate students, in addition to our Golden Grads—alumni who graduated at least 50 years ago.</li>
+
+</ul>
+          </mj-text>
+
+<mj-text>Other notable happenings include the annual recognition of our amazing staff, students, faculty, and alumni. Award recipients will be announced in the next few weeks. </mj-text>
+
+<mj-text>This list only scratches the surface of all the incredible events, so many I can’t name them all here. But please keep checking our events calendar, <a href="https://www.humboldt.edu/featured-events">25Live</a>, for more details. </mj-text>
+
+<mj-text>I can’t emphasize enough how proud I am of the dedication and care that’s gone into creating an engaging experience for our community. </mj-text>
+
+<mj-text>Remember, take a deep breath, work hard, and take a moment to have fun.</mj-text>
+
+<mj-text>Keep going—we got this!</mj-text>
+
+        <mj-text>
+          Warmly,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
