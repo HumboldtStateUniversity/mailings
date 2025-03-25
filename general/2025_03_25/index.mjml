@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-title>Department of Education's Office for Civil Rights Investigation</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              March 25, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Department of Education's Office for Civil Rights Investigation
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjack Community,
+        </mj-text>
+        <mj-text>You may have seen recent news coverage regarding two announcements. One involves the U.S. Department of Education’s Office for Civil Rights, which is investigating numerous universities, including Cal Poly Humboldt, alleging violations related to Title VI, which prohibits discrimination on the basis of race, color, and national origin in programs and activities receiving federal financial assistance. The Brandeis Center has also announced that it has filed a federal complaint against Humboldt and other universities, also alleging violations of Title VI.</mj-text>
+
+<mj-text>We take these allegations seriously, and we want to assure you that we are working closely with the California State University (CSU) system to address them. We will also fully cooperate with the Department of Education's Office for Civil Rights during their investigation. Consistent with California law and federal civil rights laws, the CSU provides equal opportunity in education and employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin. All university programs and activities are open to all.</mj-text>
+
+<mj-text>We understand that you may want more details, but please know that we cannot provide further information due to the ongoing nature of the investigation. </mj-text>
+
+<mj-text>Throughout this process, we stand firmly behind our educational purpose, which is grounded in our commitment to providing access to higher education for all students, empowering them to achieve their dreams of earning college degrees.</mj-text>
+
+<mj-text>Our commitment to our educational vision is unwavering, as is our fundamental belief in  nurturing an environment of safety, respect, and inclusivity—one where individuals from all backgrounds can explore the world, advance knowledge and innovation through research, scholarship and practical experience, and support and care for one another.</mj-text>
+
+<mj-text>As always, we encourage anyone who is experiencing harassment to <a href="https://hum.link/TitleIXReport">file a report</a> with the Title IX and Discrimination, Harassment & Retaliation Prevention Office or contact the University Police Department at (707) 826-5555. Students can also contact the Dean of Students office at <a href="mailto:dos@humboldt.edu">
+  dos@humboldt.edu
+</a> or (707) 826-3504.</mj-text>
+
+<mj-text>I know you have concerns and we, like many colleges and universities, are navigating these challenges together. Even during these uncertain times, I am deeply moved by your ongoing collaboration that makes our community stronger every day. </mj-text>
+        <mj-text>
+          Warmly,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
