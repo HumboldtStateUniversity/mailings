@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-title>Continuing the Journey—Together</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+              March 25, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Continuing the Journey—Together
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjack Community,
+        </mj-text>
+        <mj-text>This morning, the Chancellor’s Office shared that the search for Cal Poly Humboldt’s <a href="https://www.humboldt.edu/president-search">next permanent
+          president</a> will continue. I will serve in my current role for the foreseeable future, helping to guide Humboldt through this important chapter in our history.</mj-text>
+
+<mj-text>Over the past several months, I have had the privilege of serving as interim president of Cal Poly Humboldt—a role I stepped into with humility and a deep respect for this remarkable University and the people who make it thrive. I am fully committed to our shared goals and staying focused on what matters most: supporting our students, advancing our polytechnic vision, and fostering a healthy, inclusive campus culture rooted in transparency, accountability, and care.</mj-text>
+
+<mj-text>Together, we’ve made meaningful progress. We’ve expanded opportunities for shared governance, launched vital infrastructure projects, and deepened our commitment to hands-on, real-world learning. We’ve also begun the hard but necessary work of rebuilding trust and strengthening communication across our campus. These efforts don’t end here. With your voices, we will shape the path forward. </mj-text>
+
+<mj-text>Thank you for the trust you have placed in me and your belief in the power of Humboldt. I am sincerely honored to support the growth and success of this great university.</mj-text>
+
+        <mj-text>
+          Warmly,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
