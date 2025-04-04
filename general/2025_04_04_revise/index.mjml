@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-title>Correction: Loss of Student Charles Lee White</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            April 4, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Correction: Loss of Student Charles Lee White
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text font-size="14px" padding-bottom="30px"><em>This message has been updated with correct information about the University's psychological support services.</em></mj-text>
+        <mj-text>Dear Campus Community, </mj-text>
+        <mj-text>We are saddened to share news of the loss of Charles Lee White. Charles’s death is a loss for the Cal Poly Humboldt community, and our thoughts are with all of those who are close to him.</mj-text>
+        <mj-text>Charles was a senior from Bakersfield, California, pursuing an Interdisciplinary Studies degree. He was on track to graduate this summer. As a valued member of the program, Charles brought a deep curiosity, a reflective spirit, and a strong sense of purpose to his studies.</mj-text>
+        <mj-text>Equally notable was his commitment to engaging meaningfully with his classmates—offering both encouragement and thoughtful, constructive feedback that enriched the learning experience for all.</mj-text>
+        <mj-text>He described his academic journey as a decades-long pursuit of knowledge, driven by a passion for behavioral science, philosophy, and environmental studies. He was initially drawn to Cal Poly Humboldt because of what he described as the University’s commitment to understanding the social, political, and economic forces shaping human-environment relationships.</mj-text>
+        <mj-text>Charles will be greatly missed. </mj-text>
+        <mj-text>Psychological support services are available for students. Contact Counseling & Psychological Services (CAPS) at (707) 826-3236 and access <a href="https://counseling.humboldt.edu/timelycare-expanded-telehealth-humboldt-students">TimelyCare’s “TalkNow”</a>  feature, which offers 24/7 support.</mj-text>
+        <mj-text>
+          Psychological support services are available for faculty and staff through the <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Employee Assistance Program</a>,  which provides free confidential counseling sessions through Empathia 24 hours a day, seven days a week.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
