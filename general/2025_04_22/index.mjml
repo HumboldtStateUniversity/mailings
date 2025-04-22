@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+    <mj-title>Thoughts on the Final Weeks of the Semester</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            April 22, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Thoughts on the Final Weeks of the Semester
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>I have no doubt most of you are deep in class projects and wrapping up research, the result of days, weeks, and months of hard work. This week there are also many events and activities planned around civic engagement.</mj-text>
+
+<mj-text>At Cal Poly Humboldt, we deeply value freedom of expression and the diversity of perspectives. While there may not be agreement with every viewpoint shared, we must uphold the right of all individuals and groups to safely express their ideas. This principle lies at the heart of the First Amendment—encouraging the respectful exchange of differing opinions and supporting the right to peaceful protest. Cal Poly Humboldt has long served as a model for activism and peaceful demonstration, and I am confident that in the upcoming days, all will honor that legacy.</mj-text>
+
+<mj-text>A key goal at Cal Poly Humboldt—and across the CSU—is to foster civic engagement in our students, while maintaining an environment where work, study and research can be conducted without disruption.This is a shared responsibility, and one I know we all take seriously. My hope for this week’s many events is that they reflect the values we hold: a campus community enriched by a range of ideologies, experiences, and perspectives. These differences are what make our collective college experience more meaningful. </mj-text>
+
+<mj-text>Remember, take a deep breath and finish strong. See you all at Commencement!</mj-text>
+
+        <mj-text>
+          Sincerely,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
