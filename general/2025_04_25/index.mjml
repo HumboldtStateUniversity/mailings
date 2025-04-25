@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>New Quick Guide: What to Do If You Encounter ICE Agents on Campus</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            April 25, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            New Quick Guide: What to Do If You Encounter ICE Agents on Campus
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>We understand that questions and concerns about immigration status can create uncertainty and anxiety for many in our community. To help, we’ve created a pocket Quick Guide Card outlining what to do if you are approached by Immigration & Customs Enforcement (ICE) agents on campus.</mj-text>
+
+<mj-text>These cards are being distributed across campus and include clear steps on who to contact, what to say, and how to respond if such a situation arises. The guide emphasizes the importance of directing agents to appropriate campus contacts and protecting student privacy.</mj-text>
+
+<mj-text>You can <a href="https://www.humboldt.edu/sites/default/files/marketing-communications/2025-04/immigration-quickguidecard.pdf">view and download the card</a>, and find additional resources including legal support, Dreamer Student resources, <a href="https://www.calstate.edu/Pages/Federal-Updates.aspx">CSU updates on federal issues</a>, and more on the <a href="https://www.humboldt.edu/immigration">Immigration Rights and Resources website</a>.</mj-text>
+
+<mj-text>If your office or department would like additional copies of the cards, please email Marketing & Communications at <a href="mailto:marcom@humboldt.edu">marcom@humboldt.edu
+</a> to request more.</mj-text>
+<mj-text>You’re also invited to attend a webinar hosted by <a href="https://www.humboldt.edu/immigration/free-immigration-legal-services">CHIRLA’s</a> Student Legal Services Department, focused on your rights while traveling and the latest immigration updates.</mj-text>
+        <mj-text>Friday, May 2, 2025 <br>
+          Noon – 1:00 p.m. <br>
+          Brian Guzman, CHIRLA Legal Program Manager <br>
+          <a href="https://docs.google.com/forms/d/1pLffTepz_LHV4KUmV2CMAXwlohmFxB5jzxV6ZO4WawY/edit?ts=6802b244">Register here</a> to receive the Zoom link</mj-text>
+        <mj-text>Our community is strengthened by the diverse experiences and perspectives of our students, staff, and faculty. No matter your background or status, Humboldt values you and everything you bring to our community.</mj-text>
+
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/chrissyHOlliday_signature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+        <mj-text>Chrissy Holliday <br>
+          Vice President for Enrollment Management & Student Success</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
