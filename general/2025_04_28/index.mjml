@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>2025-26 Budget Update: A Milestone in Shared Governance and Strategic Planning</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            April 28, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+               2025-26 Budget Update: A Milestone in Shared Governance and Strategic Planning
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Campus Community,
+        </mj-text>
+        <mj-text>The President has approved the University Resources & Planning Committee (URPC) budget recommendation for the 2025-26 fiscal year. The recommendation is available <a href="https://www.humboldt.edu/sites/default/files/budget/2025-04/22-2425-urpc-resolution-urpc-budget-recommendation-2025-2026.pdf">here
+        </a> and on the <a href="https://www.humboldt.edu/budget/urpc">URPC website</a>. </mj-text>
+
+<mj-text>While we must continue to monitor the California state and CSU budgets as they evolve over the coming months, thanks to the diligent work of our campus community, we are entering the 2025-26 fiscal year with an approved draft budget that is reflective of the priorities and principles of our university. This outcome is a testament to the collaborative spirit, strategic thinking, and hard decisions that have shaped our path forward. It is also a powerful affirmation of what we can achieve together when we engage in transparent, inclusive planning.</mj-text>
+
+<mj-text>I would like to extend my gratitude to the members of the URPC and to all who participated in our budget process. Your voices, your expertise, and your dedication reflect months of thoughtful analysis, community input, and a commitment to shared governance.</mj-text>
+
+<mj-text>Together, we are building a resilient future for Cal Poly Humboldt.</mj-text>
+        <mj-text>
+          Sincerely,
+
+        </mj-text>
+
+
+        <mj-text>Michael Fisher <br>
+          Acting Vice President for Administrative Affairs and Chief Financial Officer
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
