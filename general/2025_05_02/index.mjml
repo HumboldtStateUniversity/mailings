@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-title>Presidential Search Update</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+            A Message from the Chancellor's Office
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            May 2, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Presidential Search Update
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text padding-bottom="40px"><em>The message below is being sent on behalf of CSU Chancellor Mildred García</em></mj-text>
+        <mj-text>Dear Colleagues,</mj-text>
+        <mj-text>I write to provide you with an update regarding the search for the next president for California State Polytechnic University, Humboldt. First, I want to thank the members of the Presidential Search Committee representing the campus and the broader community. Without exception, they have been thoughtful, insightful and diligent in their work. </mj-text>
+
+<mj-text>Given their good work, three individuals were recommended to the CSU Board of Trustees for further consideration as finalists for the presidency. Additional meetings and interviews were conducted with Board leadership, the full Board and me, all while we simultaneously performed all appropriate due diligence to further vet the candidates. Unfortunately, two candidates ultimately withdrew from the process, and we were unable to agree to terms with the Board’s top candidate. </mj-text>
+ <mj-text padding-bottom="0">
+   As we acknowledged to the Presidential Search Committee earlier this week, this was a disappointing outcome for all of us. However, the Board and I remain optimistic and are united in our resolve to identify Cal Poly Humboldt’s next great leader – the university’s 9th president. To that end, our search partners from the nationally acclaimed firm Academic Search have redoubled their recruitment efforts, and they join in our confidence that there remain highly qualified and talented prospects for this critically important position. And I am pleased to report that our outstanding Presidential Search Committee will continue its work through this process.
+</mj-text>
+<mj-text>Additionally, I am extremely pleased to announce that Interim President Michael Spagna will continue to serve the Cal Poly Humboldt community through the fall term. We are fortunate to have his steadying leadership through this process, and we owe our colleagues at CSU Dominguez Hills a debt of gratitude for sharing his talents with us. I am confident that you will continue to support his efforts to move Cal Poly Humboldt forward during this time of transition. </mj-text>
+
+<mj-text>The search for a campus president is among my most important responsibilities as chancellor, as it is for our Board of Trustees. It is a responsibility that we take very seriously, and our expectations are extremely high. Please be assured that we are moving forward with an unwavering commitment to identify the next, best leader for the extended Cal Poly Humboldt community. </mj-text>
+
+<mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/garcia.png" alt="" width="200px" align="left"/>
+
+        <mj-text>Mildred García, Ed.D. <br>
+          Chancellor<br />
+          The California State University</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
