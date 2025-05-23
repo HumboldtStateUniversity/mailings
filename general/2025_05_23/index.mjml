@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-title>Update on Civil Rights Complaint</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from the President
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            May 23, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+              Update on Civil Rights Complaint
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjack Community,</mj-text>
+        <mj-text>Cal Poly Humboldt will always be a university where we support the rights of students and faculty to speak their minds freely. And in no uncertain terms: we have zero tolerance for antisemitism, discrimination, harassment, or any actions and speech that infringe on the rights, dignities, or safety of others.</mj-text>
+
+<mj-text>As part of our ongoing commitment to these values, we want to provide an update on a recent development. In March, we shared that the Brandeis Center had filed a federal civil rights complaint against Cal Poly Humboldt and other universities. The U.S. Department of Education’s Office for Civil Rights (OCR) has now formally opened an investigation into the complaint.</mj-text>
+
+<mj-text>We are working closely with The California State University to respond to OCR’s investigation and ensure we are compliant with all federal requirements. At this stage, we are not able to share any additional information, but we remain committed to addressing the process thoughtfully and responsibly. We also recognize that this may be an especially difficult and painful time for our Jewish students, faculty, and staff, and we are committed to doing everything in our power to ensure our entire campus community can feel safe to learn, grow and thrive.</mj-text>
+
+<mj-text>Moving forward, we reaffirm our commitment to fostering an inclusive, respectful environment where every member of our community can feel safe to learn, grow, and thrive.</mj-text>
+        <mj-text>Anyone who witnesses antisemitism, discrimination, harassment or any actions and speech that infringe
+          on the rights, dignities or safety of others is encouraged to report it to the Title IX and Discrimination,
+          Harassment & Retaliation Prevention Office at <a href="https://humboldt.edu/reporting">
+            humboldt.edu/reporting</a>, or to contact the University Police Department at (707) 826-5555. Students may
+          also reach out to the Dean of Students Office at <a href="mailto:dos@humboldt.edu">dos@humboldt.edu</a> or
+          (707) 826-3504 with any questions or concerns.
+        </mj-text>
+        <mj-text>Please join me in thanking Mark and wishing him well in the years ahead.</mj-text>
+        <mj-text>
+          Sincerely,
+
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
+
+        <mj-text>Michael E. Spagna, Ph.D. <br>
+          Interim President
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
