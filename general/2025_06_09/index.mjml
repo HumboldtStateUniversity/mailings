@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-title>Immigration Information and Support at Humboldt</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; text-decoration: underline; } a.dark { color: #864e27; } li { padding-bottom:16px; } ol { margin-top: 0px; margin-bottom: 0px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">June 9, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Immigration Information and Support at Humboldt</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text> Dear Campus Community, </mj-text>
+        <mj-text> In times of uncertainty regarding immigration, it’s important to know where to turn for accurate information and support resources. We want to remind our campus community of Cal Poly Humboldt’s <a href="https://www.humboldt.edu/immigration">Immigration Rights and Resources website</a>, which serves as a central hub for guidance, legal services, Dreamer student resources, and updates from the California State University. </mj-text>
+        <mj-text> We encourage everyone to review the site and share it widely. It includes a Quick Guide <a href="https://www.humboldt.edu/sites/default/files/marketing-communications/2025-04/immigration-quickguidecard.pdf">card</a> and <a href="https://www.humboldt.edu/sites/default/files/immigration/2025-05/immigrationquickguideflyer.pdf">flyer</a> outlining what to do if you encounter immigration officials on campus, as well as contacts and tools to help protect your rights and privacy.</mj-text>
+        <mj-text> If your office or department would like additional copies of the Quick Guide cards, please email Marketing & Communications at <a href="mailto:marcom@humboldt.edu">marcom@humboldt.edu</a> to request more.</mj-text>
+        <mj-text> Cal Poly Humboldt remains committed to fostering a community where everyone—regardless of immigration status—feels safe, informed, and empowered. Please take a moment to explore these resources and know that you are not alone. By staying informed and connected, we can continue building a more inclusive and supportive campus for everyone. </mj-text>
+        <mj-text>Warmly,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/capps-sig.png" width="175px" alt="Sherie Gordon's signature" align="left" padding-top="20px" />
+        <mj-text padding-bottom="20px" padding-top="0px">
+          <strong>Jenn Capps</strong><br />Provost and Vice President for Academic Affairs
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
