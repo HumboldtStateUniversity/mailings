@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Save the Date – College Colors Day is September 19th!</mj-title>
+    <mj-title>Save the Date: College Colors Day is Sept. 19</mj-title>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
@@ -63,7 +63,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
             August 27, 2025</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-            Save the Date – College Colors Day is Sept. 19!
+            Save the Date: College Colors Day is Sept. 19
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -72,22 +72,21 @@
     <mj-section css-class="light-wrap" padding-bottom="20px">
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2025_08_27/54000891153_88b8bf22a8_k.jpg" alt="Marching Lumberjacks with instruments" />
-        <mj-text>Mark your calendars and get ready to show your school spirit — <strong>College Colors Day</strong> is back on
-          <strong>Friday, September 19!</strong></mj-text>
+        <mj-text>Mark your calendars and get ready to show your school spirit at <strong>College Colors Day, Friday,
+          Sept. 19</strong>.</mj-text>
         <mj-text>
           Join us for a campus-wide celebration filled with: <br>
           <ul>
             <li>Free food and music</li>
             <li>Face painting</li>
             <li>Fun field games</li>
-            <li>The <strong>Third Annual Kickball Tournament</strong>—Will anyone finally dethrone reigning champs <em>
-              Too Legit to Kick</em>?</li>
+            <li>The <strong>Third Annual Kickball Tournament</strong> (Will anyone finally dethrone reigning champs 2 Legit 2 Kick?)</li>
           </ul>
         </mj-text>
-        <mj-text>Bring your energy, your team colors, and your competitive spirit. Whether you’re battling for the trophy, painting your face, or just enjoying the music and atmosphere, it’s going to be an afternoon to remember — and it’s <strong>
+        <mj-text padding-top="0">Bring your energy, your team colors, and your competitive spirit. Whether you’re battling for the trophy, painting your face, or just enjoying the music and atmosphere, it’s going to be an afternoon to remember. And it’s <strong>
           all FREE</strong>!</mj-text>
         <mj-text>
-          <strong>Don’t miss it—Friday, September 19!</strong></mj-text>
+          <strong>Don’t miss it—Friday, Sept. 19!</strong></mj-text>
       </mj-column>
 
     </mj-section>
