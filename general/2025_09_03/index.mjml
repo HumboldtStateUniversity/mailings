@@ -34,30 +34,27 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
 
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2025_09_03/LJWeekend_WebHeader_BlockParty.jpg" alt="Lumberjack Weekend - Homecoming - Featuring The Beach Boys" />
+        <mj-image src="https://mailings.humboldt.edu/general/2025_09_03/LJWeekend_EmailHeader_opt.jpg" alt="Lumberjack Weekend Oct 2-5, Block Party Oct 4 with Parliament Funkadelic featuring George Clinton" />
         <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend! <br>October 2–5</mj-text>
         <mj-text>
-          <a href="http://homecoming.humboldt.edu">Lumberjack Weekend</a> is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.</mj-text>
+          <a href="https://homecoming.humboldt.edu">Lumberjack Weekend</a> is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.</mj-text>
         <mj-text>
           <strong>All participants need to register</strong> - Students, staff and faculty have the option to register for free or for a fee with a custom canvas tote. </mj-text>
         <mj-text font-size="18px">
           <strong>Weekend Highlights</strong></mj-text>
         <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Distinguished Alumni Dinner
-        </strong> and the <strong>
-          Drag Show: Camp Cryptic</strong>.</mj-text>
-        <mj-text>Other highlights include the <strong>Fall Maker’s Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. - 2 p.m. at the University Quad, and a <strong>
-          Forever Humboldt Redwood Walk
-        </strong> on Sunday morning at 10 a.m.</mj-text>
+        </strong> and the <strong>Camp Cryptic Drag Show</strong>.</mj-text>
+        <mj-text>Other highlights include the <strong>Fall Maker's Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. – 2 p.m. at the University Quad, men’s and women’s soccer vs. Cal State San Marcos on Friday starting at 12:30 p.m., and a <strong>
+          Forever Humboldt Redwood Walk</strong> on Sunday morning at 10 a.m.</mj-text>
         <mj-text font-size="18px"><strong>Lumberjack Weekend Block Party</strong></mj-text>
-        <mj-text>Saturday from 4:00 p.m. - 8 p.m. in the G11 and FS9 parking lots</mj-text>
-        <mj-text>Come for the funk, stay for the festivities — it’s a party you won’t want to miss!The Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! Plus, the first 600 students get a free food truck meal coupon—come join the fun!</mj-text>
-        <mj-text>This year’s block party will feature Parliament/Funkadelic with the legendary George Clinton — a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums. From influencing Kendrick Lamar to rocking Trolls World Tour, George Clinton’s legacy spans generations and genres!</mj-text>
+        <mj-text>Saturday from 4 p.m. – 9 p.m. in the <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf">G11 and FS9 parking lots</a>.</mj-text>
+        <mj-text>This year’s Block Party will feature Parliament Funkadelic with the legendary George Clinton—a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums. From influencing Kendrick Lamar to rocking Trolls World Tour, George Clinton’s legacy spans generations and genres!</mj-text>
+        <mj-text>The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! <strong>
+          Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. Come for the funk, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
         <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=7738467f-a2c6-4b0e-a504-3f9a0c8b7993&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
         <mj-divider/>
         <mj-text font-size="18px" align="center">Find the full schedule and registration details:</mj-text>
         <mj-button href="https://humboldt.edu/homecoming">Lumberjack Weekend website</mj-button>
-        <mj-text font-size="18px" align="center">Don't miss out on this memorable weekend! </mj-text>
-        <mj-divider/>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
