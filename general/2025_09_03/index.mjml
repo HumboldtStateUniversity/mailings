@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>Get ready to show your Green and Gold spirit for Lumberjack Weekend!</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 3, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">You’re Invited to Lumberjack Weekend!</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/general/2025_09_03/LJWeekend_WebHeader_BlockParty.jpg" alt="Lumberjack Weekend - Homecoming - Featuring The Beach Boys" />
+        <mj-text font-size="28px" line-height="1.3">Get ready to show your Green and Gold spirit for Lumberjack Weekend! <br>October 2–5</mj-text>
+        <mj-text>
+          <a href="http://homecoming.humboldt.edu">Lumberjack Weekend</a> is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.</mj-text>
+        <mj-text>
+          <strong>All participants need to register</strong> - Students, staff and faculty have the option to register for free or for a fee with a custom canvas tote. </mj-text>
+        <mj-text font-size="18px">
+          <strong>Weekend Highlights</strong></mj-text>
+        <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Distinguished Alumni Dinner
+        </strong> and the <strong>
+          Drag Show: Camp Cryptic</strong>.</mj-text>
+        <mj-text>Other highlights include the <strong>Fall Maker’s Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. - 2 p.m. at the University Quad, and a <strong>
+          Forever Humboldt Redwood Walk
+        </strong> on Sunday morning at 10 a.m.</mj-text>
+        <mj-text font-size="18px"><strong>Lumberjack Weekend Block Party</strong></mj-text>
+        <mj-text>Saturday from 4:00 p.m. - 8 p.m. in the G11 and FS9 parking lots</mj-text>
+        <mj-text>Come for the funk, stay for the festivities — it’s a party you won’t want to miss!The Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! Plus, the first 600 students get a free food truck meal coupon—come join the fun!</mj-text>
+        <mj-text>This year’s block party will feature Parliament/Funkadelic with the legendary George Clinton — a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums. From influencing Kendrick Lamar to rocking Trolls World Tour, George Clinton’s legacy spans generations and genres!</mj-text>
+        <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=7738467f-a2c6-4b0e-a504-3f9a0c8b7993&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
+        <mj-divider/>
+        <mj-text font-size="18px" align="center">Find the full schedule and registration details:</mj-text>
+        <mj-button href="https://humboldt.edu/homecoming">Lumberjack Weekend website</mj-button>
+        <mj-text font-size="18px" align="center">Don't miss out on this memorable weekend! </mj-text>
+        <mj-divider/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
