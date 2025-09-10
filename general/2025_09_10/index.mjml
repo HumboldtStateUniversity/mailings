@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+    <mj-title>Richard A. Carvajal Appointed President of Cal Poly Humboldt</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 10, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Richard A. Carvajal Appointed President of <br> Cal Poly Humboldt</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" >
+       <mj-column> <mj-text padding-bottom="40px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text></mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column width="60%">
+
+        <mj-text>The California State University (CSU) Board of Trustees has appointed <a href="https://www.humboldt.edu/president-search">Richard A. Carvajal</a> as president of California State Polytechnic University, Humboldt. Carvajal currently serves as president of Valdosta State University, a doctoral-granting, public university located in Valdosta, Georgia.</mj-text>
+
+        <mj-text>Carvajal becomes the ninth president of Cal Poly Humboldt, and the first Latino to lead the institution.</mj-text>
+      </mj-column>
+      <mj-column width="40%"> <mj-image src="https://mailings.humboldt.edu/general/2024_08_09/Carvajal.jpg"  alt="Carvajal Portrait" /></mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="0">
+
+      <mj-column>
+
+
+        <mj-text>“Growing up in Humboldt County, I often dreamed of attending Cal Poly Humboldt – then Humboldt State – but never imagined I would one day become its president. So, to return to my roots in this role is a true honor,” Carvajal said. “This university represents so much promise and potential for the residents of California’s north coast, and its polytechnic designation expands its impact across the region and the state. I look forward to proudly joining the Cal Poly Humboldt faculty and staff in their work educating learners and taking the institution to new heights.</mj-text>
+        <mj-text>“Dr.Carvajal stood out among an impressive pool of candidates with his proven record of spurring growth and fostering positive change at the universities he’s led, as well as for his inclusive and collaborative leadership style,”said CSU Trustee Leslie Gilbert-Lurie, who chaired the presidential search committee.“As a first-generation college graduate whose life has been transformed through the power of higher education, Dr. Carvajal’s lived experience mirrors that of so many of Cal Poly Humboldt’s students, who will benefit from his unwavering focus on student success and well-being.”</mj-text>
+        <mj-text>
+          Carvajal has served as president of Valdosta State University since 2017, where he led a campuswide consultative goal-setting and strategic planning effort that paved the way for a seven-percent increase in freshman retention and continuous year-over-year increases in enrollment. Under his leadership, Valdosta State has added programs in data science and other in-demand STEM fields and has significantly increased hands-on learning opportunities for all majors, while retaining and strengthening programs in the arts, business and the health sciences.
+        </mj-text>
+        <mj-text>Prior to leading Valdosta State, Carvajal served a year as interim president at Darton State College and five years as president of Bainbridge State College, both located in Georgia. He previously held senior leadership positions at institutions in Washington and Kansas, as well as administrative positions at liberal arts colleges in South Carolina and Illinois.</mj-text>
+
+        <mj-text>As noted above, Carvajal is a first-generation college graduate and earned a bachelor’s degree in mass communications and sociology from Oklahoma’s East Central University, a master’s in college student personnel administration from Southern Illinois University at Carbondale, and a doctorate in educational administration from the University of South Carolina.</mj-text>
+        <mj-text>Carvajal will assume the University’s presidency on January 20, 2026.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
