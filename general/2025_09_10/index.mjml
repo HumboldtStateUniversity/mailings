@@ -31,7 +31,7 @@
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" >
-       <mj-column> <mj-text padding-bottom="40px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text></mj-column>
+       <mj-column> <mj-text padding-bottom="20px"><em>The following message is sent on behalf of the CSU Office of the Chancellor.</em></mj-text></mj-column>
     </mj-section>
     <mj-section css-class="light-wrap">
       <mj-column width="60%">
@@ -56,6 +56,7 @@
 
         <mj-text>As noted above, Carvajal is a first-generation college graduate and earned a bachelor’s degree in mass communications and sociology from Oklahoma’s East Central University, a master’s in college student personnel administration from Southern Illinois University at Carbondale, and a doctorate in educational administration from the University of South Carolina.</mj-text>
         <mj-text>Carvajal will assume the University’s presidency on January 20, 2026.</mj-text>
+        <mj-button href="https://www.humboldt.edu/sites/default/files/president-search/2025-09/carvajal-cv.pdf">Dr. Carvajal's CV</mj-button>
 
       </mj-column>
     </mj-section>
