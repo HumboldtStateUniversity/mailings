@@ -1,0 +1,78 @@
+<mjml>
+  <mj-head>
+    <mj-title>Kick Off the Fun with College Colors Day and the Kickball Tournament!</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 12, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Kick Off the Fun with College Colors Day and the Kickball Tournament!</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+    <!-- video screen shot with link-->
+        <mj-image href="https://vimeo.com/1118190828?share=copy#t=0" src="videoStill.jpg"/>
+        <mj-text>Get ready, Lumberjacks—next week is all about <strong>kickball, campus pride, and community fun!
+        </strong> Eight teams of students, alumni, faculty, and staff will face off in the ultimate showdown for the kickball trophy. </mj-text>
+        <mj-text>The action kicks off at Redwood Bowl at Noon Monday through Thursday:</mj-text>
+        <mj-text>
+          <ul>
+            <li>
+              <strong>Monday, Sept. 15</strong> <br>
+              OH HEY HEY! vs. Kicking it Old School <br>
+              Academic Affairs vs. Academic Affairs</li>
+            <li>
+              <strong>Tuesday, Sept. 16</strong> <br>
+              Lumberjack Legends vs. Jack Attack <br>
+              Alumni vs. Students</li>
+            <li>
+              <strong>Wednesday, Sept. 17</strong> <br>
+              2 Legit 2 Kick vs. Pitch, Please! <br>
+              Athletics/Advancement vs. Academic Affairs</li>
+            <li>
+              <strong>Thursday, Sept. 18</strong> <br>
+              A Case of the Runs vs. Kickin’ Assets <br>
+              Enrollment Management &amp; Student Affairs vs. Administrative Affairs</li>
+          </ul>
+        </mj-text>
+        <mj-text>Then, on <strong>Friday, Sept. 19</strong>, it all comes together on the <strong>Upper Playing Field
+        </strong> (near Redwood Bowl) from <strong>Noon until 6</strong> for <strong>College Colors Day</strong>! The playoffs and the championship game will decide who takes home the glory. </mj-text>
+
+        <mj-text>But that’s not all—we’ll have <strong>free food, music, face painting, and games for the whole
+          family</strong>. Wear your green and gold and help us turn the field into a sea of Lumberjack pride. </mj-text>
+        <mj-text>And if you can’t catch every game in person, follow <a href="https://www.instagram.com/humboldtprez">President Spagna on Instagram</a> for daily Instagram Stories with tournament results and winners.</mj-text>
+        <mj-text>The stage is set. The trash talk is heating up. The trophy is waiting. Will a new champion rise—or will the two-time reigning champions, 2 Legit 2 Kick, prove unstoppable yet again?</mj-text>
+        <mj-text>Don’t miss it—this year’s College Colors Day is going to be a kick!</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
