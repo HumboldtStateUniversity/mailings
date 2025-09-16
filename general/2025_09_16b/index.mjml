@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dean of Students Office Interim Leadership</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 16, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Dean of Students Office Interim Leadership</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+    <!-- video screen shot with link-->
+        <mj-text>Campus colleagues:</mj-text>
+        <mj-text>In August, I <a href="https://apex.humboldt.edu/ords/apex_main/batch_email/269">shared a communication</a> regarding significant personnel shifts within the Division of Enrollment Management & Student Success (EMSS). Today, I want to focus on the Associate Vice President of Student Success and Dean of Students (AVP/DoS) role following Mitch Mitchell’s upcoming departure in December.</mj-text>
+        <mj-text>
+<strong>Interim Dean of Students</strong>
+        </mj-text>
+        <mj-text>I am pleased to announce that <strong>Ravin Craig</strong>, Director of Student Life, will serve as <strong>
+          Interim Dean of Students</strong>. She will begin formally shadowing Mitch on November 1 to ensure a smooth transition.
+
+        </mj-text>
+
+        <mj-text>Ravin has been a member of the Cal Poly Humboldt campus community for 19 years, first as a student, then as staff member for the past 12 years. In her current role, she oversees Youth Educational Services, the Social Justice, Equity & Inclusion Center, Registered Student Organizations, and new student orientation. She leads campus-wide initiatives such as civic engagement, student organization conduct, leadership development, and the Outstanding Student Awards Program, and has also stepped in to support CARE services and the DoS office during critical times.</mj-text>
+        <mj-text>Earlier in her career, Ravin served as a Health Educator and coordinated the Oh SNAP! Student Food Programs, transforming it into a leading initiative that addressed food insecurity, advanced food justice, and expanded support through CalFresh outreach and emergency housing programs.</mj-text>
+        <mj-text>Ravin’s depth of experience, collaborative approach, and steady, thoughtful leadership make her an excellent choice to guide the DoS office during this transition.</mj-text>
+        <mj-text><strong>Student Life</strong></mj-text>
+        <mj-text>Ravin’s move creates shifts within Student Life. <strong>Ash Hansen</strong>, who oversees Orientation, will serve as <strong>
+          Interim Director of Student Life</strong>, bringing strong organizational and planning skills to the role. <strong>
+          Marylisa Wood will coordinate Orientation
+        </strong> in the interim and has also accepted a permanent shift into a Club & Activities Coordinator role, recognizing the importance of student activities on this campus to our overall efforts in belonging and student success.
+        </mj-text>
+        <mj-text><strong>Cultural Centers for Academic Excellence</strong></mj-text>
+        <mj-text>Our Cultural Centers for Academic Excellence (CCAEs) are key to student belonging and success, directly supporting retention and graduation. Over the past year, Ravin has guided them through a four-phase improvement plan, including the development of additional centers to meet growing needs.</mj-text>
+        <mj-text>To sustain this momentum, <strong>J.d. Garza-Valencia, Career Development Director, will also serve as
+
+          temporary Director of the CCAEs</strong>. His background in advising, career integration, and community development positions him to guide the centers’ growth, strengthen partnerships, and expand their impact on student success. This director role is funded through use of one-time division roll forward, and planning for long-term resources remains part of the improvement process presented to campus leadership and University Senate.</mj-text>
+<mj-text><strong>Future Plans</strong></mj-text>
+        <mj-text>We will begin a national search in the spring with the goal of onboarding a permanent AVP/DoS by Summer 2026.</mj-text>
+        <mj-text><strong>I am deeply proud of and grateful for the EMSS colleagues who have stepped forward to guide
+          our students through this transition</strong>. We are fortunate to have leaders like Ravin, Ash, Marylisa, and J.d. who bring their expertise and commitment to student success, allowing us to offer opportunities for internal growth and development while maintaining our drive for continued excellence. I am also thankful for the <strong>
+          administrative and budget support teams
+        </strong> whose planning and extra effort have made these changes possible while lessening impacts on students and colleagues across campus.</mj-text>
+        <mj-text>Please join me in congratulating our colleagues on their expanded roles and in supporting their continued success in the months ahead.</mj-text>
+        <mj-text>Sincerely,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/chrissyHolliday_signature.png" alt="Chrissy Holliday" width="200px" align="left"/>
+        <mj-text>Chrissy Holliday <br>
+          Vice President for Enrollment Management & Student Success</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
