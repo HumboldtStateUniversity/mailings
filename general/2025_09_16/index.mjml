@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+    <mj-title>Loss of Student Nicholas Reed</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#444" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:12px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #FFFFFF;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">
+             A Message from Cal Poly Humboldt
+          </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
+            September 16, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
+            Loss of Student Nicholas Reed
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+       <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>We are saddened to share news of the loss of student Nicholas Reed. Nicholas’ death is a loss for the Cal Poly Humboldt community, and our thoughts are with all of those who are close to him. </mj-text>
+        <mj-text>Nicholas was a senior Environmental Studies major and an active member of the campus Environmental Studies Club. Nicholas was known for his huge heart, his kindness, and his ability to connect with anyone through genuine conversation. He cared deeply about people, the Earth, and the importance of community. Passionate about marine ecosystems, he came to California with the hope of helping to save kelp.</mj-text>
+        <mj-text>Nicholas recently shared his enthusiasm for just and communal food systems, participating in land stewardship at the Rou Dalagurr Food Sovereignty Lab, where he expressed joy in the work, pride in his contributions, and excitement to engage further with the community.</mj-text>
+        <mj-text>Nicholas was a joyful presence in and out of the classroom. He regularly attended campus gatherings, eager to connect with others, and is remembered by his professors as a thoughtful, compassionate student, and by all who knew him for his warmth, generosity, and spirit of connection.</mj-text>
+
+        <mj-text>For support, students can reach out to Counseling & Psychological Services (CAPS) at <a href="mailto:caps@humboldt.edu">caps@humboldt.edu</a> or <a href="tel:17078263236">(707) 826-3236</a>or access 24/7 telehealth support through<a href="https://timely.md/schools/index.html?school=calpolyhumboldt">TimelyCare’s “TalkNow” feature</a>, and faculty and staff can receive confidential support through the Employee Assistance Program, available 24/7 through <a href="https://www.humboldt.edu/hr/employee-benefits/employee-assistance-program">Empathia</a>.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
