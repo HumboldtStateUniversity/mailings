@@ -24,7 +24,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 3, 2025</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 24, 2025</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Register for Lumberjack Weekend!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -35,7 +35,7 @@
 
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2025_09_03/LJWeekend_EmailHeader_opt.jpg" alt="Lumberjack Weekend Oct 2-5, Block Party Oct 4 with Parliament Funkadelic featuring George Clinton" />
-        <mj-text font-size="28px" line-height="1.3" align="center">Get ready to show your Green &amp; Gold spirit for Lumberjack Weekend!</mj-text>
+        <mj-text font-size="28px" line-height="1.3" align="center">Don’t forget to register for Lumberjack Weekend!</mj-text>
         <mj-text align="center" font-size="24px" font-weight="bold" padding-bottom="25px">October 2–5</mj-text>
         <mj-text>
           <a href="https://homecoming.humboldt.edu">Lumberjack Weekend</a> is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.</mj-text>
