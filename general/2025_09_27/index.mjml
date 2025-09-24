@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-title>There’s still time to register for Lumberjack Weekend</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 24, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">There’s still time to register for Lumberjack Weekend</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/general/2025_09_03/LJWeekend_EmailHeader_opt.jpg" alt="Lumberjack Weekend Oct 2-5, Block Party Oct 4 with Parliament Funkadelic featuring George Clinton" />
+        <mj-text font-size="28px" line-height="1.3" align="center">Lumberjack Weekend is just around the corner!</mj-text>
+        <mj-text align="center" font-size="24px" font-weight="bold" padding-bottom="25px">October 2–5</mj-text>
+        <mj-text>
+          <a href="https://homecoming.humboldt.edu">Lumberjack Weekend</a> is all about building pride and celebrating our Lumberjack family of students, staff, faculty, alumni, families, and friends.</mj-text>
+        <mj-text padding-bottom="25px">
+          <em>
+            <strong>All participants need to register—but don’t worry, there’s still time!</strong>
+            Students, staff and faculty have the option to register for free or for a fee with a custom canvas tote.
+          </em></mj-text>
+        <mj-text font-size="18px">
+          <strong>Check-In times and locations</strong></mj-text>
+        <mj-text>Wristbands and pre-purchased totes will be available for pick up at Check-In. Please be sure to check in as early as possible in the week so you don't have to wait in lines.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0">
+          <ul>
+            <li>Thursday, Oct. 2 | University Quad | 9 a.m. – 4 p.m.</li>
+            <li>Friday, Oct. 3 |  University Quad | 9 a.m. – 4 p.m.</li>
+            <li>Saturday, Oct. 4 | Block Party Entrance | 10 a.m. – 4 p.m.</li>
+          </ul>
+        </mj-text>
+
+        <mj-text font-size="18px">
+          <strong>Parking</strong></mj-text>
+        <mj-text>As part of the Lumberjack Weekend Block Party, <a href="https://www.humboldt.edu/sites/default/files/homecoming/2025-09/lj-weekend-full-bw-map.pdf">some parking lots and roads</a> will be closed Friday, Oct. 3 through Sunday, Oct. 5:</mj-text>
+        <mj-text padding-top="0" padding-bottom="0">
+          <ul>
+            <li>Lot FS9—Closed all day Friday, Oct. 3 until 1 p.m. on Sunday, Oct. 5</li>
+            <li>Lot G11—The east part of the lot will be closed from 5 p.m. Friday, Oct. 3, to 1 p.m. on Sunday, Oct. 5. While you may still park in the west section of the lot, if you move your car during the event, you won’t be able to return until Saturday after 10 p.m.</li>
+            <li>Laurel Drive will be closed at the intersection of Harpst Street, 7:50 – 8:30 p.m. on Saturday, Oct. 4.</li>
+            <li>Union Street near Forbes Gym will be closed 7:50 – 8:30 p.m. on Saturday, Oct. 4.</li>
+          </ul>
+        </mj-text>
+        <mj-text>Consider alternative modes of transportation or park in a different lot on Friday, Oct. 3 and Saturday, Oct. 4.</mj-text>
+        <mj-text font-size="18px">
+          <strong>Weekend Highlights</strong></mj-text>
+        <mj-text>Lumberjack Weekend activities begin Thursday evening with the <strong>Distinguished Alumni Dinner
+        </strong> and the <strong>Camp Cryptic Drag Show</strong>.</mj-text>
+        <mj-text>Other highlights include the <strong>Fall Maker's Market</strong> featuring student and staff craft vendors on Friday from 11 a.m. – 2 p.m. at the University Quad, <strong>
+          men’s and women’s soccer vs. Cal State San Marcos
+        </strong> on Friday starting at 12:30 p.m., and a <strong>
+          Forever Humboldt Redwood Walk</strong> on Sunday morning at 10 a.m.</mj-text>
+        <mj-text font-size="18px"><strong>Lumberjack Weekend Block Party</strong></mj-text>
+        <mj-text>
+          <strong>Saturday from 4 p.m. – 9 p.m. in the
+            <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf">G11 and FS9 parking lots</a></strong>.</mj-text>
+        <mj-text><strong>See the <a href="https://www.humboldt.edu/homecoming/lumberjack-weekend-block-party-faq">Block Party FAQ</a> for more information.</strong></mj-text>
+        <mj-text>This year’s Block Party will feature Parliament Funkadelic with the legendary George Clinton—a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums. From influencing Kendrick Lamar to rocking Trolls World Tour, George Clinton’s legacy spans generations and genres!</mj-text>
+        <mj-text>The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! <strong>
+          Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. Come for the funk, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
+        <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=7738467f-a2c6-4b0e-a504-3f9a0c8b7993&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
+        <mj-divider/>
+        <mj-text font-size="18px" align="center">Full schedule and registration details</mj-text>
+        <mj-button href="https://humboldt.edu/homecoming">Lumberjack Weekend website</mj-button>
+        <mj-text>
+          <strong>
+            <em>Note: Sound equipment will be tested in the afternoon on Friday, Oct. 3. This may impact activities
+              in the nearby area, including Student & Business Services and Gist Hall.
+            </em></strong></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
