@@ -57,13 +57,12 @@
 
         <mj-text font-size="18px">
           <strong>Parking</strong></mj-text>
-        <mj-text>As part of the Lumberjack Weekend Block Party, <a href="https://www.humboldt.edu/sites/default/files/homecoming/2025-09/lj-weekend-full-bw-map.pdf">some parking lots and roads</a> will be closed Friday, Oct. 3 through Sunday, Oct. 5:</mj-text>
+        <mj-text>As part of the Lumberjack Weekend Block Party, <a href="https://www.humboldt.edu/sites/default/files/homecoming/2025-09/lj-weekend-full-bw-map.pdf">some parking lots and roads</a> will be closed Thursday, Oct. 2 through Sunday, Oct. 5:</mj-text>
         <mj-text padding-top="0" padding-bottom="0">
           <ul>
-            <li>Lot FS9—Closed all day Friday, Oct. 3 until 1 p.m. on Sunday, Oct. 5</li>
-            <li>Lot G11—The east part of the lot will be closed from 5 p.m. Friday, Oct. 3, to 1 p.m. on Sunday, Oct. 5. While you may still park in the west section of the lot, if you move your car during the event, you won’t be able to return until Saturday after 10 p.m.</li>
-            <li>Laurel Drive will be closed at the intersection of Harpst Street, 7:50 – 8:30 p.m. on Saturday, Oct. 4.</li>
-            <li>Union Street near Forbes Gym will be closed 7:50 – 8:30 p.m. on Saturday, Oct. 4.</li>
+            <li>Lot FS9—Closed from 8 p.m. Thursday, Oct. 2 until 2 p.m. on Sunday, Oct. 5</li>
+            <li>Lot G11—Closed from 5 p.m. Friday, Oct. 3, to 10 a.m. on Sunday, Oct. 5.</li>
+            <li>North Rossow Street and the entrance to Lot G11 from Harpst St. will be closed all day Saturday, Oct. 4</li>
           </ul>
         </mj-text>
         <mj-text>Consider alternative modes of transportation or park in a different lot on Friday, Oct. 3 and Saturday, Oct. 4.</mj-text>
@@ -80,7 +79,8 @@
           <strong>Saturday from 4 p.m. – 9 p.m. in the
             <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf">G11 and FS9 parking lots</a></strong>.</mj-text>
         <mj-text><strong>See the <a href="https://www.humboldt.edu/homecoming/lumberjack-weekend-block-party-faq">Block Party FAQ</a> for more information.</strong></mj-text>
-        <mj-text>This year’s Block Party will feature Parliament Funkadelic with the legendary George Clinton—a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums. From influencing Kendrick Lamar to rocking Trolls World Tour, George Clinton’s legacy spans generations and genres!</mj-text>
+        <mj-text>This year’s Block Party will feature Parliament Funkadelic with the legendary George Clinton—a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums.
+          The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! Plus, the first 600 students to arrive get a free food truck meal coupon.</mj-text>
         <mj-text>The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! <strong>
           Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. Come for the funk, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
         <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=7738467f-a2c6-4b0e-a504-3f9a0c8b7993&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
