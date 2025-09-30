@@ -77,12 +77,14 @@
         <mj-text font-size="18px"><strong>Lumberjack Weekend Block Party</strong></mj-text>
         <mj-text>
           <strong>Saturday from 4 p.m. – 9 p.m. in the
-            <a href="https://www.humboldt.edu/sites/default/files/2023-01/campusmap.pdf">G11 and FS9 parking lots</a></strong>.</mj-text>
-        <mj-text><strong>See the <a href="https://www.humboldt.edu/homecoming/lumberjack-weekend-block-party-faq">Block Party FAQ</a> for more information.</strong></mj-text>
+            <a href="https://www.humboldt.edu/sites/default/files/homecoming/2025-09/lj-weekend-full-bw-map.pdf">G11 and FS9 parking lots</a></strong>. <br>
+        <strong>See the <a href="https://www.humboldt.edu/homecoming/lumberjack-weekend-block-party-faq">Block Party FAQ</a> for more information.</strong></mj-text>
         <mj-text>This year’s Block Party will feature Parliament Funkadelic with the legendary George Clinton—a funk powerhouse with over 40 R&B hits, three #1 singles, and three platinum albums.
-          The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! Plus, the first 600 students to arrive get a free food truck meal coupon.</mj-text>
+          </mj-text>
         <mj-text>The family-friendly Block Party will have carnival games, food trucks, free Jersey Scoops ice cream (while supplies last), face painting, speed sketchers, balloon artists, bounce houses, and more! <strong>
-          Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. Come for the funk, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
+          Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. </mj-text>
+        <mj-text>For everyone’s safety, all bags are subject to a security check upon entry.
+        </mj-text>
         <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=7738467f-a2c6-4b0e-a504-3f9a0c8b7993&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
         <mj-divider/>
         <mj-text font-size="18px" align="center">Full schedule and registration details</mj-text>
