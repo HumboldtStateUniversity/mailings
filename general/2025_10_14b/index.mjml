@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+    <mj-title>Take the Student Survey! Enter to Win an iPad or other prizes!</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">October 14, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Take the Student Survey! Enter to Win an iPad or other prizes!</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Dear Lumberjacks:</mj-text>
+        <mj-text>Tell us what you think about your experience at Cal Poly Humboldt!  </mj-text>
+        <mj-text>We value your input. Your feedback will help the University enhance the Humboldt experience for students today and in the future.</mj-text>
+        <mj-text>In appreciation of your time, upon completion of the survey, you will have the opportunity to enter into a drawing for a chance to win one of the following:  </mj-text>
+        <mj-text>
+          <strong>Apple iPad (2)</strong> <br>
+          <strong>State Parks Annual Pass (1)</strong> <br>
+          <strong>Cal Poly Humboldt Parking Pass (1)</strong> <br>
+          <strong>Cal Poly Humboldt Store $25 Gift Card (50)</strong> <br>
+        </mj-text>
+        <mj-button href="https://bdconnect.qualtrics.com/jfe/form/SV_6QLrbVuvib0rT7M">Take the Student Experience Survey</mj-button>
+        <mj-text><strong>The survey closes on Wednesday, Oct. 29 at 11:59 p.m.</strong></mj-text>
+        <mj-text>While your participation in this survey is voluntary, your perspective is vital to the success of the University’s efforts. <strong>The survey should take approximately 15 minutes to complete</strong>.</mj-text>
+        <mj-text>This is a collaborative effort between campus departments and groups, including Enrollment Management & Student Success, Administration & Finance, Facilities Management, and Associated Students.</mj-text>
+        <mj-text>Cal Poly Humboldt is working with Brailsford & Dunlavey, an independent consulting firm, to administer the survey. All information you provide is strictly confidential and anonymous. Should you have any questions about this process, please contact <a href="mailto:survey@bdconnect.com">survey@bdconnect.com</a>. </mj-text>
+        <mj-text padding-top="20px">Respectfully, </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/chrissyHolliday_signature.png" alt="Chrissy Holliday Signature" width="200px" align="left"/>
+        <mj-text>Chrissy Holliday <br> Vice President for Enrollment Management & Student Success
+        </mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/fisherMichael_Signature.png" alt="Michael Fisher Signature" width="125px" align="left" padding-top="20px"/>
+        <mj-text>Michael Fisher <br> Acting Vice President for Administration & Finance</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
