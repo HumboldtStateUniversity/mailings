@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Take the Student Survey! Enter to Win an iPad or other prizes!</mj-title>
+    <mj-title>Take the Student Survey: Be Entered to Win an iPad or other prizes!</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -25,7 +25,7 @@
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">October 14, 2025</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Take the Student Survey! Enter to Win an iPad or other prizes!</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Take the Student Survey: Be Entered to Win an iPad or other prizes!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
