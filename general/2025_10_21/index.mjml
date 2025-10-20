@@ -34,7 +34,7 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
         <mj-text>Dear Lumberjacks:</mj-text>
-        <mj-text>There is ONE WEEK LEFT to tell us what you think about your experience at Cal Poly Humboldt! </mj-text>
+        <mj-text>There is <strong>ONE WEEK LEFT</strong> to tell us what you think about your experience at Cal Poly Humboldt! </mj-text>
         <mj-text>Your feedback will help the University enhance the Humboldt experience for students today and in the future. In appreciation of your time, upon completion of the survey, you will have the opportunity to enter into a drawing for a chance to win one of the following:    </mj-text>
 
         <mj-text>
