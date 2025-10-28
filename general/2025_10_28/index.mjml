@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>24 HOURS LEFT to Change the Future. Take the Survey and Win an iPad!</mj-title>
+    <mj-title>ONE DAY LEFT to Change the Future. Take the Survey and Win an iPad!</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -25,7 +25,7 @@
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">October 28, 2025</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">24 HOURS LEFT to Change the Future. Take the Survey and Win an iPad!</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">ONE DAY LEFT to Change the Future. Take the Survey and Win an iPad!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
@@ -34,7 +34,7 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
         <mj-text>Dear Lumberjacks:</mj-text>
-        <mj-text>There are 24 HOURS LEFT to tell us what you think about your student experience at Cal Poly Humboldt! </mj-text>
+        <mj-text>There is ONE DAY LEFT to tell us what you think about your student experience at Cal Poly Humboldt! </mj-text>
         <mj-text>Your feedback will be part of the change in the student experience for many years to come. When you complete the survey, you will have the opportunity to enter into a drawing for a chance to win one of the following:</mj-text>
 
         <mj-text>
