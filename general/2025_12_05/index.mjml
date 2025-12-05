@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>New Clear Bag Guidelines for Fall Commencement</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">December 05, 2025</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">New Clear Bag Guidelines for Fall Commencement</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text font-size="28px" font-weight="bold" line-height="24px" padding-bottom="0">Fall 2025 Commencement</mj-text>
+          <mj-text font-size="20px" font-weight="bold">Friday, December 19 | Lumberjack Arena</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/2025_12_05/grad_122024_01012_1.jpg" alt="Graduates posing for photo" />
+        <mj-text>As we get ready to celebrate Fall Commencement, the University is putting a few new safety measures in place to help the event run smoothly for everyone. Beginning this December, large campus events—including Commencement—will follow new clear bag guidelines and additional security measures.
+          </mj-text>
+        <mj-text><strong>Key Details:</strong>
+          <ul>
+<li>Bags larger than <strong>8.5” x 6” must be clear</strong> (transparent plastic, vinyl, or PVC). Small opaque wallets or clutches <strong>smaller</strong> than 8.5” x 6” are permitted.</li>
+
+
+            <li>Opaque oversized bags such as backpacks, tote bags, large purses, camera bags, and similar items will not be permitted inside the venue.</li>
+
+
+  <li>Accommodations will be made for medically necessary items, diaper bags, and strollers. These items will be subject to inspection.</li> 
+
+
+  <li>Graduates and faculty will take part in a brief, <strong>no-touch visual search</strong> when entering the lineup area in the West Gym and will need to carry their gowns in with them, putting them on after they’ve completed the screening.</li>
+            </ul>
+These steps are becoming standard at universities and venues across the country. They’re simple, but they go a long way in helping us create a safe, efficient, and positive environment for our graduates and their families. <strong><a href="https://commencement.humboldt.edu/faq#prohibiteditems">See the FAQ</a></strong> on the Commencement website for more information.</mj-text>
+        <mj-text>
+Commencement is such a special day for our students, so thank you for everything you do to make it memorable.
+</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
