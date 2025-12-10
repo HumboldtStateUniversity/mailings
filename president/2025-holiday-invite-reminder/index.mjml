@@ -1,0 +1,97 @@
+
+      
+      
+               
+<mjml>
+  <mj-head>
+    <mj-title>Reminder: Faculty & Staff Holiday Party</mj-title>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#fff" align="center" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" font-size="14px" border-radius="0" />
+      <mj-divider border-width="1px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      h2 {
+        line-height: 28px;
+      }
+
+      a {
+        color: #864e27;
+        text-decoration: underline;
+      }
+
+      a.dark {
+        color: #864e27;
+      }
+      li {
+        padding-bottom:8px;
+      }
+
+      .dark-wrap {
+        background: #004C46;
+        color: #fff;
+      }
+
+      .light-wrap {
+        background: #135D59;
+        color: #fff;
+      }
+
+      @media only screen and (max-width: 420px) {
+        .caption div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8D9EAA">
+    <mj-section padding="40px 0 0">	
+        <mj-column>
+
+        </mj-column>
+      </mj-section>
+    <mj-section padding="0">
+        <mj-column padding="30px 0">
+
+         <mj-image src="https://mailings.humboldt.edu/president/2025-holiday-invite/cal-poly-humboldt-logo-green.png" alt="Cal Poly Humboldt logo" padding="0" width="200px" align="center" href="https://humboldt.edu"/>
+
+        </mj-column>
+      </mj-section>
+    <mj-section css-class="light-wrap" padding="0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/president/2025-holiday-invite/header.png" padding="0" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px">
+      <mj-column>
+        <mj-text font-size="36px" font-weight="bold">You're Invited!</mj-text>
+        <mj-text font-size="27px" line-height="35px">Faculty and Staff Holiday Party &amp; Farewell Send-off for President Spagna</mj-text>
+        <mj-text font-size="18px" line-height="28px" font-weight="bold">
+          Friday, December 12, 2025 <br>4–6 p.m. <br>West Gym, Recreation &amp; Wellness Center
+        </mj-text>
+        <mj-text font-size="18px" padding="20px 40px" line-height="28px">
+          Join us for an evening of celebration, connection, and holiday cheer as we honor President Spagna's <br>leadership and dedication.
+        </mj-text>
+        <mj-text font-size="18px" padding-bottom="20px" line-height="28px">
+        Food, drinks, and festive spirit await.
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0 100px" />
+        <mj-text font-size="18px" padding="20px 40px" line-height="24px">
+          In the spirit of the season, we’ll be collecting non-perishable food items at the event to support the Oh SNAP! Food Pantry and Food for People’s Holiday Food Drive. Your contributions will help ensure Cal Poly Humboldt students have access to fresh, nutritious food all year long.
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/2025-holiday-invite/footer.png" padding="0" align="center" href="https://humboldt.edu"/>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
+
