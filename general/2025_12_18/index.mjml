@@ -35,18 +35,17 @@
 
       <mj-column>
         <mj-image src="https://mailings.humboldt.edu/general/2025_12_18/Cal-Poly-Humboldt-Day-Email-Banner-opt.jpg" alt="Cal Poly Humboldt Day Jan. 26" />
-        <mj-text align="center" font-size="22px" line-height="24px">
-          <strong>Celebrate Cal Poly Humboldt Day on January 26!</strong></mj-text>
-        <mj-text align="center" font-size="18px" line-height="26px">Monday, January 26 <br>
+
+        <mj-text align="center" font-size="22px" line-height="30px">Monday, January 26 <br>
           5 p.m. – 9 p.m. <br>
           at Arcata Theater Lounge <br>
           1036 G Street, Arcata, CA 95521 <br>
           <strong>FREE to Attend</strong>
         </mj-text>
         <mj-text align="center" font-size="18px" line-height="26px">
-          <a href="https://www.instagram.com/hyperiontheband">Hyperion</a> 8 p.m. - 9 p.m. <br>
-          <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a> 6:30 p.m. - 7:30 p.m. <br>
-          <a href="https://www.instagram.com/radbromance707">Rad Bromance</a> 5 p.m. - 6 p.m
+          <a href="https://www.instagram.com/hyperiontheband">Hyperion</a> 8 p.m. – 9 p.m. <br>
+          <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a> 6:30 p.m. – 7:30 p.m. <br>
+          <a href="https://www.instagram.com/radbromance707">Rad Bromance</a> 5 p.m. – 6 p.m
         </mj-text>
         <mj-text>Celebrate the anniversary of Cal Poly Humboldt’s designation as a polytechnic on Cal Poly Humboldt Day - January 26!  Enjoy free live music at a benefit concert supporting student programming.</mj-text>
         <mj-text>Sing and dance to performances by local bands <a href="https://www.instagram.com/hyperiontheband">Hyperion</a>,  <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a>, and <a href="https://www.instagram.com/radbromance707">Rad Bromance</a>,  featuring staff, students, and alumni. Each band will perform in support of student programming.</mj-text>
