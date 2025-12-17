@@ -23,7 +23,7 @@
     <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text padding-top="0">
-          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message the President </h1>
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message the Cal Poly Humboldt </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">December 18, 2025</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Celebrate Cal Poly Humboldt Day on January 26!</p>
         </mj-text>
@@ -34,22 +34,22 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
 
       <mj-column>
-        <mj-text>Dear Colleagues,</mj-text>
-        <mj-text>
-          In celebration of the holiday season, Governor Newsom has authorized four hours of Informal Time Off (ITO) on Wednesday, December 24, 2025. In addition, I have authorized an additional four hours of ITO. With that, the campus will be closed December 24, 2025, through January 1, 2026.
+        <mj-image src="https://mailings.humboldt.edu/general/2025_12_18/Cal-Poly-Humboldt-Day-Email-Banner-opt.jpg" alt="Cal Poly Humboldt Day Jan. 26" />
+        <mj-text align="center" font-size="22px" line-height="24px">
+          <strong>Celebrate Cal Poly Humboldt Day on January 26!</strong></mj-text>
+        <mj-text align="center" font-size="18px" line-height="26px">Monday, January 26 <br>
+          5 p.m. – 9 p.m. <br>
+          at Arcata Theater Lounge <br>
+          1036 G Street, Arcata, CA 95521 <br>
+          <strong>FREE to Attend</strong>
         </mj-text>
-        <mj-text>To maintain critical campus functions, some team members will work on December 24. Employees who work may make arrangements with their supervisor for an alternative informal day off to be used before June 30, 2026. Please <a href="https://www.humboldt.edu/payroll/time-reporting/informal-time-off">use this link</a> for eligibility information and pay instructions on using ITO. </mj-text>
-        <mj-text>Thank you for your dedication and hard work this year—it truly makes a difference for our students and the entire Humboldt community. I hope you take this well-deserved time to rest, recharge, and celebrate with those who matter most. Together, we have much to look forward to in the year ahead. </mj-text>
-        <mj-text>Wishing you joy, renewal, and meaningful connections this holiday season. </mj-text>
-        <mj-text>
-          Sincerely,
-
+        <mj-text align="center" font-size="18px" line-height="26px">
+          <a href="https://www.instagram.com/hyperiontheband">Hyperion</a> 8 p.m. - 9 p.m. <br>
+          <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a> 6:30 p.m. - 7:30 p.m. <br>
+          <a href="https://www.instagram.com/radbromance707">Rad Bromance</a> 5 p.m. - 6 p.m
         </mj-text>
-        <mj-image src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" alt="Michael E. Spagna signature" width="200px" align="left"/>
-
-        <mj-text>Michael E. Spagna, Ph.D. <br>
-          Interim President
-        </mj-text>
+        <mj-text>Celebrate the anniversary of Cal Poly Humboldt’s designation as a polytechnic on Cal Poly Humboldt Day - January 26!  Enjoy free live music at a benefit concert supporting student programming.</mj-text>
+        <mj-text>Sing and dance to performances by local bands <a href="https://www.instagram.com/hyperiontheband">Hyperion</a>,  <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a>, and <a href="https://www.instagram.com/radbromance707">Rad Bromance</a>,  featuring staff, students, and alumni. Each band will perform in support of student programming.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
