@@ -1,0 +1,61 @@
+  <mjml>
+    <mj-head>
+      <mj-title>A Heartfelt Farewell</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
+      <mj-attributes>
+        <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" padding-bottom="7px"/>
+        <mj-all font-family="Arial" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#FFC72C" color="#004C46" font-size="18px" border-radius="40px" font-weight="bold" />
+        <mj-divider border-width="3px" />
+      </mj-attributes>
+      <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #004C46; } a.dark { color: #004C46; } li { padding-bottom:8px; } .dark-wrap { background: #004C46; color: #fff; } .dark-box { background: #004C46; color: #fff; width:500px;} .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+    </mj-head>
+    <mj-body background-color="#004C46">
+      <mj-section padding="5px 0 0" >
+        <mj-column background-color="#004C46">
+          <mj-image src="https://mailings.humboldt.edu/president/spagna-farewell/calpoly-humboldt-logo.png" alt="Cal Poly Humboldt logo" padding="20px" width="180px" align="center" href="https://humboldt.edu" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#CDDAD5" padding="0" >
+        <mj-column padding="0 0 5px">
+          <mj-image src="https://mailings.humboldt.edu/president/spagna-farewell/spagna-and-wife.jpg" alt="President Spagna and his wife" padding="40px 40px 5px" align="center" width="600px" />
+          
+        </mj-column>
+      </mj-section>
+      <mj-section background-url="https://mailings.humboldt.edu/president/spagna-farewell/button-bg.png" background-size="cover" background-repeat="no-repeat" background-color="#004c46" padding="0">
+        <mj-column padding="10px">
+          
+        <mj-button href="https://homecoming.humboldt.edu/#hfw-events">Watch the Video</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding-top="20px" padding-bottom="0">
+        <mj-column>
+           <mj-text>Dear Lumberjacks,</mj-text>
+          <mj-text>With the semester coming to a close, I find myself filled with gratitude for this community and all that we’ve achieved together. The energy, creativity, and care you bring to Cal Poly Humboldt have made this a truly special place to serve, and the moments we’ve shared will stay with me for years to come.</mj-text>
+          <mj-text>This community has shown me the very best of what higher education can be—collaborative, compassionate, and deeply connected to the people and place we call home. Watching our students grow, our programs flourish, and our shared vision for the future take shape has been an experience I’ll always carry with me. </mj-text>
+          <mj-text>While this marks the end of my time at Humboldt, it brings me great joy to welcome Dr. Carvajal, who will continue to lead this remarkable university with the same dedication and heart that define our campus. Please join me in offering him the same kindness and partnership that made my time here so meaningful.</mj-text>
+          <mj-text>To our graduates, congratulations on reaching this incredible milestone! Your hard work and determination embody what it means to be a Lumberjack, and I can’t wait to see where your journeys take you next. To the entire campus community, thank you for allowing me to be part of the Cal Poly Humboldt family. Serving as your interim president has been one of the greatest honors of my career. </mj-text>
+
+          <mj-text>Wishing you peace, rest, and joy throughout the holiday season.</mj-text>
+          <mj-text>With deep appreciation and warm wishes,</mj-text>
+                                                          <mj-image align="left" alt="Michael E. Spagna signature" src="https://mailings.humboldt.edu/general/signatures/michaelSpagnaSignature.png" width="220px" />
+
+          
+          <mj-text padding="0 25px 0">Michael E. Spagna</mj-text>
+          <mj-text>Interim President</mj-text>
+
+         
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="light-wrap" padding="20px 25px 0">
+       
+      </mj-section>
+     
+      <mj-section padding="0 0 40px 0">
+        <mj-column css-class="light-wrap">
+          <mj-image src="https://mailings.humboldt.edu/president/spagna-farewell/footer.png" alt="footer with diamond h" padding="0" align="center" href="https://humboldt.edu" />
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
