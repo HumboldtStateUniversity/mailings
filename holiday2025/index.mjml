@@ -1,0 +1,53 @@
+  <mjml>
+    <mj-head>
+      <mj-title>Happy New Year from Cal Poly Humboldt</mj-title>
+      <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800;900&display=swap" />
+      <mj-attributes>
+        <mj-text font-family="poppins, Arial, sans-serif" align="center" font-size="15px" color="#FFFFFF" line-height="20px" />
+        <mj-all font-family="poppins" />
+        <mj-section padding="30px 0 0 0" />
+        <mj-button background-color="#FFFFFF" color="#004c46"	font-size="16px" line-height="30px" padding="20px 0 40px" border-radius="30px" />
+        <mj-divider border-width="2px" />
+      </mj-attributes>
+      <mj-style inline="inline">
+        h2 {
+          line-height: 28px;
+        }
+
+        a {
+          color: #006432;
+        }
+
+        @media only screen and (max-width: 420px) {
+          .caption div {
+            text-align: center !important;
+          }
+        }
+      </mj-style>
+    </mj-head>
+    <mj-body background-color="#FFFFFF">
+      
+     <mj-section>
+      
+      </mj-section>
+      <mj-section >
+        <mj-column padding="0">
+          <mj-image padding="0" src="https://mailings.humboldt.edu/holiday2025/header.jpg" alt="Happy Holiday From Your Humboldt Family!" align="left" width="600px" />
+        </mj-column>
+      </mj-section>
+        <mj-section background-url="https://mailings.humboldt.edu/holiday2025/bg-bottom.jpg" background-size="cover" background-repeat="no-repeat" background-color="#004c46" padding="0 0 40px">
+            <mj-column>
+                <mj-button padding="30px 0 20px" href="#">
+                    Watch the Video
+                </mj-button>
+              <mj-text>The end of the year gives us a chance to reflect on all we’ve accomplished—the successes we’ve had, the challenges we’ve navigated, and the joyful moments that connect us. What stands out most for me is the way this community uplifts and supports one another, and I hope you know that Cal Poly Humboldt will always be here to help light your way. </mj-text><mj-text font-size="20px" line-height="28px">
+Wishing you and your loved ones a bright and beautiful holiday season.</mj-text>
+              
+              <mj-image align="center" alt="Michael E. Spagna signature" src="https://mailings.humboldt.edu/holiday2025/spagnasignature.png" width="220px" />
+
+              <mj-text>Michael E. Spagna<br />Interim President</mj-text>
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+  </mjml>
