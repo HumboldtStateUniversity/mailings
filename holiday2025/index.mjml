@@ -39,7 +39,7 @@
             <mj-column>
                 
               <mj-text>The end of the year gives us a chance to reflect on all we’ve accomplished—the successes we’ve had, the challenges we’ve navigated, and the joyful moments that connect us. What stands out most for me is the way this community uplifts and supports one another, and I hope you know that Cal Poly Humboldt will always be here to help light your way. </mj-text>
-              <mj-button padding="20px 0 20px" href="#">
+              <mj-button padding="20px 0 20px" href="https://youtu.be/gB-UiMftUsU">
                     Watch the Video
                 </mj-button><mj-text font-size="20px" line-height="28px">
 Wishing you and your loved ones a bright and beautiful holiday season.</mj-text>
@@ -47,7 +47,7 @@ Wishing you and your loved ones a bright and beautiful holiday season.</mj-text>
               
               <mj-image align="center" alt="Michael E. Spagna signature" src="https://mailings.humboldt.edu/holiday2025/spagnasignature.png" width="220px" />
 
-              <mj-text padding-top="0">Michael E. Spagna<br />Interim President</mj-text>
+              <mj-text padding-top="0">Michael E. Spagna, Ph.D.<br />Interim President</mj-text>
 
             </mj-column>
         </mj-section>
