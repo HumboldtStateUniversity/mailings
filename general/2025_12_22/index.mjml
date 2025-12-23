@@ -24,7 +24,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message the Cal Poly Humboldt </h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">December 18, 2025</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">December 22, 2025</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Celebrate Cal Poly Humboldt Day on January 26!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
@@ -47,7 +47,7 @@
           <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a> 6:30 p.m. – 7:30 p.m. <br>
           <a href="https://www.instagram.com/radbromance707">Rad Bromance</a> 5 p.m. – 6 p.m
         </mj-text>
-        <mj-text>Celebrate the anniversary of Cal Poly Humboldt’s designation as a polytechnic on Cal Poly Humboldt Day - January 26!  Enjoy free live music at a benefit concert supporting student programming.</mj-text>
+        <mj-text>Celebrate the anniversary of Cal Poly Humboldt’s designation as a polytechnic on Cal Poly Humboldt Day, January 26!  Enjoy free live music at a benefit concert supporting student programming.</mj-text>
         <mj-text>Sing and dance to performances by local bands <a href="https://www.instagram.com/hyperiontheband">Hyperion</a>,  <a href="https://www.instagram.com/caddierancher">Cadillac Ranch</a>, and <a href="https://www.instagram.com/radbromance707">Rad Bromance</a>,  featuring staff, students, and alumni. Each band will perform in support of student programming.</mj-text>
       </mj-column>
     </mj-section>
