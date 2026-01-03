@@ -40,7 +40,9 @@
         <mj-text>Earlier today, a structure fire broke out in the downtown area. Firefighters responded quickly and remain on the scene to manage the situation. As a precaution, PG&E temporarily shut off power, gas, and electricity in the surrounding area, including on campus, to support emergency response efforts. Power to campus has since been restored.</mj-text>
         <mj-text>We want to be very clear: there is no threat to campus or residence halls at this time. The fire is not impacting campus facilities or operations, and students living on campus are safe.</mj-text>
         <mj-text>We understand that incidents like this can be unsettling, especially when they occur close to where we live and learn. We are monitoring the situation closely. Should conditions change, we will share updates promptly. </mj-text>
-        <mj-text>Students needing support services or connection with emergency resources should contact the Dean of Students Office at dos@humboldt.edu or at (707) 826-3504.</mj-text>
+        <mj-text>Students needing support services or connection with emergency resources should contact the Dean of Students Office at <a href="mailto:dos@humboldt.edu">
+          dos@humboldt.edu
+        </a> or at (707) 826-3504.</mj-text>
         <mj-text>Thank you for your continued trust and for keeping our community in your thoughts.</mj-text>
       </mj-column>
     </mj-section>
