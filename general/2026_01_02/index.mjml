@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-title>Important Safety Update: Downtown Arcata Structure Fire</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">January 2, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Important Safety Update: Downtown Arcata Structure Fire</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>We are writing to share an important safety update and acknowledge any concerns you may have after hearing reports of a structure fire in downtown Arcata.
+        </mj-text>
+        <mj-text>Earlier today, a structure fire broke out in the downtown area. Firefighters responded quickly and remain on the scene to manage the situation. As a precaution, PG&E temporarily shut off power, gas, and electricity in the surrounding area, including on campus, to support emergency response efforts. Power to campus has since been restored.</mj-text>
+        <mj-text>We want to be very clear: there is no threat to campus or residence halls at this time. The fire is not impacting campus facilities or operations, and students living on campus are safe.</mj-text>
+        <mj-text>We understand that incidents like this can be unsettling, especially when they occur close to where we live and learn. We are monitoring the situation closely. Should conditions change, we will share updates promptly. </mj-text>
+        <mj-text>Students needing support services or connection with emergency resources should contact the Dean of Students Office at dos@humboldt.edu or at (707) 826-3504.</mj-text>
+        <mj-text>Thank you for your continued trust and for keeping our community in your thoughts.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
