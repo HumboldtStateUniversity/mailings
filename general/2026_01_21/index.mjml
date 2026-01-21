@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Celebrate Cal Poly Humboldt Day on January 26!</mj-title>
+    <mj-title>Cal Poly Humboldt Day is Just Around the Corner!</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -25,7 +25,7 @@
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message the Cal Poly Humboldt </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">January 21, 2026</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Celebrate Cal Poly Humboldt Day on January 26!</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Cal Poly Humboldt Day is Just Around the Corner!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
@@ -50,8 +50,8 @@
         <mj-text>Celebrate the anniversary of Cal Poly Humboldt’s designation as a polytechnic on Cal Poly Humboldt Day, January 26!  Enjoy free live music at a benefit concert supporting student programming.</mj-text>
         <mj-text>Sing and dance to performances by local bands featuring staff, students, and alumni. As part of this benefit concert, each band has generously chosen a cause to support with their performance earnings: Hyperion will benefit the <a href="https://giving.humboldt.edu/alfred-pilz-endowment">
           Alfred Pilz Endowment</a>, Cadillac Ranch will support <a href="https://giving.humboldt.edu/extended-ed-humboldt-music-academy">Extended Education – Humboldt Music Academy</a>, and Rad Bromance will donate to <a href="https://giving.humboldt.edu/ballet-folklorico-de-humboldt">
-          Ballet Folklórico de Humboldt</a>.</mj-text>
-        <mj-text>The concert is free, and the first 350 attendees will receive exclusive Cal Poly Humboldt merchandise at the door. Drinks and concessions will be available for purchase. This family-friendly event is open to all ages, welcoming campus and community members for a day of reflection and celebration of the university’s future.</mj-text>
+          Ballet Folkl&oacute;rico de Humboldt</a>.</mj-text>
+        <mj-text>The concert is free, and the first 350 attendees will receive exclusive Cal Poly Humboldt merchandise at the door. Drinks and concessions will be available for purchase. This family-friendly event is open to all ages, welcoming campus and community members for a day of reflection and celebration of the University’s future.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
