@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cal Poly Humboldt Day is Just Around the Corner!</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from Cal Poly Humboldt</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">February 18, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">You’re Invited: Accreditation Site Visit Launch Event</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/general/2025_02_18/rooted-rising@2x-100sm.jpg" alt="Rooted & RISING Together Cal Poly Humboldt Accreditation Reaffirmation 2026" />
+
+        <mj-text>
+          <strong>Accreditation Site Visit Launch</strong> <br>
+          Wednesday, March 4, 2026 <br>
+          11:30 a.m. – 1 p.m. <br>
+          Kate Buchanan Room, G <br>
+          <strong>Lunch will be provided</strong>
+        </mj-text>
+
+        <mj-text>Dear Lumberjacks,</mj-text>
+        <mj-text>As we prepare for the upcoming WSCUC review team visit, I’m excited to invite you to attend the <strong>
+          Accreditation Site Visit Launch   </strong> event—an opportunity to come together as a campus community, learn what to expect, and celebrate the work that brings us to this important moment. </mj-text>
+        <mj-text>On April 15–17, a WSCUC review team will visit campus as follow-up to our September submission of our 2025 Institutional Report. This visit marks an important milestone for our University and provides a meaningful opportunity to share who we are, how we serve our students, and where we’re headed as a polytechnic institution. It’s a chance to showcase the dedication, innovation, and care that define our campus. </mj-text>
+        <mj-text>At the launch event, we’ll outline what to expect during the April site visit, discuss why accreditation matters, and explore themes emerging from the report and the WSCUC Lines of Inquiry. The session will include interactive activities, opportunities for discussion, and prize drawings. I hope you’ll come ready to engage, ask questions, and help build enthusiasm as we prepare to welcome the review team.</mj-text>
+        <mj-text>I am truly proud of the work happening across our campus, and I hope you will join us as we build momentum toward April and continue shaping our shared future. </mj-text>
+        <mj-text>Looking forward to seeing you there!</mj-text>
+        <mj-text>Shawna Young <br>
+          Interim Provost and Vice President for Academic Affairs</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
