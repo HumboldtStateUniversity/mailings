@@ -38,9 +38,9 @@
           <mj-text font-size="20px" font-weight="bold">Saturday, May 16 | Redwood Bowl</mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/2026_03_11/IMG_2062_CCopt.jpg" alt="Graduates jumping in the air" />
         <mj-text>Graduation is a huge milestone for our students and the Spring 2026 Commencement celebrations are just around the corner! </mj-text>
-        <mj-text font-size="18px" font-weight="bold">Ceremony Schedule</mj-text>
+        <mj-text font-size="18px" font-weight="bold" padding-top="25px">Ceremony Schedule</mj-text>
         <mj-text>Graduates will participate in the ceremony associated with their major and college affiliation. The ceremony times are listed below. </mj-text>
-        <mj-text>Saturday, May 16 | Redwood Bowl
+        <mj-text padding-bottom="0">Saturday, May 16 | Redwood Bowl
           <ul>
             <li>8:30 a.m. | College of Arts, Humanities & Social Sciences</li>
             <li>12:00 p.m. | College of Natural Resources & Sciences</li>
@@ -51,26 +51,26 @@
         <mj-text font-size="18px" font-weight="bold">Student Registration</mj-text>
         <mj-text>Student registration to participate in Spring 2026 Commencement is open! Students wishing to participate need to register by <strong>April 15</strong>. Eligible Spring and Summer 2026 grads already received an initial email providing them with the registration link as well as important Commencement information. Reminders will be sent weekly. </mj-text>
         <mj-text>If there are any questions about registration, email <a href="mailto:grad@humboldt.edu">grad@humboldt.edu</a>. </mj-text>
-        <mj-text font-size="18px" font-weight="bold">Faculty &amp; Staff Participation</mj-text>
+        <mj-text font-size="18px" font-weight="bold" padding-top="25px">Faculty &amp; Staff Participation</mj-text>
         <mj-text font-size="16px" font-weight="bold" padding-bottom="0px">Processional Participation</mj-text>
         <mj-text>Faculty and staff who plan to participate in the processional and be seated in the designated faculty and staff section during a Commencement ceremony must <a href="https://docs.google.com/forms/d/e/1FAIpQLSeX1rvhEDsJLokJ2UEC2ekpqfRPdnvoyWKiqXgSruwntAnyGw/viewform?usp=publish-editor">register their processional participation</a> by <strong>April 15</strong>.</mj-text>
         <mj-text>The College Office Coordinators will be coordinating the student and faculty/staff line-up in the West Gym and will be  providing information and updates to faculty & staff registrants. </mj-text>
         <mj-text font-size="16px" font-weight="bold" padding-bottom="0px">Commencement Support</mj-text>
         <mj-text>Employees are needed to assist at Commencement. This includes administrators, faculty, staff, student assistants (and even volunteers). Roles include greeting guests, ushering, providing shuttle and wheelchair escort support, assisting with parking and traffic, and helping in the graduate and faculty/staff lineup areas. Those who would like to work Commencement are asked to make arrangements with their supervisor for their work hours and <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9Cral10MEpHmJIcbhXeuRhPrNcOqTkQ9h35pkXqNicekdFA/viewform?usp=dialog">submit their Commencement work interest and availability</a> by <strong>April 15</strong>. Details about shift needs and assignments will be shared closer to the event.</mj-text>
         <mj-text>More information on faculty and staff participation can be found at <a href="https://commencement.humboldt.edu/faculty-staff">commencement.humboldt.edu/faculty-staff</a>.</mj-text>
-        <mj-text font-size="18px" font-weight="bold">Regalia &amp; Memorabilia</mj-text>
+        <mj-text font-size="18px" font-weight="bold" padding-top="25px">Regalia &amp; Memorabilia</mj-text>
         <mj-text font-size="16px" font-weight="bold" padding-bottom="0px">Students</mj-text>
         <mj-text><strong>A black cap and a black gown</strong> are required to participate in a commencement ceremony. If a graduate is inquiring where to get their regalia, please have them check out the <a href="https://www.humboldt.edu/commencement/regalia-spring">regalia page</a> for more details. </mj-text>
                 <mj-text font-size="16px" font-weight="bold" padding-bottom="0px">Faculty &amp; Staff</mj-text>
         <mj-text>Those needing to order regalia can do so with <a href="https://facultydirect.herffjones.com/">Herff Jones Faculty Direct</a>. The deadline to order regalia to be received in time for the event is <strong>March 27 at 8:59 p.m. PST</strong>. Items ordered online by the deadline will be available to pick up at The Campus Store’s on-campus location around <strong>May 1</strong>.</mj-text>
         <mj-text>If faculty or staff have any questions regarding regalia orders, contact The Campus Store at (707) 826-3741. </mj-text>
-        <mj-text font-weight="bold" font-size="18px">Clear Bag Guidelines</mj-text>
+        <mj-text font-weight="bold" font-size="18px" padding-top="25px">Clear Bag Guidelines</mj-text>
         <mj-text>Starting in December 2025, large campus events—including Commencement—follow new clear bag guidelines and additional security measures to help speed up entry and keep the event safe for graduates, families, and guests at all venues.</mj-text>
         <mj-text font-size="16px" font-weight="bold" padding-bottom="0px">Key Details</mj-text>
         <mj-text><strong>Bags larger than 8.5” x 6” must be clear</strong> (transparent plastic, vinyl, or PVC). Opaque wallets or clutches smaller than 8.5” x 6” are permitted and are subject to search.</mj-text>
         <mj-text>Opaque, oversized bags, such as backpacks, tote bags, large purses, camera bags, and similar items, will not be permitted inside the venue. Accommodations will be made for medically necessary items, diaper bags, and strollers. These items will be subject to inspection. <strong>It is recommended not to bring a bag, if possible, to expedite entry</strong>. </mj-text>
         <mj-text>These steps are becoming standard at universities and venues across the country. They’re simple, but they go a long way in helping us create a safe, efficient, and positive environment for our graduates and their families. <a href="See the FAQs">See the FAQs</a> on the Commencement website for more information.</mj-text>
-        <mj-text font-weight="bold" font-size="18px">General Info</mj-text>
+        <mj-text font-weight="bold" font-size="18px" padding-top="25px">General Info</mj-text>
         <mj-text>Parking the week of Commencement will be impacted. A separate message regarding closures will be forthcoming from <a href="https://www.humboldt.edu/transportation-parking">Transportation &amp; Parking Services</a>. </mj-text>
         <mj-text>The best source for up-to-date information about Commencement, including important information for grads and guests, can be found on the Commencement website at <a href="https://commencement.humboldt.edu/">
           commencement.humboldt.edu</a>. For general questions about Commencement, contact the Commencement Coordinator, Shannon Collart, at
