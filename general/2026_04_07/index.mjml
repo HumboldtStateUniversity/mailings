@@ -1,0 +1,76 @@
+<mjml>
+  <mj-head>
+    <mj-title>Faculty & Staff Support Needed Spring 2026 Commencement</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">April 7, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Faculty & Staff Support Needed Spring 2026 Commencement</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text font-size="28px" font-weight="bold" line-height="24px" padding-bottom="0">Spring 2026 Commencement</mj-text>
+          <mj-text font-size="20px" font-weight="bold">Saturday, May 16 | Redwood Bowl</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/2026_03_11/IMG_2062_CCopt.jpg" alt="Graduates jumping in the air" />
+        <mj-text>Spring Commencement is one of the most meaningful milestones for our students, and the Spring 2026 ceremonies are fast approaching on <strong>Saturday, May 16 at the Redwood Bowl</strong>.</mj-text>
+        <mj-text>At this time, we only have 30% of the staff needed signed up, and we urgently need employees to ensure a safe, smooth, and celebratory experience for our graduates and their guests. <strong>Simply put—Commencement cannot happen without your support</strong>.</mj-text>
+        <mj-text font-size="18px" font-weight="bold" padding-top="25px">Commencement Support</mj-text>
+        <mj-text>We are asking employees across campus—including administrators, faculty (including coaches), staff, student assistants, and volunteers—to assist with behind-the-scenes roles such as:</mj-text>
+        <mj-text padding-bottom="0" padding-top="0">
+          <ul>
+            <li>Greeting guests</li>
+            <li>Ushering</li>
+            <li>Shuttle and wheelchair escort support</li>
+            <li>Parking and traffic assistance</li>
+            <li>Supporting graduate and faculty/staff lineup areas</li>
+          </ul>
+        </mj-text>
+        <mj-text>If you are able to help, please coordinate with your supervisor and
+          <strong>submit your  <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSf9Cral10MEpHmJIcbhXeuRhPrNcOqTkQ9h35pkXqNicekdFA/viewform?usp=dialog">
+            Commencement work interest and availability
+          </a> by April 15 if possible</strong>. </mj-text>
+
+        <mj-text>All staff supporting Commencement will be given a name badge and will be asked to check in at the designated Staff Check-In area on the day of the event before their shift. Shift details and assignments will be shared closer to the event.</mj-text>
+        <mj-text font-size="18px" font-weight="bold">Processional Participation</mj-text>
+        <mj-text>Faculty and staff who wish to participate in the Commencement processional must also <a href="https://docs.google.com/forms/d/e/1FAIpQLSeX1rvhEDsJLokJ2UEC2ekpqfRPdnvoyWKiqXgSruwntAnyGw/viewform?usp=publish-editor">register their participation</a> by April 15.</mj-text>
+        <mj-text>Due to new security measures, all processional registrants will be required to check in at the West Gym security check point prior to lining up. </mj-text>
+        <mj-text>The College Office Coordinators will be overseeing the line-up coordination and will be  providing information and updates to processional registrants. </mj-text>
+        <mj-text>Additional details about faculty and staff participation are available at: <a href="https://commencement.humboldt.edu/faculty-staff">commencement.humboldt.edu/faculty-staff</a>.</mj-text>
+        <mj-divider>&nbsp;</mj-divider>
+        <mj-text>We recognize this is a busy time of year, but your participation plays a vital role in honoring our students’ achievements. Please consider signing up and encouraging your colleagues to do the same.</mj-text>
+        <mj-text>Thank you in advance for your support in making Commencement a memorable and successful event for our graduates.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
