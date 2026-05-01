@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+    <mj-title>Peggy Metzger Named Interim Vice President of Enrollment Management & Student Success</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">May 1, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Peggy Metzger Named Interim Vice President of Enrollment Management & Student Success</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text>I’m pleased to share that, beginning in July, Peggy Metzger will serve as Interim Vice President for Enrollment Management & Student Success as Chrissy Holliday transitions to her role as president of Mohave College in Arizona. She will begin shadowing in this role starting May 1, then transition fully once Chrissy departs. A national search for a permanent vice president will begin at the start of the fall semester.</mj-text>
+        <mj-text>Peggy currently serves as Associate Vice President for Enrollment Management and Director of Financial Aid. She has held a variety of leadership roles within the division and has helped lead the development of the University’s Strategic Enrollment Management Plan. In these roles, she’s overseen Financial Aid while providing additional administrative oversight for other departments, including Admissions, Registrar, and EOP. </mj-text>
+        <mj-text>An alum, Peggy (‘93, M.F.A. Theatre Arts) has been part of the Cal Poly Humboldt community since 1990, beginning as a graduate student, then as a staff member and, since 2013, an administrator. She earned a B.A. in Communication and Film Studies from Chico State and an MFA in Directing and Theatrical Production from Cal Poly Humboldt.</mj-text>
+        <mj-text>Peggy steps into this role at a pivotal time for the University as we continue our polytechnic transformation and build on recent enrollment momentum. The University saw <a href="https://apex.humboldt.edu/ords/apex_main/batch_email/711">4.1% enrollment growth this spring</a>—the highest since 2020—and has experienced steady increases in both Fall and Spring terms since 2022. This spring also brought growth in both new and continuing student enrollment, driven in part by initiatives such as the Green & Gold Guarantee, an admissions partnership with Cal Poly Pomona and Cal Poly San Luis Obispo, and an expanding transfer student population.</mj-text>
+        <mj-text>“I’m grateful for the opportunity to serve in this role and to continue working with colleagues across campus to support student success,” Peggy says. “I look forward to building on our recent progress and continuing to expand access and opportunity for current and future students.”</mj-text>
+        <mj-text>I am confident that Peggy will continue to build on the division’s strong foundation while continuing to design programs that engage students and contribute to their ongoing success.</mj-text>
+        <mj-text>In gratitude,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/carvajalRichard_signature.png" width="200px" alt="Richard Carvajal Signature" align="left" />
+        <mj-text>
+          Richard Carvajal, Ph.D. <br>
+          President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
