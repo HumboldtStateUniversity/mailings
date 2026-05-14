@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>Community Resilience Steering Group: Upcoming Graduation, Semester Update and Next Steps</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #E9E3D0" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Video Message From the President</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">May 14, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Community Resilience Steering Group: Upcoming Graduation, Semester Update and Next Steps</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>
+          Dear Cal Poly Humboldt Community,
+        </mj-text>
+        <mj-text>
+As the semester comes to a close, we are writing to share a brief update on the work of the Community Resilience Steering Group (CRSG). The group was convened to strengthen communication, coordination, and care across campus as we prepare for situations that may affect the safety and well-being of our students, staff, faculty, and broader community, including the possibility of federal immigration enforcement activity in our region or on campus.
+          </mj-text>
+        <mj-text>
+No matter your migratory status, the University stands with you. In preparation for Spring Commencement, which draws more family and friends to our region, your safety and well-being remain our priority as we continue to follow state laws and California State University policies outlined in <a href="https://apex.humboldt.edu/ords/apex_main/batch_email/724">President Carvajal’s previous message</a>. We encourage you to familiarize yourself with information about your rights and campus support services on our <a href="https://www.humboldt.edu/immigration">Immigration Rights and Resources site</a> and to Download the <a href="https://www.humboldt.edu/sites/default/files/immigration/2025-05/immigrationquickguideflyer.pdf">Quick Guide Flyer</a> for reference.
+          </mj-text>
+        <mj-text>
+Over the spring semester, CRSG met regularly and engaged in a campus communication and listening tour with a wide range of partners, including 21 different groups and campus leadership. These conversations focused on University protocols, communication needs before, during, and after an event, available resources, and how campus can support students, employees, and families with clarity and care.
+          </mj-text>
+        <mj-text>
+Our work this semester has led to some immediate actions, such as building stickers with QR codes making resources readily available and updating our online resources. Additionally, several consistent themes emerged that we can improve on: the need for clear and coordinated communication; accessible resources for students, employees, and families; shared understanding of public and non-public campus spaces; training opportunities for students and employees; and stronger coordination with community partners.
+          </mj-text>
+        <mj-text>
+Looking ahead, CRSG will work to finalize a communications plan, continue coordination with the Rapid Response Network, refine a response plan with clear roles and timelines, expand participation to include additional campus voices, identify training and train-the-trainer opportunities, and strengthen partnerships with regional organizations such as Equity Arcata, College of the Redwoods, the Humboldt County Office of Education, and other North Coast partners.
+          </mj-text>
+        <mj-text>
+We are grateful to everyone who participated in these conversations. This work is grounded in our shared responsibility and commitment to communicate clearly, build trust, and support one another before, during, and after moments of uncertainty.
+          </mj-text>
+        <mj-text>
+On Behalf of the Cal Poly Humboldt Community Resilience Steering Group,<br />
+Michael Fisher, Acting Vice President of Administration & Finance,<br />
+Rosamel Benavides-Garb, Associate Vice President and Campus Diversity Officer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
