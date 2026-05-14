@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2026_05_14/pres012026_00030.jpg" alt="AS; President, President Carvajal first day of the spring semester on the quad with students" />
+        <mj-image src="https://mailings.humboldt.edu/general/2026_05_14/pres012026_00030.jpg" href="https://youtu.be/_VO8ycXjJHk" alt="AS; President, President Carvajal first day of the spring semester on the quad with students" />
         <mj-text>Dear Students,</mj-text>
         <mj-text>As we wrap up an unforgettable semester, I want to take a moment to thank you for the energy, openness, and sense of community you’ve shared with me during my first months back home. From the conversations we’ve had across campus to the events, performances, and everyday moments that make this place special, you’ve given me a deeper appreciation for what it means to be a Lumberjack. Before we close out the term and celebrate the graduating class of 2026, I’m excited to reflect on all we’ve accomplished together and what lies ahead. </mj-text>
         <mj-button href="https://youtu.be/_VO8ycXjJHk">Watch the Video</mj-button>

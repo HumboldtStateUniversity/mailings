@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2026_05_14/soci041726_00491.jpg" alt="Cannabis Studies Lab Director Dan Mar, Sociology Chair Josh Meisel, President of the Campbell Foundation Samantha Campbell and Cal Poly Humboldt President Richard Carvajal" />
+        <mj-image src="https://mailings.humboldt.edu/general/2026_05_14/soci041726_00491.jpg" href="https://youtu.be/g2SoUiqXLwA" alt="Cannabis Studies Lab Director Dan Mar, Sociology Chair Josh Meisel, President of the Campbell Foundation Samantha Campbell and Cal Poly Humboldt President Richard Carvajal" />
         <mj-text>Dear Colleagues,</mj-text>
         <mj-text>As my first semester at Cal Poly Humboldt comes to a close, I want to sincerely thank you for the warm welcome and for the dedication you bring to this university every day. Whether through your work with students, your engagement in campus life, or the many ways you’ve shared your perspectives with me, you’ve helped make this a semester defined by connection, progress, and shared purpose. I’m grateful for all you’ve done, and for the opportunity to reflect on what we’ve achieved together as a community. </mj-text>
         <mj-button href="https://youtu.be/g2SoUiqXLwA">Watch the Video</mj-button>
