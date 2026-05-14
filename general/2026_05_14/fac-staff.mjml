@@ -33,7 +33,7 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
         <mj-text>As my first semester at Cal Poly Humboldt comes to a close, I want to sincerely thank you for the warm welcome and for the dedication you bring to this university every day. Whether through your work with students, your engagement in campus life, or the many ways you’ve shared your perspectives with me, you’ve helped make this a semester defined by connection, progress, and shared purpose. I’m grateful for all you’ve done, and for the opportunity to reflect on what we’ve achieved together as a community. </mj-text>
-        <mj-button href="">Watch the Video</mj-button>
+        <mj-button href="https://youtu.be/g2SoUiqXLwA">Watch the Video</mj-button>
         <mj-text>With gratitude,</mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/signatures/carvajalRichard_signature.png" width="200px" alt="Richard Carvajal Signature" align="left" />
         <mj-text>
