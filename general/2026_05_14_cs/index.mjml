@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cal Poly Humboldt to Transform Campus Store</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #E9E3D0" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Video Message From the President</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">May 14, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Cal Poly Humboldt to Transform Campus Store</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>
+          Dear Students, Faculty, and Staff:
+        </mj-text>
+        <mj-text>
+After careful consideration, Cal Poly Humboldt has decided to close the Campus Store on the Arcata Plaza.
+</mj-text>
+        <mj-text>
+The on-campus store in the Gutswarrak Student Activities Center will continue to serve students, employees, and the broader community with retail operations, including Apple sales and repair services. It will remain a hub for Cal Poly Humboldt merchandise, as well as Humboldt State legacy items. The current downtown store will remain open through Saturday, May 16. 
+          </mj-text>
+        <mj-text>
+The downtown space will become the new home for the University’s <a href="https://www.humboldt.edu/extended-education">College of Extended Education (CEE)</a>.  This decision allows the Campus Store to fulfill the retail-related needs of the campus and community, while ensuring a prime downtown location allows the University to engage with our community in meaningful ways. 
+          </mj-text>
+        <mj-text>
+In keeping with our commitment to our educational purpose, we are now focused on creating additional classroom and programming space in the heart of Arcata for CEE’s community-based learning and engagement. CEE provides flexible learning opportunities for community members and students through certificate programs, workshops, professional development, and continuing education courses. The University’s Bachelor of Arts in Leadership Studies and Master’s in Social Work—Distributed Learning is offered through the college along with Osher Lifelong Learning Institute, for learners 50 and better.
+          </mj-text>
+        <mj-text>
+Thank you to everyone for your continued support of Cal Poly Humboldt. We’re excited about continuing to grow and learn alongside our community and the opportunities ahead.
+          </mj-text>
+          <mj-text>
+          Sincerely,
+        </mj-text>
+<mj-image padding="30px 0 10px 25px" src="https://mailings.humboldt.edu/general/signatures/chrissyHolliday_signature.png" width="200px" alt="Chrissy Holliday Signature" align="left" />
+          <mj-text>
+Chrissy Holliday<br />
+Vice President for Enrollment Management & Student Success
+          </mj-text>
+         
+<mj-image padding="30px 0 0 25px" src="https://mailings.humboldt.edu/general/signatures/youngShawnaSignature.png" width="200px" alt="Shawna Young Signature" align="left" />
+ <mj-text>
+   Shawna Young<br />
+Interim Provost and Vice President for Academic Affairs 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
