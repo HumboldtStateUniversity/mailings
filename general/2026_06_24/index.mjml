@@ -30,7 +30,7 @@
             A Message from Cal Poly Humboldt
           </h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
-              June 25, 2026</p>
+              June 24, 2026</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
               You're Invited: Summer BBQ!
           </p>
@@ -48,8 +48,12 @@
         </mj-text>
 
         <mj-text font-size="18px" line-height="24px" align="center">Whether you're coming for the food, the company, or both, we hope you'll join us for a fun and easygoing afternoon.</mj-text>
-        <mj-text font-size="18px" line-height="24px" align="center">Bring your appetite, your sunglasses, and your summer spirit—we can't wait to see you there!</mj-text>
-        <mj-text font-size="18px" line-height="24px" align="center" padding-bottom="25px">Let's enjoy some sunshine, good food, and great company together.</mj-text>
+        <mj-text font-size="18px" line-height="24px" align="center">Bring your appetite and your summer spirit—we can't wait to see you there!
+
+        </mj-text>
+        <mj-text font-size="18px" line-height="24px" align="center" padding-bottom="25px">We look forward to sharing good food and great company with you.
+
+        </mj-text>
 
            <mj-image src="https://mailings.humboldt.edu/general/2024_06_13/bbq-2024.jpg" alt="bbq grill with food and people in the backgound" /> 
         
