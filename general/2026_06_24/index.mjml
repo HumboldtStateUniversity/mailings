@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>You're Invited: Summer BBQ!</mj-title>
+    <mj-title>Location Update - You're Invited: Summer BBQ!</mj-title>
 <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -32,7 +32,7 @@
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">
               June 25, 2026</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">
-              You're Invited: Summer BBQ!
+              Location Update - You're Invited: Summer BBQ!
           </p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
