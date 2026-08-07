@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reminder: Fall Welcome 2026 is Almost Here</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from the President</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August, 10 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Reminder: Fall Welcome 2026 is Almost Here
+          </p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text>Greetings Colleagues,</mj-text>
+        <mj-text>As we prepare to begin a new academic year, I want to remind you that Fall Welcome 2026 is just around the corner. I hope you'll join us as we come together to celebrate the start of the semester, reconnect with colleagues, and look ahead to an exciting year for Cal Poly Humboldt.
+
+        </mj-text>
+        <mj-text>Even as we focus on the homestretch, we’re also looking ahead. I’m excited to invite you to join us for Fall Welcome in August—my first at Cal Poly Humboldt.  </mj-text>
+        <mj-text align="center" font-size="18px" line-height="28px">SAVE THE DATE! <br>
+          <strong>Fall Welcome 2026 <br>
+            Monday, Aug. 17 <br>
+            9 - 11:30 a.m. <br>
+            West Gym
+          </strong>
+        </mj-text>
+        <mj-text><strong>To help us begin promptly at 9 a.m., please plan to arrive with plenty of time to check in and be seated.</strong></mj-text>
+        <mj-text>During our time together, we'll celebrate our accomplishments, welcome new members of our campus community, and discuss important initiatives for the year ahead, including the launch of our new Strategic Plan process. This is an opportunity to reflect on our shared purpose and the work we do together to support our students and our region.</mj-text>
+        <mj-text>If you have not already done so, please mark your calendar. I look forward to seeing you there and kicking off the new academic year together.</mj-text>
+
+        <mj-text>Thank you, and I look forward to seeing you at Fall Welcome.</mj-text>
+        <mj-text>Go Jacks!,</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/signatures/carvajalRichard_signature.png" width="200px" alt="Richard Carvajal Signature" align="left" />
+        <mj-text>
+          Richard Carvajal, Ph.D. <br>
+          President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
