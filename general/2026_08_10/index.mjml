@@ -24,7 +24,7 @@
       <mj-column>
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from the President</h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August, 10 2026</p>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 10, 2026</p>
           <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Reminder: Fall Welcome 2026 is Almost Here
           </p>
         </mj-text>
@@ -38,9 +38,9 @@
 
         </mj-text>
         <mj-text align="center">
-          <strong><span style="font-size:18px">Fall Welcome 2026</span> <br>
-            Monday, Aug. 17 <br>
-            9–11:30 a.m. <br>
+          <strong><span style="font-size:18px">Fall Welcome 2026</span><br>
+            Monday, Aug. 17<br>
+            9–11:30 a.m.<br>
             West Gym
           </strong>
         </mj-text>
