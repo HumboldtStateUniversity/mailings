@@ -9,9 +9,7 @@
       <mj-divider border-width="1px" />
 
     </mj-attributes>
-    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } }
-
-    </mj-style>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
   </mj-head>
   <mj-body background-color="#E9E3D0">
     <mj-section padding="40px 0 0">
@@ -36,16 +34,9 @@
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
         <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>We’re writing to share an update on our current financial picture and our plans for maintaining a sustainable budget in the coming years.</mj-text>
 
 
-
-        <mj-text>As we prepare to begin a new academic year, I want to remind you that Fall Welcome is just around the corner. I hope you'll join us as we come together to celebrate the start of the semester, reconnect with colleagues, and look ahead to an exciting year for Cal Poly Humboldt.</mj-text>
-
-        <mj-text><strong>To help us begin promptly at 9 a.m., please plan to arrive with plenty of time to check in and be seated.</strong></mj-text>
-        <mj-text>During our time together, we'll celebrate our accomplishments, welcome new members of our campus community, and discuss important initiatives for the year ahead, including the launch of our new Strategic Plan process. This is an opportunity to reflect on our shared purpose and the work we do together to support our students and our region.</mj-text>
-        <mj-text>If you have not already done so, please mark your calendar. I look forward to seeing you at Fall Welcome and kicking off the new academic year together.</mj-text>
-
-        <mj-text>Thank you, and I look forward to seeing you at Fall Welcome.</mj-text>
         <mj-text>Sincerely,<br></mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/signatures/fisherMichael_signature.png" width="100px" alt="Michael Fisher Signature" align="left" />
         <mj-text>
