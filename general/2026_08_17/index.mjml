@@ -97,7 +97,7 @@
               <td style="padding: 10px; text-align: right;">$1,194,000</td>
             </tr>
             <tr style="border-bottom: 1px solid #E2E8F0;">
-              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">Other Tuition & Fees</th>
+              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">Other Tuition &amp; Fees</th>
               <td style="padding: 10px; text-align: right;">$26,000</td>
               <td style="padding: 10px; text-align: right;">$477,000</td>
             </tr>
@@ -116,7 +116,7 @@
               <td style="padding: 10px; text-align: right;">$175,270,821</td>
             </tr>
             <tr style="border-bottom: 1px solid #E2E8F0;">
-              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">CSU Allocated Costs & Priorities</th>
+              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">CSU Allocated Costs &amp; Priorities</th>
               <td style="padding: 10px; text-align: right;">$9,558,000</td>
               <td style="padding: 10px; text-align: right;">$5,382,000</td>
             </tr>
@@ -126,7 +126,7 @@
               <td style="padding: 10px; text-align: right;">$3,729,000</td>
             </tr>
             <tr style="border-bottom: 1px solid #E2E8F0;">
-              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">Campus Costs & Priorities</th>
+              <th scope="row" style="padding: 10px; text-align: left; font-weight: normal;">Campus Costs &amp; Priorities</th>
               <td style="padding: 10px; text-align: right;">$2,079,000</td>
               <td style="padding: 10px; text-align: right;">$1,875,000</td>
             </tr>
