@@ -48,7 +48,7 @@
 
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="LJW_crossbody.jpg" alt="Clear cross body bag"/>
+        <mj-image src="https://mailings.humboldt.edu/general/2026_08_19/LJW_crossbody.jpg" alt="Clear cross body bag"/>
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0">
