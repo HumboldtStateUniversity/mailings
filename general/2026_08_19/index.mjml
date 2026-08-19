@@ -38,7 +38,7 @@
         <mj-text font-size="28px" line-height="1.3" align="center">Get ready to show your Green & Gold spirit for Lumberjack Weekend!
         </mj-text>
         <mj-text>
-          <a href="https://humboldt.edu/homecoming">Lumberjack Weekend</a> brings together students, staff, faculty, alumni, families, and friends for four days of events celebrating our Lumberjack community.</mj-text>
+          <a href="https://humboldt.edu/homecoming" style="color: #864e27">Lumberjack Weekend</a> brings together students, staff, faculty, alumni, families, and friends for four days of events celebrating our Lumberjack community.</mj-text>
 
       </mj-column>
     </mj-section>
