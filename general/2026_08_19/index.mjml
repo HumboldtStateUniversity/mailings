@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Get ready to show your Green &amp; Gold spirit for Lumberjack Weekend!</mj-title>
+    <mj-title>Register now for Lumberjack Weekend!</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -23,23 +23,38 @@
     <mj-section css-class="light-wrap">
       <mj-column>
         <mj-text padding-top="0">
-          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from the Cal Poly Humboldt</h1>
-          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 17, 2026</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Get ready to show your Green &amp; Gold spirit for Lumberjack Weekend!</p>
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from Cal Poly Humboldt</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 19, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Register now for Lumberjack Weekend!</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
-    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+    <mj-section css-class="light-wrap">
       <mj-column>
 
         <mj-image src="https://mailings.humboldt.edu/general/2026_08_19/LJWeekend_Students_Dates_1200x528.jpg" alt="Cal Poly Humboldt Lumberjack Weekend Oct. 8-11"/>
         <mj-text font-size="28px" line-height="1.3" align="center">Get ready to show your Green & Gold spirit for Lumberjack Weekend!
-          October 8–11
         </mj-text>
         <mj-text>
           <a href="https://humboldt.edu/homecoming">Lumberjack Weekend</a> brings together students, staff, faculty, alumni, families, and friends for four days of events celebrating our Lumberjack community.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="0px" padding-top="0px">
+      <mj-column width="50%">
         <mj-text><strong>All participants need to register</strong>: Students, staff, and faculty have the option to register for free or for a fee with a limited-edition Lumberjack Weekend clear crossbody bag! </mj-text>
+
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="LJW_crossbody.jpg" alt="Clear cross body bag"/>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0">
+        <mj-column>
+        <mj-button href="https://host.nxt.blackbaud.com/registration-form/?formId=b200dc2f-9ddf-494a-b04d-29557f45fed9&envId=p-kYh76efQwk2lvjMidehRmA&zone=usa">Register Now</mj-button>
+          <mj-divider/>
         <mj-text font-size="18px">
           <strong>Weekend Highlights</strong></mj-text>
         <mj-text>There’s something happening all weekend long!</mj-text>
@@ -54,7 +69,7 @@
           <strong>Lumberjack Weekend Block Party</strong></mj-text>
         <mj-text>
           <strong>Saturday, Oct. 10 | 4–9 p.m.
-            <br>Corner of B and Rossow Streets
+            <br>Corner of Harpst and Rossow Streets
           </strong></mj-text>
         <mj-text>This year’s Block Party is headlined by <strong>Durand Jones & The Indications</strong>, who will bring their signature mix of timeless soul and modern groove to Humboldt. They’ll be joined by <strong>
           Thee Sinseers, The Altons, and HISpanic! at the Disco
@@ -64,6 +79,8 @@
         <mj-text><strong>All attendees must register for Lumberjack Weekend to access the Block Party, so sign up early.</strong></mj-text>
         <mj-text>Come for the music, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
 
+        <mj-divider/>
+        <mj-button href="https://www.humboldt.edu/homecoming">Full schedule &amp; registration details</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
