@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-title>Get ready to show your Green &amp; Gold spirit for Lumberjack Weekend!</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from the Cal Poly Humboldt</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">August 17, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Get ready to show your Green &amp; Gold spirit for Lumberjack Weekend!</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+
+        <mj-image src="https://mailings.humboldt.edu/2026_08_19/LJWeekend_Students_Dates_1200x528.jpg" alt="Cal Poly Humboldt Lumberjack Weekend Oct. 8-11"/>
+        <mj-text font-size="28px" line-height="1.3" align="center">Get ready to show your Green & Gold spirit for Lumberjack Weekend!
+          October 8–11
+        </mj-text>
+        <mj-text>
+          <a href="https://humboldt.edu/homecoming">Lumberjack Weekend</a> brings together students, staff, faculty, alumni, families, and friends for four days of events celebrating our Lumberjack community.</mj-text>
+        <mj-text><strong>All participants need to register</strong>: Students, staff, and faculty have the option to register for free or for a fee with a limited-edition Lumberjack Weekend clear crossbody bag! </mj-text>
+        <mj-text font-size="18px">
+          <strong>Weekend Highlights</strong></mj-text>
+        <mj-text>There’s something happening all weekend long!</mj-text>
+        <mj-text>Activities kick off Thursday night with the <strong>Distinguished Alumni Awards Dinner</strong>. On Friday, shop locally made art, jewelry, ceramics, and more at the <strong>
+          Fall Maker’s Market</strong> on the University Quad, and enjoy an evening of fabulous looks and unforgettable entertainment at the annual <strong>
+          Lumberjack Drag Show</strong>.</mj-text>
+        <mj-text>Start your Saturday by <strong>cheering on the Jacks at the volleyball game</strong> before heading to the <strong>
+          Lumberjack Weekend Block Party</strong>. Wrap up the weekend Sunday morning with a <strong>Forever Humboldt
+          Coastal Dunes Hike</strong>.
+        </mj-text>
+        <mj-text font-size="18px">
+          <strong>Lumberjack Weekend Block Party</strong></mj-text>
+        <mj-text>
+          <strong>Saturday, Oct. 10 | 4–9 p.m.
+            <br>Corner of B and Rossow Streets
+          </strong></mj-text>
+        <mj-text>This year’s Block Party is headlined by <strong>Durand Jones & The Indications</strong>, who will bring their signature mix of timeless soul and modern groove to Humboldt. They’ll be joined by <strong>
+          Thee Sinseers, The Altons, and HISpanic! at the Disco
+        </strong> for an evening packed with soul and vintage-inspired sounds.</mj-text>
+        <mj-text>Enjoy food trucks, carnival games, live music, and more while reconnecting with friends and celebrating the Humboldt community. <strong>
+          Plus, the first 600 students to arrive get a free food truck meal coupon</strong>. </mj-text>
+        <mj-text><strong>All attendees must register for Lumberjack Weekend to access the Block Party, so sign up early.</strong></mj-text>
+        <mj-text>Come for the music, stay for the festivities, it’s a party you won’t want to miss! </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
