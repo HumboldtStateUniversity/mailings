@@ -32,15 +32,15 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-text>Dear Faculty and Staff:</mj-text>
-        <mj-text>As we kick off the semester with one of my favorite traditions, Donut Day, I'm reminded of why I love the first day of classes. Seeing campus come alive again and visiting classrooms is one of the highlights of the year. I’m sure you’ve been preparing and, trust me, I have too.
-          <strong>(See video below.)</strong></mj-text>
-        <mj-image src="https://mailings.humboldt.edu/general/2026_08_24/presLucky.jpg" alt="Lucky and president practicing go jacks" href="https://youtu.be/mjGmJLQtyAw?si=TD46poamnluha0B3"/>
+        <mj-text>Dear Faculty and Staff,</mj-text>
+        <mj-text>As we kick off the semester with one of my favorite traditions, Donut Day, I'm reminded of why I love the first day of classes. Seeing campus come alive again and visiting classrooms is one of the highlights of the year. I’m sure you’ve been preparing and, trust me, I have too
+          <strong>(see video below)</strong>.</mj-text>
+e        <mj-image src="https://mailings.humboldt.edu/general/2026_08_24/presLucky.jpg" alt="Lucky and president practicing go jacks" href="https://youtu.be/mjGmJLQtyAw?si=TD46poamnluha0B3"/>
         <mj-text>The beginning of this academic year is especially exciting because it marks a milestone for the campus community: developing Cal Poly Humboldt's strategic plan, the University’s roadmap based on a collective vision for our future. </mj-text>
         <mj-text>Over the last few months, I’ve learned what you care about and what you believe are the strengths and challenges of the University. With that engagement in mind, we officially kicked off the process of creating our strategic plan for the next few years.  </mj-text>
         <mj-text>For those who couldn’t join us for our annual Fall Welcome for employees, we asked faculty and staff for their input on key issues facing the University. In the coming months, the entire campus community will have several opportunities to help shape our path forward as we continue our polytechnic transformation with $458 million in state support (an investment nearly unheard of in the world of higher education). Even more remarkable is that you’re building a unique polytechnic with strong STEM and liberal arts programs, grounded in practical learning experiences in one of the world’s most beautiful places. You’ve accomplished so much already, and with your help, we’ll keep building on your great work.</mj-text>
 
-        <mj-text>This semester brings opportunities to celebrate what makes Cal Poly Humboldt such a special place to live and learn. I'm especially looking forward to Lumberjack Weekend in October, when we'll welcome alumni, families, and friends back to campus to show off their pride and the incredible momentum we're fostering together.</mj-text>
+        <mj-text>This semester brings opportunities to celebrate what makes Cal Poly Humboldt such a special place to live and learn. I'm especially looking forward to <a href="https://www.humboldt.edu/homecoming" style="color: #864e27">Lumberjack Weekend in October</a>, when students, employees, alumni, families, and friends show off their pride and the incredible momentum we're building together</mj-text>
         <mj-text>Thank you for everything you do to strengthen this University. I wish you a wonderful start to the semester, and I look forward to seeing you around campus. </mj-text>
 
         <mj-text>Go Jacks!</mj-text>

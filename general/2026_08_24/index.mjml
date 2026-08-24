@@ -32,15 +32,15 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-text>Dear Students:</mj-text>
-        <mj-text>Welcome to the Fall 2026 semester! I’m sure you’ve been preparing and, trust me, I have too. (See video below.)  Now, as we kick off Fall 2026, I'm reminded of why I love the first day of classes. Seeing campus come alive again and visiting classrooms is one of the highlights of my year. </mj-text>
+        <mj-text>Dear Students,</mj-text>
+        <mj-text>Welcome to the Fall 2026 semester! I’m sure you’ve been preparing and, trust me, I have too <strong>
+          (see video below).
+        </strong>  Now, as we kick off Fall 2026, I'm reminded of why I love the first day of classes. Seeing campus come alive again and visiting classrooms is one of the highlights of my year. </mj-text>
         <mj-image src="https://mailings.humboldt.edu/general/2026_08_24/presLucky.jpg" alt="Lucky and president practicing go jacks" href="https://youtu.be/mjGmJLQtyAw?si=TD46poamnluha0B3"/>
         <mj-text>Today is an especially exciting moment for our new students who are adjusting to life at Cal Poly Humboldt. Even though I spent part of my youth in Humboldt, I consider myself a new student too. Since becoming your president last semester, I’ve learned some of the reasons why you chose this University.</mj-text>
         <mj-text>We’re a different kind of polytechnic, one that’s grounded in strong STEM and liberal arts programs and enhanced by practical learning that will help you in your career and in life. The students, faculty, and staff are down to earth; they don’t hesitate to support one another, and truly believe in the power of education to change lives. </mj-text>
-        <mj-text>If you have not already done so, please mark your calendar. I look forward to seeing you at Fall Welcome and kicking off the new academic year together.</mj-text>
-
         <mj-text>I’m grateful to be part of something bigger than myself, and I do that in one of the world’s most beautiful places. That students and faculty can walk to the forest behind campus and not only be in the presence of redwoods, but also research these magnificent trees, is remarkable. This place is truly a living lab.</mj-text>
-        <mj-text>Returning to lead this University is coming home—I hope you feel at home here too. Whether this is your first time at Humboldt or you’re a returning student, remember that we’re with you every step of the way at Humboldt. </mj-text>
+        <mj-text>Returning to lead this University is coming home—I hope you feel at home here too. Whether this is your first time at Humboldt or you’re a returning student, remember that we’re with you every step of the way. </mj-text>
         <mj-text>I’m looking forward to celebrating with you what makes Cal Poly Humboldt such a special place to live and learn. I'm especially looking forward to <a href="https://www.humboldt.edu/homecoming" style="color: #864e27">Lumberjack Weekend in October</a>, when students, alumni, families, and friends show off their pride and the incredible momentum we're building together. </mj-text>
         <mj-text>Wishing you a great semester. And please, if you see me around campus, don’t hesitate to introduce yourself and say hi!</mj-text>
         <mj-text>Go Jacks!</mj-text>
