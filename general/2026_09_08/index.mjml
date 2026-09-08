@@ -45,7 +45,7 @@
         <mj-button href="https://humboldt.edu/magazine?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026" font-size="18px" padding-top="20px" padding-bottom="40px">Read the Fall 2026 <em>Humboldt</em> Magazine</mj-button>
         <mj-divider border-color="#F2A900" padding="0" />
         <mj-text>Explore the full digital issue and see what’s new at Humboldt. Thank you for being part of the Lumberjack family!</mj-text>
-        <mj-text>Has your contact information changed recently? If you would like to be notified about Humboldt happenings, <a href="https://www.humboldt.edu/forever/update-your-contact-information?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026">update your contact information now</a>.</mj-text>
+        <mj-text>Has your contact information changed recently? If you would like to be notified about Humboldt happenings, <a href="https://www.humboldt.edu/forever/update-your-contact-information?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026" style="color:#864e27">update your contact information now</a>.</mj-text>
 
       </mj-column>
     </mj-section>
