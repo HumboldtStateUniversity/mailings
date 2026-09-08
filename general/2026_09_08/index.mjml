@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Read Humboldt Magazine Now!</mj-title>
+    <mj-title>Explore the latest Issue of Humboldt Magazine</mj-title>
     <mj-attributes>
       <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
       <mj-all font-family="Arial" />
@@ -25,27 +25,27 @@
         <mj-text padding-top="0">
           <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt</h1>
           <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">September 8, 2026</p>
-          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Read <em>Humboldt</em> Magazine Now!</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Explore the latest Issue of <em>Humboldt</em> Magazine</p>
         </mj-text>
         <mj-divider border-color="#F2A900" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2026_09_08/HumboldtMagHeader.jpg" alt="Grid of images: Sunset over the Klamath River, Calpyso band, President Carvajal, Student and super computer" href="https://humboldt.edu/magazine"/>
+        <mj-image src="https://mailings.humboldt.edu/general/2026_09_08/HumboldtMagHeader.jpg" alt="Grid of images: Sunset over the Klamath River, Calpyso band, President Carvajal, Student and super computer" href="https://humboldt.edu/magazine?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026"/>
         <mj-text>The Fall 2026 edition of <em>Humboldt</em> Magazine is now live online! </mj-text>
-        <mj-text>In this issue: Explore the power of access and mentorship, groundbreaking research, discoveries of the unknown, and, of course, get to know our amazing alumni. </mj-text>
-        <mj-text padding-left="50px"><strong>The Making of a President</strong>: The compelling origin story of President Richard Carvajal, the lessons he learned, and the mentors who helped shape who he is today. </mj-text>
+        <mj-text>In this issue: Explore the power of access and mentorship, groundbreaking research, discoveries of the unknown&mdash;and, of course, get to know our amazing alumni. </mj-text>
+        <mj-text padding-left="50px"><strong>The Making of a President</strong>: The compelling origin story of President Richard Carvajal, the lessons he learned, and the mentors who helped shape the person he is today. </mj-text>
         <mj-text padding-left="50px"><strong>40 Years of Calypso Joy</strong>: Celebrate four decades of music, community, and the campus tradition that is the Calypso band. </mj-text>
         <mj-text padding-left="50px"><strong>Klamath River in Recovery</strong>: Four dams are gone, salmon are returning, and a river is finding its way forward. Faculty and students are there to research what happens next.</mj-text>
         <mj-text padding-left="50px"><strong>Dark Matter Mystery</strong>: Students and faculty work together to build a supercomputer from scratch to test how the invisible form of matter influences galaxies. </mj-text>
         <mj-text padding-left="50px"><strong>Humboldt Spirit Hits the Road</strong>: Travel with our mobile alumni center and see photos from its visits with alumni along the West Coast.</mj-text>
         <mj-text padding-left="50px"><strong>Powerful Humboldt Connection</strong>: The University’s newest mentorship program pairs students and alumni in a speed-networking-style event that builds relationships and provides support.  </mj-text>
         <mj-text><strong>Plus</strong>: Take a tour of the recently renovated Jenkins Hall, explore the evolution of campus over the past two decades, and learn how alumni-funded scholarships are transforming lives. </mj-text>
-        <mj-button href="https://humboldt.edu/magazine" font-size="18px" padding-top="20px" padding-bottom="40px">Read the Fall 2026 <em>Humboldt</em> Magazine</mj-button>
+        <mj-button href="https://humboldt.edu/magazine?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026" font-size="18px" padding-top="20px" padding-bottom="40px">Read the Fall 2026 <em>Humboldt</em> Magazine</mj-button>
         <mj-divider border-color="#F2A900" padding="0" />
         <mj-text>Explore the full digital issue and see what’s new at Humboldt. Thank you for being part of the Lumberjack family!</mj-text>
-        <mj-text>Has your contact information changed recently? If you would like to be notified about Humboldt happenings, <a href="https://www.humboldt.edu/forever/update-your-contact-information">update your contact information now</a>.</mj-text>
+        <mj-text>Has your contact information changed recently? If you would like to be notified about Humboldt happenings, <a href="https://www.humboldt.edu/forever/update-your-contact-information?utm_source=email&utm_medium=email&utm_campaign=humboldt_mag_fall2026">update your contact information now</a>.</mj-text>
 
       </mj-column>
     </mj-section>
