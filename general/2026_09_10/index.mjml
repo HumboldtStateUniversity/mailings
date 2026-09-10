@@ -37,8 +37,8 @@
                   alt="College Colors Day celebration featuring students in Cal Poly Humboldt green and gold colors, with kickball tournament action, face painting activities, and campus festivities"/>
         <mj-text>Mark your calendars and get ready to show your school spirit at <strong>College Colors Day, Thursday,
           Oct. 1</strong>.</mj-text>
-        <mj-text>Join students, staff, faculty, and alumni for a campus-wide celebration filled with:</mj-text>
-        <mj-text>
+        <mj-text padding-bottom="0">Join students, staff, faculty, and alumni for a campus-wide celebration filled with:</mj-text>
+        <mj-text padding-top="0">
           <ul>
             <li>Free food and music—<strong>lunch served from noon–2 p.m.</strong></li>
             <li>Face painting, fun field games, and drawings for prizes</li>
