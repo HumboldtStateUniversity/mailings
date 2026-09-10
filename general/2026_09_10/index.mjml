@@ -38,14 +38,14 @@
         <mj-text>Mark your calendars and get ready to show your school spirit at <strong>College Colors Day, Thursday,
           Oct. 1</strong>.</mj-text>
         <mj-text padding-bottom="0">Join students, staff, faculty, and alumni for a campus-wide celebration filled with:</mj-text>
-        <mj-text padding-top="0">
+        <mj-text padding="0">
           <ul>
             <li>Free food and music—<strong>lunch served from noon–2 p.m.</strong></li>
             <li>Face painting, fun field games, and drawings for prizes</li>
             <li>The <strong>4th Annual Kickball Tournament Championship Game at 11 a.m. (</strong>Will anyone finally dethrone reigning champs 2 Legit 2 Kick?)</li>
           </ul>
         </mj-text>
-        <mj-text>Bring your energy, your team colors, and your competitive spirit. Whether you’re battling for the trophy, painting your face, or just enjoying the music and atmosphere, it’s going to be an afternoon to remember. And it’s <strong>all FREE</strong>!</mj-text>
+        <mj-text padding-top="0">Bring your energy, your team colors, and your competitive spirit. Whether you’re battling for the trophy, painting your face, or just enjoying the music and atmosphere, it’s going to be an afternoon to remember. And it’s <strong>all FREE</strong>!</mj-text>
         <mj-text><strong>Thursday, Oct. 1 | 11 a.m. – 2 p.m. | Upper Playing Field near Redwood Bowl</strong></mj-text>
         <mj-text><strong>Don’t miss it!</strong></mj-text>
 
