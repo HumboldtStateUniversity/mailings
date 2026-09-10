@@ -33,7 +33,7 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/general/2026_09_10spirit-grid.jpg"
+        <mj-image src="https://mailings.humboldt.edu/general/2026_09_10/spirit-grid.jpg"
                   alt="College Colors Day celebration featuring students in Cal Poly Humboldt green and gold colors, with kickball tournament action, face painting activities, and campus festivities"/>
         <mj-text>Mark your calendars and get ready to show your school spirit at <strong>College Colors Day, Thursday,
           Oct. 1</strong>.</mj-text>
