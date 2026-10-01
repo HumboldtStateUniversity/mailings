@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-title>CSU Elections Reminder</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;">A Message from Cal Poly Humboldt</h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">October 1, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">CSU Elections Reminder</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap">
+      <mj-column>
+
+        <mj-text padding-bottom="25px"><em>Sent on behalf of the Chancellor’s Office.</em></mj-text>
+        <mj-text>With the upcoming elections, a reminder that all faculty and staff must comply with state law and CSU policy regarding the use of CSU resources in connection with election issues.
+        </mj-text>
+        <mj-text padding-bottom="0px">Section 8314 of the California Government Code provides that
+          <ol>
+            <li>It is unlawful for&hellip;any state or local appointee, employee, or consultant, to use or permit others to use public resources for a campaign activity, or personal or other purposes which are not authorized by law.</li>
+          </ol>
+        </mj-text>
+        <mj-text padding-top="0">In this context, “public resources” means any property or asset owned by the state or any local agency, including, but not limited to, land, buildings, facilities, funds, equipment, supplies, telephones, computers, email system, vehicles, travel and state-compensated time.  (Cal. Gov’t Code &sect; 8314(b)(3))</mj-text>
+        <mj-text>CSU policy regarding what election-related activities is allowed and what activities can be prohibited, as well as guidelines on how to exercise appropriate discretion, are set forth in the CSU Handbook of Election Issues that has been published by the Office of the General Counsel. The handbook can be found at
+          <a href="https://www2.calstate.edu/csu-system/administration/general-counsel/Documents/Election%20Issues%20Handbook.pdf" style="color:#864e27">https://www2.calstate.edu/csu-system/administration/general-counsel/Documents/Election%20Issues%20Handbook.pdf
+          </a>
+        </mj-text>
+        <mj-text>The California State University <br>
+          Office of the Chancellor</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
