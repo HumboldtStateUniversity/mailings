@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>Fall 2026 Commencement Important Information</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">October 13, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">Fall 2026 Commencement Important Information</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text font-size="28px" font-weight="bold" line-height="24px" padding-bottom="0">Fall 2026 Commencement</mj-text>
+          <mj-text font-size="20px" font-weight="bold">Friday, December 18 | Lumberjack Arena</mj-text>
+        <mj-image src="https://mailings.humboldt.edu/general/2026_10_13/grad_122024_00970.jpg" alt="Graduates posing for photo" />
+        <mj-text>Graduation is a huge milestone for our students and we’re looking forward to celebrating their achievements at Fall 2026 Commencement celebrations! Students who want to participate in the ceremony need to <a href="https://humboldt.tassel.com/Home/SSOLogin" style="color:#864e27;">register by November 18</a>. If there are any questions about registration, email <a href="mailto:grad@humboldt.edu" style="color:#864e27;">grad@humboldt.edu</a>. </mj-text>
+        <mj-text font-size="18px"><strong>CEREMONY SCHEDULE</strong></mj-text>
+        <mj-text>Ceremony start times will be announced after registration closes, and all registered graduates will be notified of their assigned ceremony time. Ceremonies are likely to occur in the afternoon.</mj-text>
+        <mj-text font-size="18px"><strong>FACULTY & STAFF PARTICIPATION</strong></mj-text>
+        <mj-text><strong>Processional Participation</strong></mj-text>
+        <mj-text>Faculty and staff planning to participate in the processional and be seated in the designated faculty and staff section during a Commencement ceremony must <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScUh2Xw7EN_-Xng9nuTVebpbvxRE6I7hXtX7xWNQhUUCve0ng/viewform?usp=dialog" style="color:#864e27;">register their processional participation</a> by November 18</strong>.</mj-text>
+        <mj-text>Faculty and staff needing to order regalia can do so with <a href="https://facultydirect.herffjones.com/" style="color:#864e27;">Herff Jones Faculty Direct</a>. The deadline to order regalia to be received in time for the event is October 23 at 8:59 p.m. PST and will be available to pick up at The Campus Store around December 1.</mj-text>
+        <mj-text>Contact The Campus Store at (707) 826-3741 with questions regarding regalia orders. </mj-text>
+        <mj-text><strong>Employee Ceremony Support</strong></mj-text>
+        <mj-text>Administrators, faculty, staff, student assistants (and even volunteers) are needed to assist at Commencement behind the scenes. Roles include greeting guests, ushering, providing shuttle and wheelchair escort support, assisting with parking and traffic, and helping in the graduate and faculty/staff lineup areas. </mj-text>
+        <mj-text>Those who are able to work Commencement are asked to make arrangements with their supervisor for their work hours and <strong><a href="https://www.signupgenius.com/go/10C0445ABA62BA2F5CF8-64493245-fall#/" style="color: #864e27;">indicate their availability and role preference</a> by November 18</strong>. Details about shift needs and final assignments will be shared closer to the event.</mj-text>
+        <mj-text><a href="https://www.humboldt.edu/commencement/commencement-support-fall" style="color: #864e27">More information on faculty and staff participation</a></mj-text>
+        <mj-text font-size="18px"><strong>VENUE ENTRY PROCEDURES</strong></mj-text>
+        <mj-text>To help make Commencement Day smooth and stress-free for everyone, the University has clear bag and entry guidelines designed to enhance safety for graduates, families, and guests. Before heading to the venue, take a quick look at what not to bring.</mj-text>
+        <mj-text><strong>Clear Bag Guidelines</strong></mj-text>
+        <mj-text>
+          Bags larger than 8.5” x 6” must be completely clear (like a see-through plastic, vinyl, or PVC  bag). Prohibited oversized bags include, but are not limited to:
+          <ul>
+            <li>Backpacks</li>
+            <li>Tote bags</li>
+            <li>Large purses</li>
+            <li>Camera bags</li>
+          </ul>
+        </mj-text>
+        <mj-text>Small opaque wallets or clutches smaller than 8.5” x 6” are permitted. Accommodations will be made for medically necessary items, diaper bags, and strollers. These items will be subject to inspection. </mj-text>
+        <mj-text><strong>Please note: There is no secure storage for graduate or guest items.</strong></mj-text>
+        <mj-text><strong>Gown Checks for Grads and Participating Processional Faculty & Staff</strong></mj-text>
+        <mj-text>There will be several security checkpoints upon arrival to Lumberjack Arena and the graduate lineup area in the West Gym (Recreation & Wellness Center, 202). Please be prepared for the following:
+          <ul>
+            <li><strong>Arrive at least 45 minutes before the ceremony starts</strong> so there is plenty of time to go through security, check in, and get settled. </li>
+            <li>Upon arrival, there will be a <strong>quick no-touch visual search</strong> to make sure no prohibited items are being brought in. All entering the venue will be subject to the clear bag check guidelines listed above. </li>
+            <li>Participating graduates, faculty, and staff will need to <strong>carry their regalia</strong> through the security checkpoint. Gowns can be put on once inside and there will be mirrors available to help make final adjustments before the ceremony.</li>
+          </ul>
+        </mj-text>
+        <mj-text>See the <a href="https://www.humboldt.edu/commencement/faq" style="color: #864e27;">FAQ</a> for more information about clear bags, entry procedures, and prohibited items.</mj-text>
+        <mj-button href="https://www.humboldt.edu/commencement">Commencement Website</mj-button>
+        <mj-text>Thanks to everyone participating in <strong>Fall 2026 Commencement</strong>. Can’t wait to celebrate Cal Poly Humboldt’s newest graduating class together!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
