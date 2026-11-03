@@ -53,11 +53,11 @@
         <mj-text padding-bottom="0">
           Resources include:
           <ul>
-            <li style="padding-bottom:0;"><a href="https://ncrct.org/">Campus Advocate Team</a>, staffed by the North Coast Rape Crisis Team: 707-445-2881</li>
+            <li style="padding-bottom:0;"><a href="https://ncrct.org/">Campus Advocate Team</a>, staffed by the North Coast Rape Crisis Team: <a href="tel:+17074452881">707-445-2881</a></li>
             <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/title-ix">Title IX &amp; DHR Prevention Office</a></li>
-            <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/counseling">Counseling &amp; Psychological Services</a>: 707-826-3236</li>
+            <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/counseling">Counseling &amp; Psychological Services</a>: <a href="tel:+17078263236">707-826-3236</a></li>
             <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/reporting">Campus Reporting Guide</a></li>
-            <li style="padding-bottom:0;">University Police: 707-826-5555</li>
+            <li style="padding-bottom:0;">University Police: <a href="tel:+17078265555">707-826-5555</a></li>
 
           </ul>
         </mj-text>
