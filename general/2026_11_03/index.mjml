@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+    <mj-title>What We Heard and What Comes Next</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="15px" color="#004C46" line-height="20px" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#E9E3D0">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+        <!-- wordmark on right -->
+        <!-- <mj-image src="https://mailings.humboldt.edu/polytechnic/img/header-right.png" alt="Cal Poly Humboldt" padding="0" /> -->
+        <!-- wordmark on left -->
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailHeader-09262022.png" alt="Cal Poly Humboldt" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">November 3, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">What We Heard and What Comes Next</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+        <mj-text>Dear Campus Community,</mj-text>
+        <mj-text>We are writing in response to the experiences and concerns shared at the recent student town hall and University Senate meeting focused on safety and concerns related to sexualized violence on our campus.</mj-text>
+        <mj-text>Students and other members of our community spoke about deeply personal and painful experiences. They spoke about fear, frustration, anger, and a loss of trust. We are grateful to those who spoke and to everyone who listened and cared for one another.</mj-text>
+        <mj-text>We heard hard things, and we needed to hear them.</mj-text>
+        <mj-text>Most importantly, we heard that many students are frustrated that internal reporting and response processes can feel slow, unclear, and difficult to navigate. Some students felt they had to repeatedly ask for information or action. Others described not knowing what was happening, who was responsible for following up, or when they would hear from someone. We also heard concerns that safety measures can place too much of the burden on the person seeking protection.</mj-text>
+        <mj-text>We know that policies, procedures, and privacy requirements can leave people uncertain about what is happening and why. But explaining those constraints is not the same as helping our campus community feel safe, supported, and heard. Our responsibility now is to act on what we heard, communicate more clearly, and update you on our progress.</mj-text>
+        <mj-text>We also want people to understand that they can ask for help at any time without committing to a formal University process.  Some people are seeking support rather than a formal complaint or investigation, and some choose not to respond to that outreach. Support does not depend on someone’s willingness to participate in a formal process.</mj-text>
+        <mj-text>Here is what we are doing next:</mj-text>
+        <mj-text><strong>Increasing investigative capacity and reducing delays.</strong> Over the past year, we have taken steps to complete investigations thoughtfully and as promptly as possible. During the 2025–26 academic year, formal investigations completed by Cal Poly Humboldt’s Title IX &amp; Discrimination, Harassment & Retaliation (DHR) Prevention Office averaged 58 working days. This work is part of a California State University-wide effort to complete investigations within 100 working days.</mj-text>
+        <mj-text>We’re partnering with other CSU campuses to strengthen both timeliness and confidence in the Title IX investigation process. This collaboration expands our access to trained investigators, helps prevent delays when local capacity is limited, and provides additional support for fair and impartial investigations. We know that even a timely investigation can feel long and difficult to those involved, and we remain committed to improving the experience wherever we can.</mj-text>
+        <mj-text><strong>Strengthening prevention and education.</strong> Last year, the University established a new position, Program Coordinator and Violence Prevention Specialist, to support a range of initiatives, including efforts to prevent sexual assault. Throughout the academic year, the program coordinator, Chelsey Castiglione, will conduct additional training and educational events for students and employees. These opportunities will strengthen prevention efforts and make rights, resources, reporting options, and available support easier to understand. Dates and participation information will be shared as events are scheduled.</mj-text>
+        <mj-text><strong>Improving communication and follow-up.</strong> People navigating a University process should know what the next step is, who they may contact with questions, and when they can expect to hear more. We will establish clearer expectations by providing regular status updates to participants, even when there is no substantive development.</mj-text>
+        <mj-text><strong>Creating a more private and welcoming space.</strong> Work is also underway to move the Title IX &amp; DHR Prevention Office from Human Resources to its own space for greater privacy. We know the physical setting is only one part of how people experience these services, but we believe this change will help students and employees feel more comfortable seeking information and support.</mj-text>
+        <mj-text><strong>Listening and assessing campus needs.</strong> We will ask the Sexual Assault Prevention Committee to build on its longstanding work to seek input and identify gaps in prevention, reporting, support, safety planning, housing, communication, and response practices. Our Program Coordinator and Violence Prevention Specialist has already begun a community needs and strengths assessment and is reviewing the findings of the 2024 Safer Campus Survey to inform recommendations directly to the Executive Cabinet.</mj-text>
+        <mj-text>This is not a complete response to everything shared at the town hall. It is a beginning. Each commitment must have someone responsible for it, a timeline, and a way to measure progress. We will provide updates about what work has been completed and where more work is needed.</mj-text>
+        <mj-text>If these conversations connect with something you have experienced, or are bringing up difficult feelings for you, please know that you do not have to carry that alone. Caring, confidential support is available, whether you want to talk, explore your options, make a report, or take the next step at your own pace.</mj-text>
+        <mj-text padding-bottom="0">
+          Resources include:
+          <ul>
+            <li style="padding-bottom:0;"><a href="https://ncrct.org/">Campus Advocate Team</a>, staffed by the North Coast Rape Crisis Team: <a href="tel:+17074452881">707-445-2881</a></li>
+            <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/title-ix">Title IX &amp; DHR Prevention Office</a></li>
+            <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/counseling">Counseling &amp; Psychological Services</a>: <a href="tel:+17078263236">707-826-3236</a></li>
+            <li style="padding-bottom:0;"><a href="https://www.humboldt.edu/reporting">Campus Reporting Guide</a></li>
+            <li style="padding-bottom:0;">University Police: <a href="tel:+17078265555">707-826-5555</a></li>
+
+          </ul>
+        </mj-text>
+        <mj-text>If you or someone else is in immediate danger, call 911.</mj-text>
+        <mj-text>Thank you to everyone who spoke, listened, supported one another, and to those who continue to champion a safer campus and a culture of consent.</mj-text>
+        <mj-text>With care,</mj-text>
+        <mj-text>Cal Poly Humboldt Executive Cabinet</mj-text>
+        <mj-text>Richard A. Carvajal<br />
+          President</mj-text>
+        <mj-text>Michael Fisher<br />
+          Vice President for Administration & Finance</mj-text>
+        <mj-text>Bethany Gilden<br />
+          Acting Chief of Staff</mj-text>
+        <mj-text>Steven Karp<br />
+          Acting Vice President for University Advancement</mj-text>
+        <mj-text>Peggy Metzger<br />
+          Interim Vice President for Enrollment Management & Student Success</mj-text>
+        <mj-text>Nick Pettit<br />
+          Executive Director of Intercollegiate Athletics & Campus Recreation</mj-text>
+        <mj-text>Shawna Young<br />
+          Interim Provost and Vice President for Academic Affairs</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/polytechnic/img/emailFooterDiamondH.png" alt="circle H graphic element" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
