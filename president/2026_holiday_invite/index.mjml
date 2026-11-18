@@ -1,0 +1,220 @@
+<mjml>
+  <mj-head>
+    <mj-title>You’re Invited: Faculty and Staff Holiday Party</mj-title>
+    <mj-preview>Friday, December 11, 4–6 p.m. in the Kate Buchanan Room</mj-preview>
+    <mj-font
+      name="Roboto Condensed"
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&amp;display=swap"
+    />
+    <mj-attributes>
+      <mj-all font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" />
+      <mj-section padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-text
+        color="#173b30"
+        font-size="14px"
+        line-height="20px"
+        padding="0"
+      />
+      <mj-divider border-width="1px" padding="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .artwork-column,
+      .content-column {
+        vertical-align: top;
+      }
+
+      .artwork-column {
+        background-color: #173b30;
+        background-image: url('https://mailings.humboldt.edu/president/2026_holiday_invite/pattern.png');
+        background-repeat: repeat;
+      }
+
+      .content-column {
+        background-color: #f8e8d6;
+      }
+    </mj-style>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        .artwork-column {
+          display: none !important;
+          max-height: 0 !important;
+          max-width: 0 !important;
+          overflow: hidden !important;
+          width: 0 !important;
+        }
+
+        .content-column {
+          max-width: 100% !important;
+          width: 100% !important;
+        }
+
+        .intro-label,
+        .intro-heading,
+        .event-details,
+        .body-copy,
+        .support-heading,
+        .support-copy {
+          padding-left: 28px !important;
+          padding-right: 28px !important;
+        }
+
+        .intro-label {
+          padding-top: 36px !important;
+        }
+
+        .title-lockup {
+          padding-left: 28px !important;
+          padding-right: 28px !important;
+        }
+
+        .event-details div {
+          font-size: 25px !important;
+          line-height: 32px !important;
+        }
+
+        .body-copy div,
+        .support-copy div {
+          font-size: 17px !important;
+          line-height: 24px !important;
+        }
+
+        .support-heading div {
+          font-size: 18px !important;
+          line-height: 24px !important;
+        }
+
+        .section-rule {
+          padding-left: 28px !important;
+          padding-right: 28px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body width="600px" background-color="#173b30">
+    <mj-section background-color="#173b30">
+      <mj-column width="22.25%" css-class="artwork-column">
+        <mj-image
+          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-left.png"
+          alt=""
+          width="134px"
+        />
+      </mj-column>
+
+      <mj-column width="59.08%" css-class="content-column">
+        <mj-text
+          css-class="intro-label"
+          font-size="13px"
+          letter-spacing="2px"
+          line-height="18px"
+          padding="66px 32px 0 40px"
+        >
+          You’re Invited!
+        </mj-text>
+
+        <mj-text
+          css-class="intro-heading"
+          font-size="25px"
+          line-height="32px"
+          padding="5px 32px 0 40px"
+        >
+          Faculty and Staff
+        </mj-text>
+
+        <mj-image
+          css-class="title-lockup"
+          src="https://mailings.humboldt.edu/president/2026_holiday_invite/holiday-party.png"
+          alt="Holiday Party"
+          align="left"
+          width="250px"
+          padding="28px 32px 0 40px"
+        />
+
+        <mj-divider
+          border-color="#173b30"
+          border-width="5px"
+          width="48px"
+          align="left"
+          padding="18px 0 0 40px"
+        />
+
+        <mj-text
+          css-class="event-details"
+          color="#567649"
+          font-size="24px"
+          font-weight="700"
+          letter-spacing="1px"
+          line-height="32px"
+          padding="20px 32px 0 40px"
+        >
+          Friday, December 11<br />
+          4–6 p.m.<br />
+          Kate Buchanan Room
+        </mj-text>
+
+        <mj-text
+          css-class="body-copy"
+          padding="16px 32px 0 40px"
+        >
+          Join us for an evening of celebration, connection, and holiday cheer.
+          Food, drinks, and festive spirit await!
+        </mj-text>
+
+        <mj-divider
+          css-class="section-rule"
+          border-color="#769486"
+          padding="27px 32px 0 40px"
+        />
+
+        <mj-text
+          css-class="support-heading"
+          font-size="17px"
+          font-weight="700"
+          line-height="24px"
+          padding="25px 32px 0 40px"
+        >
+          Support Oh SNAP!
+        </mj-text>
+
+        <mj-text
+          css-class="support-copy"
+          padding="13px 32px 0 40px"
+        >
+          We’ll have a donation table for non-perishable, non-expired pantry
+          items and basic hygiene supplies. Your contributions will support Oh
+          SNAP!, our campus student-run food pantry, and help fuel students and
+          set them up for success.
+        </mj-text>
+
+        <mj-text
+          css-class="support-copy"
+          padding="13px 32px 34px 40px"
+        >
+          As we enter the season of giving, let’s continue supporting our
+          wonderful students and one another. It takes a village, and we can
+          accomplish greater things when we help each other out.
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="18.67%" css-class="artwork-column">
+        <mj-image
+          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-right.png"
+          alt=""
+          width="112px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#173b30">
+      <mj-column>
+        <mj-image
+          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-footer.png"
+          alt=""
+          width="600px"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
