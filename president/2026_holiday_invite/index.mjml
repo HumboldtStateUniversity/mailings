@@ -25,12 +25,6 @@
         vertical-align: top;
       }
 
-      .artwork-column {
-        background-color: #173b30;
-        background-image: url('https://mailings.humboldt.edu/president/2026_holiday_invite/pattern.png');
-        background-repeat: repeat;
-      }
-
       .content-column {
         background-color: #f8e8d6;
       }
@@ -94,13 +88,15 @@
   </mj-head>
 
   <mj-body width="600px" background-color="#173b30">
-    <mj-section background-color="#173b30">
+    <mj-section
+      background-color="#173b30"
+      background-url="https://mailings.humboldt.edu/president/2026_holiday_invite/invite-background.jpg"
+      background-size="100% 100%"
+      background-repeat="no-repeat"
+      background-position="top center"
+    >
       <mj-column width="22.25%" css-class="artwork-column">
-        <mj-image
-          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-left.png"
-          alt=""
-          width="134px"
-        />
+        <mj-spacer height="1px" />
       </mj-column>
 
       <mj-column width="59.08%" css-class="content-column">
@@ -199,18 +195,14 @@
       </mj-column>
 
       <mj-column width="18.67%" css-class="artwork-column">
-        <mj-image
-          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-right.png"
-          alt=""
-          width="112px"
-        />
+        <mj-spacer height="1px" />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#173b30">
       <mj-column>
         <mj-image
-          src="https://mailings.humboldt.edu/president/2026_holiday_invite/decor-footer.png"
+          src="https://mailings.humboldt.edu/president/2026_holiday_invite/invite-footer.jpg"
           alt=""
           width="600px"
         />
