@@ -13,7 +13,7 @@
       <mj-image padding="0" />
       <mj-text
         color="#173b30"
-        font-size="14px"
+        font-size="16px"
         line-height="20px"
         padding="0"
       />
