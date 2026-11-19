@@ -206,7 +206,7 @@
                 alt="Cal Poly Humboldt"
                 align="center"
                 width="200px"
-                padding="20px 0 40px"
+                padding="40px 0"
         />
       </mj-column>
     </mj-section>
