@@ -198,5 +198,17 @@
         <mj-spacer height="1px" />
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                css-class="logo"
+                src="https://mailings.humboldt.edu/president/2026_holiday_invite/logo.png"
+                alt="Cal Poly Humboldt"
+                align="center"
+                width="200px"
+                padding="20px 0 40px"
+        />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
