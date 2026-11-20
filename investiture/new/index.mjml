@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-title>Join us for The Investiture of
+      Richard A. Carvajal as the ninth president of the university</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="20px" color="#004C46" line-height="24px" font-weight="normal" />
+      <mj-all font-family="Arial" />
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#cddad5">
+    <mj-section padding="40px 0 0">
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap">
+      <mj-column>
+        <mj-text padding-top="0">
+          <h1 style="color:#004C45;font-size:18px;font-weight:bold;margin:0;text-align: left;"> A Message from Cal Poly Humboldt </h1>
+          <p id="date" style="color:#004C45;font-size:14px;font-weight:bold;margin:10px 0 20px 0;text-align: left;">November 3, 2026</p>
+          <p style="color:#004C45;font-size:22px;font-weight:bold;margin:10px 0 20px 0; line-height:28px">What We Heard and What Comes Next</p>
+        </mj-text>
+        <mj-divider border-color="#F2A900" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+
+      <mj-column>
+
+        <mj-text>We are writing in response to the experiences and concerns shared at the recent student town hall and University Senate meeting focused on safety and concerns related to sexualized violence on our campus.</mj-text>
+        <mj-text>Students and other members of our community spoke about deeply personal and painful experiences. They spoke about fear, frustration, anger, and a loss of trust. We are grateful to those who spoke and to everyone who listened and cared for one another.</mj-text>
+        <mj-text>We heard hard things, and we needed to hear them.</mj-text>
+        <mj-text>Most importantly, we heard that many students are frustrated that internal reporting and response processes can feel slow, unclear, and difficult to navigate. Some students felt they had to repeatedly ask for information or action. Others described not knowing what was happening, who was responsible for following up, or when they would hear from someone. We also heard concerns that safety measures can place too much of the burden on the person seeking protection.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
