@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>Join us for The Investiture of Richard A. Carvajal as the ninth president of the university</mj-title>
+    <mj-font name="the-seasons" href="https://use.typekit.net/fxx7vks.css" />
+    <mj-preview>Join us for The Investiture of Richard A. Carvajal Friday, February 12, 2027 2:00 p.m.</mj-preview>
+    <mj-attributes>
+      <mj-text font-family=" Arial, sans-serif" font-size="18px" color="#004C46" line-height="1.45" font-weight="normal" align="center" />
+
+      <mj-section padding="30px 0 0 0" />
+      <mj-button background-color="#004C46" color="#FFF" border="2px solid #FFF" font-size="16px" border-radius="15px" font-weight="bold" letter-spacing="1px" />
+      <mj-divider border-width="1px" />
+
+    </mj-attributes>
+    <mj-style inline="inline"> h2 { line-height: 28px; } a { color: #864e27; } a.dark { color: #004C46; } li { padding-bottom: 10px; } .dark-wrap { background: #004C46; color: #fff; } .light-wrap { background: #FFFFFF; } @media only screen and (max-width: 420px) { .caption div { text-align: center !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#cddad5">
+    <mj-section  padding-top="30px">
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="light-wrap" padding-top="0px">
+      <mj-column>
+        <mj-image src="https://mailings.humboldt.edu/investiture/new/PresSeal.png" alt="California State Polytechnic University, Humboldt" padding="0"/>
+      </mj-column>
+    </mj-section>
+     <mj-section css-class="light-wrap" padding-bottom="0px" padding-top="20px">
+      <mj-column >
+        <mj-text padding-bottom="0">JOIN US FOR THE INVESTITURE OF</mj-text>
+        <mj-text font-family="the-seasons, Georgia, serif" font-size="50px" padding-bottom="0">Richard A. Carvajal</mj-text>
+        <mj-text>AS THE NINTH PRESIDENT OF THE UNIVERSITY</mj-text>
+        <mj-divider padding-bottom="0" />
+        <mj-divider padding-top="3px"/>
+        <mj-text>You’re invited to celebrate President Carvajal’s leadership and mark an important moment in the University’s history.</mj-text>
+        <mj-text>With deep roots in Humboldt County, President Carvajal begins a new chapter grounded in a strong sense of place and a shared vision for the region’s future. </mj-text>
+        <mj-text><strong>INVESTITURE CEREMONY</strong> <br>
+          <strong>February 12, 2027</strong> <br>
+          Van Duzer Theatre, Theatre Arts Building <br>
+          <strong>1:30 p.m. | Guest Seating & Processional Lineup</strong> <br>
+          <strong>2:00 p.m. | Ceremony Begins</strong></mj-text>
+        <mj-text><strong>Reception Immediately Following the Ceremony</strong> <br>
+          Kate Buchanan Room, Gutswurrak Student Activities Center</mj-text>
+        <mj-text>We hope you’ll be part of this University celebration as we build on
+          our shared commitment to students and our community.</mj-text>
+        <mj-button src="https://www.humboldt.edu/president/investiture">Investiture Website</mj-button>
+        <mj-divider padding-bottom="0" />
+        <mj-divider padding-top="3px"/>
+        <mj-text><strong>Faculty and staff are warmly invited to join the investiture
+          ceremony processional. Academic regalia is required.
+          Please RSVP by January 8, 2027, to confirm your participation.
+        </strong></mj-text>
+        <mj-button src="https://docs.google.com/forms/d/1a7dvni5z1EyxeUD479IbVSM2q6O9BkwEnmXWD1sv_-o/edit?ts=6af744f7">Processional RSVP</mj-button>
+        <mj-image src="https://mailings.humboldt.edu/investiture/new/AdobeStock_777766527_Extended.jpg" alt="Illustration of green trees and foggy mountains" padding="0"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

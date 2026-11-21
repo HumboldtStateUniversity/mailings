@@ -21,10 +21,10 @@
     </mj-section>
     <mj-section css-class="light-wrap" padding-top="0px">
       <mj-column>
-        <mj-image src="https://mailings.humboldt.edu/investiture/new/PresSeal.png" padding="0"/>
+        <mj-image src="https://mailings.humboldt.edu/investiture/new/PresSeal.png" alt="California State Polytechnic University, Humboldt" padding="0"/>
       </mj-column>
     </mj-section>
-     <mj-section css-class="light-wrap" padding-bottom="20px" padding-top="20px">
+     <mj-section css-class="light-wrap" padding-bottom="0px" padding-top="20px">
       <mj-column >
         <mj-text padding-bottom="0">JOIN US FOR THE INVESTITURE OF</mj-text>
         <mj-text font-family="the-seasons, Georgia, serif" font-size="50px" padding-bottom="0">Richard A. Carvajal</mj-text>
@@ -52,6 +52,7 @@
           Please RSVP by January 8, 2027, to confirm your participation.
         </strong></mj-text>
         <mj-button src="#">Processional RSVP</mj-button>
+        <mj-image src="AdobeStock_777766527_Extended.jpg" alt="Illustration of green trees and foggy mountains" padding="0"/>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 40px 0">
